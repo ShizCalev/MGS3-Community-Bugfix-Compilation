@@ -1,0 +1,15 @@
+//Bumps & Speculars
+_sub_
+_sub\..*
+_bmap
+
+^loading_wqhd$
+^loading_jp_wqhd$
+^loading_jp_fhd$
+^loading_jp$
+^loading_jp_4k$
+^loading_fhd$
+^loading_4k$
+^loading$
+
+//UI stuff goes down here

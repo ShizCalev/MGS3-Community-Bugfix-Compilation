@@ -1,0 +1,31 @@
+#native ui stuff slash custom remade
+#dont remove these or youre likely to cause the game to crash due to resolution limits
+
+
+#end-native-ui
+
+#liqmix water stuff
+
+
+#liqmix stuff below
+
+#end-liqmix
+
+#mc ui
+
+
+loading_wqhd
+loading_jp_wqhd
+loading_jp_fhd
+loading_jp
+loading_fhd
+loading
+loading_jp_4k
+loading_4k
+#mc ui
+
+
+
+#small pixel art slash letter font stuff
+
+
