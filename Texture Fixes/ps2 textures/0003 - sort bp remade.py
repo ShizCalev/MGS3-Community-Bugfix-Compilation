@@ -4,6 +4,7 @@ import math
 import shutil
 import re
 import subprocess
+import hashlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from PIL import Image
 from threading import Lock
@@ -16,20 +17,34 @@ SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 
 # Relative paths from repo root
-CSV_PATH = os.path.join(REPO_ROOT, "external", "MGS3-PS2-Textures", "Tri-Dumped", "Master Collection", "Metadata", "mgs3_mc_dimensions.csv")
+CSV_PATH = os.path.join(
+    REPO_ROOT,
+    "external",
+    "MGS3-PS2-Textures",
+    "Tri-Dumped",
+    "Master Collection",
+    "Metadata",
+    "mgs3_mc_dimensions.csv",
+)
 ROOT_DIR = os.path.join(REPO_ROOT, "Texture Fixes", "ps2 textures")
 HAS_ALPHA_DIR = os.path.join(ROOT_DIR, "HAS ALPHA")
 NO_MIP_REGEX_FILE = os.path.join(REPO_ROOT, "Texture Fixes", "no_mip_regex.txt")
 
 BLACKLIST = ["processed", "bp_remade"]
 THREADS = 12
+SHA1_BUFFER_SIZE = 8 * 1024 * 1024
 
 # Manual blacklist (filenames without extension)
 MANUAL_LIST = {
-    "0015d707",
-    "0015d707_cd82fa959c0f81d19f22c0b0fdf8d230",
-    "008ae623",
-    "008ae623_fad237f35f44f84013d072b01d34bfc0",
+    "00040da5",
+    "004f0fb2",
+    "00c8c0af",
+    "00f1c0b1",
+    "sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310",
+    "0019115b",
+    "00dbc0b4",
+    "sna_item_saru.bmp",
+    "sna_item_saru_himo.bmp",
 }
 
 # Manual UI override list (filenames without extension)
@@ -61,11 +76,32 @@ def read_csv_dimensions(path):
         reader = csv.DictReader(f)
         for row in reader:
             name = row["texture_name"].strip().lower()
+
             try:
-                dims[name] = (int(row["mc_width"]), int(row["mc_height"]))
-            except ValueError:
+                mc_width = int(row["mc_width"])
+                mc_height = int(row["mc_height"])
+            except (ValueError, TypeError):
                 continue
+
+            mc_resaved_sha1 = row.get("mc_resaved_sha1", "").strip().lower()
+
+            dims[name] = {
+                "mc_width": mc_width,
+                "mc_height": mc_height,
+                "mc_resaved_sha1": mc_resaved_sha1,
+            }
+
     return dims
+
+
+def sha1_of_file(path):
+    h = hashlib.sha1()
+
+    with open(path, "rb") as f:
+        for chunk in iter(lambda: f.read(SHA1_BUFFER_SIZE), b""):
+            h.update(chunk)
+
+    return h.hexdigest().lower()
 
 
 def next_power_of_two(n):
@@ -101,7 +137,7 @@ def handle_manual_blacklist(file_path):
     """If filename (no extension) is in manual list, move to /manual and skip."""
     lower_path = file_path.lower()
     if "manual" in lower_path:
-        return False  # already inside manual, skip moving again
+        return False
 
     name = os.path.splitext(os.path.basename(file_path))[0].lower()
     if name in MANUAL_LIST:
@@ -139,21 +175,33 @@ def check_bp_remade(file_path, dims_map, manual_bp_remade_set):
 
     name = os.path.splitext(os.path.basename(file_path))[0].lower()
 
-    # Manual bp_remade override: treat as remade even if resolution does not qualify
+    # Manual bp_remade override always wins
     if name in manual_bp_remade_set:
         move_file(file_path, "bp_remade")
         return
 
-    if name not in dims_map:
+    entry = dims_map.get(name)
+    if not entry:
         return
+
     try:
+        file_sha1 = sha1_of_file(file_path)
+        mc_resaved_sha1 = entry["mc_resaved_sha1"]
+
+        # Exact match with the known MC resaved PNG means this is not bp_remade
+        if mc_resaved_sha1 and file_sha1 == mc_resaved_sha1:
+            return
+
         with Image.open(file_path) as img:
             width, height = img.size
     except Exception as e:
         with print_lock:
             print(f"[Error reading] {file_path}: {e}")
         return
-    mc_w, mc_h = dims_map[name]
+
+    mc_w = entry["mc_width"]
+    mc_h = entry["mc_height"]
+
     if mc_w > next_power_of_two(width) or mc_h > next_power_of_two(height):
         move_file(file_path, "bp_remade")
 
@@ -161,10 +209,19 @@ def check_bp_remade(file_path, dims_map, manual_bp_remade_set):
 def check_has_alpha_file(file_path, dims_map):
     if handle_manual_blacklist(file_path):
         return
+
     name = os.path.splitext(os.path.basename(file_path))[0].lower()
-    if name not in dims_map:
+    entry = dims_map.get(name)
+    if not entry:
         return
+
     try:
+        file_sha1 = sha1_of_file(file_path)
+        mc_resaved_sha1 = entry["mc_resaved_sha1"]
+
+        if mc_resaved_sha1 and file_sha1 == mc_resaved_sha1:
+            return
+
         with Image.open(file_path) as img:
             width, height = img.size
     except Exception as e:
@@ -174,13 +231,13 @@ def check_has_alpha_file(file_path, dims_map):
 
     pow2_w = next_power_of_two(width)
     pow2_h = next_power_of_two(height)
-    mc_w, mc_h = dims_map[name]
+    mc_w = entry["mc_width"]
+    mc_h = entry["mc_height"]
 
     if mc_w < pow2_w or mc_h < pow2_h:
         move_file(file_path, "bp_mismatch")
     elif is_power_of_two(width) and is_power_of_two(height):
         move_file(file_path, "power of two")
-
 
 # ==========================================================
 # STAGE 3: NO-MIP FIX DETECTION
@@ -215,6 +272,7 @@ def matches_no_mip_patterns(filename, patterns):
 def check_no_mip_fix(file_path, patterns):
     if handle_manual_blacklist(file_path):
         return
+
     lower_path = file_path.lower()
     if "processed" in lower_path or "no_mip_fixes" in lower_path:
         return
@@ -231,6 +289,7 @@ def check_no_mip_fix(file_path, patterns):
         except Exception as e:
             with print_lock:
                 print(f"[Error moving to no_mip_fix] {file_path}: {e}")
+
 
 def restore_stale_no_mip_files(patterns):
     candidate_files = []
@@ -288,6 +347,7 @@ def restore_stale_no_mip_files(patterns):
 
     print(f"[+] Restore pass complete. Restored {restored_count} stale files from no_mip_fixes.")
 
+
 # ==========================================================
 # STAGE 4: NPOT UI / NOT_REGEX_MATCHED_UI
 # ==========================================================
@@ -297,7 +357,6 @@ def handle_npot_ui_file(file_path, npot_names, patterns):
 
     lower_path = file_path.lower()
 
-    # Already in a final destination folder, skip
     if (
         "no_mip_fixes" in lower_path
         and (f"{os.sep}ui{os.sep}" in lower_path or "not_regex_matched_ui" in lower_path)
@@ -308,9 +367,6 @@ def handle_npot_ui_file(file_path, npot_names, patterns):
     if name_no_ext not in npot_names:
         return 0
 
-    # Figure out the correct base no_mip_fixes directory:
-    #   - if the path already contains a no_mip_fixes segment, use that as base
-    #   - otherwise, create a no_mip_fixes folder next to the current file
     dirpath = os.path.dirname(file_path)
     parts = dirpath.split(os.sep)
     parts_lower = [p.lower() for p in parts]
@@ -321,7 +377,6 @@ def handle_npot_ui_file(file_path, npot_names, patterns):
     else:
         base_dir = os.path.join(dirpath, "no_mip_fixes")
 
-    # Decide final subfolder
     if matches_no_mip_patterns(name_no_ext, patterns):
         dest_dir = os.path.join(base_dir, "ui")
         label = "ui"
@@ -344,15 +399,16 @@ def handle_npot_ui_file(file_path, npot_names, patterns):
 
 
 def stage4_npot_ui_move(dims_map, patterns):
-    # Collect all CSV entries with NPOT mc dimensions
     npot_names = set()
-    for name, (mc_w, mc_h) in dims_map.items():
+    for name, entry in dims_map.items():
+        mc_w = entry["mc_width"]
+        mc_h = entry["mc_height"]
+
         if not is_power_of_two(mc_w) or not is_power_of_two(mc_h):
             npot_names.add(name)
 
     print(f"[+] Stage 4: Found {len(npot_names)} NPOT CSV entries (mc_width/mc_height).")
 
-    # Walk filesystem and move any matching textures
     candidate_files = []
     for root, _, files in os.walk(ROOT_DIR):
         for f in files:
@@ -391,12 +447,10 @@ def load_manual_ui_list(path):
 
 
 def handle_manual_ui_file(file_path, manual_ui_set):
-    # Only operate on files inside a no_mip_fixes folder
     lower_path = file_path.lower()
     if "no_mip_fixes" not in lower_path:
         return 0
 
-    # Skip if already inside .../no_mip_fixes/ui/...
     if f"{os.sep}no_mip_fixes{os.sep}ui{os.sep}" in lower_path:
         return 0
 
@@ -408,7 +462,6 @@ def handle_manual_ui_file(file_path, manual_ui_set):
     parts = dirpath.split(os.sep)
     parts_lower = [p.lower() for p in parts]
 
-    # Find base no_mip_fixes dir for this file
     if "no_mip_fixes" not in parts_lower:
         return 0
 
