@@ -1,0 +1,3 @@
+[submodule "external/MGS3-PS2-Textures"]
+	path = external/MGS3-PS2-Textures
+	url = https://github.com/dotlessone/MGS3-PS2-Textures
