@@ -1912,7 +1912,7 @@ HAS ALPHA
 	00ff887f
 	00ff94d4
 
----------- HAS ALPHA\manual ----------
+---------- HAS ALPHA\manual\bp_remade ----------
 	0000021b
 	00031504
 	0033b530
@@ -1927,7 +1927,7 @@ HAS ALPHA
 	00bf1537
 	00eb0221
 
----------- HAS ALPHA\manual\no_mip_fixes\ui ----------
+---------- HAS ALPHA\manual\bp_remade\no_mip_fixes\ui ----------
 	0019115b
 	00dbc0b4
 

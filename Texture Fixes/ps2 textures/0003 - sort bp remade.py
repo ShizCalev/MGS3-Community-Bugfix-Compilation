@@ -28,6 +28,7 @@ CSV_PATH = os.path.join(
 )
 ROOT_DIR = os.path.join(REPO_ROOT, "Texture Fixes", "ps2 textures")
 HAS_ALPHA_DIR = os.path.join(ROOT_DIR, "HAS ALPHA")
+OPAQUE_DIR = os.path.join(ROOT_DIR, "OPAQUE")
 NO_MIP_REGEX_FILE = os.path.join(REPO_ROOT, "Texture Fixes", "no_mip_regex.txt")
 
 BLACKLIST = ["processed", "bp_remade"]
@@ -58,6 +59,99 @@ MANUAL_LIST = {
     "00bf1537",
     "00ba022b",
     "00b98532",
+    "00accd77",
+    "00accd76",
+    "00accd75",
+    "00accd74",
+    "00accd73",
+    "00accd72",
+    "00accd71",
+    "00accd70",
+    "00accd59",
+    "00accd58",
+    "00accd57",
+    "00accd56",
+    "00accd55",
+    "00accd54",
+    "00accd53",
+    "00accd52",
+    "00accd51",
+    "00171f0a",
+    "0073fb56",
+    "0073fb55",
+    "0073fb54",
+    "0063fb57",
+    "0063fb56",
+    "0063fb55",
+    "0033d331",
+    "0033d330",
+    "0033d318",
+    "0033d317",
+    "0033d316",
+    "0033d315",
+    "0033d314",
+    "0033d313",
+    "0033d312",
+    "0033d311",
+    "0033d310",
+    "0033d297",
+    "0033d296",
+    "0033d294",
+    "0033d290",
+    "0033d279",
+    "0033d277",
+    "0033d275",
+    "0033d274",
+    "0033d273",
+    "0033d272",
+    "0033d271",
+    "0033d270",
+    "0033d259",
+    "0033d258",
+    "0033d257",
+    "0033d256",
+    "0033d255",
+    "0033d254",
+    "0033d253",
+    "0033d252",
+    "0033d251",
+    "0033d250",
+    "0033d239",
+    "0033d238",
+    "0033d237",
+    "0033d236",
+    "0033d235",
+    "0033d234",
+    "0033d233",
+    "0033d232",
+    "0033d231",
+    "0033d2f9",
+    "0033d2f8",
+    "0033d2f7",
+    "0033d2f6",
+    "0033d2f5",
+    "0033d2f4",
+    "0033d2f3",
+    "0033d2f1",
+    "0033d2f0",
+    "0033d2d9",
+    "0033d2d8",
+    "0033d2d7",
+    "0033d2d6",
+    "0033d2d5",
+    "0033d2d4",
+    "0033d2d3",
+    "0033d2d1",
+    "0033d2d0",
+    "0033d2b9",
+    "0033d2b8",
+    "0033d2b6",
+    "0033d2b5",
+    "0033d2b4",
+    "0033d2b3",
+    "0033d2b2",
+    "0033d2b1",
+    "00dedb21",
 }
 
 # Manual UI override list (filenames without extension)
@@ -147,15 +241,20 @@ def move_file(file_path, folder_name):
 # MANUAL BLACKLIST HANDLING
 # ==========================================================
 def handle_manual_blacklist(file_path):
-    """If filename (no extension) is in manual list, move to /manual and skip."""
+    """
+    If filename (no extension) is in manual list, move to /manual and skip.
+    """
     lower_path = file_path.lower()
-    if "manual" in lower_path:
+    parts_lower = lower_path.split(os.sep)
+
+    if "manual" in parts_lower:
         return False
 
     name = os.path.splitext(os.path.basename(file_path))[0].lower()
     if name in MANUAL_LIST:
         move_file(file_path, "manual")
         return True
+
     return False
 
 
@@ -219,7 +318,7 @@ def check_bp_remade(file_path, dims_map, manual_bp_remade_set):
         move_file(file_path, "bp_remade")
 
 
-def check_has_alpha_file(file_path, dims_map):
+def check_bucket_file(file_path, dims_map):
     if handle_manual_blacklist(file_path):
         return
 
@@ -233,6 +332,7 @@ def check_has_alpha_file(file_path, dims_map):
         mc_resaved_sha1 = entry["mc_resaved_sha1"]
 
         if mc_resaved_sha1 and file_sha1 == mc_resaved_sha1:
+            move_file(file_path, "same sha1")
             return
 
         with Image.open(file_path) as img:
@@ -251,6 +351,7 @@ def check_has_alpha_file(file_path, dims_map):
         move_file(file_path, "bp_mismatch")
     elif is_power_of_two(width) and is_power_of_two(height):
         move_file(file_path, "power of two")
+
 
 # ==========================================================
 # STAGE 3: NO-MIP FIX DETECTION
@@ -519,11 +620,74 @@ def stage5_manual_ui_overrides(manual_ui_set):
     print(f"[+] Stage 5: Manual UI overrides complete. Moved {moved_count} files to ui.")
 
 
+def normalize_manual_folder_structure():
+    """
+    Ensure manual-listed files live somewhere under:
+    HAS ALPHA/manual/...
+    OPAQUE/manual/...
+
+    Do not flatten files that are already inside deeper manual subfolders.
+    Only move manual-listed files that are not already somewhere under a manual folder.
+    """
+    print("[+] Pre-pass: Normalizing manual folder structure...")
+
+    moved = 0
+
+    for root, _, files in os.walk(ROOT_DIR):
+        parts = root.split(os.sep)
+        parts_lower = [p.lower() for p in parts]
+
+        if "has alpha" in parts_lower:
+            bucket = "HAS ALPHA"
+        elif "opaque" in parts_lower:
+            bucket = "OPAQUE"
+        else:
+            continue
+
+        try:
+            bucket_idx = parts_lower.index(bucket.lower())
+        except ValueError:
+            continue
+
+        bucket_root = os.sep.join(parts[:bucket_idx + 1])
+        correct_manual_dir = os.path.join(bucket_root, "manual")
+
+        is_already_under_manual = "manual" in parts_lower[bucket_idx + 1:]
+
+        for f in files:
+            if not f.lower().endswith((".png", ".tga")):
+                continue
+
+            stem = os.path.splitext(f)[0].lower()
+            if stem not in MANUAL_LIST:
+                continue
+
+            full_path = os.path.join(root, f)
+
+            if is_already_under_manual:
+                continue
+
+            os.makedirs(correct_manual_dir, exist_ok=True)
+            dest_path = os.path.join(correct_manual_dir, f)
+
+            try:
+                shutil.move(full_path, dest_path)
+                with print_lock:
+                    print(f"[Manual Fix] {full_path} -> {dest_path}")
+                moved += 1
+            except Exception as e:
+                with print_lock:
+                    print(f"[Manual Fix Error] {full_path}: {e}")
+
+    print(f"[+] Manual normalization complete. Moved {moved} files.")
+
+
 # ==========================================================
 # MAIN
 # ==========================================================
 def main():
     print(f"[+] Repo root: {REPO_ROOT}")
+    normalize_manual_folder_structure()
     dims_map = read_csv_dimensions(CSV_PATH)
     print(f"[+] Loaded {len(dims_map)} CSV entries")
 
@@ -543,19 +707,28 @@ def main():
         futures = [exe.submit(check_bp_remade, f, dims_map, manual_bp_remade_set) for f in all_files]
         list(as_completed(futures))
 
-    # --- Stage 2: process files in HAS ALPHA subfolder ---
-    if not os.path.isdir(HAS_ALPHA_DIR):
-        print(f"[!] HAS ALPHA directory not found: {HAS_ALPHA_DIR}")
-    else:
-        has_alpha_files = [
-            os.path.join(HAS_ALPHA_DIR, f)
-            for f in os.listdir(HAS_ALPHA_DIR)
+    # --- Stage 2: process files in HAS ALPHA and OPAQUE top-level subfolders ---
+    stage2_files = []
+
+    for bucket_dir in (HAS_ALPHA_DIR, OPAQUE_DIR):
+        if not os.path.isdir(bucket_dir):
+            print(f"[!] Bucket directory not found: {bucket_dir}")
+            continue
+
+        bucket_files = [
+            os.path.join(bucket_dir, f)
+            for f in os.listdir(bucket_dir)
             if f.lower().endswith((".png", ".tga"))
         ]
-        print(f"[+] Stage 2: Checking {len(has_alpha_files)} files in HAS ALPHA for bp_mismatch/power of two...")
-        with ThreadPoolExecutor(max_workers=THREADS) as exe:
-            futures = [exe.submit(check_has_alpha_file, f, dims_map) for f in has_alpha_files]
-            list(as_completed(futures))
+
+        print(f"[+] Stage 2: Found {len(bucket_files)} files in {os.path.basename(bucket_dir)}")
+        stage2_files.extend(bucket_files)
+
+    print(f"[+] Stage 2: Checking {len(stage2_files)} files for same sha1 / bp_mismatch / power of two...")
+
+    with ThreadPoolExecutor(max_workers=THREADS) as exe:
+        futures = [exe.submit(check_bucket_file, f, dims_map) for f in stage2_files]
+        list(as_completed(futures))
 
     # --- Stage 3: no-mip fix check ---
     print("[+] Stage 3: Checking for no-mip regex matches across all subfolders...")

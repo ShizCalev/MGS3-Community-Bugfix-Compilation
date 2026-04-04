@@ -4,7 +4,6 @@ OPAQUE
 
 ---------- OPAQUE ----------
 	s091a_endoor00.bmp
-	s091a_watchtower03.bmp
 
 ---------- OPAQUE\bp_remade ----------
 	0003a157.img_335003ac512d622e8ff81548074823df
@@ -543,9 +542,27 @@ OPAQUE
 
 ---------- OPAQUE\bp_remade\no_mip_fixes\ui ----------
 	00141e76
-	00171f0a
 	001fd51a
 	00265ab1
+	00487b73
+	0048c0c3
+	005737d5
+	006e4cdd
+	00a14a2b
+	00b6209a
+	00bb15ba
+
+---------- OPAQUE\manual ----------
+	sna_item_saru.bmp
+	sna_item_saru_himo.bmp
+
+---------- OPAQUE\manual\bp_remade ----------
+	00040da5
+	004f0fb2
+	sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310
+
+---------- OPAQUE\manual\bp_remade\no_mip_fixes\ui ----------
+	00171f0a
 	0033d231
 	0033d232
 	0033d233
@@ -612,11 +629,6 @@ OPAQUE
 	0033d318
 	0033d330
 	0033d331
-	00487b73
-	0048c0c3
-	005737d5
-	006e4cdd
-	00a14a2b
 	00accd51
 	00accd52
 	00accd53
@@ -634,17 +646,9 @@ OPAQUE
 	00accd75
 	00accd76
 	00accd77
-	00b6209a
-	00bb15ba
-
----------- OPAQUE\manual ----------
-	00040da5
-	004f0fb2
-	sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310
-	sna_item_saru.bmp
-	sna_item_saru_himo.bmp
-
----------- OPAQUE\manual\no_mip_fixes\ui ----------
 	00c8c0af
 	00f1c0b1
+
+---------- OPAQUE\power of two ----------
+	s091a_watchtower03.bmp
 
