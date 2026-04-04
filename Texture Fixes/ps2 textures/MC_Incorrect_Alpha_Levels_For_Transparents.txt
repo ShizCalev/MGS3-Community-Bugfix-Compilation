@@ -3,20 +3,6 @@ HAS ALPHA
 ========================================
 
 ---------- HAS ALPHA ----------
-	00007c5c
-	0000bdd3
-	0002b182
-	000304be
-	0003247e
-	00048d5b
-	000896f0
-	000adf24
-	000cd008
-	000cd008_13565e4a4f19bb786921d49144460da5
-	0010d484
-	001703cb
-	001beddd
-	001d9f6f
 	00225e9c
 	0022b2d3
 	0022d5cf
@@ -32,38 +18,24 @@ HAS ALPHA
 	002b0983
 	0037b2cc
 	003e0206
-	00496387
 	0055cb2e
 	005aba45
 	005abb25
 	005abb26
 	005abb27
-	0060bac8
 	00660dfc
 	00689115
-	00703c5d
-	0070462c
-	0075eac4
 	007a4cea
-	00847ff1
 	008dfe98
 	008e01a0
-	009b787e
 	009b8c64
 	00a129a2
 	00a18c64
 	00b114a0
 	00b5b2d0
-	00b72ecd
-	00b7a65b
-	00b9ed1b
 	00d30dfe
 	00de5fb7
-	00ea43a7
-	00f16ec8
 	00f1b2dc
-	00fcd394
-	00fdd394
 	abs_def_hair_ovl_alp.bmp
 	alarm_02_sdw_alp_ovl.bmp
 	alarm_02_sdw_alp_ovl.bmp_e367385f189659cd279d49fd74fb1588
@@ -177,7 +149,6 @@ HAS ALPHA
 	jeh_fist03.bmp
 	jeh_glass01.bmp
 	jngl_eda1_alp_ovl.bmp
-	jngl_happa04_alp_ovl_mip16000.bmp_c82c791b86086ed52d483520273e9b5b
 	katu_door_light_blue_alp_add_tr.trans.bmp
 	katu_door_light_red_alp_add_tr.trans.bmp
 	katu_door_light_yellow_alp_add_ovl.bmp
@@ -843,11 +814,7 @@ HAS ALPHA
 	00fc64f3
 
 ---------- HAS ALPHA\bp_remade ----------
-	000237d1
-	0003a514
 	0003f2e2
-	000737d1
-	00089f76
 	000ef413
 	001184f1
 	0011b5d7
@@ -855,69 +822,27 @@ HAS ALPHA
 	00155d88
 	00163d74
 	0016df98
-	00186029
 	0019800b
-	001c886c
-	0020c1dc
-	00266501
 	0026d01e
-	002855a1
-	002a44f7
-	002a4e9e
 	002bb5de
 	002cb5de
-	002d265e
-	002d265e_eabfc4a85ac1e68d7f33d0bcdb183243
-	002e72af
-	002e72b3
-	002f72af
-	002f72b3
-	003072af
-	003072b3
-	003172af
-	003172b3
-	0032c4c8
 	003326d9
 	00337f00
 	00342f5b
-	0035095c
-	0035ce0b
-	0036bd68
-	003807d3
-	00393ebb
 	003d06bf
-	003fa520
-	004244b2
-	00425555
-	00447c28
 	00456bf2
-	00459c02
-	0047048a
-	00488d27
 	0049b9cb
-	004ab5f7
-	004d9c02
-	004e72af
-	004f11be
-	004f72af
 	004f81ad
 	004fa1ad
-	005072af
 	00512935
-	005172af
-	0051f158
 	005206bf
-	00539c02
 	0056594d
 	0056694d
 	0056794d
-	00569c02
-	005764f7
 	00581d5d
 	00582d5d
 	00583d5d
 	005930ca
-	005b44ed
 	005ce186
 	005cf186
 	005d0186
@@ -926,29 +851,18 @@ HAS ALPHA
 	005e668e
 	005e768e
 	005eb9cb
-	005feda9
 	0060a8e0
 	0061b17c
 	0063a8f6
 	0063b8f6
 	00646cce
-	0064867c
 	00652f51
-	0066ce01
-	0067bd5e
-	006907c9
 	006adf8b
 	006aef8b
 	006aff8b
-	006e72af
-	006ec4d4
 	006f66d8
-	006f72af
 	006fbeff
-	007072af
-	0070a516
 	00713f17
-	007172af
 	0071b304
 	00723f17
 	00733f17
@@ -967,10 +881,8 @@ HAS ALPHA
 	007695e3
 	0076b17c
 	00773f17
-	007753ca
 	0077fd76
 	00783f17
-	0078c9fe
 	00793f17
 	007a0eb6
 	007b8516
@@ -978,111 +890,57 @@ HAS ALPHA
 	007ba516
 	007cab39
 	007db4a7
-	007e44be
 	007eb2ca
-	007ebdd7
-	00807c34
 	00812743
 	00813743
 	00814743
-	00830496
-	00848d33
-	008696f4
 	00883597
-	0088df28
-	0088f148
 	00896cd0
-	008a417d
 	008a85bb
 	008aa5bb
-	008e72af
-	008ed488
-	008f72af
-	009072af
-	009172af
 	0091ab39
 	00930696
 	009636d8
 	00968eff
 	0099b5be
 	009ab5be
-	009b9f73
-	009bedb5
 	009c249d
-	009fc4ca
 	00a0e2e2
 	00a1f410
 	00a20e08
-	00a56fe2
 	00a7dd24
 	00aa0f17
-	00aafcd1
 	00ab0f17
-	00ab6026
 	00ac0f17
 	00ad0f17
 	00ad7f16
 	00ae0f17
 	00ae69df
-	00ae72af
-	00ae72b2
 	00ae7f16
 	00af0f17
-	00af44b4
-	00af72b2
 	00af7f16
 	00b00f17
-	00b072af
-	00b072b2
 	00b07f16
 	00b10f17
-	00b172af
-	00b172b2
-	00b17c2a
 	00b17f16
 	00b20f17
 	00b27f16
-	00b339a4
 	00b37f16
 	00b3cf98
-	00b4048c
 	00b47f16
-	00b4ca0a
 	00b55e99
 	00b57f16
-	00b58d29
-	00b59496
 	00b60ec2
 	00b9b4b3
 	00b9d01b
 	00b9e027
 	00b9e02b
-	00babde3
 	00bea9dd
-	00c29700
-	00c4df34
-	00c4f154
-	00c507d6
 	00c85887
-	00cad494
-	00ccedab
-	00ce72ae
-	00ce72af
-	00ce72b2
-	00cf72ae
-	00cf72af
-	00cf72b2
-	00d072ae
-	00d072af
-	00d072b2
-	00d172ae
-	00d172af
-	00d172b2
 	00d44f16
 	00d54f16
 	00d64f16
 	00d74f16
-	00d79f7f
 	00d7fd75
 	00d84f16
 	00d94f16
@@ -1091,41 +949,19 @@ HAS ALPHA
 	00dc4f16
 	00dd22e1
 	00ddf41c
-	00e5ca00
 	00e70eb8
-	00e76032
 	00e88014
-	00ea64f4
 	00eab4a9
-	00ebbdd9
 	00ede1ab
 	00edf1ab
 	00ee01ab
-	00ee44ea
 	00ee6ec5
-	00ee72ae
-	00ee72b2
-	00ef72ae
-	00f072ae
-	00f072b2
 	00f15ea5
-	00f172ae
-	00f172b2
-	00f396f6
 	00f5d027
-	00f5d860
-	00f5df2a
-	00f5f14a
 	00f82f4e
-	00f98f14
-	00f9cdfe
-	00fabd5b
 	00fb98ac
 	00fba8ac
 	00fbb8ac
-	00fbd48a
-	00fc07c6
-	00fcb0f2
 	ast_hair_ovl_alp.bmp
 	book_casewin00_alp_ovl.bmp_d1e9ec7a5d157953cccc67a54295be46
 	bos_rope_ovl_alp.bmp
@@ -1135,7 +971,6 @@ HAS ALPHA
 	bos_ss_side_belt_ovl_add_alp.bmp
 	bos_vr_hair_back_ovl_alp.bmp
 	bos_vr_hair_long_ovl_alp.bmp
-	bp_x_and_a_buttons
 	cia_hair_ovl_alp.bmp
 	cord_ovl_alp.bmp
 	dmit_newkey_a00_alp_ovl.bmp
@@ -1163,10 +998,6 @@ HAS ALPHA
 	h_bottle_ovl_alp.bmp
 	jngl_eda1_alp_ovl_mip16000.bmp
 	jngl_eda2_alp_ovl_mip8000.bmp
-	jngl_happa04_alp_ovl_mip16000.bmp
-	jngl_happa04_alp_ovl_mip8000.bmp
-	jngl_taki_eda_12_alp_ovl_mip8000.bmp
-	jngl_taki_eda_17_alp_ovl_mip4000.bmp
 	jngl_thintree01_ne_alp_ovl.bmp
 	jngl_tree13_mid_ne_alp_ovl.bmp
 	jngl_tsuta1_alp_ovl.bmp
@@ -1334,16 +1165,20 @@ HAS ALPHA
 	00014362
 	00014366
 	0001436a
+	000237d1
 	0002a890
 	0002bdfa
 	0002c24e
 	00035553
 	00035be9
+	0003a514
 	000641cb
 	0006afc6
 	00070eff
+	000737d1
 	00075c08
 	00085893
+	00089f76
 	00090e7c
 	000aaff5
 	000ab6a2
@@ -1374,6 +1209,7 @@ HAS ALPHA
 	00163fb5
 	00168752
 	00178752
+	00186029
 	0018e2e5
 	00194261
 	00195db5
@@ -1385,6 +1221,7 @@ HAS ALPHA
 	001be510
 	001c4bcb
 	001c4bcb_893ec4e5e61202730c82f3c3dc3306f1
+	001c886c
 	001cee1b
 	001d2980
 	001d5893
@@ -1396,6 +1233,7 @@ HAS ALPHA
 	001fd043_cf6f6ffd8dfa5a03e150da0f1347fc82
 	00200126
 	0020a9c7
+	0020c1dc
 	0021435e
 	00214362
 	00214366
@@ -1409,10 +1247,14 @@ HAS ALPHA
 	0023d260
 	0023fe46
 	00264366
+	00266501
 	0026bb45
 	0026dab5
 	002737d0
 	00273b68
+	002855a1
+	002a44f7
+	002a4e9e
 	002abcc9
 	002b9eec
 	002bb91a
@@ -1430,29 +1272,45 @@ HAS ALPHA
 	002cf60c
 	002cf6fc
 	002cf71c
+	002d265e
+	002d265e_eabfc4a85ac1e68d7f33d0bcdb183243
 	002d5bb8
 	002d6022
 	002e27cc
 	002e3854
 	002e44cc
 	002e4920
+	002e72af
+	002e72b3
+	002f72af
+	002f72b3
 	002fd5df
 	002fd5df_93e6fbc8e11d669b422a93b924301636
+	003072af
+	003072b3
 	003157a0
+	003172af
+	003172b3
 	0031e51a
 	00322317
+	0032c4c8
 	0032e340
 	00348890
 	0034ca32
+	0035095c
 	00354e27
 	00354e2b
 	00354e2f
+	0035ce0b
 	00360eea
 	0036a317
+	0036bd68
 	003797aa
+	003807d3
 	003886e9
 	0038f2a7
 	0038f2a7_5def0cd149f56d9b37bda645a51e60c5
+	00393ebb
 	003987a9
 	0039a697
 	0039b4db
@@ -1466,6 +1324,7 @@ HAS ALPHA
 	003e1f7a
 	003e24e2
 	003f6fad
+	003fa520
 	00406fad
 	00409eec
 	0040d89d
@@ -1476,38 +1335,53 @@ HAS ALPHA
 	00414365
 	00414366
 	00414369
+	004244b2
 	0042527a
+	00425555
 	00429728
 	004327cc
 	00438b80
 	0043e5cf
+	00447c28
 	0044df5c
 	0044e6cb
 	0044f17c
 	00454202
 	00455164
 	00457663
+	00459c02
 	0045d890
 	0045e6cb
+	0047048a
 	00475e90
+	00488d27
 	004a230b
 	004a86e8
 	004aaff4
+	004ab5f7
 	004ad4bc
 	004ba845
 	004baff4
 	004d847b
+	004d9c02
 	004e591a
+	004e72af
+	004f11be
+	004f72af
+	005072af
 	005079aa
 	00508876
 	0051079c
 	00513ee9
+	005172af
 	0051ed70
+	0051f158
 	005204ba
 	00523ae9
 	005342b9
 	00535c20
 	00539bcb
+	00539c02
 	0053a47f
 	0053c115
 	0053c115_9f95f70cef32ef75b86013222bba08e9
@@ -1518,14 +1392,18 @@ HAS ALPHA
 	0054f60c
 	00554e27
 	00554e2f
+	00569c02
+	005764f7
 	00576dc0
 	00579fa7
 	00588888
 	0059277f
 	00593bc6
 	005a7d91
+	005b44ed
 	005df444
 	005fcebb
+	005feda9
 	0060327e
 	006092c2
 	0061435d
@@ -1539,13 +1417,16 @@ HAS ALPHA
 	0063051d
 	006385b8
 	0063ed20
+	0064867c
 	0064867c_e9984c62c496c194988723f7822d1546
 	00659f16
 	00669f16
 	0066c2b0
+	0066ce01
 	0066dafa
 	0067605a
 	00679f16
+	0067bd5e
 	006801cd
 	00680273
 	00683f5f
@@ -1554,6 +1435,7 @@ HAS ALPHA
 	0068803c
 	00689f16
 	0068f463
+	006907c9
 	0069969b
 	00699f16
 	0069adda
@@ -1589,8 +1471,11 @@ HAS ALPHA
 	006df448
 	006e277f
 	006e3bc6
+	006e72af
 	006e86e8
+	006ec4d4
 	006f6448
+	006f72af
 	006f7448
 	006f8448
 	006f9448
@@ -1601,10 +1486,13 @@ HAS ALPHA
 	006fe448
 	006ff448
 	007044e6
+	007072af
+	0070a516
 	00713c60
 	00714c18
 	00715ecd
 	00716448
+	007172af
 	00717448
 	00718448
 	00719448
@@ -1631,6 +1519,8 @@ HAS ALPHA
 	0076cfa5
 	0076f9b2
 	0077309b
+	007753ca
+	0078c9fe
 	007a861b
 	007bcdfa
 	007becbf
@@ -1641,30 +1531,44 @@ HAS ALPHA
 	007d6feb
 	007dd821
 	007e07c2
+	007e44be
+	007ebdd7
 	007f2d9b
 	007fdca5
 	007fdca5_bc59118cc4ca795763c430049771b11e
+	00807c34
 	008126b0
 	0081435d
 	00814361
 	00814365
 	00814369
+	00830496
 	008341ad
 	00837206
+	00848d33
 	0084cf43
 	0085a50f
 	0085c59b
 	008601d0
+	008696f4
 	0087ae80
 	00882820
+	0088df28
+	0088f148
 	008956b2
 	00896943
+	008a417d
 	008aac24
 	008caa88
 	008cae7c
+	008e72af
+	008ed488
 	008f6f6a
+	008f72af
 	008fe4a2
+	009072af
 	0091381e
+	009172af
 	0091a37d
 	00920bfe
 	00920bfe_19838aaf95614e645b864c4e8898359c
@@ -1690,8 +1594,10 @@ HAS ALPHA
 	009ac59b
 	009b01d1
 	009b98f4
+	009b9f73
 	009bc7ce
 	009be091
+	009bedb5
 	009cd168
 	009cf889
 	009d3823
@@ -1701,6 +1607,7 @@ HAS ALPHA
 	009f15eb
 	009f7fc0
 	009fc1bb
+	009fc4ca
 	009fff0c
 	00a0009b
 	00a07821
@@ -1718,6 +1625,7 @@ HAS ALPHA
 	00a2be98
 	00a2c2b6
 	00a3be99
+	00a56fe2
 	00a648dc
 	00a66528
 	00a6d9ed
@@ -1728,25 +1636,39 @@ HAS ALPHA
 	00aa451e
 	00aa48dc
 	00aaaff3
+	00aafcd1
 	00ab26db
+	00ab6026
 	00ab7f02
 	00ac48dc
 	00acf604
 	00ad48dc
+	00ae72af
+	00ae72b2
+	00af44b4
 	00af48dc
+	00af72b2
 	00afa380
 	00afe4b4
+	00b072af
+	00b072b2
 	00b0c1e3
 	00b148dc
 	00b14bb4
+	00b172af
+	00b172b2
+	00b17c2a
 	00b1c671
 	00b1e5e1
 	00b24dfd
 	00b26c2e
+	00b339a4
 	00b38bf0
 	00b39ba8
+	00b4048c
 	00b42f82
 	00b4c4c3
+	00b4ca0a
 	00b548dc
 	00b54e27
 	00b54e2a
@@ -1754,6 +1676,8 @@ HAS ALPHA
 	00b54e2f
 	00b54e32
 	00b584ee
+	00b58d29
+	00b59496
 	00b5ce32
 	00b6bd8f
 	00b72ecd_d1749c8ccf566f0fb26619f642d10fef
@@ -1761,6 +1685,7 @@ HAS ALPHA
 	00b807fa
 	00ba6db6
 	00ba7d6e
+	00babde3
 	00bac637
 	00bb35b1
 	00bcb491
@@ -1775,6 +1700,7 @@ HAS ALPHA
 	00c14365
 	00c14369
 	00c265ba
+	00c29700
 	00c2986e
 	00c29ded
 	00c29e1d
@@ -1784,6 +1710,9 @@ HAS ALPHA
 	00c37d79
 	00c444ad
 	00c4a381
+	00c4df34
+	00c4f154
+	00c507d6
 	00c507d7
 	00c60152
 	00c67c23
@@ -1816,6 +1745,7 @@ HAS ALPHA
 	00ca8d22
 	00caaff4
 	00cabedc
+	00cad494
 	00cb96f1
 	00cbaff4
 	00cbee11
@@ -1823,9 +1753,22 @@ HAS ALPHA
 	00cbee11_58c763b0683aea3090309f6381b73880
 	00cc6191
 	00ccc2b8
+	00ccedab
 	00cd4028
 	00ce2c52
+	00ce72ae
+	00ce72af
+	00ce72b2
+	00cf72ae
+	00cf72af
+	00cf72b2
+	00d072ae
+	00d072af
+	00d072b2
 	00d13ca9
+	00d172ae
+	00d172af
+	00d172b2
 	00d2e245
 	00d46476
 	00d54e27
@@ -1834,6 +1777,7 @@ HAS ALPHA
 	00d54e2f
 	00d54e32
 	00d6e19b
+	00d79f7f
 	00d7c479
 	00d7e6cc
 	00d8a8b0
@@ -1854,16 +1798,20 @@ HAS ALPHA
 	00e1eda4
 	00e357db
 	00e48ebe
+	00e5ca00
 	00e6766a
 	00e6c056
 	00e718ff
+	00e76032
 	00e93f19
 	00e992b7
 	00e9d866
 	00ea3f19
+	00ea64f4
 	00eb1ec3
 	00eb3f19
 	00eb7ff2
+	00ebbdd9
 	00ebe19b
 	00ec3f19
 	00ece892
@@ -1879,42 +1827,80 @@ HAS ALPHA
 	00ecf7d3
 	00ed3f19
 	00ee3f19
+	00ee44ea
+	00ee72ae
+	00ee72b2
 	00eec4fb
 	00ef3f19
+	00ef72ae
 	00efa302
 	00f03f19
+	00f072ae
+	00f072b2
 	00f08e96
 	00f0a515
 	00f13f19
 	00f141ca
+	00f172ae
+	00f172b2
 	00f1e626
 	00f3777d
+	00f396f6
 	00f39b44
 	00f43b63
 	00f54e26
 	00f54e2a
 	00f54e32
+	00f5d860
+	00f5df2a
+	00f5f14a
 	00f658a8
 	00f658a8_2910886775c958a63522f74392665f55
 	00f658a8_ccf2ecc57c27e55e6b678c289169d4a4
 	00f70816
 	00f98ebe
+	00f98f14
+	00f9cdfe
 	00f9d9e2
 	00fa7bc2
 	00fa7d0a
+	00fabd5b
 	00fac680
 	00fac9f9
+	00fbd48a
+	00fc07c6
 	00fc60e2
 	00fc7aa4
 	00fc990c
+	00fcb0f2
 	00fe44e5
 	00ff5a67
 	00ff887f
 	00ff94d4
+	bp_x_and_a_buttons
 
----------- HAS ALPHA\manual\bp_remade ----------
+---------- HAS ALPHA\dxt5 ----------
+	jngl_happa04_alp_ovl_mip16000.bmp_c82c791b86086ed52d483520273e9b5b
+
+---------- HAS ALPHA\dxt5\bp_remade ----------
+	jngl_happa04_alp_ovl_mip16000.bmp
+	jngl_happa04_alp_ovl_mip8000.bmp
+	jngl_taki_eda_12_alp_ovl_mip8000.bmp
+	jngl_taki_eda_17_alp_ovl_mip4000.bmp
+
+---------- HAS ALPHA\dxt5\power of two ----------
+	jngl_happa04_alp_ovl.bmp
+	jngl_happa05_alp_ovl_mip4000.bmp
+	s001a_happa05_alp_ovl_mip8000.bmp
+	v000a_kinokatamari_a01_alp_ovl_rep.bmp
+	v000a_kinokatamari_a01_alp_ovl_rep.bmp_86187137555744c273e17dd4a431d1a2
+	v000a_kinokatamari_a03_alp_ovl_rep.bmp
+	v000a_kinokatamari_a03_alp_ovl_rep.bmp_d9ec09aa2448dfac3e0b72eca57e0034
+
+---------- HAS ALPHA\manual\bp_remade\no_mip_fixes\ui ----------
 	0000021b
 	00031504
+	0019115b
 	0033b530
 	003a0253
 	003f1510
@@ -1925,11 +1911,8 @@ HAS ALPHA
 	00b98532
 	00ba022b
 	00bf1537
-	00eb0221
-
----------- HAS ALPHA\manual\bp_remade\no_mip_fixes\ui ----------
-	0019115b
 	00dbc0b4
+	00eb0221
 
 ---------- HAS ALPHA\no_mip_fixes ----------
 	a_craft_struc_sub_alp_ovl.bmp
@@ -2082,13 +2065,40 @@ HAS ALPHA
 	wor_def_boots1_ovl_sub_alp.bmp
 	wor_def_boots2_ovl_sub_alp.bmp
 
+---------- HAS ALPHA\no_mip_fixes\ui ----------
+	00007c5c
+	0000bdd3
+	0002b182
+	000304be
+	0003247e
+	00048d5b
+	000896f0
+	000adf24
+	000cd008
+	000cd008_13565e4a4f19bb786921d49144460da5
+	0010d484
+	001703cb
+	001beddd
+	001d9f6f
+	00496387
+	0060bac8
+	00703c5d
+	0070462c
+	0075eac4
+	00847ff1
+	009b787e
+	00b72ecd
+	00b7a65b
+	00b9ed1b
+	00ea43a7
+	00f16ec8
+	00fcd394
+	00fdd394
+
 ---------- HAS ALPHA\power of two ----------
 	drone_light_a_alpx2_add_ovl.bmp
 	gave_cus_marker_ovl_alpx2.trans.bmp
-	jngl_happa04_alp_ovl.bmp
-	jngl_happa05_alp_ovl_mip4000.bmp
 	poster_omake02_alp_mod0001_alpx2_ovl.bmp
-	s001a_happa05_alp_ovl_mip8000.bmp
 	s001a_komorebi3_alpx2_ovl_rep_mod1001.bmp
 	s001a_tree_komorebi_alpx2_mod1001_ovl_rep.bmp
 	s002a_komorebi2_alpx2_ovl_rep_mod1001.bmp
@@ -2096,10 +2106,6 @@ HAS ALPHA
 	s061a_komorebi2_alpx2_ovl_rep_mod1001.bmp
 	s061a_tree_lit2_alpx2_ovl_rep_mod1001.bmp
 	s063a_komorebi3_alpx2_ovl_rep_mod1001.bmp
-	v000a_kinokatamari_a01_alp_ovl_rep.bmp
-	v000a_kinokatamari_a01_alp_ovl_rep.bmp_86187137555744c273e17dd4a431d1a2
-	v000a_kinokatamari_a03_alp_ovl_rep.bmp
-	v000a_kinokatamari_a03_alp_ovl_rep.bmp_d9ec09aa2448dfac3e0b72eca57e0034
 	yf_nozzle_a_ovl_alpx2.bmp
 	yf_nozzle_b_ovl_alpx2.bmp
 

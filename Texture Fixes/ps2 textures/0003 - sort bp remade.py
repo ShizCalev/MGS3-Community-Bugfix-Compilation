@@ -1,22 +1,20 @@
 import os
 import csv
-import math
 import shutil
 import re
 import subprocess
 import hashlib
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from PIL import Image
 from threading import Lock
+
+from PIL import Image
 
 # ==========================================================
 # CONFIGURATION
 # ==========================================================
-# Resolve repo root dynamically from script location
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REPO_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, "..", ".."))
 
-# Relative paths from repo root
 CSV_PATH = os.path.join(
     REPO_ROOT,
     "external",
@@ -26,16 +24,57 @@ CSV_PATH = os.path.join(
     "Metadata",
     "mgs3_mc_dimensions.csv",
 )
+
 ROOT_DIR = os.path.join(REPO_ROOT, "Texture Fixes", "ps2 textures")
 HAS_ALPHA_DIR = os.path.join(ROOT_DIR, "HAS ALPHA")
 OPAQUE_DIR = os.path.join(ROOT_DIR, "OPAQUE")
+
 NO_MIP_REGEX_FILE = os.path.join(REPO_ROOT, "Texture Fixes", "no_mip_regex.txt")
 
-BLACKLIST = ["processed", "bp_remade"]
+DXT5_STEMS_FILE = os.path.join(
+    REPO_ROOT,
+    "external",
+    "MGS3-PS2-Textures",
+    "Tri-Dumped",
+    "Master Collection",
+    "Metadata",
+    "mgs3_mc_dxt5_stems.txt",
+)
+
+MANUAL_UI_FILE = os.path.join(SCRIPT_DIR, "manual_ui_textures.txt")
+
+MANUAL_BP_REMADE_FILE = os.path.join(
+    REPO_ROOT,
+    "external",
+    "MGS3-PS2-Textures",
+    "Tri-Dumped",
+    "Master Collection",
+    "Metadata",
+    "mgs3_mc_manually_identified_bp_remade.txt",
+)
+
+FOLLOWUP_SCRIPT = os.path.join(SCRIPT_DIR, "0004 - log opaque with wrong alpha.py")
+
 THREADS = 12
 SHA1_BUFFER_SIZE = 8 * 1024 * 1024
 
-# Manual blacklist (filenames without extension)
+SCAN_SKIP_TERMS = {
+    "processed",
+}
+
+IMAGE_EXTENSIONS = {".png", ".tga"}
+
+PRIMARY_BUCKETS = {
+    "manual",
+    "same sha1",
+    "power of two",
+    "bp_mismatch",
+    "bp_remade",
+}
+
+NO_MIP_ROOT = "no_mip_fixes"
+NO_MIP_CHILDREN = {"ui", "not_regex_matched_ui"}
+
 MANUAL_LIST = {
     "00040da5",
     "004f0fb2",
@@ -154,51 +193,18 @@ MANUAL_LIST = {
     "00dedb21",
 }
 
-# Manual UI override list (filenames without extension)
-MANUAL_UI_FILE = os.path.join(SCRIPT_DIR, "manual_ui_textures.txt")
-
-# Manual bp_remade list (filenames without extension, lowercased stems)
-MANUAL_BP_REMADE_FILE = os.path.join(
-    REPO_ROOT,
-    "external",
-    "MGS3-PS2-Textures",
-    "Tri-Dumped",
-    "Master Collection",
-    "Metadata",
-    "mgs3_mc_manually_identified_bp_remade.txt",
-)
-
-# Follow-up script path (same folder as this one)
-FOLLOWUP_SCRIPT = os.path.join(SCRIPT_DIR, "0004 - log opaque with wrong alpha.py")
-
-# ==========================================================
-# UTILITIES
-# ==========================================================
 print_lock = Lock()
 
 
-def read_csv_dimensions(path):
-    dims = {}
-    with open(path, "r", encoding="utf-8", newline="") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            name = row["texture_name"].strip().lower()
+# ==========================================================
+# HELPERS
+# ==========================================================
+def is_image_file(filename):
+    return os.path.splitext(filename)[1].lower() in IMAGE_EXTENSIONS
 
-            try:
-                mc_width = int(row["mc_width"])
-                mc_height = int(row["mc_height"])
-            except (ValueError, TypeError):
-                continue
 
-            mc_resaved_sha1 = row.get("mc_resaved_sha1", "").strip().lower()
-
-            dims[name] = {
-                "mc_width": mc_width,
-                "mc_height": mc_height,
-                "mc_resaved_sha1": mc_resaved_sha1,
-            }
-
-    return dims
+def norm_abs(path):
+    return os.path.normcase(os.path.normpath(os.path.abspath(path)))
 
 
 def sha1_of_file(path):
@@ -219,50 +225,45 @@ def is_power_of_two(n):
     return n > 0 and (n & (n - 1) == 0)
 
 
-def should_skip(path):
-    p = path.lower()
-    return any(term in p for term in BLACKLIST)
+def load_stem_list(path):
+    stems = set()
+
+    if not os.path.exists(path):
+        print(f"[!] Stem list not found: {path}")
+        return stems
+
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip().lower()
+            if not line or line.startswith("#"):
+                continue
+            stems.add(line)
+
+    print(f"[+] Loaded {len(stems)} stems from {path}")
+    return stems
 
 
-def move_file(file_path, folder_name):
-    dest_dir = os.path.join(os.path.dirname(file_path), folder_name)
-    os.makedirs(dest_dir, exist_ok=True)
-    dest_path = os.path.join(dest_dir, os.path.basename(file_path))
-    try:
-        shutil.move(file_path, dest_path)
-        with print_lock:
-            print(f"[Moved -> {folder_name}] {file_path}")
-    except Exception as e:
-        with print_lock:
-            print(f"[Error moving] {file_path}: {e}")
+def load_manual_ui_list(path):
+    manual_set = set()
+
+    if not os.path.exists(path):
+        print(f"[!] Manual UI texture list not found: {path}")
+        return manual_set
+
+    with open(path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip().lower()
+            if not line or line.startswith("#"):
+                continue
+            manual_set.add(line)
+
+    print(f"[+] Loaded {len(manual_set)} manual UI texture names.")
+    return manual_set
 
 
-# ==========================================================
-# MANUAL BLACKLIST HANDLING
-# ==========================================================
-def handle_manual_blacklist(file_path):
-    """
-    If filename (no extension) is in manual list, move to /manual and skip.
-    """
-    lower_path = file_path.lower()
-    parts_lower = lower_path.split(os.sep)
-
-    if "manual" in parts_lower:
-        return False
-
-    name = os.path.splitext(os.path.basename(file_path))[0].lower()
-    if name in MANUAL_LIST:
-        move_file(file_path, "manual")
-        return True
-
-    return False
-
-
-# ==========================================================
-# MANUAL BP_REMADE HANDLING
-# ==========================================================
 def load_manual_bp_remade_list(path):
     manual_set = set()
+
     if not os.path.exists(path):
         print(f"[!] Manual bp_remade list not found: {path}")
         return manual_set
@@ -278,86 +279,9 @@ def load_manual_bp_remade_list(path):
     return manual_set
 
 
-# ==========================================================
-# BP_REMADE CHECKS
-# ==========================================================
-def check_bp_remade(file_path, dims_map, manual_bp_remade_set):
-    if handle_manual_blacklist(file_path):
-        return
-
-    name = os.path.splitext(os.path.basename(file_path))[0].lower()
-
-    # Manual bp_remade override always wins
-    if name in manual_bp_remade_set:
-        move_file(file_path, "bp_remade")
-        return
-
-    entry = dims_map.get(name)
-    if not entry:
-        return
-
-    try:
-        file_sha1 = sha1_of_file(file_path)
-        mc_resaved_sha1 = entry["mc_resaved_sha1"]
-
-        # Exact match with the known MC resaved PNG means this is not bp_remade
-        if mc_resaved_sha1 and file_sha1 == mc_resaved_sha1:
-            return
-
-        with Image.open(file_path) as img:
-            width, height = img.size
-    except Exception as e:
-        with print_lock:
-            print(f"[Error reading] {file_path}: {e}")
-        return
-
-    mc_w = entry["mc_width"]
-    mc_h = entry["mc_height"]
-
-    if mc_w > next_power_of_two(width) or mc_h > next_power_of_two(height):
-        move_file(file_path, "bp_remade")
-
-
-def check_bucket_file(file_path, dims_map):
-    if handle_manual_blacklist(file_path):
-        return
-
-    name = os.path.splitext(os.path.basename(file_path))[0].lower()
-    entry = dims_map.get(name)
-    if not entry:
-        return
-
-    try:
-        file_sha1 = sha1_of_file(file_path)
-        mc_resaved_sha1 = entry["mc_resaved_sha1"]
-
-        if mc_resaved_sha1 and file_sha1 == mc_resaved_sha1:
-            move_file(file_path, "same sha1")
-            return
-
-        with Image.open(file_path) as img:
-            width, height = img.size
-    except Exception as e:
-        with print_lock:
-            print(f"[Error reading] {file_path}: {e}")
-        return
-
-    pow2_w = next_power_of_two(width)
-    pow2_h = next_power_of_two(height)
-    mc_w = entry["mc_width"]
-    mc_h = entry["mc_height"]
-
-    if mc_w < pow2_w or mc_h < pow2_h:
-        move_file(file_path, "bp_mismatch")
-    elif is_power_of_two(width) and is_power_of_two(height):
-        move_file(file_path, "power of two")
-
-
-# ==========================================================
-# STAGE 3: NO-MIP FIX DETECTION
-# ==========================================================
 def load_no_mip_patterns(path):
     patterns = []
+
     if not os.path.exists(path):
         print(f"[!] No-Mip regex file not found: {path}")
         return patterns
@@ -376,389 +300,447 @@ def load_no_mip_patterns(path):
     return patterns
 
 
-def matches_no_mip_patterns(filename, patterns):
-    for p in patterns:
-        if p.search(filename):
+def matches_no_mip_patterns(filename_no_ext, patterns):
+    for pattern in patterns:
+        if pattern.search(filename_no_ext):
             return True
     return False
 
 
-def check_no_mip_fix(file_path, patterns):
-    if handle_manual_blacklist(file_path):
-        return
+def read_csv_dimensions(path):
+    dims = {}
 
-    lower_path = file_path.lower()
-    if "processed" in lower_path or "no_mip_fixes" in lower_path:
-        return
+    with open(path, "r", encoding="utf-8", newline="") as f:
+        reader = csv.DictReader(f)
 
-    name_no_ext = os.path.splitext(os.path.basename(file_path))[0].lower()
-    if matches_no_mip_patterns(name_no_ext, patterns):
-        dest_dir = os.path.join(os.path.dirname(file_path), "no_mip_fixes")
-        os.makedirs(dest_dir, exist_ok=True)
-        dest_path = os.path.join(dest_dir, os.path.basename(file_path))
-        try:
-            shutil.move(file_path, dest_path)
-            with print_lock:
-                print(f"[Moved -> no_mip_fix] {file_path}")
-        except Exception as e:
-            with print_lock:
-                print(f"[Error moving to no_mip_fix] {file_path}: {e}")
-
-
-def restore_stale_no_mip_files(patterns):
-    candidate_files = []
-
-    for root, _, files in os.walk(ROOT_DIR):
-        root_lower = root.lower()
-        if "no_mip_fixes" not in root_lower:
-            continue
-
-        for f in files:
-            if f.lower().endswith((".png", ".tga")):
-                candidate_files.append(os.path.join(root, f))
-
-    print(f"[+] Restore pass: Scanning {len(candidate_files)} files under no_mip_fixes...")
-
-    restored_count = 0
-
-    for file_path in candidate_files:
-        lower_path = file_path.lower()
-
-        parts = os.path.dirname(file_path).split(os.sep)
-        parts_lower = [p.lower() for p in parts]
-
-        if "no_mip_fixes" not in parts_lower:
-            continue
-
-        idx = parts_lower.index("no_mip_fixes")
-        base_dir = os.sep.join(parts[:idx])
-        if not base_dir:
-            continue
-
-        name_no_ext = os.path.splitext(os.path.basename(file_path))[0].lower()
-
-        should_stay_for_regex = matches_no_mip_patterns(name_no_ext, patterns)
-
-        is_ui_subfolder = (
-            f"{os.sep}no_mip_fixes{os.sep}ui{os.sep}" in lower_path
-            or f"{os.sep}no_mip_fixes{os.sep}not_regex_matched_ui{os.sep}" in lower_path
-        )
-
-        if should_stay_for_regex or is_ui_subfolder:
-            continue
-
-        dest_path = os.path.join(base_dir, os.path.basename(file_path))
-
-        try:
-            os.makedirs(base_dir, exist_ok=True)
-            shutil.move(file_path, dest_path)
-            with print_lock:
-                print(f"[Restored from no_mip_fixes] {file_path} -> {dest_path}")
-            restored_count += 1
-        except Exception as e:
-            with print_lock:
-                print(f"[Error restoring] {file_path}: {e}")
-
-    print(f"[+] Restore pass complete. Restored {restored_count} stale files from no_mip_fixes.")
-
-
-# ==========================================================
-# STAGE 4: NPOT UI / NOT_REGEX_MATCHED_UI
-# ==========================================================
-def handle_npot_ui_file(file_path, npot_names, patterns):
-    if handle_manual_blacklist(file_path):
-        return 0
-
-    lower_path = file_path.lower()
-
-    if (
-        "no_mip_fixes" in lower_path
-        and (f"{os.sep}ui{os.sep}" in lower_path or "not_regex_matched_ui" in lower_path)
-    ):
-        return 0
-
-    name_no_ext = os.path.splitext(os.path.basename(file_path))[0].lower()
-    if name_no_ext not in npot_names:
-        return 0
-
-    dirpath = os.path.dirname(file_path)
-    parts = dirpath.split(os.sep)
-    parts_lower = [p.lower() for p in parts]
-
-    if "no_mip_fixes" in parts_lower:
-        idx = parts_lower.index("no_mip_fixes")
-        base_dir = os.sep.join(parts[:idx + 1])
-    else:
-        base_dir = os.path.join(dirpath, "no_mip_fixes")
-
-    if matches_no_mip_patterns(name_no_ext, patterns):
-        dest_dir = os.path.join(base_dir, "ui")
-        label = "ui"
-    else:
-        dest_dir = os.path.join(base_dir, "not_regex_matched_ui")
-        label = "not_regex_matched_ui"
-
-    os.makedirs(dest_dir, exist_ok=True)
-    dest_path = os.path.join(dest_dir, os.path.basename(file_path))
-
-    try:
-        shutil.move(file_path, dest_path)
-        with print_lock:
-            print(f"[NPOT -> {label}] {file_path}")
-        return 1
-    except Exception as e:
-        with print_lock:
-            print(f"[Error NPOT move] {file_path}: {e}")
-        return 0
-
-
-def stage4_npot_ui_move(dims_map, patterns):
-    npot_names = set()
-    for name, entry in dims_map.items():
-        mc_w = entry["mc_width"]
-        mc_h = entry["mc_height"]
-
-        if not is_power_of_two(mc_w) or not is_power_of_two(mc_h):
-            npot_names.add(name)
-
-    print(f"[+] Stage 4: Found {len(npot_names)} NPOT CSV entries (mc_width/mc_height).")
-
-    candidate_files = []
-    for root, _, files in os.walk(ROOT_DIR):
-        for f in files:
-            if f.lower().endswith((".png", ".tga")):
-                candidate_files.append(os.path.join(root, f))
-
-    print(f"[+] Stage 4: Scanning {len(candidate_files)} texture files for NPOT UI classification...")
-
-    moved_count = 0
-    with ThreadPoolExecutor(max_workers=THREADS) as exe:
-        futures = [exe.submit(handle_npot_ui_file, path, npot_names, patterns) for path in candidate_files]
-        for fut in as_completed(futures):
-            moved_count += fut.result() or 0
-
-    print(f"[+] Stage 4: Completed NPOT UI sorting. Moved {moved_count} files.")
-
-
-# ==========================================================
-# STAGE 5: MANUAL UI OVERRIDES INSIDE no_mip_fixes
-# ==========================================================
-def load_manual_ui_list(path):
-    manual_set = set()
-    if not os.path.exists(path):
-        print(f"[!] Manual UI texture list not found: {path}")
-        return manual_set
-
-    with open(path, "r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
-            if not line or line.startswith("#"):
-                continue
-            manual_set.add(line.lower())
-
-    print(f"[+] Loaded {len(manual_set)} manual UI texture names.")
-    return manual_set
-
-
-def handle_manual_ui_file(file_path, manual_ui_set):
-    lower_path = file_path.lower()
-    if "no_mip_fixes" not in lower_path:
-        return 0
-
-    if f"{os.sep}no_mip_fixes{os.sep}ui{os.sep}" in lower_path:
-        return 0
-
-    name_no_ext = os.path.splitext(os.path.basename(file_path))[0].lower()
-    if name_no_ext not in manual_ui_set:
-        return 0
-
-    dirpath = os.path.dirname(file_path)
-    parts = dirpath.split(os.sep)
-    parts_lower = [p.lower() for p in parts]
-
-    if "no_mip_fixes" not in parts_lower:
-        return 0
-
-    idx = parts_lower.index("no_mip_fixes")
-    base_dir = os.sep.join(parts[:idx + 1])
-    dest_dir = os.path.join(base_dir, "ui")
-    os.makedirs(dest_dir, exist_ok=True)
-
-    dest_path = os.path.join(dest_dir, os.path.basename(file_path))
-    try:
-        shutil.move(file_path, dest_path)
-        with print_lock:
-            print(f"[Manual UI] {file_path} -> {dest_path}")
-        return 1
-    except Exception as e:
-        with print_lock:
-            print(f"[Error Manual UI move] {file_path}: {e}")
-        return 0
-
-
-def stage5_manual_ui_overrides(manual_ui_set):
-    if not manual_ui_set:
-        print("[+] Stage 5: No manual UI entries loaded, skipping manual UI overrides.")
-        return
-
-    candidate_files = []
-    for root, _, files in os.walk(ROOT_DIR):
-        if "no_mip_fixes" not in root.lower():
-            continue
-        for f in files:
-            if f.lower().endswith((".png", ".tga")):
-                candidate_files.append(os.path.join(root, f))
-
-    print(f"[+] Stage 5: Scanning {len(candidate_files)} files under no_mip_fixes for manual UI overrides...")
-
-    moved_count = 0
-    with ThreadPoolExecutor(max_workers=THREADS) as exe:
-        futures = [exe.submit(handle_manual_ui_file, path, manual_ui_set) for path in candidate_files]
-        for fut in as_completed(futures):
-            moved_count += fut.result() or 0
-
-    print(f"[+] Stage 5: Manual UI overrides complete. Moved {moved_count} files to ui.")
-
-
-def normalize_manual_folder_structure():
-    """
-    Ensure manual-listed files live somewhere under:
-    HAS ALPHA/manual/...
-    OPAQUE/manual/...
-
-    Do not flatten files that are already inside deeper manual subfolders.
-    Only move manual-listed files that are not already somewhere under a manual folder.
-    """
-    print("[+] Pre-pass: Normalizing manual folder structure...")
-
-    moved = 0
-
-    for root, _, files in os.walk(ROOT_DIR):
-        parts = root.split(os.sep)
-        parts_lower = [p.lower() for p in parts]
-
-        if "has alpha" in parts_lower:
-            bucket = "HAS ALPHA"
-        elif "opaque" in parts_lower:
-            bucket = "OPAQUE"
-        else:
-            continue
-
-        try:
-            bucket_idx = parts_lower.index(bucket.lower())
-        except ValueError:
-            continue
-
-        bucket_root = os.sep.join(parts[:bucket_idx + 1])
-        correct_manual_dir = os.path.join(bucket_root, "manual")
-
-        is_already_under_manual = "manual" in parts_lower[bucket_idx + 1:]
-
-        for f in files:
-            if not f.lower().endswith((".png", ".tga")):
-                continue
-
-            stem = os.path.splitext(f)[0].lower()
-            if stem not in MANUAL_LIST:
-                continue
-
-            full_path = os.path.join(root, f)
-
-            if is_already_under_manual:
-                continue
-
-            os.makedirs(correct_manual_dir, exist_ok=True)
-            dest_path = os.path.join(correct_manual_dir, f)
+        for row in reader:
+            name = row["texture_name"].strip().lower()
 
             try:
-                shutil.move(full_path, dest_path)
+                mc_width = int(row["mc_width"])
+                mc_height = int(row["mc_height"])
+            except (ValueError, TypeError):
+                continue
+
+            mc_resaved_sha1 = row.get("mc_resaved_sha1", "").strip().lower()
+
+            dims[name] = {
+                "mc_width": mc_width,
+                "mc_height": mc_height,
+                "mc_resaved_sha1": mc_resaved_sha1,
+            }
+
+    return dims
+
+
+def cleanup_empty_folders(root_dir):
+    removed = 0
+
+    for current_root, _, _ in os.walk(root_dir, topdown=False):
+        try:
+            if not os.listdir(current_root):
+                os.rmdir(current_root)
+                removed += 1
                 with print_lock:
-                    print(f"[Manual Fix] {full_path} -> {dest_path}")
-                moved += 1
-            except Exception as e:
+                    print(f"[Removed empty folder] {current_root}")
+        except Exception as e:
+            with print_lock:
+                print(f"[Error removing empty folder] {current_root}: {e}")
+
+    print(f"[+] Empty folder cleanup complete. Removed {removed} folders.")
+
+
+def should_skip_scan_dir(path):
+    lower_path = path.lower()
+    return any(term in lower_path for term in SCAN_SKIP_TERMS)
+
+
+def get_bucket_name_from_path(path):
+    parts_lower = [p.lower() for p in os.path.normpath(path).split(os.sep)]
+
+    if "has alpha" in parts_lower:
+        return "HAS ALPHA"
+
+    if "opaque" in parts_lower:
+        return "OPAQUE"
+
+    return None
+
+
+def get_bucket_root_and_rel_dir(path):
+    parts = os.path.normpath(path).split(os.sep)
+    parts_lower = [p.lower() for p in parts]
+
+    if "has alpha" in parts_lower:
+        bucket_name = "HAS ALPHA"
+    elif "opaque" in parts_lower:
+        bucket_name = "OPAQUE"
+    else:
+        return None, None, None
+
+    bucket_idx = parts_lower.index(bucket_name.lower())
+    bucket_root = os.sep.join(parts[:bucket_idx + 1])
+    rel_parts = parts[bucket_idx + 1:]
+
+    return bucket_name, bucket_root, rel_parts
+
+
+def strip_known_classification_parts(rel_parts):
+    idx = 0
+
+    while idx < len(rel_parts):
+        lowered = rel_parts[idx].lower()
+
+        if lowered == "dxt5":
+            idx += 1
+            continue
+
+        if lowered in PRIMARY_BUCKETS:
+            idx += 1
+            continue
+
+        if lowered == NO_MIP_ROOT:
+            idx += 1
+            if idx < len(rel_parts) and rel_parts[idx].lower() in NO_MIP_CHILDREN:
+                idx += 1
+            continue
+
+        break
+
+    return rel_parts[idx:]
+
+
+def detect_existing_primary_buckets(rel_parts):
+    buckets = []
+
+    for part in rel_parts:
+        lowered = part.lower()
+
+        if lowered == "dxt5":
+            continue
+
+        if lowered in PRIMARY_BUCKETS:
+            buckets.append(lowered)
+            continue
+
+        if lowered == NO_MIP_ROOT:
+            break
+
+        break
+
+    return buckets
+
+
+def classify_primary_buckets(file_path, stem, dims_map, manual_bp_remade_set):
+    buckets = []
+
+    if stem in MANUAL_LIST:
+        buckets.append("manual")
+
+    entry = dims_map.get(stem)
+
+    if stem in manual_bp_remade_set:
+        buckets.append("bp_remade")
+        return buckets
+
+    if not entry:
+        return buckets
+
+    try:
+        file_sha1 = sha1_of_file(file_path)
+        mc_resaved_sha1 = entry["mc_resaved_sha1"]
+
+        if mc_resaved_sha1 and file_sha1 == mc_resaved_sha1:
+            buckets.append("same sha1")
+            return buckets
+
+        with Image.open(file_path) as img:
+            width, height = img.size
+    except Exception as e:
+        with print_lock:
+            print(f"[Error reading for primary classification] {file_path}: {e}")
+        return buckets
+
+    mc_w = entry["mc_width"]
+    mc_h = entry["mc_height"]
+
+    if mc_w > next_power_of_two(width) or mc_h > next_power_of_two(height):
+        buckets.append("bp_remade")
+        return buckets
+
+    pow2_w = next_power_of_two(width)
+    pow2_h = next_power_of_two(height)
+
+    if mc_w < pow2_w or mc_h < pow2_h:
+        buckets.append("bp_mismatch")
+        return buckets
+
+    if is_power_of_two(width) and is_power_of_two(height):
+        buckets.append("power of two")
+        return buckets
+
+    return buckets
+
+
+def classify_no_mip_bucket(stem, dims_map, patterns, manual_ui_set):
+    matched_regex = matches_no_mip_patterns(stem, patterns)
+    entry = dims_map.get(stem)
+
+    if not entry:
+        if matched_regex:
+            return (NO_MIP_ROOT, None)
+        return None
+
+    mc_w = entry["mc_width"]
+    mc_h = entry["mc_height"]
+    is_npot = not is_power_of_two(mc_w) or not is_power_of_two(mc_h)
+
+    if stem in manual_ui_set:
+        return (NO_MIP_ROOT, "ui")
+
+    if is_npot:
+        if matched_regex:
+            return (NO_MIP_ROOT, "ui")
+        return (NO_MIP_ROOT, "not_regex_matched_ui")
+
+    if matched_regex:
+        return (NO_MIP_ROOT, None)
+
+    return None
+
+
+def compute_final_dest(file_path, dims_map, dxt5_stems, manual_bp_remade_set, patterns, manual_ui_set):
+    filename = os.path.basename(file_path)
+    stem = os.path.splitext(filename)[0].lower()
+
+    parent_dir = os.path.dirname(file_path)
+    bucket_name, bucket_root, rel_parts = get_bucket_root_and_rel_dir(parent_dir)
+
+    if not bucket_root:
+        return None, "not under HAS ALPHA/OPAQUE"
+
+    cleaned_tail = strip_known_classification_parts(rel_parts)
+
+    classification_parts = []
+
+    if stem in dxt5_stems:
+        classification_parts.append("dxt5")
+
+    primary_buckets = classify_primary_buckets(
+        file_path=file_path,
+        stem=stem,
+        dims_map=dims_map,
+        manual_bp_remade_set=manual_bp_remade_set,
+    )
+
+    if primary_buckets:
+        classification_parts.extend(primary_buckets)
+    else:
+        existing_primary_buckets = detect_existing_primary_buckets(rel_parts)
+        if existing_primary_buckets:
+            classification_parts.extend(existing_primary_buckets)
+
+    no_mip_bucket = classify_no_mip_bucket(
+        stem=stem,
+        dims_map=dims_map,
+        patterns=patterns,
+        manual_ui_set=manual_ui_set,
+    )
+
+    if no_mip_bucket:
+        classification_parts.append(no_mip_bucket[0])
+        if no_mip_bucket[1]:
+            classification_parts.append(no_mip_bucket[1])
+
+    final_dir = os.path.join(bucket_root, *classification_parts, *cleaned_tail)
+    final_path = os.path.join(final_dir, filename)
+
+    return final_path, None
+
+
+def collect_candidate_files():
+    files = []
+
+    for root, dirs, filenames in os.walk(ROOT_DIR):
+        dirs[:] = [d for d in dirs if not should_skip_scan_dir(os.path.join(root, d))]
+
+        if should_skip_scan_dir(root):
+            continue
+
+        bucket_name = get_bucket_name_from_path(root)
+        if not bucket_name:
+            continue
+
+        for filename in filenames:
+            if is_image_file(filename):
+                files.append(os.path.join(root, filename))
+
+    return files
+
+
+def build_move_plan(candidate_files, dims_map, dxt5_stems, manual_bp_remade_set, patterns, manual_ui_set):
+    move_plan = []
+    unchanged = 0
+    skipped = 0
+    errors = 0
+
+    for file_path in candidate_files:
+        try:
+            final_path, reason = compute_final_dest(
+                file_path=file_path,
+                dims_map=dims_map,
+                dxt5_stems=dxt5_stems,
+                manual_bp_remade_set=manual_bp_remade_set,
+                patterns=patterns,
+                manual_ui_set=manual_ui_set,
+            )
+
+            if not final_path:
+                skipped += 1
                 with print_lock:
-                    print(f"[Manual Fix Error] {full_path}: {e}")
+                    print(f"[Skipped] {file_path}: {reason}")
+                continue
 
-    print(f"[+] Manual normalization complete. Moved {moved} files.")
+            src_norm = norm_abs(file_path)
+            dst_norm = norm_abs(final_path)
+
+            if src_norm == dst_norm:
+                unchanged += 1
+                continue
+
+            move_plan.append((file_path, final_path))
+        except Exception as e:
+            errors += 1
+            with print_lock:
+                print(f"[Plan Error] {file_path}: {e}")
+
+    return move_plan, unchanged, skipped, errors
 
 
-# ==========================================================
-# MAIN
-# ==========================================================
+def validate_move_plan(move_plan):
+    errors = 0
+
+    seen_src = set()
+    seen_dst = {}
+
+    for src, dst in move_plan:
+        src_norm = norm_abs(src)
+        dst_norm = norm_abs(dst)
+
+        if src_norm == dst_norm:
+            errors += 1
+            with print_lock:
+                print(f"[Plan Error] Source equals destination: {src}")
+            continue
+
+        if src_norm in seen_src:
+            errors += 1
+            with print_lock:
+                print(f"[Plan Error] Duplicate source in plan: {src}")
+        else:
+            seen_src.add(src_norm)
+
+        if dst_norm in seen_dst:
+            errors += 1
+            with print_lock:
+                print(f"[Plan Error] Two files want same destination:\n    {seen_dst[dst_norm]}\n    {src}\n -> {dst}")
+        else:
+            seen_dst[dst_norm] = src
+
+    return errors
+
+
+def execute_one_move(src, dst):
+    try:
+        src_norm = norm_abs(src)
+        dst_norm = norm_abs(dst)
+
+        if src_norm == dst_norm:
+            return ("unchanged", src, None)
+
+        if not os.path.exists(src):
+            return ("error", src, "source no longer exists")
+
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+
+        if os.path.exists(dst):
+            try:
+                if os.path.samefile(src, dst):
+                    return ("unchanged", src, None)
+            except OSError:
+                pass
+
+            return ("error", src, f"destination already exists: {dst}")
+
+        shutil.move(src, dst)
+        return ("moved", src, dst)
+    except Exception as e:
+        return ("error", src, str(e))
+
+
 def main():
     print(f"[+] Repo root: {REPO_ROOT}")
-    normalize_manual_folder_structure()
+
     dims_map = read_csv_dimensions(CSV_PATH)
     print(f"[+] Loaded {len(dims_map)} CSV entries")
 
     manual_bp_remade_set = load_manual_bp_remade_list(MANUAL_BP_REMADE_FILE)
-
-    # --- Stage 1: recursive bp_remade check ---
-    all_files = []
-    for root, _, files in os.walk(ROOT_DIR):
-        if should_skip(root):
-            continue
-        for f in files:
-            if f.lower().endswith((".png", ".tga")):
-                all_files.append(os.path.join(root, f))
-
-    print(f"[+] Stage 1: Checking {len(all_files)} files for bp_remade...")
-    with ThreadPoolExecutor(max_workers=THREADS) as exe:
-        futures = [exe.submit(check_bp_remade, f, dims_map, manual_bp_remade_set) for f in all_files]
-        list(as_completed(futures))
-
-    # --- Stage 2: process files in HAS ALPHA and OPAQUE top-level subfolders ---
-    stage2_files = []
-
-    for bucket_dir in (HAS_ALPHA_DIR, OPAQUE_DIR):
-        if not os.path.isdir(bucket_dir):
-            print(f"[!] Bucket directory not found: {bucket_dir}")
-            continue
-
-        bucket_files = [
-            os.path.join(bucket_dir, f)
-            for f in os.listdir(bucket_dir)
-            if f.lower().endswith((".png", ".tga"))
-        ]
-
-        print(f"[+] Stage 2: Found {len(bucket_files)} files in {os.path.basename(bucket_dir)}")
-        stage2_files.extend(bucket_files)
-
-    print(f"[+] Stage 2: Checking {len(stage2_files)} files for same sha1 / bp_mismatch / power of two...")
-
-    with ThreadPoolExecutor(max_workers=THREADS) as exe:
-        futures = [exe.submit(check_bucket_file, f, dims_map) for f in stage2_files]
-        list(as_completed(futures))
-
-    # --- Stage 3: no-mip fix check ---
-    print("[+] Stage 3: Checking for no-mip regex matches across all subfolders...")
+    dxt5_stems = load_stem_list(DXT5_STEMS_FILE)
     patterns = load_no_mip_patterns(NO_MIP_REGEX_FILE)
-
-    restore_stale_no_mip_files(patterns)
-
-    all_png_tga = []
-    for root, _, files in os.walk(ROOT_DIR):
-        for f in files:
-            if f.lower().endswith((".png", ".tga")):
-                all_png_tga.append(os.path.join(root, f))
-
-    print(f"[+] Stage 3: Found {len(all_png_tga)} total candidate textures.")
-    with ThreadPoolExecutor(max_workers=THREADS) as exe:
-        futures = [exe.submit(check_no_mip_fix, f, patterns) for f in all_png_tga]
-        list(as_completed(futures))
-
-    # --- Stage 4: NPOT mc_width/mc_height -> no_mip_fixes/ui or no_mip_fixes/not_regex_matched_ui ---
-    stage4_npot_ui_move(dims_map, patterns)
-
-    # --- Stage 5: Manual UI overrides inside no_mip_fixes ---
     manual_ui_set = load_manual_ui_list(MANUAL_UI_FILE)
-    stage5_manual_ui_overrides(manual_ui_set)
+
+    candidate_files = collect_candidate_files()
+    print(f"[+] Found {len(candidate_files)} candidate texture files")
+
+    move_plan, unchanged, skipped, plan_errors = build_move_plan(
+        candidate_files=candidate_files,
+        dims_map=dims_map,
+        dxt5_stems=dxt5_stems,
+        manual_bp_remade_set=manual_bp_remade_set,
+        patterns=patterns,
+        manual_ui_set=manual_ui_set,
+    )
+
+    print(f"[+] Planned {len(move_plan)} actual moves")
+    print(f"[+] Unchanged during planning: {unchanged}")
+    print(f"[+] Skipped during planning: {skipped}")
+    print(f"[+] Planning errors: {plan_errors}")
+
+    validation_errors = validate_move_plan(move_plan)
+    if validation_errors:
+        print(f"[!] Move plan validation failed with {validation_errors} error(s). Aborting before any move.")
+        return
+
+    moved = 0
+    unchanged_during_move = 0
+    move_errors = 0
+
+    with ThreadPoolExecutor(max_workers=THREADS) as exe:
+        futures = [exe.submit(execute_one_move, src, dst) for src, dst in move_plan]
+
+        for future in as_completed(futures):
+            status, src, extra = future.result()
+
+            if status == "moved":
+                moved += 1
+                with print_lock:
+                    print(f"[Moved] {src} -> {extra}")
+            elif status == "unchanged":
+                unchanged_during_move += 1
+            else:
+                move_errors += 1
+                with print_lock:
+                    print(f"[Error] {src}: {extra}")
+
+    print(f"[+] Move pass complete. Moved: {moved}, Unchanged during move: {unchanged_during_move}, Move errors: {move_errors}")
+
+    cleanup_empty_folders(ROOT_DIR)
 
     print("[+] Completed all stages.")
 
-    # --- Follow-up call ---
     if os.path.exists(FOLLOWUP_SCRIPT):
         print(f"[+] Running follow-up script: {FOLLOWUP_SCRIPT}")
+
         try:
             subprocess.run(["py", FOLLOWUP_SCRIPT], check=True)
         except subprocess.CalledProcessError as e:

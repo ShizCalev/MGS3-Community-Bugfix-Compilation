@@ -8,12 +8,6 @@ OPAQUE
 ---------- OPAQUE\bp_remade ----------
 	0003a157.img_335003ac512d622e8ff81548074823df
 	0003a157.img_68d061fb998272c35600430d51659598
-	004b43bd
-	005b966f
-	005ceaf7
-	006a366f
-	008dab1c
-	009e9674
 	armory_boxc00.bmp_132f4f8b7d173ccd52bee002963287d5
 	armory_caution00.bmp
 	armory_doorframe01.bmp
@@ -169,7 +163,6 @@ OPAQUE
 	rgd5_safe01.bmp
 	rpg7_tex.bmp
 	s001a_soil01_eld_ne_alp_ovl_rep.bmp
-	s001a_soil01_rep_mip8000.bmp
 	s001a_wall01_rep_mip8000.bmp
 	s002a_wall04_rep_mip8000.bmp
 	s006a_bombe1.bmp
@@ -546,22 +539,26 @@ OPAQUE
 	00265ab1
 	00487b73
 	0048c0c3
+	004b43bd
 	005737d5
+	005b966f
+	005ceaf7
+	006a366f
 	006e4cdd
+	008dab1c
+	009e9674
 	00a14a2b
 	00b6209a
 	00bb15ba
 
----------- OPAQUE\manual ----------
-	sna_item_saru.bmp
-	sna_item_saru_himo.bmp
+---------- OPAQUE\dxt5\bp_remade ----------
+	s001a_soil01_rep_mip8000.bmp
 
 ---------- OPAQUE\manual\bp_remade ----------
-	00040da5
-	004f0fb2
 	sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310
 
 ---------- OPAQUE\manual\bp_remade\no_mip_fixes\ui ----------
+	00040da5
 	00171f0a
 	0033d231
 	0033d232
@@ -629,6 +626,7 @@ OPAQUE
 	0033d318
 	0033d330
 	0033d331
+	004f0fb2
 	00accd51
 	00accd52
 	00accd53
@@ -648,6 +646,10 @@ OPAQUE
 	00accd77
 	00c8c0af
 	00f1c0b1
+
+---------- OPAQUE\manual\power of two ----------
+	sna_item_saru.bmp
+	sna_item_saru_himo.bmp
 
 ---------- OPAQUE\power of two ----------
 	s091a_watchtower03.bmp
