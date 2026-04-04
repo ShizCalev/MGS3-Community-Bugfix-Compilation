@@ -45,6 +45,19 @@ MANUAL_LIST = {
     "00dbc0b4",
     "sna_item_saru.bmp",
     "sna_item_saru_himo.bmp",
+    "00701506",
+    "00031504",
+    "008514ff",
+    "0033b530",
+    "0000021b",
+    "007e021f",
+    "004ca501",
+    "003f1510",
+    "003a0253",
+    "00eb0221",
+    "00bf1537",
+    "00ba022b",
+    "00b98532",
 }
 
 # Manual UI override list (filenames without extension)
