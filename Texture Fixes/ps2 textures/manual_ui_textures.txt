@@ -56,6 +56,9 @@
 000855ab
 00085893
 000896f0
+mgs3_keycon_check
+options_frame_back_small
+options_line_00
 00089f76
 0008bc87
 0008c0c8

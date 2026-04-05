@@ -1,7 +1,7 @@
 Check MC textures that are invisible or single color that are mismatched against PS2 version - ie 0000021b & monkey stuff that was made invisible.
 
-DXT5 handling
-
 Do manual CTXRs
 
 Have regional texture overrides for the PS2 folder (or an alternative source?)
+
+update 0009 - find incorrect ps2 to mc alpha levels / left to find & MC - Incorrect Alpha Report (Verbose) -> we need them to log the stuff missing from the MC -> PS2 CSV. Right now it's PS2 -> MC csv.
