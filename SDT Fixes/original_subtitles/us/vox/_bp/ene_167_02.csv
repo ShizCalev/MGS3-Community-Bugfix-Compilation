@@ -1,0 +1,15 @@
+Start Time,End Time,Lang ID,Text
+0,501,[ENG],We've lost contact|with the enemy.
+0,501,[FRE],"Nous avons perdu le contact
+avec l'ennemi."
+0,501,[GER],"Wir haben den Kontakt mit
+dem Feind verloren."
+0,501,[ITA],"Abbiamo perso il contatto con
+il nemico."
+0,501,[SPA],"Hemos perdido de vista al
+enemigo."
+501,1072,[ENG],Commence alert status.
+501,1072,[FRE],Passons en phase d'alerte.
+501,1072,[GER],Gehen in Alarmbereitschaft ...
+501,1072,[ITA],Avviate lo stato di allerta.
+501,1072,[SPA],Comienza el estado de alerta.

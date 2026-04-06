@@ -1,0 +1,16 @@
+Start Time,End Time,Lang ID,Text
+0,501,[SPA],"Recibido. Tras acabar la|reparación,"
+0,501,[ITA],Ricevuto. Terminata la
+0,501,[GER],"Verstanden. Nehmen Sie
+nach Ihrer"
+0,501,[FRE],"Bien reçu. Reprenez votre
+patrouille"
+0,501,[ENG],Acknowledged.|Resume patrol...
+501,1281,[SPA],"vuelve a la
+patrulla."
+501,1281,[ITA],"manutenzione, riprendi la
+perlustrazione."
+501,1281,[GER],Rückkehr und erfolgter Instandsetzung|Ihre Patrouille wieder auf.
+501,1281,[FRE],"une fois la maintenance
+terminée."
+501,1281,[ENG],following your return and|maintenance completion.

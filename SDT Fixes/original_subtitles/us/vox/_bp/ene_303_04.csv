@@ -1,0 +1,26 @@
+Start Time,End Time,Lang ID,Text
+0,278,[SPA],"No estamos confirmado,"
+0,278,[ITA],"Non lo abbiamo ancora
+confermato,"
+0,278,[GER],"Es ist nicht bestätigt,"
+0,278,[FRE],"Nous ne pouvons pas le
+confirmer,"
+0,278,[ENG],"We haven't confirmed it,"
+278,918,[SPA],"pero creemos que el enemigo
+ha sido eliminado."
+278,918,[ITA],"ma crediamo che il nemico
+sia stato eliminato."
+278,918,[GER],"aber der Feind wurde
+vermutlich eliminiert."
+278,918,[FRE],"mais nous pensons que
+l'ennemi a été tué."
+278,918,[ENG],but we believe the enemy|has been taken out.
+919,1462,[SPA],"Pasad a la formación de
+alerta."
+919,1462,[ITA],"Passo in formazione di
+allerta."
+919,1462,[GER],"Wechseln zur
+Alarmbereitschaft."
+919,1462,[FRE],"Nous passons en formation
+d'alerte."
+919,1462,[ENG],Switch to alert formation.

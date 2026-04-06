@@ -1,0 +1,14 @@
+Start Time,End Time,Lang ID,Text
+0,250,[SPA],Recibido.
+0,250,[ITA],Ricevuto.
+0,250,[GER],Verstanden.
+0,250,[FRE],Bien reçu.
+0,250,[ENG],Acknowledged.
+250,1169,[SPA],"Enviando una unidad de
+apoyo. Extremad  la cautela."
+250,1169,[ITA],"Mando un'unità di appoggio.
+Agite con più cautela."
+250,1169,[GER],"Verstärkung ist unterwegs.
+Seien Sie besonders vorsichtig."
+250,1169,[FRE],Nous envoyons une unité de renfort.|Soyez encore plus prudents.
+250,1169,[ENG],Dispatching a backup unit.|Use extra caution.

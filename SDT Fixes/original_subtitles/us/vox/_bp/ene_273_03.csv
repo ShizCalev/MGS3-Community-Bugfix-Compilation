@@ -1,0 +1,16 @@
+Start Time,End Time,Lang ID,Text
+0,640,[SPA],"Hemos visto signos de
+infiltración enemiga."
+0,640,[ITA],"Abbiamo trovato segni di
+presenza nemica."
+0,640,[GER],Wir haben Hinweise auf feindliches|Eindringen gefunden.
+0,640,[FRE],"Nous avons trouvé des traces
+d'infiltration ennemie."
+0,640,[ENG],We've found signs of|enemy infiltration.
+640,1280,[SPA],Iniciad la formación de alerta.
+640,1280,[ITA],Inizio formazione di allerta.
+640,1280,[GER],"Wechseln zur
+Alarmbereitschaft."
+640,1280,[FRE],"Nous entrons en formation
+d'alerte."
+640,1280,[ENG],Commence alert formation.

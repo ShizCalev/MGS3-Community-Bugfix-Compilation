@@ -1,0 +1,17 @@
+Start Time,End Time,Lang ID,Text
+0,585,[ENG],We may have enemy|infiltration.
+0,585,[FRE],"Un ennemi s'est peut-être
+infiltré parmi nous."
+0,585,[GER],"Möglicherweise feindliches
+Eindringen."
+0,585,[ITA],Sospetta infiltrazione nemica.
+0,585,[SPA],"Puede que el enemigo se
+haya infiltrado."
+585,1128,[ENG],Commence alert formation.
+585,1128,[FRE],"Nous entrons en formation
+d'alerte."
+585,1128,[GER],"Wechseln zur
+Alarmbereitschaft!"
+585,1128,[ITA],Inizio formazione di allerta.
+585,1128,[SPA],"Comienza la formación de
+alerta."

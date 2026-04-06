@@ -1,0 +1,15 @@
+Start Time,End Time,Lang ID,Text
+0,794,[SPA],"Hay disparos. Se desconoce
+la posición del enemigo."
+0,794,[ITA],"Siamo sotto il fuoco nemico.
+Posizione nemica ignota."
+0,794,[GER],"Wir sind unter Beschuss.
+Feindposition unbekannt."
+0,794,[FRE],"On nous attaque. Position de
+l'ennemi non déterminée."
+0,794,[ENG],We're under fire.|Enemy position unknown.
+794,1365,[SPA],Comienza el estado de alerta.
+794,1365,[ITA],Iniziamo stato di allerta.
+794,1365,[GER],Geht in Alarmbereitschaft.
+794,1365,[FRE],Passons en phase d'alerte.
+794,1365,[ENG],Commencing alert status.

@@ -1,0 +1,16 @@
+Start Time,End Time,Lang ID,Text
+0,654,[ENG],We have found traces|of an intruder.
+0,654,[FRE],"Nous avons trouvé les traces
+d'un intrus."
+0,654,[GER],"Wir haben Hinweise auf einen
+Eindringling gefunden."
+0,654,[ITA],"Abbiamo trovato tracce di un
+intruso."
+0,654,[SPA],"Hemos encontrado rastros de
+un intruso."
+654,1239,[ENG],Commence alert formation.
+654,1239,[FRE],Entrez en formation d'alerte.
+654,1239,[GER],Wechselt zur Alarmformation.
+654,1239,[ITA],Iniziate formazione di allerta.
+654,1239,[SPA],"Iniciad la formación de
+alerta."

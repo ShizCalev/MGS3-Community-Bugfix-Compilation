@@ -1,0 +1,20 @@
+Start Time,End Time,Lang ID,Text
+0,195,[ENG],Understood.
+0,195,[FRE],Compris.
+0,195,[GER],Verstanden.
+0,195,[ITA],Ricevuto.
+0,195,[SPA],Entendido.
+195,682,[ENG],The alert status has been|lifted.
+195,682,[FRE],"La phase d'alerte est
+terminée."
+195,682,[GER],"Der Alarm-Status ist
+aufgehoben."
+195,682,[ITA],Tolto lo stato di allerta.
+195,682,[SPA],"Ya no estamos en estado de
+alerta,"
+682,1155,[ENG],Return to your position.
+682,1155,[FRE],Reprenez vos positions.
+682,1155,[GER],"Kehrt auf euren Posten
+zurück."
+682,1155,[ITA],Tornate in posizione.
+682,1155,[SPA],volved a vuestras posiciones.

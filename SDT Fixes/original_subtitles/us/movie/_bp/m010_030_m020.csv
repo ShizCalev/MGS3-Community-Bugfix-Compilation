@@ -1,0 +1,783 @@
+Start Time,End Time,Lang ID,Text
+0,1156,[SPA],"Ayer, la Casa Blanca recibió una llamada
+inesperada."
+0,1156,[ITA],"Ieri, alla Casa Bianca è arrivata una
+chiamata inaspettata."
+0,1156,[GER],"Gestern erhielt das Weiße Haus einen
+unerwarteten Anruf."
+0,1156,[FRE],"Hier, la Maison Blanche a reçu un appel
+inattendu."
+0,1156,[ENG],"Yesterday, the White House received|an unexpected call."
+1518,2089,[SPA],¿Presidente Johnson?
+1518,2089,[ITA],Presidente Johnson?
+1518,2089,[GER],Präsident Johnson?
+1518,2089,[FRE],Président Johnson?
+1518,2089,[ENG],President Johnson?
+2465,3217,[SPA],"Sí, le escucho, Sr. Presidente."
+2465,3217,[ITA],"Sì, la sento, signor Presidente."
+2465,3217,[GER],"Ja, ich höre, Herr Chruschtschow."
+2465,3217,[FRE],"Oui, je vous reçois, M. le Président."
+2465,3217,[ENG],"Yes, I hear you, Mr. Chairman."
+3775,4750,[SPA],"Fue una llamada de emergencia de
+Kruschev al presidente Johnson."
+3775,4750,[ITA],"Era una chiamata su linea diretta da
+Krusciov al Presidente Johnson."
+3775,4750,[GER],"Es war ein Hotline-Anruf von
+Chruschtschow für Präsident Johnson."
+3775,4750,[FRE],"C'était un appel sur la ligne rouge entre
+Khrouchtchev et le président Johnson."
+3775,4750,[ENG],It was a hotline call from Khrushchev|to President Johnson.
+4750,5307,[SPA],"¿Del máximo dirigente de la Unión
+Soviética?"
+4750,5307,[ITA],Dal capo dell'Unione Sovietica?
+4750,5307,[GER],Vom sowjetischen Staatschef?
+4750,5307,[FRE],"Un appel du président de l'Union
+soviétique?"
+4750,5307,[ENG],From the head of the Soviet Union?
+5308,5628,[SPA],Así es.
+5308,5628,[ITA],Esattamente.
+5308,5628,[GER],Genau dem.
+5308,5628,[FRE],C'est ça.
+5308,5628,[ENG],That's right.
+5739,6101,[SPA],"Hace unos días,"
+5739,6101,[ITA],"Qualche giorno fa,"
+5739,6101,[GER],Vor einigen Tagen
+5739,6101,[FRE],"Il y a quelques jours,"
+5739,6101,[ENG],"A few days ago,"
+6102,7718,[SPA],"una de nuestras más importantes plantas
+de diseño, la OKB-754,"
+6102,7718,[ITA],"uno dei principali Uffici di progettazione del
+nostro Paese, l'OKB-754,"
+6102,7718,[GER],"wurde eins unserer wichtigen
+Konstruktionsbüro, OKB-754,"
+6102,7718,[FRE],"l'un des grands Bureaux de design de
+notre pays, OKB-754,"
+6102,7718,[ENG],"one of our country's main Design|Bureaus, OKB-754,"
+7732,8888,[SPA],fue destruida por una explosión nuclear.
+7732,8888,[ITA],"è andato distrutto in un'esplosione
+nucleare."
+7732,8888,[GER],durch eine Kernexplosion zerstört.
+7732,8888,[FRE],a été détruit par une explosion nucléaire.
+7732,8888,[ENG],was destroyed in a nuclear explosion.
+8930,9501,[SPA],"Al mismo tiempo,"
+8930,9501,[ITA],"Più o meno allo stesso tempo,"
+8930,9501,[GER],Etwa zur gleichen Zeit
+8930,9501,[FRE],"Au même moment,"
+8930,9501,[ENG],"At about the same time,"
+9501,10531,[SPA],el radar antiaéreo recibió la señal de
+9501,10531,[ITA],"il nostro radar antiaereo ha raccolto un
+segnale"
+9501,10531,[GER],"registrierte unser Flugabwehrradar eine
+Signatur,"
+9501,10531,[FRE],"notre radar anti-aérien semble avoir
+détecté"
+9501,10531,[ENG],our anti-aircraft radar picked up|a signature
+10532,11716,[SPA],"lo que parecía ser uno de vuestros aviones
+militares."
+10532,11716,[ITA],"che sembrava provenire da uno dei vostri
+aerei militari."
+10532,11716,[GER],"die von einem Ihrer Militärflugzeuge zu
+stammen schien."
+10532,11716,[FRE],"la présence de l'un de vos avions
+militaires."
+10532,11716,[ENG],that appeared to come from|one of your military aircraft.
+11772,12914,[SPA],"Sabes de lo que hablo, ¿no?"
+11772,12914,[ITA],Lei ne sa qualcosa?
+11772,12914,[GER],Was sagen Sie dazu?
+11772,12914,[FRE],Cela vous dit quelque chose?
+11772,12914,[ENG],Does any of this sound familiar to you?
+13137,14906,[SPA],"Como represalia, nuestras fuerzas
+armadas están en alerta de 2º grado"
+13137,14906,[ITA],"Per rappresaglia, ho messo le nostre forze
+armate in allerta secondaria."
+13137,14906,[GER],"Im Gegenzug habe ich unsere Streitkräfte
+in sekundäre Alarmbereitschaft versetzt."
+13137,14906,[FRE],"En réponse, j'ai placé nos troupes en
+alerte orange."
+13137,14906,[ENG],"In retaliation, I have placed our armed|forces on secondary alert."
+14907,15910,[SPA],"y, dependiendo de tu actuación, no me
+quedará más remedio"
+14907,15910,[ITA],"A seconda della Loro risposta, potrei
+essere"
+14907,15910,[GER],"Je nach Ihrer Antwort werde ich
+möglicherweise keine andere Wahl haben,"
+14907,15910,[FRE],"En fonction de votre réponse, je n'aurais
+peut-être pas d'autre choix"
+14907,15910,[ENG],"Depending on your response,|I may be left with no choice"
+15910,16787,[SPA],que ordenar alerta máxima
+15910,16787,[ITA],costretto a ordinare la massima allerta
+15910,16787,[GER],"als dem Militär höchste Alarmbereitschaft
+zu befehlen"
+15910,16787,[FRE],que de passer en alerte rouge
+15910,16787,[ENG],but to order the military to|maximum alert
+16801,17581,[SPA],y llegar a las armas.
+16801,17581,[ITA],e scatenare la battaglia decisiva.
+16801,17581,[GER],und ein Armageddon auszulösen.
+16801,17581,[FRE],et d'engager la lutte suprême.
+16801,17581,[ENG],and unleash Armageddon.
+17791,18682,[SPA],"Con la ayuda de tu predecesor, Kennedy,"
+17791,18682,[ITA],"Con l'aiuto del Suo predecessore
+(Kennedy),"
+17791,18682,[GER],Mithilfe Ihres Vorgängers
+17791,18682,[FRE],"Avec l'aide de votre prédécesseur,"
+17791,18682,[ENG],"With the help of your predecessor,"
+18710,19991,[SPA],"fui capaz de sobrevivir el incidente de
+Cuba."
+18710,19991,[ITA],sono riuscito a superare la crisi di Cuba.
+18710,19991,[GER],überstand ich die Kubakrise.
+18710,19991,[FRE],j'ai réussi à traverser la crise de Cuba.
+18710,19991,[ENG],I was able to survive the Cuban incident.
+20034,21580,[SPA],"Pero ya no tengo el respaldo y la fuerza
+de entonces."
+20034,21580,[ITA],"Ma non ho più il potere che avevo in
+passato."
+20034,21580,[GER],Doch meine Macht ist nicht mehr absolut.
+20034,21580,[FRE],"Mais ma puissance n'est plus ce qu'elle
+était."
+20034,21580,[ENG],But my power is not as great|as it once was.
+21608,23851,[SPA],"Para sobrevivir a esta crisis, necesito tu
+total cooperación."
+21608,23851,[ITA],"Se devo superare questa crisi, devo avere
+la Sua completa collaborazione."
+21608,23851,[GER],"Diese Krise überstehe ich nur mit Ihrer
+vollen Unterstützung."
+21608,23851,[FRE],"Si je dois survivre à cette crise, je dois
+avoir votre entière collaboration."
+21608,23851,[ENG],"If I am to survive this crisis,|I must have your full cooperation."
+24144,24965,[SPA],Te debería haber llamado yo...
+24144,24965,[ITA],Avrei dovuto contattarla io stesso...
+24144,24965,[GER],Ich hätte Sie anrufen sollen ...
+24144,24965,[FRE],"J'aurais dû vous contacter
+moi-même..."
+24144,24965,[ENG],I should have contacted you myself...
+24966,26261,[SPA],"¿Sabes que hace una semana uno de
+nuestros"
+24966,26261,[ITA],"Sapeva che uno dei nostri soldati ha
+disertato nel Suo Paese"
+24966,26261,[GER],"Wussten Sie, dass ein Angehöriger
+unserer Streitkräfte letzte Woche"
+24966,26261,[FRE],"Saviez-vous que l'un de nos soldats a
+déserté notre pays pour le vôtre"
+24966,26261,[ENG],Did you know that one of our soldiers|defected to your country
+26261,26609,[SPA],"soldados desertó para prestar servicios a
+tu país?"
+26261,26609,[ITA],una settimana fa?
+26261,26609,[GER],zu Ihnen übergelaufen ist?
+26261,26609,[FRE],il y une semaine?
+26261,26609,[ENG],a week ago?
+26749,27027,[SPA],...No.
+26749,27027,[ITA],...No.
+26749,27027,[GER],... Nein.
+26749,27027,[FRE],... Non.
+26749,27027,[ENG],...No.
+27264,27974,[SPA],Así que no has oído nada.
+27264,27974,[ITA],Così non ne sa niente.
+27264,27974,[GER],Dann wissen Sie also noch nichts ...
+27264,27974,[FRE],"Alors, vous n'êtes pas au courant."
+27264,27974,[ENG],"So you haven't heard, then."
+27989,28615,[SPA],"El hombre que organizó la deserción fue
+un"
+27989,28615,[ITA],L'uomo che ha organizzato la diserzione
+27989,28615,[GER],"Der Mann, der die Operation in die Wege
+geleitet hatte,"
+27989,28615,[FRE],L'homme qui a organisé cette désertion
+27989,28615,[ENG],The man who arranged the defection
+28616,29995,[SPA],"coronel del GRU llamado Yevgeny
+Borisovitch Volgin."
+28616,29995,[ITA],"era un colonnello del GRU di nome
+Yevgeny Borisovitch Volgin."
+28616,29995,[GER],"ist ein GRU-Oberst namens Yevgeny
+Borisovitch Volgin."
+28616,29995,[FRE],"est un homme du GRU, le colonel Yevgeny
+Borisovitch Volgin."
+28616,29995,[ENG],was a GRU colonel by the name of|Yevgeny Borisovitch Volgin.
+30023,30385,[SPA],¿Volgin?
+30023,30385,[ITA],Volgin?
+30023,30385,[GER],Volgin?
+30023,30385,[FRE],Volgin?
+30023,30385,[ENG],Volgin?
+30552,31387,[SPA],¿De la facción Breznev? ...
+30552,31387,[ITA],Uno dei sostenitori di Breznev?...
+30552,31387,[GER],Der Breschnew-Anhänger?
+30552,31387,[FRE],De la faction de Brejnev?
+30552,31387,[ENG],Of the Brezhnev faction?
+31611,32502,[SPA],"Sigue, sigue. ¿Y quién era ese soldado?"
+31611,32502,[ITA],Vada avanti. Chi era questo soldato?
+31611,32502,[GER],"... Reden Sie weiter. Wer war dieser
+Soldat?"
+31611,32502,[FRE],... Continuez. Qui était ce soldat?
+31611,32502,[ENG],...Go on. Who was this soldier?
+32586,33380,[SPA],Se llama The Boss.
+32586,33380,[ITA],"Si chiama ""The Boss""."
+32586,33380,[GER],"Sie wird „The Boss"" genannt."
+32586,33380,[FRE],Elle s'appelle The Boss.
+32586,33380,[ENG],Her name is The Boss.
+33408,33965,[SPA],Es una leyenda viviente.
+33408,33965,[ITA],È una leggenda vivente.
+33408,33965,[GER],Sie ist eine lebende Legende.
+33408,33965,[FRE],C'est une légende vivante.
+33408,33965,[ENG],She's a living legend.
+33980,35596,[SPA],"Durante la Segunda Guerra Mundial, fue
+ella quien nos condujo hasta la victoria."
+33980,35596,[ITA],"Durante la Seconda Guerra Mondiale, ci ha
+fatto vincere lei quella guerra."
+33980,35596,[GER],"Sie trug im Zweiten Weltkrieg
+entscheidend zu unserem Sieg bei."
+33980,35596,[FRE],"Pendant la Deuxième guerre mondiale,
+c'est elle qui nous a conduit à la victoire."
+33980,35596,[ENG],"During World War II, she was the one|who led us to victory in that war."
+35651,36765,[SPA],"En Rusia, la conocéis como Voyevoda."
+35651,36765,[ITA],"In Russia, è conosciuta come Voyevoda."
+35651,36765,[GER],In Russland nennt man sie Voyevoda.
+35651,36765,[FRE],"En Russie, vous la connaissez sous le
+nom de Voyevoda."
+35651,36765,[ENG],"In Russia, you know her as Voyevoda."
+36794,37170,[SPA],"¿Te refieres,"
+36794,37170,[ITA],Lei intende
+36794,37170,[GER],Sie meinen ...
+36794,37170,[FRE],Vous... vous voulez dire...
+36794,37170,[ENG],You mean...
+37309,37713,[SPA],a THE Boss?
+37309,37713,[ITA],THE Boss?
+37309,37713,[GER],... THE Boss?
+37309,37713,[FRE],... THE Boss?
+37309,37713,[ENG],...THE Boss?
+37755,38590,[SPA],"¿La madre fundadora de las Fuerzas
+Especiales?"
+37755,38590,[ITA],La madre delle Loro Forze Speciali?
+37755,38590,[GER],Die Mutter Ihrer Sondereinsatztruppen?
+37755,38590,[FRE],La mère de vos Forces spéciales?
+37755,38590,[ENG],The mother of your Special Forces?
+38619,39204,[SPA],"Sí, la misma."
+38619,39204,[ITA],"Sì, proprio lei."
+38619,39204,[GER],"Ja, genau die."
+38619,39204,[FRE],"Oui, en personne."
+38619,39204,[ENG],"Yes, that's the one."
+39246,40444,[SPA],"Y consigo se llevó dos minúsculas cabezas
+nucleares."
+39246,40444,[ITA],"E si è portata dietro due proiettili nucleari
+miniaturizzati."
+39246,40444,[GER],"Doch nicht nur das: Sie nahm zwei
+nukleare Minigeschosse mit."
+39246,40444,[FRE],"Et elle a emporté avec elle deux obus
+nucléaires miniaturisés."
+39246,40444,[ENG],And she took two miniature nuclear|shells along with her.
+40458,41823,[SPA],"¿The Boss cogió dos minúsculas cabezas
+nucleares?"
+40458,41823,[ITA],"The Boss ha preso due proiettili nucleari
+miniaturizzati?"
+40458,41823,[GER],"The Boss nahm zwei nukleare
+Minigeschosse mit?"
+40458,41823,[FRE],"The Boss a volé deux obus nucléaires
+miniaturisés?"
+40458,41823,[ENG],The Boss took two miniature nuclear|shells?
+41893,43355,[SPA],"Me temo que sí... creo que para
+regarlárselos a sus nuevos amigos."
+41893,43355,[ITA],"Temo di sì...Credo che fossero un regalo
+per i nuovi padroni di casa."
+41893,43355,[GER],"Ich fürchte ja ... Anscheinend als
+Geschenk für ihre neuen Gastgeber."
+41893,43355,[FRE],"J'en ai bien peur... Je crois que c'était un
+petit cadeau pour ses nouveaux hôtes."
+41893,43355,[ENG],I'm afraid so...I believe they were a gift|for her new hosts.
+43509,43885,[SPA],"El sistema de lanzamiento atómico ""Davy
+Crockett"""
+43509,43885,[ITA],"Il vettore del sistema di armi atomico
+""Davy Crockett"""
+43509,43885,[GER],"Das „Davy Crockett"""
+43509,43885,[FRE],Le Système de frappe nucléaire groupée
+43509,43885,[ENG],"The ""Davy Crockett"""
+43885,45236,[SPA],se completó hace ya dos años.
+43885,45236,[ITA],è stato completato due anni fa.
+43885,45236,[GER],"Atomic Battle Group Delivery System
+wurde vor zwei Jahren fertiggestellt."
+43885,45236,[FRE],"""Davy Crockett"" a été achevé il y a deux
+ans."
+43885,45236,[ENG],Atomic Battle Group Delivery System|was completed two years ago.
+45306,45905,[SPA],Pero se encontraron graves problemas
+45306,45905,[ITA],Ma emersero gravi problemi
+45306,45905,[GER],Doch es gab ernsthafte Probleme
+45306,45905,[FRE],Mais la portée et la précision du lanceur
+45306,45905,[ENG],But serious problems were found
+45905,46671,[SPA],"en la precisión y el alcance del
+lanzamisiles."
+45905,46671,[ITA],"alla portata e alla precisione del
+lanciamissili."
+45905,46671,[GER],"mit der Reichweite und Präzision der
+Abschussanlage."
+45905,46671,[FRE],ont posé de sérieux problèmes.
+45905,46671,[ENG],with the launcher's range and precision.
+46686,47312,[SPA],"Y aunque su producción fue en masa,"
+46686,47312,[ITA],"Sebbene fossero prodotti in serie,"
+46686,47312,[GER],"So wurden die Waffen zwar massenweise
+hergestellt,"
+46686,47312,[FRE],Bien qu'ils aient été produits à grande
+46686,47312,[ENG],"Although they were mass-produced,"
+47312,48106,[SPA],nunca se utilizaron en el campo de batalla.
+47312,48106,[ITA],non sono mai stati usati in battaglia.
+47312,48106,[GER],aber nie im Ernstfall eingesetzt.
+47312,48106,[FRE],"échelle, ils n'ont jamais été déployés au
+combat."
+47312,48106,[ENG],they've never been deployed in battle.
+48121,49333,[SPA],"¡Pero si la planta de investigación de
+Sokolov fue totalmente destruida!"
+48121,49333,[ITA],"Ma l'impianto di ricerca di Sokolov è stato
+polverizzato!"
+48121,49333,[GER],"Aber Sokolovs Forschungsanlage wurde
+vollkommen zerstört!"
+48121,49333,[FRE],"Mais le laboratoire de recherche de
+Sokolov a été rayé de la carte."
+48121,49333,[ENG],But Sokolov's research facility was|completely wiped out!
+49333,50001,[SPA],¡Toda esa zona está contaminada!
+49333,50001,[ITA],L'intera area è contaminata!
+49333,50001,[GER],Das gesamte Gebiet ist kontaminiert!
+49333,50001,[FRE],Toute la zone a été polluée!
+49333,50001,[ENG],The whole area is polluted!
+50029,50990,[SPA],"Sobre esa tremenda tragedia, sólo puedo"
+50029,50990,[ITA],"Posso solo farLe le mie più sentite
+condoglianze"
+50029,50990,[GER],Ich kann Ihnen nur mein herzliches Beileid
+50029,50990,[FRE],"Tout ce que je peux faire, c'est présenter
+mes sincères condoléances"
+50029,50990,[ENG],I can only offer you my deepest|condolences
+50991,51520,[SPA],expresarte mis más sinceras condolencias.
+50991,51520,[ITA],per questa terribile tragedia.
+50991,51520,[GER],"zu dieser schrecklichen Tragödie
+aussprechen."
+50991,51520,[FRE],pour ce triste événement.
+50991,51520,[ENG],over this terrible tragedy.
+51520,52564,[SPA],"Así que... The Boss, con la ayuda del
+coronel Volgin,"
+51520,52564,[ITA],"Dunque...The Boss, con l'aiuto del
+Colonnello Volgin,"
+51520,52564,[GER],"The Boss stahl also mit Hilfe von Oberst
+Volgin"
+51520,52564,[FRE],"Alors... The Boss, avec l'aide du Colonel
+Volgin,"
+51520,52564,[ENG],"So...The Boss, with Colonel Volgin's help,"
+52565,53512,[SPA],"robó dos cabezas nucleares
+experimentales"
+52565,53512,[ITA],"ha rubato due proiettili nucleari
+sperimentali"
+52565,53512,[GER],zwei experimentelle nukleare Geschosse
+52565,53512,[FRE],a volé deux obus nucléaires expérimentaux
+52565,53512,[ENG],stole two experimental nuclear shells
+53512,54793,[SPA],y las llevó consigo cuando desertó.
+53512,54793,[ITA],"e li ha portati con sé come regalo quando
+ha disertato."
+53512,54793,[GER],"und brachte sie als Geschenk mit in die
+Sowjetunion."
+53512,54793,[FRE],"et les a emmenés avec elle lorsqu'elle a
+déserté."
+53512,54793,[ENG],and took them with her as a gift|when she defected.
+54794,55351,[SPA],"Y luego, al poco tiempo,"
+54794,55351,[ITA],"Subito dopo,"
+54794,55351,[GER],Kurz darauf wurde
+54794,55351,[FRE],"Peu de temps après,"
+54794,55351,[ENG],"Then, shortly thereafter,"
+55351,56660,[SPA],"el laboratorio de diseño y desarrollo militar
+secreto de Sokolov,"
+55351,56660,[ITA],"una di queste armi ha distrutto il
+laboratorio di progettazione di Sokolov,"
+55351,56660,[GER],"Sokolovs Konstruktionslabor, eine
+militärische Hochsicherheitsanlage,"
+55351,56660,[FRE],"l'atelier de Sokolov, un laboratoire militaire
+classé secret-défense,"
+55351,56660,[ENG],"Sokolov's design lab, a top-secret|military research facility"
+56661,57469,[SPA],fue destruido por una de estas armas.
+56661,57469,[ITA],un impianto di ricerca militare top-secret.
+56661,57469,[GER],"durch eines dieser Waffensysteme
+zerstört."
+56661,57469,[FRE],a été détruit par l'une de ces armes.
+56661,57469,[ENG],was destroyed by one of these weapons.
+57469,58263,[SPA],¿Voy bien?
+57469,58263,[ITA],Dico bene?
+57469,58263,[GER],Habe ich das soweit richtig verstanden?
+57469,58263,[FRE],"Jusqu'ici, c'est bien ça?"
+57469,58263,[ENG],Am I right so far?
+58347,58848,[SPA],"Sí, correcto."
+58347,58848,[ITA],"Sì, è esatto."
+58347,58848,[GER],"Ja, das ist richtig."
+58347,58848,[FRE],"Oui, c'est tout à fait exact."
+58347,58848,[ENG],"Yes, that's correct."
+58862,60241,[SPA],"Y el gobierno americano niega cualquier
+tipo de implicación en este asunto,"
+58862,60241,[ITA],"E il governo americano nega di essere
+coinvolto nell'incidente."
+58862,60241,[GER],"Und die amerikanische Regierung
+bestreitet jede Beteiligung an der Affäre,"
+58862,60241,[FRE],"Et le gouvernement américain nie toute
+participation à cette affaire,"
+58862,60241,[ENG],"And the American government denies|any involvement in the affair,"
+60255,60881,[SPA],¿me equivoco?
+60255,60881,[ITA],È così?
+60255,60881,[GER],richtig?
+60255,60881,[FRE],j'ai encore raison.
+60255,60881,[ENG],is that right as well?
+60980,61997,[SPA],"Sí. Ellos no tienen ningún tipo de
+responsabilidad en este asunto."
+60980,61997,[ITA],"Proprio così. Non eravamo coinvolti in
+alcun modo."
+60980,61997,[GER],Richtig. Wir hatten damit nichts zu tun.
+60980,61997,[FRE],"Oui. Nous n'avons absolument rien à voir
+là dedans."
+60980,61997,[ENG],That's correct. We were not involved|in any way.
+62011,63292,[SPA],"¿Y entonces por qué detectamos en
+nuestro radar un avión militar americano?"
+62011,63292,[ITA],"Allora che ci faceva un aereo militare USA
+sul nostro schermo radar?"
+62011,63292,[GER],"Und was machte dann ein
+US-Militärflugzeug auf unserem Radar?"
+62011,63292,[FRE],"Alors pourquoi y a-t-il un avion militaire
+américain sur nos radars?"
+62011,63292,[ENG],Then what was a U.S. military aircraft|doing on our radar screen?
+63306,64281,[SPA],"Fue una clara violación de nuestro espacio
+aéreo."
+63306,64281,[ITA],"Ovviamente, violava il nostro spazio aereo."
+63306,64281,[GER],"Es stellte eindeutig eine Verletzung
+unseres Luftraums dar."
+63306,64281,[FRE],"C'est une violation flagrante de notre
+espace aérien."
+63306,64281,[ENG],It was clearly in violation of our airspace.
+64282,65563,[SPA],"¿Y todavía insistes en que ese avión no
+estaba allí bajo tus órdenes?"
+64282,65563,[ITA],"Eppure Lei afferma che non agiva dietro
+Suoi ordini?"
+64282,65563,[GER],"Und Sie behaupten, es habe sich nicht auf
+Ihren Befehl dort aufgehalten?"
+64282,65563,[FRE],"Et pourtant, vous affirmez que cet avion
+n'était pas sous vos ordres?"
+64282,65563,[ENG],And yet you say it was not acting|under your orders?
+65633,66023,[SPA],"Sí, confirmo lo dicho."
+65633,66023,[ITA],Esattamente.
+65633,66023,[GER],Genau.
+65633,66023,[FRE],C'est exact.
+65633,66023,[ENG],That's correct.
+66121,67653,[SPA],"¿Y esperas que me crea que esto es
+obra de un solo soldado?"
+66121,67653,[ITA],"Si aspetta che io creda che tutto questo è
+stato compiuto da un solo soldato?"
+66121,67653,[GER],"Ich soll also glauben, dass all das von
+einem einzigen Soldaten geplant wurde?"
+66121,67653,[FRE],"Vous voulez me faire croire que tout ça
+n'est le travail que d'un seul soldat?"
+66121,67653,[ENG],You expect me to believe that this was|all the work of a single soldier?
+67751,68559,[SPA],No sé qué más decirte.
+67751,68559,[ITA],Non so cos'altro dirLe.
+67751,68559,[GER],"Ich kann Ihnen leider nichts anderes
+sagen."
+67751,68559,[FRE],Je ne sais pas quoi vous dire d'autre.
+67751,68559,[ENG],I don't know what else to tell you.
+68614,69742,[SPA],"El ejército insiste en que todo esto es una
+estratagema."
+68614,69742,[ITA],"L'esercito insiste che tutto questo è un
+Loro sotterfugio."
+68614,69742,[GER],"Die sowjetischen Streitkräfte halten es für
+einen Plan der USA."
+68614,69742,[FRE],"L'armée soutient que tout ça n'est qu'une
+ruse de votre part."
+68614,69742,[ENG],The army insists that this is|all a ploy on your part.
+69757,70481,[SPA],"Te lo puedo decir más alto, pero no más
+claro."
+69757,70481,[ITA],L'ho detto una volta e lo ripeto:
+69757,70481,[GER],Ich habe es doch schon einmal gesagt:
+69757,70481,[FRE],Je l'ai déjà dit et je vais vous le répéter.
+69757,70481,[ENG],I've said it once and I'll say it again.
+70481,71386,[SPA],"Nuestro gobierno no tiene nada que ver en
+este asunto."
+70481,71386,[ITA],"il nostro governo non aveva niente a che
+fare con ciò."
+70481,71386,[GER],Unsere Regierung hat nichts damit zu tun.
+70481,71386,[FRE],"Notre gouvernement n'a rien à voir là
+dedans."
+70481,71386,[ENG],Our government had nothing to do with it.
+71401,72209,[SPA],"Y nada me gustaría más que poder
+creerte."
+71401,72209,[ITA],"Vorrei tanto crederLe,"
+71401,72209,[GER],Ich würde Ihnen gerne glauben.
+71401,72209,[FRE],Et j'aimerais beaucoup vous croire.
+71401,72209,[ENG],And I would like dearly to believe you.
+72223,73086,[SPA],"Sin embargo, desde el incidente de Cuba,"
+72223,73086,[ITA],ma purtroppo la mia influenza sui militari
+72223,73086,[GER],Aber seit der Kubakrise habe ich
+72223,73086,[FRE],"Cependant, mon emprise sur l'armée"
+72223,73086,[ENG],"However, I'm afraid my power over|the military"
+73087,73867,[SPA],"mi poder sobre el ejército se ha visto
+debilitado."
+73087,73867,[ITA],è calata dopo la crisi di Cuba.
+73087,73867,[GER],an Einfluss über das Militär verloren.
+73087,73867,[FRE],s'est affaiblie depuis la crise de Cuba.
+73087,73867,[ENG],has weakened since the Cuban incident.
+73895,74424,[SPA],Necesito alguna prueba que demuestre
+73895,74424,[ITA],Mi servirà una prova che
+73895,74424,[GER],"Ich brauche Beweise,"
+73895,74424,[FRE],Je vais avoir besoin d'une preuve que ceci
+73895,74424,[ENG],I will need some kind of proof
+74424,75399,[SPA],que no es obra del gobierno americano.
+74424,75399,[ITA],"l'azione non è stata ordinata dal governo
+americano."
+74424,75399,[GER],"dass die amerikanische Regierung eine
+weiße Weste hat."
+74424,75399,[FRE],"n'était pas l'action du gouvernement
+américain."
+74424,75399,[ENG],that this was not the action of|the American government.
+76221,76820,[SPA],Tienes una semana.
+76221,76820,[ITA],Le do una settimana.
+76221,76820,[GER],Ich gebe Ihnen eine Woche.
+76221,76820,[FRE],Je vous donne une semaine.
+76221,76820,[ENG],You have one week.
+76820,77391,[SPA],"Vosotros mismos tenéis que atrapar a The
+Boss"
+76820,77391,[ITA],Dovrete catturare The Boss voi stessi
+76820,77391,[GER],"Schnappen Sie The Boss,"
+76820,77391,[FRE],"Vous devez vous-mêmes récupérer The
+Boss"
+76820,77391,[ENG],You must catch The Boss yourselves
+77392,78325,[SPA],y recuperar el misil nuclear que queda.
+77392,78325,[ITA],"e recuperare il dispositivo nucleare
+rimasto."
+77392,78325,[GER],"und holen Sie die andere Nuklearwaffe
+zurück."
+77392,78325,[FRE],"et l'arme nucléaire qui reste en sa
+possession."
+77392,78325,[ENG],and recover the remaining nuclear device.
+78659,79871,[SPA],"Y luego, buscad alguna forma de probar
+vuestra inocencia."
+78659,79871,[ITA],"Poi dovrete trovare il modo di provare la
+vostra innocenza."
+78659,79871,[GER],"Dann müssen Sie einen Weg suchen, wie
+Sie Ihre Unschuld beweisen können."
+78659,79871,[FRE],"Ensuite, vous devrez trouver un moyen de
+prouver votre innocence."
+78659,79871,[ENG],"Then, you must find some way|to prove your innocence."
+79941,80470,[SPA],¿Probar nuestra inocencia?
+79941,80470,[ITA],Provare la nostra innocenza?
+79941,80470,[GER],Unsere Unschuld beweisen?
+79941,80470,[FRE],Prouver notre innocence?
+79941,80470,[ENG],Prove our innocence?
+80610,81933,[SPA],"Sí, alguna prueba... sangrienta..."
+80610,81933,[ITA],Sì. Preferibilmente qualcosa di...doloroso...
+80610,81933,[GER],"Ja. Nach Möglichkeit sollte es etwas ...
+Schmerzhaftes sein ..."
+80610,81933,[FRE],"Oui. De préférence de manière...
+douloureuse..."
+80610,81933,[ENG],Yes. Preferably something...painful...
+81989,83284,[SPA],"Para demostrarme que ésta no es otra de
+vuestras tretas."
+81989,83284,[ITA],"Provatemi che questo non è un altro dei
+vostri trucchetti."
+81989,83284,[GER],"Beweisen Sie mir, dass es nicht nur ein
+weiterer Ihrer Tricks ist."
+81989,83284,[FRE],"Prouvez-moi que ce n'est pas simplement
+l'un de vos stratagèmes."
+81989,83284,[ENG],Prove to me that this is not merely|another one of your tricks.
+83494,84497,[SPA],The Boss estará cerca del Coronel Volgin.
+83494,84497,[ITA],The Boss sarà vicino al Colonnello Volgin.
+83494,84497,[GER],"The Boss ist vermutlich nicht weit von
+Oberst Volgin zu finden."
+83494,84497,[FRE],"The Boss devrait être près du Colonel
+Volgin."
+83494,84497,[ENG],The Boss should be close to|Colonel Volgin.
+84525,85193,[SPA],¿Por qué no cooperamos?
+84525,85193,[ITA],Che ne dice di un po' di coercizione?
+84525,85193,[GER],Wie wäre es mit etwas Zusammenarbeit?
+84525,85193,[FRE],Et si on agissait ensemble?
+84525,85193,[ENG],How about a little coaction?
+85221,85973,[SPA],No cuentes demasiado con nuestra ayuda.
+85221,85973,[ITA],"Se fossi in Lei, non mi aspetterei troppo."
+85221,85973,[GER],"An Ihrer Stelle würde ich nicht zu viel
+erwarten."
+85221,85973,[FRE],"A votre place, je n'en attendrais pas tant."
+85221,85973,[ENG],I would not expect too much|if I were you.
+85974,86754,[SPA],"Nuestra situación política no es demasiado
+estable."
+85974,86754,[ITA],Qui la situazione politica è instabile.
+85974,86754,[GER],Die politische Lage hier ist instabil.
+85974,86754,[FRE],"Ici, la situation politique est très instable."
+85974,86754,[ENG],The political situation here is unstable.
+86810,87687,[SPA],"Y el Coronel Volgin es un miembro de la
+facción Breznev,"
+86810,87687,[ITA],"E il Colonnello Volgin fa parte della schiera
+di Breznev,"
+86810,87687,[GER],"Und Oberst Volgin gehört zur
+Breschnew-Gruppe,"
+86810,87687,[FRE],"Et le Colonel Volgin est un membre de la
+faction de Brejnev,"
+86810,87687,[ENG],"And Colonel Volgin is a member|of the Brezhnev faction,"
+87687,88327,[SPA],que anhela hacerse con el poder...
+87687,88327,[ITA],che tenta di rovesciare il mio governo...
+87687,88327,[GER],die meine Regierung stürzen will ...
+87687,88327,[FRE],"qui cherche à renverser mon
+gouvernement..."
+87687,88327,[ENG],which seeks to topple my government...
+88412,89401,[SPA],Una semana. Sólo tenéis una semana...
+88412,89401,[ITA],Una settimana. Avete solo una settimana...
+88412,89401,[GER],Eine Woche. Sie haben nur eine Woche ...
+88412,89401,[FRE],"Une semaine. Je vous donne une
+semaine..."
+88412,89401,[ENG],One week. You have only one week...
+89401,89972,[SPA],"y, si no es pedir demasiado,"
+89401,89972,[ITA],"e se non chiedo troppo,"
+89401,89972,[GER],"... Und wenn es nicht zu viel verlangt ist,"
+89401,89972,[FRE],"et, si ce n'est pas trop demandé,"
+89401,89972,[ENG],"...and, if it is not too much to ask,"
+89972,90668,[SPA],ocupaos también de Volgin...
+89972,90668,[ITA],occupatevi anche di Volgin...
+89972,90668,[GER],"unternehmen Sie bitte auch etwas gegen
+Volgin ..."
+89972,90668,[FRE],"faites également quelque chose à propos
+de Volgin..."
+89972,90668,[ENG],do something about Volgin as well...
+90766,91365,[SPA],¿Qué quieres decir con eso?
+90766,91365,[ITA],Che significa?
+90766,91365,[GER],Was soll das heißen?
+90766,91365,[FRE],Et qu'est-ce que vous voulez dire par là?
+90766,91365,[ENG],What is that supposed to mean?
+91658,92006,[SPA],Nada...
+91658,92006,[ITA],Niente...
+91658,92006,[GER],Nichts ...
+91658,92006,[FRE],Rien...
+91658,92006,[ENG],Nothing...
+92062,92493,[SPA],no quiero decir nada.
+92062,92493,[ITA],Non significa niente.
+92062,92493,[GER],Es hat nichts zu bedeuten ...
+92062,92493,[FRE],Rien du tout.
+92062,92493,[ENG],It means nothing.
+92675,93469,[SPA],Es un simple trato entre caballeros...
+92675,93469,[ITA],"Diciamo che è un accordo riservato tra
+gentiluomini..."
+92675,93469,[GER],"Nennen Sie es eine bescheidene
+„Vereinbarung unter Gentlemen"" ..."
+92675,93469,[FRE],"Appelons cela un accord entre
+gentlemen..."
+92675,93469,[ENG],Call it a modest gentleman's agreement...
+93469,94513,[SPA],para asegurar nuestra relación.
+93469,94513,[ITA],per continuare le nostre relazioni.
+93469,94513,[GER],die unsere Freundschaft auf Dauer sichert.
+93469,94513,[FRE],pour assurer la pérennité de notre relation.
+93469,94513,[ENG],to ensure our continued relationship.
+94751,95809,[SPA],"¿Y si no puedo ""demostrar nuestra
+inocencia""?"
+94751,95809,[ITA],"E se non riusciamo a ""provare la nostra
+innocenza""?"
+94751,95809,[GER],"Was geschieht, wenn wir nicht „unsere
+Unschuld beweisen"" können?"
+94751,95809,[FRE],"Et si on ne peut pas ""prouver notre
+innocence""?"
+94751,95809,[ENG],"What if we can't ""prove our innocence""?"
+95907,96784,[SPA],Entonces no podré contener al ejército.
+95907,96784,[ITA],Allora non potrò trattenere i militari.
+95907,96784,[GER],"Dann werde ich das Militär nicht mehr in
+Schach halten können."
+95907,96784,[FRE],"Eh bien, je ne répondrais plus de l'armée."
+95907,96784,[ENG],Then I will be unable to restrain|the military.
+96785,97927,[SPA],"Me reemplazarán... y ellos pedirán
+venganza."
+96785,97927,[ITA],"Sarò spodestato...e loro cercheranno di
+vendicarsi."
+96785,97927,[GER],"Ich werde meines Amtes enthoben ... und
+das Militär wird auf Rache sinnen."
+96785,97927,[FRE],"On me chassera du pouvoir... et ils
+chercheront à se venger."
+96785,97927,[ENG],I will be ousted...and they will seek|their revenge.
+98178,99055,[SPA],"¿Un ataque nuclear en los Estados
+Unidos?"
+98178,99055,[ITA],Un attacco nucleare sugli Stati Uniti?
+98178,99055,[GER],"Ein Nuklearangriff auf die Vereinigten
+Staaten?"
+98178,99055,[FRE],"Une attaque nucléaire contre les
+Etats-Unis?"
+98178,99055,[ENG],A nuclear attack on the United States?
+99488,100797,[SPA],"Dejo totalmente en tus manos la resolución
+de esta situación,"
+99488,100797,[ITA],"Affido lo ""smaltimento"" della faccenda
+interamente alla Sua discrezione,"
+99488,100797,[GER],"Ich überlasse es ganz Ihnen, wie Sie diese
+Angelegenheit erledigen,"
+99488,100797,[FRE],"Je vous laisse le choix de l'issue de cette
+situation,"
+99488,100797,[ENG],"I leave the disposal of this situation|entirely to your discretion,"
+100797,101214,[SPA],señor Presidente.
+100797,101214,[ITA],signor Presidente.
+100797,101214,[GER],Herr Präsident.
+100797,101214,[FRE],M. le Président.
+100797,101214,[ENG],Mr. President.
+101285,101800,[SPA],"Resolución, eh...."
+101285,101800,[ITA],"Smaltimento, eh..."
+101285,101800,[GER],"Erledigen, hm ..."
+101285,101800,[FRE],"Le choix, mmm..."
+101285,101800,[ENG],"Disposal, huh..."
+101898,102315,[SPA],"Si fracasas,"
+101898,102315,[ITA],"In caso di fallimento,"
+101898,102315,[GER],"Wenn es Ihnen nicht gelingt,"
+101898,102315,[FRE],"Si vous échouez,"
+101898,102315,[ENG],"If you fail,"
+102316,103555,[SPA],será el inicio de una nueva guerra mundial.
+102316,103555,[ITA],avrà inizio una nuova guerra mondiale.
+102316,103555,[GER],"ist das der Anfang eines neuen
+Weltkrieges."
+102316,103555,[FRE],"ce sera le début d'une nouvelle guerre
+mondiale."
+102316,103555,[ENG],it will mean the beginning of|a new world war.
+104155,105283,[SPA],"Resumiendo, para evitar un conflicto
+nuclear masivo,"
+104155,105283,[ITA],"In parole povere, per evitare un conflitto
+nucleare globale,"
+104155,105283,[GER],"Kurz gesagt: Um einen totalen
+Nuklearkrieg zu vermeiden,"
+104155,105283,[FRE],"En résumé, pour éviter un conflit nucléaire
+à l'échelle mondiale,"
+104155,105283,[ENG],"To put it simply, in order to avoid|a full-scale nuclear conflict,"
+105283,106258,[SPA],"debemos demostrar que América no tiene
+nada que ver con esa explosión."
+105283,106258,[ITA],"dobbiamo provare che l'America non era
+coinvolta in quell'esplosione."
+105283,106258,[GER],"müssen wir beweisen, dass die USA nichts
+mit der Explosion zu tun hatten."
+105283,106258,[FRE],"nous devons prouver que l'Amérique n'y
+est pour rien dans cette explosion."
+105283,106258,[ENG],we have to prove that America was|not involved in that explosion.
+106273,107596,[SPA],"¿Y matando a The Boss demostramos la
+inocencia de América?"
+106273,107596,[ITA],"Ed eliminando noi stessi The Boss
+proveremo l'innocenza dell'America?"
+106273,107596,[GER],"Wenn wir The Boss selbst eliminieren,
+beweist das Amerikas Unschuld?"
+106273,107596,[FRE],"Et le fait d'éliminer The Boss prouverait
+l'innocence des Etats-Unis?"
+106273,107596,[ENG],And eliminating The Boss ourselves|will prove America's innocence?
+107610,107874,[SPA],Exacto.
+107610,107874,[ITA],Già.
+107610,107874,[GER],Ja.
+107610,107874,[FRE],C'est ça.
+107610,107874,[ENG],Right.
+108112,108613,[SPA],Y los jefazos han decidido que
+108112,108613,[ITA],I superiori hanno deciso che
+108112,108613,[GER],"Ganz oben wurde entschieden,"
+108112,108613,[FRE],Les gros bonnets ont décidé que
+108112,108613,[ENG],The higher-ups have decided that
+108613,109574,[SPA],tú eres el único capaz de hacerlo.
+108613,109574,[ITA],tu sei l'unico a potertene occupare.
+108613,109574,[GER],"dass nur du dazu im Stande bist. Du warst
+ihr letzter Schüler."
+108613,109574,[FRE],tu étais le seul à pouvoir relever ce défi.
+108613,109574,[ENG],you're the only one capable of|pulling this off.
+109672,110243,[SPA],Tú fuiste su último aprendiz.
+109672,110243,[ITA],Sei stato il suo ultimo allievo.
+109672,110243,[GER],"Wenn du es vermasselst,"
+109672,110243,[FRE],Tu as été son dernier apprenti.
+109672,110243,[ENG],You were her last apprentice.
+110243,111106,[SPA],"Si la cagas, habrás firmado nuestra
+sentencia de muerte."
+110243,111106,[ITA],"Ma se mandi tutto all'aria, per noi sarà la
+fine."
+110243,111106,[GER],"heißt es für uns beide „Leb wohl, du
+schöne Welt!"""
+110243,111106,[FRE],"Mais si tu échoues, nous serons tous les
+deux bons à être enterrés."
+110243,111106,[ENG],"Screw this one up, and we'll both be|six feet under."
+111121,111594,[SPA],No tenemos alternativa.
+111121,111594,[ITA],Non abbiamo scelta.
+111121,111594,[GER],Wir haben keine Wahl.
+111121,111594,[FRE],Il n'y a pas le choix.
+111121,111594,[ENG],There's no choice.

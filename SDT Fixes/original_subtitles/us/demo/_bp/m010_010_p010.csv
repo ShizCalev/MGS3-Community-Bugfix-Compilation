@@ -1,0 +1,127 @@
+Start Time,End Time,Lang ID,Text
+3274,4430,[SPA],"Sobrevolando el océano Ártico, a una
+altitud de 30.000 pies."
+3274,4430,[ITA],"Sto sorvolando l'Oceano Atlantico, 9000
+metri di quota."
+3274,4430,[GER],"Wir fliegen derzeit über dem arktischen
+Ozean. Flughöhe 30.000 Fuß."
+3274,4430,[FRE],"Nous survolons l'océan Arctique. Altitude
+9000 mètres."
+3274,4430,[ENG],"Currently flying over the Arctic Ocean.|Altitude 30,000 feet."
+4444,5126,[SPA],Aproximándonos al espacio aéreo soviético
+4444,5126,[ITA],Spazio aereo sovietico in avvicinamento.
+4444,5126,[GER],Wir nähern uns sowjetischem Luftraum
+4444,5126,[FRE],Espace aérien soviétique en vue.
+4444,5126,[ENG],Approaching Soviet airspace.
+5154,6198,[SPA],"y al punto designado para el lanzamiento
+del avión."
+5154,6198,[ITA],"In arrivo al punto di lancio dell'aeromobile
+designato."
+5154,6198,[GER],"und dem vorgesehenen Abschusspunkt für
+die Drohne."
+5154,6198,[FRE],"Nous arrivons près du point de largage
+désigné pour le drone."
+5154,6198,[ENG],Arriving at the designated drone|launch point.
+6311,7202,[SPA],"Presión del aceite y del voltaje, correcto."
+6311,7202,[ITA],"Pressione olio aeromobile e voltaggio
+nominali."
+6311,7202,[GER],"Öldruck und Batteriespannung der Drohne
+normal."
+6311,7202,[FRE],"Tension électrique et pression d'huile du
+drone nominales."
+6311,7202,[ENG],Drone oil pressure and voltage|are nominal.
+7300,8108,[SPA],"Carga de alimentación del oxígeno,
+correcto."
+7300,8108,[ITA],Fornitura ossigeno carico utile nominale.
+7300,8108,[GER],Sauerstoffzufuhr für Nutzlast normal.
+7300,8108,[FRE],"Valeur de l'alimentation en oxygène de la
+charge nominale."
+7300,8108,[ENG],Payload oxygen supply is nominal.
+8122,9278,[SPA],"Suministro de energía al sistema
+anticogelante de la carga, correcto."
+8122,9278,[ITA],"Non rilevo problemi di fornitura energia a
+sistema antigelo carico utile."
+8122,9278,[GER],Stromzufuhr für Nutzlast-|Frostschutzanlage zeigt keine Probleme.
+8122,9278,[FRE],"Aucun problème de l'alimentation
+électrique du système antigel de la charge."
+8122,9278,[ENG],Power supply to payload antifreeze|system shows no problems.
+9306,9751,[SPA],No hay ráfagas de viento.
+9306,9751,[ITA],Nessuna folata.
+9306,9751,[GER],Keine schweren Windstöße.
+9306,9751,[FRE],Vents quasiment nuls.
+9306,9751,[ENG],No gusts.
+9863,10740,[SPA],"Todo preparado para la separación del
+avión."
+9863,10740,[ITA],"Tutti i sistemi pronti al distacco
+dell'aeromobile."
+9863,10740,[GER],Alle Systeme bereit zum Start der Drohne.
+9863,10740,[FRE],Préparation au détachement du drone.
+9863,10740,[ENG],All systems go for drone detachment.
+10936,11980,[SPA],"Snake, esta vez no podemos arriesgarnos
+con un salto HALO."
+10936,11980,[ITA],"Snake, stavolta non possiamo rischiare un
+lancio HALO."
+10936,11980,[GER],"Snake, wir können jetzt keinen Freifall
+riskieren."
+10936,11980,[FRE],"Snake, cette fois, on ne peut pas risquer
+un saut HALO."
+10936,11980,[ENG],"Snake, we can't risk a HALO jump|this time around."
+11995,13025,[SPA],"Desde la última vez, la seguridad en el
+espacio aéreo se ha reforzado."
+11995,13025,[ITA],"La sorveglianza aerea è aumentata molto
+dall'ultima volta che eravamo qui."
+11995,13025,[GER],"Die Sicherheit des Luftraums hier wurde
+seit dem letzten Mal erheblich verschärft."
+11995,13025,[FRE],"La sécurité aérienne a été renforcée
+depuis notre dernière visite."
+11995,13025,[ENG],Airspace Security has gotten tighter|since we were last here.
+13040,14084,[SPA],"No podemos acercarnos tanto al suelo 
+como en la misión de Misión Virtuosa."
+13040,14084,[ITA],"Non possiamo avvicinarci tanto al suolo
+come nella Missione Virtuosa."
+13040,14084,[GER],"Wir können nicht so tief fliegen wie
+während der „Virtuosen Mission""."
+13040,14084,[FRE],"Impossible de voler près du sol comme
+dans la Mission Vertueuse."
+13040,14084,[ENG],We can't get as close to the ground|as we did during the Virtuous mission.
+14182,15129,[SPA],"En vez de eso, utilizaremos una de
+nuestras armas más nuevas..."
+14182,15129,[ITA],"Quindi useremo una delle nostre armi più
+recenti..."
+14182,15129,[GER],"Stattdessen werden wir eine unserer
+neuesten Waffen einsetzen ..."
+14182,15129,[FRE],"Nous allons plutôt utiliser l'une de nos
+toutes dernières armes..."
+14182,15129,[ENG],So instead we'll be using one of|our newest weapons... 
+15157,16271,[SPA],"Snake, tendrás una ocasión única, como
+Alan Shepard."
+15157,16271,[ITA],"Snake, ti diamo l'onore al pari di Alan
+Shepard."
+15157,16271,[GER],"Snake, dir wird die gleiche Ehre zuteil wie
+Alan Shepard."
+15157,16271,[FRE],"Un honneur pour toi, Snake. Comparable à
+celui qu'on a fait à Alan Shepard."
+15157,16271,[ENG],"Snake, you're being given an honor|on par with Alan Shepard."
+16384,17428,[SPA],"Ésta es nuestra última oportunidad.
+Demuestra tu patriotismo."
+16384,17428,[ITA],"È la nostra ultima speranza. Mostra il tuo
+patriottismo."
+16384,17428,[GER],"Es ist unsere letzte Chance. Beweise
+deinen Patriotismus."
+16384,17428,[FRE],"C'est notre dernière chance. Fais preuve
+de patriotisme."
+16384,17428,[ENG],This is our last chance.|Show your patriotism.
+17456,17804,[SPA],"Si fracasas,"
+17456,17804,[ITA],"Se fallisci,"
+17456,17804,[GER],"Wenn du versagst,"
+17456,17804,[FRE],"Si tu échoues,"
+17456,17804,[ENG],"If you fail,"
+17805,19031,[SPA],"volverás a la cama de un hospital,
+esperando al escuadrón de ejecución."
+17805,19031,[ITA],"ti ritroverai in un letto d'ospedale, in attesa
+del plotone di esecuzione."
+17805,19031,[GER],"landest du wieder im Krankenhaus - bis
+dich das Erschießungskommando abholt."
+17805,19031,[FRE],"tu seras bon pour le lit d'hôpital, en
+attendant le peloton d'exécution."
+17805,19031,[ENG],"you'll be back in a hospital bed again,|waiting for the firing squad."

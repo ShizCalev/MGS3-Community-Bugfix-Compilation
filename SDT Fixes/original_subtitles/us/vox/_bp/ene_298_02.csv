@@ -1,0 +1,14 @@
+Start Time,End Time,Lang ID,Text
+0,501,[ENG],Emergency situation.
+0,501,[FRE],Situation d'urgence.
+0,501,[GER],Notfall!
+0,501,[ITA],Situazione di emergenza.
+0,501,[SPA],Situación de emergencia.
+501,1114,[ENG],Commence alert formation.
+501,1114,[FRE],"Nous entrons en formation
+d'alerte."
+501,1114,[GER],"Wechseln zur
+Alarmbereitschaft!"
+501,1114,[ITA],Inizio formazione di allerta.
+501,1114,[SPA],"Comienza la formación de
+alerta."

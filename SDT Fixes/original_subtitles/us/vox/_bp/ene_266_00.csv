@@ -1,0 +1,13 @@
+Start Time,End Time,Lang ID,Text
+0,626,[SPA],¡Se ha detectado una bomba en el tanque|de combustible líquido del hangar!
+0,626,[ITA],Individuata bomba sul serbatoio|di carburante liquido nell'hangar.
+0,626,[GER],Bombe am Flüssigtreibstofftank|im Hangar entdeckt!
+0,626,[FRE],"Bombe détectée sur une cuve
+de carburant liquide du hangar!"
+0,626,[ENG],Bomb detected on the Hangar|liquid fuel tank! 
+626,1503,[SPA],¡Enviad inmediatamente una unidad|de desactivación de explosivos!
+626,1503,[ITA],"Mandate subito gli artificieri
+sul posto!"
+626,1503,[GER],Brauchen sofort Kampf-|mittelbeseitiger zur Stelle!
+626,1503,[FRE],Demandons l'intervention immédiate|d'une unité de neutralisation des explosifs.
+626,1503,[ENG],Requesting EOD to the scene|immediately!

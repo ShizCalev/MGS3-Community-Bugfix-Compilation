@@ -1,0 +1,21 @@
+Start Time,End Time,Lang ID,Text
+0,376,[ENG],We're under enemy fire.
+0,376,[FRE],L'ennemi nous attaque
+0,376,[GER],"Wir stehen unter feindlichem
+Beschuss."
+0,376,[ITA],Siamo sotto il fuoco nemico.
+0,376,[SPA],El enemigo está disparando.
+376,863,[ENG],Enemy's position is unknown.
+376,863,[FRE],"d'une position non
+déterminée."
+376,863,[GER],"Position des Feindes
+unbekannt."
+376,863,[ITA],Posizione nemica ignota.
+376,863,[SPA],Se desconoce su posición.
+863,1392,[ENG],Going into alert formation.
+863,1392,[FRE],"Passons en formation
+d'alerte."
+863,1392,[GER],"Wechseln zur
+Alarmaufstellung."
+863,1392,[ITA],Passiamo allo stato di allerta.
+863,1392,[SPA],Adoptad posición de alerta.

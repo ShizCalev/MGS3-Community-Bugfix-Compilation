@@ -1,0 +1,15 @@
+Start Time,End Time,Lang ID,Text
+0,250,[SPA],Recibido.
+0,250,[ITA],Ricevuto.
+0,250,[GER],Verstanden.
+0,250,[FRE],Bien reçu.
+0,250,[ENG],Acknowledged.
+250,1197,[SPA],"Mandando refuerzos.
+Extremad la precaución."
+250,1197,[ITA],"Inviamo rinforzi. Usate
+estrema cautela."
+250,1197,[GER],"Verstärkung ist unterwegs.
+Besonders vorsichtig vorgehen."
+250,1197,[FRE],"J'envoie des renforts. Soyez
+plus vigilants."
+250,1197,[ENG],Sending reinforcements.|Use extra caution.

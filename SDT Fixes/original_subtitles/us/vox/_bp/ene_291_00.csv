@@ -1,0 +1,22 @@
+Start Time,End Time,Lang ID,Text
+0,264,[SPA],¿¡Emergencia!?
+0,264,[ITA],Emergenza?!
+0,264,[GER],Ein Notfall!?
+0,264,[FRE],Une urgence!?
+0,264,[ENG],Emergency!?
+264,960,[SPA],"Pero si ahora no tenemos
+ninguna unidad de apoyo."
+264,960,[ITA],"Ma non abbiamo modo di
+inviare rinforzi per il momento."
+264,960,[GER],Aber wir haben momentan keine|Möglichkeit zur Verstärkung.
+264,960,[FRE],Mais nous ne pouvons pas envoyer|des renforts pour l'instant.
+264,960,[ENG],But we have no means of|reinforcement at the moment.
+961,1587,[SPA],"Tendréis que acabar con
+ellos sin ayuda."
+961,1587,[ITA],"Dovrete affrontarli senza
+appoggio."
+961,1587,[GER],"Sie müssen es ohne
+Unterstützung schaffen."
+961,1587,[FRE],"Vous devrez affronter
+l'ennemi sans renforts."
+961,1587,[ENG],You'll have to take them|on without support.

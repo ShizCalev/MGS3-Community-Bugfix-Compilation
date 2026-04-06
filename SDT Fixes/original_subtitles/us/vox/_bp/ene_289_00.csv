@@ -1,0 +1,23 @@
+Start Time,End Time,Lang ID,Text
+0,348,[SPA],¿¡Infiltración enemiga!?
+0,348,[ITA],Presenza nemica?!
+0,348,[GER],Feind ist eingedrungen!?
+0,348,[FRE],L'ennemi s'est infiltré!?
+0,348,[ENG],Enemy infiltration!?
+348,1044,[SPA],"Pero si no podemos enviar
+refuerzos."
+348,1044,[ITA],"Ma non possiamo inviare
+rinforzi."
+348,1044,[GER],"Aber wir können keine
+Verstärkung entsenden."
+348,1044,[FRE],"Mais nous ne pouvons pas
+envoyer des renforts."
+348,1044,[ENG],But we are unable to dispatch|reinforcements.
+1044,1657,[SPA],"Arreglároslas con los
+hombres que tenéis ahora."
+1044,1657,[ITA],"Provvedete con le risorse
+attuali."
+1044,1657,[GER],"Kommen Sie mit den Männern|zurecht, die Sie haben."
+1044,1657,[FRE],"Faites face avec vos
+ressources actuelles."
+1044,1657,[ENG],Make due with your current|resources.

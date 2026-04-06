@@ -1,0 +1,26 @@
+Start Time,End Time,Lang ID,Text
+0,515,[SPA],"No podemos confirmar la
+muerte del enemigo,"
+0,515,[ITA],"Non possiamo confermare
+che il nemico sia morto,"
+0,515,[GER],"Wir können Tod des Feindes
+nicht bestätigen,"
+0,515,[FRE],"Nous ne pouvons confirmer la
+mort de l'ennemi"
+0,515,[ENG],We can't confirm that|the enemy is dead
+515,1183,[SPA],"pero tenemos razones para
+pensar que el enemigo ha sido
+eliminado."
+515,1183,[ITA],ma abbiamo motivo di credere|che sia stato eliminato.
+515,1183,[GER],gehen aber davon aus.
+515,1183,[FRE],"mais nous avons des raisons
+de croire qu'il a été éliminé."
+515,1183,[ENG],but have reason to believe|that he has been eliminated.
+1184,1741,[SPA],Pasad a formación de alerta.
+1184,1741,[ITA],"Passo in formazione di
+allerta."
+1184,1741,[GER],"Wechseln zur
+Alarmbereitschaft."
+1184,1741,[FRE],"Nous passons en formation
+d'alerte."
+1184,1741,[ENG],Switch to alert formation.

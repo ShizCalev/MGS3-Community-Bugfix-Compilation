@@ -1,0 +1,22 @@
+Start Time,End Time,Lang ID,Text
+0,250,[SPA],¿¡Un intruso!?
+0,250,[ITA],Un intruso?!
+0,250,[GER],Ein Eindringling!?
+0,250,[FRE],Un intrus!?
+0,250,[ENG],An intruder!?
+250,932,[SPA],"Pero si no podemos enviar
+refuerzos ahora mismo."
+250,932,[ITA],"Ma per il momento non
+abbiamo supporto."
+250,932,[GER],"Aber wir haben derzeit keine
+verfügbaren Unterstützungstruppen."
+250,932,[FRE],"Mais aucun renfort n'est
+disponible pour l'instant."
+250,932,[ENG],But we have no support|available at the moment.
+933,1462,[SPA],"Tenéis que arreglároslas
+solos."
+933,1462,[ITA],Dovrete usare ciò che avete.
+933,1462,[GER],Sie müssen sich so behelfen.
+933,1462,[FRE],"Il va falloir vous contenter de
+ce que vous avez."
+933,1462,[ENG],You'll have to use what|you've got.

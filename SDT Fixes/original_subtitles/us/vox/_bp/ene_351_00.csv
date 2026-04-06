@@ -1,0 +1,21 @@
+Start Time,End Time,Lang ID,Text
+0,222,[SPA],Recibido.
+0,222,[ITA],Ricevuto.
+0,222,[GER],Verstanden.
+0,222,[FRE],Bien reçu.
+0,222,[ENG],Acknowledged.
+222,751,[SPA],"Ahora mismo no se puede
+atender la petición."
+222,751,[ITA],"Ma non possiamo rispondere
+alla vostra richiesta ora."
+222,751,[GER],"Aber wir können derzeit
+niemanden entsenden."
+222,751,[FRE],Mais nous ne pouvons répondre|à votre requête pour l'instant.
+222,751,[ENG],But we can't answer|your request now.
+752,1183,[SPA],Permanece la alerta máxima.
+752,1183,[ITA],Rimanete in allerta.
+752,1183,[GER],"Bleiben Sie äußerst
+wachsam."
+752,1183,[FRE],"Restez en phase d'alerte
+maximale."
+752,1183,[ENG],Remain on high alert.

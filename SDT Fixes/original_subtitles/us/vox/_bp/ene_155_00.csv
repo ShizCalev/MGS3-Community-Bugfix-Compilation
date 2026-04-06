@@ -1,0 +1,15 @@
+Start Time,End Time,Lang ID,Text
+0,292,[SPA],Recibido.
+0,292,[ITA],Ricevuto.
+0,292,[GER],Verstanden.
+0,292,[FRE],Bien reçu.
+0,292,[ENG],Acknowledged.
+292,1072,[SPA],"Enviando una unidad de
+refuerzas. No bajéis la guardia."
+292,1072,[ITA],"Inviamo appoggio ora.
+Rimanete vigili."
+292,1072,[GER],"Schicken jetzt Unterstützung.
+Bleibt wachsam."
+292,1072,[FRE],"Les renforts sont en route.
+Restez vigilants."
+292,1072,[ENG],Sending backup now.|Stay vigilant.

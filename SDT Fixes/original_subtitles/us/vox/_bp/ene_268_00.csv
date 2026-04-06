@@ -1,0 +1,16 @@
+Start Time,End Time,Lang ID,Text
+0,738,[SPA],Cargas de C3 han sido detectadas|en el tanque de combustible líquido.
+0,808,[ITA],"Individuato esplosivo C3 sul
+serbatoio di combustibile liquido!"
+0,808,[GER],"C3-Sprengsatz am Tank für
+Flüssigtreibstoff entdeckt!"
+0,808,[FRE],"Des C3 ont été posés sur la
+cuve de carburant liquide!"
+0,808,[ENG],C3 explosive detected|on the liquid fuel tank!
+738,1225,[SPA],¡Llamando a todos los miembros de|la unidad de desactivación de explosivos!
+808,1811,[ITA],"Chiamo tutti gli artificieri
+nell'hangar, immediatamente!"
+808,1811,[GER],Fordere sofort alle Kampf-|mittelbeseitiger zum Hangar an!
+808,1811,[FRE],"Unité de neutralisation des explosifs,|allez immédiatement au Hangar!"
+808,1811,[ENG],Calling all EOD staff to|the Hangar immediately!
+1226,1811,[SPA],¡Id inmediatamente al hangar!

@@ -1,0 +1,168 @@
+Start Time,End Time,Lang ID,Text
+125,1114,[SPA],"La unidad propulsora del Shagohod utiliza
+combustible líquido."
+125,1114,[ITA],"L'unità razzo propulsore dello Shagohod
+usa il carburante liquido,"
+125,1114,[GER],"Das Starttriebwerk des Shagohod
+verbrennt Flüssigtreibstoff."
+125,1114,[FRE],"L'accélérateur du Shagohod utilise un
+carburant liquide."
+125,1114,[ENG],The Shagohod's booster unit uses|liquid fuel.
+1128,1977,[SPA],"Los tanques de combustible están en el
+ala principal del laboratorio de armas..."
+1128,1977,[ITA],"i cui serbatoi sono nell'ala principale del
+laboratorio delle armi..."
+1128,1977,[GER],"Die Treibstofftanks werden im Hauptflügel
+des Waffenlabors gelagert ..."
+1128,1977,[FRE],"Les réservoirs sont dans l'aile principale du
+laboratoire..."
+1128,1977,[ENG],The fuel tanks are in the main wing|of the weapons lab...
+1978,2702,[SPA],en el hangar en el que está el Shagohod.
+1978,2702,[ITA],"nell'hangar dove si trova anche lo
+Shagohod."
+1978,2702,[GER],"im Hangar, in dem auch der Shagohod
+steht."
+1978,2702,[FRE],dans le hangar où est stocké le Shagohod.
+1978,2702,[ENG],in the hangar housing the Shagohod itself.
+2702,3259,[SPA],"¿Y tengo que hacer explotar los
+tanques?"
+2702,3259,[ITA],Quindi dovrei far saltare i serbatoi?
+2702,3259,[GER],Soll ich die Tanks sprengen?
+2702,3259,[FRE],Je dois donc faire exploser les réservoirs?
+2702,3259,[ENG],So I should blow up the tanks?
+3260,3691,[SPA],Eso es.
+3260,3691,[ITA],L'idea di base è quella.
+3260,3691,[GER],Genau.
+3260,3691,[FRE],C'est un peu ça l'idée.
+3260,3691,[ENG],That's the basic idea.
+3691,4582,[SPA],"Bastará para que todo el hangar salte por
+los aires."
+3691,4582,[ITA],"Dovrebbe bastare a far saltare l'intero
+hangar."
+3691,4582,[GER],"Das müsste ausreichen, um den gesamten
+Hangar in die Luft zu jagen."
+3691,4582,[FRE],"Ça devrait suffire à faire exploser tout le
+hangar."
+3691,4582,[ENG],It should be enough to blow up|the entire hangar.
+4722,5335,[SPA],Hay cuatro tanques de combustible.
+4722,5335,[ITA],Ci sono quattro serbatoi di carburante.
+4722,5335,[GER],Es gibt vier Treibstofftanks.
+4722,5335,[FRE],Il y a 4 réservoirs de carburant.
+4722,5335,[ENG],There are four fuel tanks.
+5363,5962,[SPA],"Para destruir el hangar,"
+5363,5962,[ITA],"Per distruggere l'hangar,"
+5363,5962,[GER],"Um den Hangar zu zerstören,"
+5363,5962,[FRE],"Pour détruire ce hangar,"
+5363,5962,[ENG],"In order to destroy the hangar,"
+5962,6839,[SPA],"tendrás que colocar explosivos en cada
+uno de los tanques."
+5962,6839,[ITA],"dovrai piazzare gli esplosivi su ogni singolo
+serbatoio."
+5962,6839,[GER],"musst du auf jedem Tank Sprengstoff
+platzieren."
+5962,6839,[FRE],"tu devras poser des explosifs sur chacun
+de ces réservoirs."
+5962,6839,[ENG],you'll have to set explosives|on each of those tanks.
+6840,7160,[SPA],¿En los cuatro?
+6840,7160,[ITA],Su tutti e quattro?
+6840,7160,[GER],Auf allen vier?
+6840,7160,[FRE],"Quoi, sur les quatre?"
+6840,7160,[ENG],All four of them?
+7161,7787,[SPA],"Para ti, será pan comido."
+7161,7787,[ITA],Non dovresti avere problemi.
+7161,7787,[GER],Das dürfte für dich kein Problem sein.
+7161,7787,[FRE],"Oui, ça ne devrait pas te poser de
+problème."
+7161,7787,[ENG],It should be no sweat for you.
+7801,8609,[SPA],"Además, los científicos tienen hoy el día
+libre."
+7801,8609,[ITA],"Inoltre, oggi gli scienziati hanno il giorno
+libero."
+7801,8609,[GER],"Außerdem haben die Wissenschaftler
+heute ihren freien Tag."
+7801,8609,[FRE],"En plus, les chercheurs sont en congé
+actuellement."
+7801,8609,[ENG],"Besides, the scientists have|the day off today."
+8609,9208,[SPA],¿Así que no hay nadie en el hangar?
+8609,9208,[ITA],Quindi l'hangar è completamente deserto?
+8609,9208,[GER],Der Hangar ist also leer?
+8609,9208,[FRE],Le hangar est donc vide?
+8609,9208,[ENG],So the hangar's completely deserted?
+9209,10003,[SPA],Bueno no. Habrá algún guardia por allí.
+9209,10003,[ITA],"Non proprio. Ci sono sempre delle guardie
+appostate."
+9209,10003,[GER],Nicht ganz. Er wird natürlich bewacht.
+9209,10003,[FRE],"Pas vraiment. Ils ont posté des gardes
+pour le surveiller."
+9209,10003,[ENG],Not quite. They've still got guards|posted there.
+10003,10811,[SPA],Bien. ¿Y qué hago tras colocar el C3?
+10003,10811,[ITA],"Hmm. E cosa faccio dopo avere piazzato il
+C3?"
+10003,10811,[GER],"Hmm. Was muss ich tun, wenn ich das C3
+verteilt habe?"
+10003,10811,[FRE],"Mmm. Et qu'est-ce que je fais après avoir
+posé les C3?"
+10003,10811,[ENG],Hmm. So what do I do after I set the C3?
+10811,11410,[SPA],Las bombas tienen un temporizador.
+10811,11410,[ITA],Le bombe sono collegate a un timer.
+10811,11410,[GER],"Die Bomben werden durch einen
+Zeitzünder aktiviert."
+10811,11410,[FRE],"Ces bombes sont équipées d'une
+minuterie."
+10811,11410,[ENG],The bombs run off a timer.
+11424,12385,[SPA],"Cuando lo actives, comenzará la cuenta
+atrás."
+11424,12385,[ITA],"Una volta impostato il timer, inizia il conto
+alla rovescia."
+11424,12385,[GER],"Sobald du ihn eingestellt hast, beginnt der
+Countdown."
+11424,12385,[FRE],"Une fois activées, le compte à rebours
+commence."
+11424,12385,[ENG],"Once the timer has been set,|the countdown will begin."
+12385,13527,[SPA],"Cuando llegue a cero, las bombas
+explotarán."
+12385,13527,[ITA],"Quando il timer arriva a zero, le bombe
+esplodono tutte insieme."
+12385,13527,[GER],"Wenn er Null erreicht, explodieren sie alle."
+12385,13527,[FRE],"Une fois à zéro, toutes les bombes
+explosent en même temps."
+12385,13527,[ENG],"When the timer reaches zero,|the bombs will all go off at once."
+13527,13903,[SPA],¿Cuánto tiempo tengo?
+13527,13903,[ITA],Quanto tempo ho?
+13527,13903,[GER],Wie viel Zeit habe ich dann?
+13527,13903,[FRE],Combien de temps est-ce que j'ai?
+13527,13903,[ENG],How long do I have?
+13904,14252,[SPA],20 minutos.
+13904,14252,[ITA],20 minuti.
+13904,14252,[GER],20 Minuten.
+13904,14252,[FRE],20 minutes.
+13904,14252,[ENG],20 minutes.
+14252,14809,[SPA],"Cuando terminen las pruebas de la Fase 2,"
+14252,14809,[ITA],"Una volta completate le prove della Fase
+2,"
+14252,14809,[GER],"Es würde mich nicht überraschen, wenn
+sie nach"
+14252,14809,[FRE],"Une fois les essais de Phase 2 terminés,"
+14252,14809,[ENG],"Once the Phase 2 trials are finished,"
+14809,15547,[SPA],seguro que matan a todos los científicos
+14809,15547,[ITA],"non mi stupirei se uccidessero tutti gli
+scienziati"
+14809,15547,[GER],"Abschluss der Erprobungen in Phase 2 alle
+Wissenschaftler eliminieren würden,"
+14809,15547,[FRE],"ce ne serait pas surprenant qu'ils tuent
+tous les chercheurs"
+14809,15547,[ENG],I wouldn't be surprised if they|kill all the scientists
+15548,16314,[SPA],"para que no hablen. ¡Tienes que darte
+prisa!"
+15548,16314,[ITA],"per impedirgli di parlare. Quindi devi agire
+in fretta!"
+15548,16314,[GER],"um sie zum Schweigen zu bringen. Du
+musst also schnell sein!"
+15548,16314,[FRE],"pour les empêcher de parler. Il faut
+donc agir vite!"
+15548,16314,[ENG],to prevent them from talking.|So you've got to act fast!
+16314,16773,[SPA],Yo me ocuparé de todo.
+16314,16773,[ITA],Ci penso io.
+16314,16773,[GER],Ich mache das schon.
+16314,16773,[FRE],Je m'en occupe.
+16314,16773,[ENG],I'll take care of it.

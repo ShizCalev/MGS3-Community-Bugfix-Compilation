@@ -1,0 +1,15 @@
+Start Time,End Time,Lang ID,Text
+0,599,[SPA],Recibido. Petición aceptada.
+0,599,[ITA],Ricevuto. Richiesta accolta.
+0,599,[GER],Verstanden. Genehmigt.
+0,599,[FRE],"Bien reçu. Requête
+accordée."
+0,599,[ENG],Acknowledged.|Allowing request.
+599,1156,[SPA],"Al acabar, vuelve a la
+patrulla."
+599,1156,[ITA],Riprendi la perlustrazione|quando hai finito.
+599,1156,[GER],"Nehmen Sie anschließend
+Ihre Patrouille wieder auf."
+599,1156,[FRE],"Continuez votre patrouille une
+fois cela terminé."
+599,1156,[ENG],Resume patrol when you're|done.

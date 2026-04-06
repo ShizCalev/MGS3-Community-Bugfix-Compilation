@@ -1,0 +1,15 @@
+Start Time,End Time,Lang ID,Text
+0,208,[SPA],Entendido.
+0,208,[ITA],Ricevuto.
+0,208,[GER],Verstanden.
+0,208,[FRE],Compris.
+0,208,[ENG],Understood.
+208,1057,[SPA],"Fin de la fase de alerta.
+Volved a vuestras posiciones."
+208,1057,[ITA],"Stato di allerta rientrato.
+Tornate in posizione."
+208,1057,[GER],"Alarmstatus aufgehoben.
+Kehrt auf euren Posten zurück."
+208,1057,[FRE],"Fin de la phase d'alerte.
+Reprenez vos positions."
+208,1057,[ENG],Alert status recalled.|Return to your position.

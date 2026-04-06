@@ -1,0 +1,902 @@
+Start Time,End Time,Lang ID,Text
+13,653,[SPA],"Jack, tengo noticias importantes."
+13,653,[ITA],"Jack, ho notizie importanti."
+13,653,[GER],"Jack, ich habe wichtige Neuigkeiten."
+13,653,[FRE],"Jack, j'ai une nouvelle importante."
+13,653,[ENG],"Jack, I've got some important news."
+766,1685,[SPA],"El jefe de la CIA por fin nos ha dado luz
+verde"
+766,1685,[ITA],"Il capo della CIA ci ha finalmente dato il
+via libera"
+766,1685,[GER],Der CIA-Chef hat uns endlich grünes Licht
+766,1685,[FRE],"Le chef de la CIA nous a enfin donné le
+feu vert"
+766,1685,[ENG],The head of the CIA has finally given us|the green light
+1685,2075,[SPA],para la Misión Virtuosa.
+1685,2075,[ITA],per la Missione Virtuosa.
+1685,2075,[GER],"für die „Virtuose Mission"" gegeben."
+1685,2075,[FRE],pour la Mission Vertueuse.
+1685,2075,[ENG],for the Virtuous mission.
+2075,2534,[SPA],¿Misión Virtual?
+2075,2534,[ITA],Missione Virtuale?
+2075,2534,[GER],Virtuelle Mission?
+2075,2534,[FRE],La Mission Virtuelle ?
+2075,2534,[ENG],Virtual Mission?
+2549,3162,[SPA],"No, la Misión Virtuosa."
+2549,3162,[ITA],"No, la Missione Virtuosa,"
+2549,3162,[GER],"Nein, die „Virtuose Mission""."
+2549,3162,[FRE],"Non, la Mission Vertueuse."
+2549,3162,[ENG],"No, the Virtuous Mission."
+3162,3816,[SPA],"El futuro de nuestra unidad FOX, depende
+de ella."
+3162,3816,[ITA],"da cui dipende il futuro della nostra unità
+FOX."
+3162,3816,[GER],"Davon hängt die Zukunft unserer
+FOX-Einheit ab."
+3162,3816,[FRE],L'avenir de l'unité FOX en dépend.
+3162,3816,[ENG],The future of our FOX unit depends on it.
+3831,4764,[SPA],"Si resulta exitosa, pasaremos a formar una
+unidad."
+3831,4764,[ITA],"Se riesce, diventeremo una unità ufficiale."
+3831,4764,[GER],"Wenn der Einsatz erfolgreich ist, werden
+wir offiziell zu einer Einheit."
+3831,4764,[FRE],"Si c'est un succès, l'unité sera reconnue
+officiellement."
+3831,4764,[ENG],"If it succeeds, we'll be officially organized|into a unit."
+4778,5321,[SPA],¿Misión Virtuosa?
+4778,5321,[ITA],Missione Virtuosa?
+4778,5321,[GER],"„Virtuose Mission""?"
+4778,5321,[FRE],Une mission vertueuse ?
+4778,5321,[ENG],Virtuous mission?
+5349,6226,[SPA],"Qué es, una primera prueba."
+5349,6226,[ITA],Fa pensare a un rituale di iniziazione.
+5349,6226,[GER],Hört sich nach einem Aufnahmeritual an.
+5349,6226,[FRE],On dirait un de ces rituels initiatiques.
+5349,6226,[ENG],Sounds like some kind of initiation ritual.
+6255,7049,[SPA],"No seas tan listillo. No es una operación
+de entrenamiento."
+6255,7049,[ITA],"Non fare l'arrogante. Non è un
+addestramento."
+6255,7049,[GER],"Werde nicht frech. Das hier ist keine
+Übung."
+6255,7049,[FRE],"Fais pas le malin. Tu n'es plus à
+l'entraînement."
+6255,7049,[ENG],Don't get cocky. This isn't a training op.
+7133,7467,[SPA],"Bien, y entonces,"
+7133,7467,[ITA],Bene.
+7133,7467,[GER],Okay.
+7133,7467,[FRE],OK.
+7133,7467,[ENG],Right.
+7551,8414,[SPA],¿de qué trata esta maravillosa misión?
+7551,8414,[ITA],"Che cos'è di preciso questa missione
+fantastica?"
+7551,8414,[GER],"Worum handelt es sich dann bei diesem
+tollen Einsatz?"
+7551,8414,[FRE],"Alors, c'est quoi exactement, cette
+merveilleuse mission ?"
+7551,8414,[ENG],"So, what exactly is this wonderful|mission?"
+8456,8734,[SPA],Bien...
+8456,8734,[ITA],Be'...
+8456,8734,[GER],Nun ...
+8456,8734,[FRE],Eh bien...
+8456,8734,[ENG],Well...
+9097,9891,[SPA],"Hace más o menos dos años,"
+9097,9891,[ITA],"Circa due anni fa,"
+9097,9891,[GER],Vor etwa zwei Jahren
+9097,9891,[FRE],"Il y a 2 ans environ,"
+9097,9891,[ENG],About two years ago
+9933,10977,[SPA],"cierto científico soviético pidió asilo en
+Occidente"
+9933,10977,[ITA],"uno scienziato sovietico chiese asilo
+all'Ovest"
+9933,10977,[GER],"ersuchte ein gewisser sowjetischer
+Wissenschaftler durch einen"
+9933,10977,[FRE],"un scientifique soviétique a demandé l'asile
+politique à l'Ouest,"
+9933,10977,[ENG],a certain Soviet scientist requested|asylum in the West
+10978,11632,[SPA],a través de uno de nuestros espías.
+10978,11632,[ITA],tramite un nostro infiltrato.
+10978,11632,[GER],unserer Maulwürfe Asyl im Westen.
+10978,11632,[FRE],via l'un de nos espions.
+10978,11632,[ENG],through one of our moles.
+11897,12760,[SPA],"Su nombre es Nikolai Stepanovich
+Sokolov."
+11897,12760,[ITA],Si chiama Nikolai Stepanovich Sokolov.
+11897,12760,[GER],Er heißt Nikolai Stepanovich Sokolov.
+11897,12760,[FRE],"C'était Nikolai Stepanovich Sokolov,"
+11897,12760,[ENG],His name is Nikolai Stepanovich Sokolov.
+12887,13945,[SPA],"Es el máximo responsable de la Oficina de
+Diseño OKB-754, una de las oficinas"
+12887,13945,[ITA],"È il capo dell'Ufficio di progettazione
+OKB-754,"
+12887,13945,[GER],"Er leitet das Konstruktionsbüro OKB-754,"
+12887,13945,[FRE],"le chef du Bureau de design OKB-754,"
+12887,13945,[ENG],"He's head of the OKB-754|Design Bureau,"
+13945,14975,[SPA],"soviéticas de diseño armamentístico más
+secretas"
+13945,14975,[ITA],"uno degli impianti di ricerca di armi
+top-secret sovietici,"
+13945,14975,[GER],"eine der geheimsten
+Waffen-Forschungseinrichtungen der
+Sowjets."
+13945,14975,[FRE],"un atelier de conception d'armement
+soviétique top-secret."
+13945,14975,[ENG],"one of the Soviets' top-secret|weapon research facilities,"
+14990,15979,[SPA],"y la más especializada del Este en el
+desarrollo de armas."
+14990,15979,[ITA],"e il maggiore esperto dell'Est di sviluppo
+degli armamenti."
+14990,15979,[GER],"Er ist der Waffenentwicklungsexperte des
+Ostblocks."
+14990,15979,[FRE],"C'est aussi l'expert en armement le plus
+respecté du bloc Est."
+14990,15979,[ENG],and the East's foremost expert|on weapons development.
+15993,16982,[SPA],"Sokolov... ¿no es el famoso científico
+espacial?"
+15993,16982,[ITA],"Sokolov... Non è lui il famoso scienziato
+del razzo?"
+15993,16982,[GER],"Sokolov ... ist er nicht der berühmte
+Raketenwissenschaftler?"
+15993,16982,[FRE],"Sokolov... Le célèbre spécialiste en
+aérospatiale ?"
+15993,16982,[ENG],Sokolov...isn't he that famous rocket|scientist?
+16983,17359,[SPA],El mismo.
+16983,17359,[ITA],Proprio lui.
+16983,17359,[GER],Genau der.
+16983,17359,[FRE],Exactement.
+16983,17359,[ENG],The very same.
+17665,18417,[SPA],"El 12 de abril de 1.961,"
+17665,18417,[ITA],"Il 12 aprile 1961,"
+17665,18417,[GER],Am 12. April 1961
+17665,18417,[FRE],"Le 12 avril 1961,"
+17665,18417,[ENG],"On April 12, 1961,"
+18418,19657,[SPA],"los soviéticos consiguieron el primer vuelo
+espacial tripulado de la historia."
+18418,19657,[ITA],"i sovietici mandarono nello spazio il primo
+equipaggio umano."
+18418,19657,[GER],"gelang den Sowjets der erste bemannte
+Raumflug der Geschichte."
+18418,19657,[FRE],les Soviétiques ont réussi le premier vol|spatial humain.
+18418,19657,[ENG],the Soviets achieved the first manned|space flight in history.
+19741,20785,[SPA],"La Tierra era azul, pero no había ningún
+Dios."
+19741,20785,[ITA],La Terra era blu. Ma non c'era nessun Dio.
+19741,20785,[GER],"Die Erde war blau. Doch es gab keinen
+Gott."
+19741,20785,[FRE],"La Terre était bleue, mais Dieu n'existait
+plus."
+19741,20785,[ENG],The Earth was blue.|But there was no God.
+20814,21134,[SPA],Eso es.
+20814,21134,[ITA],Esattamente.
+20814,21134,[GER],Wohl gesprochen.
+20814,21134,[FRE],Exactement.
+20814,21134,[ENG],Well spoken.
+21204,22374,[SPA],"El cohete que llevó a Yuri Gagarin al
+espacio era el A1,"
+21204,22374,[ITA],"Il razzo che trasportò Yuri Gagarin in
+orbita era l'A1,"
+21204,22374,[GER],"Die Rakete, mit der Juri Gagarin in die
+Erdumlaufbahn flog, war die A1,"
+21204,22374,[FRE],"La fusée qui transportait Yuri Gagarin en
+orbite, c'est l'A1,"
+21204,22374,[ENG],"The rocket that carried Yuri Gagarin|into orbit was the A1,"
+22374,23070,[SPA],también conocido como el cohete Vostok.
+22374,23070,[ITA],soprannominato il razzo Vostok.
+22374,23070,[GER],die so genannte Vostok-Rakete.
+22374,23070,[FRE],mieux connu sous le nom de fusée Vostok.
+22374,23070,[ENG],known as the Vostok rocket.
+23196,24031,[SPA],Se dice que el máximo responsable
+23196,24031,[ITA],Pare che si debba a Sokolov l'impiego
+23196,24031,[GER],"Es heißt, Sokolov habe entscheidend"
+23196,24031,[FRE],"On dit que Sokolov est à l'origine du
+système"
+23196,24031,[ENG],Sokolov is said to be the man|most responsible
+24032,25007,[SPA],"del sistema racimo multi motor del cohete
+fue Sokolov."
+24032,25007,[ITA],del plurimotore in parallelo su quel razzo.
+24032,25007,[GER],"an der Entwicklung der Triebwerkgruppe
+der Rakete mitgearbeitet."
+24032,25007,[FRE],multi-moteurs utilisé dans cette fusée.
+24032,25007,[ENG],for the multi-engine cluster|used in that rocket.
+25230,26567,[SPA],"Tras el vuelo de Gagarin, Sokolov
+abandonó el proyecto"
+25230,26567,[ITA],"Dopo il volo di Gagarin, Sokolov lasciò lo
+sviluppo dei razzi"
+25230,26567,[GER],"Nach Gagarins Flug wechselte Sokolov
+von der Raketenentwicklung"
+25230,26567,[FRE],"Après le vol de Gagarin, Sokolov a
+abandonné le développement des fusées"
+25230,26567,[ENG],"After Gagarin's flight,|Sokolov left rocket development"
+26596,27710,[SPA],"de los cohetes para convertirse en el
+responsable de la oficina de diseño."
+26596,27710,[ITA],"e diventò capo del nuovo Ufficio di
+progettazione."
+26596,27710,[GER],"zum neuen Konstruktionsbüro, dessen
+Leitung er übernahm."
+26596,27710,[FRE],"pour diriger ce Bureau de design
+nouvellement établi."
+26596,27710,[ENG],to become the head of the newly|established Design Bureau.
+27738,28601,[SPA],"Pasó de ser un técnico a responsable de
+una nueva oficina de diseño de armas."
+27738,28601,[ITA],"Da semplice tecnico a capo di un Ufficio di
+progettazione."
+27738,28601,[GER],"Von einem einfachen Techniker zum Leiter
+eines Konstruktionsbüros."
+27738,28601,[FRE],"D'un poste de technicien à la présidence
+d'un Bureau de design."
+27738,28601,[ENG],From a lowly technician to head|of a Design Bureau.
+28602,29549,[SPA],"Menudo ascenso. ¿Y por qué querría
+desertar?"
+28602,29549,[ITA],"Un bel salto di qualità. Perché mai volle
+disertare?"
+28602,29549,[GER],"Eine richtige Erfolgsgeschichte. Warum will
+er dann die Fronten wechseln?"
+28602,29549,[FRE],"Une sacrée promotion. Pourquoi vouloir
+s'enfuir ?"
+28602,29549,[ENG],That's quite a success story.|So why'd he want to defect?
+29563,30482,[SPA],"Al parecer, sus propias creaciones le
+dieron miedo."
+29563,30482,[ITA],"Sembra che avesse paura delle sue stesse
+creazioni."
+29563,30482,[GER],"Es scheint als fürchte er sich vor den
+Früchten seines eigenen Werkes."
+29563,30482,[FRE],"A croire que ses propres créations
+l'effrayaient."
+29563,30482,[ENG],It seems he'd become afraid of|his own creations.
+30580,31011,[SPA],¿Miedo?
+30580,31011,[ITA],Paura?
+30580,31011,[GER],Fürchten?
+30580,31011,[FRE],L'effrayaient ?
+30580,31011,[ENG],Afraid?
+31054,31680,[SPA],Le dio como una crisis de conciencia...
+31054,31680,[ITA],Chiamala pure crisi di coscienza.
+31054,31680,[GER],Nennen wir es eine Gewissenskrise.
+31054,31680,[FRE],"Disons que c'était une crise de
+conscience."
+31054,31680,[ENG],Call it a crisis of conscience.
+31695,32948,[SPA],"¿Y por eso abandonó su país y a su
+familia, y cambió de bando?"
+31695,32948,[ITA],"Per questo lasciò il suo Paese e la sua
+famiglia e passò dall'altra parte?"
+31695,32948,[GER],"Und darum verließ er Land und Familie
+und floh in den Westen?"
+31695,32948,[FRE],"Il a donc abandonné son pays et sa famille
+pour rejoindre l'ennemi?"
+31695,32948,[ENG],"And for that, he left his country and his|family behind and went over the fence?"
+32963,33227,[SPA],No exactamente.
+32963,33227,[ITA],Non proprio.
+32963,33227,[GER],Nicht ganz.
+32963,33227,[FRE],Pas tout à fait.
+32963,33227,[ENG],Not exactly.
+33241,34592,[SPA],"Pidió que su familia también fuera
+transportada sana y salva a Occidente."
+33241,34592,[ITA],"Pose la condizione che anche la sua
+famiglia fosse trasferita all'Ovest."
+33241,34592,[GER],"Er forderte, dass auch seiner Familie die
+Flucht ermöglicht würde."
+33241,34592,[FRE],"Une de ses conditions était que sa famille
+devait le rejoindre à l'Ouest."
+33241,34592,[ENG],One of his conditions was that his family|was also to be taken safely to the West.
+34593,35289,[SPA],"Antes de nada, utilizamos un espía para
+sacar a su familia,"
+34593,35289,[ITA],"Noi usammo un infiltrato per fare uscire la
+famiglia per prima,"
+34593,35289,[GER],Dabei half uns ein Maulwurf.
+34593,35289,[FRE],"Un de nos espions a d'abord transféré sa
+famille."
+34593,35289,[ENG],"We used a mole to get the family|out first,"
+35289,36542,[SPA],"y poco después, fue el turno de Sokolov, a
+través del muro de Berlín."
+35289,36542,[ITA],"e poco dopo riuscimmo a fare oltrepassare
+a Sokolov il Muro di Berlino."
+35289,36542,[GER],"Sokolov kam kurz darauf heimlich über die
+Berliner Mauer."
+35289,36542,[FRE],"Peu de temps après, il a aidé Sokolov à
+traverser le mur de Berlin."
+35289,36542,[ENG],and succeeded in sneaking Sokolov over|the Berlin Wall shortly afterwards.
+36738,37671,[SPA],Yo fui el responsable de la operación.
+36738,37671,[ITA],L'operazione la condussi io.
+36738,37671,[GER],Ich leitete diesen Einsatz.
+36738,37671,[FRE],C'était moi qui dirigeais les opérations.
+36738,37671,[ENG],I was the one who conducted|the operation.
+37713,38869,[SPA],"Por aquel entonces, las medidas de
+seguridad del Este dejaban mucho"
+37713,38869,[ITA],"Allora la sorveglianza sul lato orientale era
+piuttosto scadente."
+37713,38869,[GER],"Damals war die Sicherheit im Osten noch
+nicht so nahtlos wie heute."
+37713,38869,[FRE],"A l'époque, la sécurité à l'est du mur
+laissait encore à désirer."
+37713,38869,[ENG],The security on the eastern side|was still full of holes back then.
+38870,39204,[SPA],que desear. ¿Y luego qué?
+38870,39204,[ITA],E poi?
+38870,39204,[GER],Und dann?
+38870,39204,[FRE],Et après ?
+38870,39204,[ENG],Then what?
+39232,39858,[SPA],"Tras conseguir que Sokolov llegara en una
+sola pieza,"
+39232,39858,[ITA],"Riuscimmo a fare passare Sokolov sano e
+salvo,"
+39232,39858,[GER],"Wir bekamen Sokolov sicher rüber,"
+39232,39858,[FRE],"Sokolov était vivant,"
+39232,39858,[ENG],"We got Sokolov over in one piece, "
+39859,40583,[SPA],tuvimos que ingresarle en un hospital
+39859,40583,[ITA],ma l'impresa lo aveva sfinito
+39859,40583,[GER],"aber durch die Strapazen war er erschöpft,"
+39859,40583,[FRE],mais cet enfer l'avait quasiment anéanti.
+39859,40583,[ENG],"but the whole ordeal had left him|exhausted,"
+40583,41363,[SPA],de Oeste de Berlín. Estaba agotado.
+40583,41363,[ITA],"e lo facemmo ricoverare in un ospedale di
+Berlino Ovest."
+40583,41363,[GER],"sodass wir ihn in ein Krankenhaus in
+Westberlin brachten."
+40583,41363,[FRE],"Nous l'avons donc transféré dans un
+hôpital de Berlin Ouest."
+40583,41363,[ENG],and we checked him into a hospital|in West Berlin.
+41377,42101,[SPA],"Tardó dos semanas en recorrer los 1.000
+kilómetros"
+41377,42101,[ITA],"Ci mise due settimane e più di 1000
+chilometri"
+41377,42101,[GER],"Er hatte über 1000 km in zwei Wochen
+zurückgelegt,"
+41377,42101,[FRE],"Il avait mis 2 semaines à parcourir les
+1000 km"
+41377,42101,[ENG],It took him two weeks and more than|600 miles
+42102,43119,[SPA],"que separan la oficina de diseño de la
+Unión Soviética, de Berlín."
+42102,43119,[ITA],"per raggiungere Berlino dall'impianto di
+ricerca in Unione Sovietica."
+42102,43119,[GER],"um vom Forschungslabor in der
+Sowjetunion nach Berlin zu gelangen."
+42102,43119,[FRE],"entre le Bureau de design en Union
+Soviétique et Berlin."
+42102,43119,[ENG],to get from the research facility|in the Soviet Union to Berlin.
+43119,43968,[SPA],No era capaz de decir nada coherente.
+43119,43968,[ITA],Non riusciva a dire niente di sensato.
+43119,43968,[GER],"In seinem Zustand konnte er keine
+zusammenhängenden Aussagen machen."
+43119,43968,[FRE],"Une fois arrivé, son discours était
+incohérent."
+43119,43968,[ENG],He was in no condition to say anything|coherent.
+44206,44805,[SPA],"Y tan sólo una semana después,"
+44206,44805,[ITA],E fu solo una settimana dopo
+44206,44805,[GER],Und nur eine Woche später
+44206,44805,[FRE],"Et pas plus d'une semaine plus tard,"
+44206,44805,[ENG],And it was only a week later
+44805,45585,[SPA],"había un problema mucho más grave del
+cual ocuparnos."
+44805,45585,[ITA],"che ci ritrovammo qualcosa di molto più
+grande tra le mani."
+44805,45585,[GER],"mussten wir uns mit einer viel ernsteren
+Angelegenheit befassen."
+44805,45585,[FRE],"un autre coup, bien plus fort celui-ci, nous
+tombait sur la tête."
+44805,45585,[ENG],that we had something much bigger|on our hands.
+45710,46406,[SPA],La crisis de los misiles cubanos...
+45710,46406,[ITA],La Crisi dei Missili Cubani...
+45710,46406,[GER],Der Kubakrise ...
+45710,46406,[FRE],La crise des missiles de Cuba...
+45710,46406,[ENG],The Cuban Missile Crisis...
+46574,47354,[SPA],16 de Octubre de 1.962.
+46574,47354,[ITA],16 ottobre 1962.
+46574,47354,[GER],Am 16. Oktober 1962
+46574,47354,[FRE],Le 16 octobre 1962.
+46574,47354,[ENG],"October 16, 1962."
+47354,48315,[SPA],"El presidente Kennedy recibe noticias
+sobre un despliegue de misiles"
+47354,48315,[ITA],"Il Presidente Kennedy venne a sapere che
+i sovietici stavano"
+47354,48315,[GER],"erfuhr Präsident Kennedy, dass die
+Sowjets Mittelstreckenraketen"
+47354,48315,[FRE],"Le président Kennedy a été informé que
+les Soviétiques étaient sur le point"
+47354,48315,[ENG],President Kennedy received word|that the Soviets were in the process
+48316,49458,[SPA],"balísticos de medio alcance en Cuba, por
+parte de fuerzas Soviéticas."
+48316,49458,[ITA],"spiegando dei missili balistici a portata
+intermedia a Cuba."
+48316,49458,[GER],in Kuba stationierten.
+48316,49458,[FRE],"de déployer des missiles balistiques à
+moyenne portée à Cuba."
+48316,49458,[ENG],of deploying intermediate-range|ballistic missiles in Cuba.
+49695,50433,[SPA],"El Presidente exigió a los Soviéticos la
+desmantelación"
+49695,50433,[ITA],"Il Presidente chiese ai sovietici di
+smantellare"
+49695,50433,[GER],"Der Präsident verlangte, dass die Sowjets
+die Raketen abbauten"
+49695,50433,[FRE],Le président a exigé le démantèlement et
+49695,50433,[ENG],The President demanded that|the Soviets dismantle
+50433,50920,[SPA],y la eliminación de los misiles.
+50433,50920,[ITA],"e rimuovere i missili e,"
+50433,50920,[GER],und von der Insel entfernten.
+50433,50920,[FRE],le retrait des missiles soviétiques.
+50433,50920,[ENG],and remove the missiles.
+50921,51617,[SPA],"Al mismo tiempo, anunció un bloqueo
+naval"
+50921,51617,[ITA],"allo stesso tempo, annunciò un blocco
+navale"
+50921,51617,[GER],"Gleichzeitig verhängte er eine
+Seeblockade,"
+50921,51617,[FRE],"Au même moment, il a annoncé un
+blocus maritime"
+50921,51617,[ENG],"At the same time, he announced|a naval blockade"
+51617,52494,[SPA],"para evitar que más barcos con misiles
+llegaran a Cuba."
+51617,52494,[ITA],"per impedire l'arrivo a Cuba di altre navi
+con i missili."
+51617,52494,[GER],"die weitere Raketenlieferungen an Kuba
+verhindern sollte."
+51617,52494,[FRE],"pour empêcher toute autre livraison de
+missiles à Cuba."
+51617,52494,[ENG],to prevent further missile shipments|from reaching Cuba.
+52593,53122,[SPA],"Pero los Soviéticos ignoraron sus órdenes,"
+52593,53122,[ITA],"Ma i sovietici non si arresero, anzi,"
+52593,53122,[GER],Doch die Sowjets gaben nicht nach.
+52593,53122,[FRE],Mais les Soviétiques n'ont pas reculé.
+52593,53122,[ENG],"But the Soviets didn't back down,"
+53122,54027,[SPA],"anunciando el estado de alerta entre sus
+tropas."
+53122,54027,[ITA],"misero le loro forze armate in stato di
+allerta secondaria"
+53122,54027,[GER],"Sie versetzten ihre Truppen in sekundäre
+Alarmbereitschaft."
+53122,54027,[FRE],"Ils ont préféré mettre leur armée en alerte
+renforcée."
+53122,54027,[ENG],instead placing their armed forces|on secondary alert.
+54028,55212,[SPA],"Los barcos soviéticos que transportaban
+misiles continuaron su viaje hacia Cuba."
+54028,55212,[ITA],"e le navi che trasportavano i missili
+proseguirono la rotta verso Cuba."
+54028,55212,[GER],"Mit Raketen beladene Sowjetschiffe
+setzten ihre Fahrt nach Kuba fort."
+54028,55212,[FRE],"Les navires transportant les missiles ont
+continué leur route vers Cuba."
+54028,55212,[ENG],Soviet transport ships carrying missiles|continued on course toward Cuba.
+55240,56382,[SPA],"USA y URSS se preparaban para una
+guerra nuclear en toda regla."
+55240,56382,[ITA],"Le forze USA e URSS erano in allerta per
+una guerra nucleare."
+55240,56382,[GER],"US- und Sowjettruppen bereiteten sich auf
+den totalen Nuklearkrieg vor."
+55240,56382,[FRE],"Les forces américaines et soviétiques se
+préparaient à une guerre nucléaire totale."
+55240,56382,[ENG],U.S. and Soviet forces went on alert|for an all-out nuclear war.
+56382,56939,[SPA],Las negociaciones frenéticas entre el
+56382,56939,[ITA],"Il Consiglio di Sicurezza di Emergenza
+ONU e alcuni canali"
+56382,56939,[GER],"Über den eilig einberufenen
+UN-Sicherheitsrat"
+56382,56939,[FRE],Des négociations effrénées ont eu lieu
+56382,56939,[ENG],Frantic negotiations were conducted
+56939,57621,[SPA],"Consejo de Seguridad de Emergencia de la
+ONU y"
+56939,57621,[ITA],non ufficiali condussero negoziati convulsi
+56939,57621,[GER],und inoffizielle Kanäle wurden hektische
+56939,57621,[FRE],"lors d'une réunion d'urgence du Conseil de
+sécurité de l'ONU"
+56939,57621,[ENG],through the UN's Emergency Security|Council
+57622,58736,[SPA],"otros organismos no oficiales, consiguieron
+apaciguar el problema."
+57622,58736,[ITA],"per porre fine alla minaccia pronta a
+scattare."
+57622,58736,[GER],"Verhandlungen mit dem Ziel geführt, das
+hochempfindliche Patt zu entschärfen."
+57622,58736,[FRE],"et de réunions non officielles pour sortir de
+cette impasse diplomatique."
+57622,58736,[ENG],and unofficial channels to end|the hair-trigger standoff.
+58848,59488,[SPA],"Finalmente, el 28 de octubre,"
+58848,59488,[ITA],"Alla fine, il 28 ottobre,"
+58848,59488,[GER],"Endlich willigte die Sowjetunion am 28.
+Oktober ein,"
+58848,59488,[FRE],"Au final, le 28 octobre,"
+58848,59488,[ENG],"Finally, on October 28,"
+59489,60575,[SPA],"la Unión Soviética accedió a retirar sus
+misiles de Cuba."
+59489,60575,[ITA],"l'Unione Sovietica accettò di rimuovere i
+missili da Cuba"
+59489,60575,[GER],ihre Raketen aus Kuba abzuziehen.
+59489,60575,[FRE],"l'Union soviétique a accepté de retirer ses
+missiles de Cuba."
+59489,60575,[ENG],the Soviet Union agreed to|remove its missiles from Cuba.
+60604,61509,[SPA],"Y de esta forma evitó el holocausto
+nuclear..."
+60604,61509,[ITA],e il mondo evitò un olocausto nucleare...
+60604,61509,[GER],"Und so entging die Welt einem nuklearen
+Holocaust ..."
+60604,61509,[FRE],"Et le monde a donc évité un holocauste
+nucléaire."
+60604,61509,[ENG],And so the world avoided|a nuclear holocaust...
+61788,62651,[SPA],"Pero para conseguir que los soviéticos
+retiraran sus misiles,"
+61788,62651,[ITA],"Ma per indurre i sovietici a ritirare i loro
+missili,"
+61788,62651,[GER],"Doch um die Sowjets dazu zu bewegen,
+ihre Raketen abzuziehen,"
+61788,62651,[FRE],"Mais pour que les Soviétiques retirent
+leurs missiles,"
+61788,62651,[ENG],"But in order to get the Soviets|to pull their missiles out,"
+62652,63097,[SPA],tuvimos que hacer un trato.
+62652,63097,[ITA],dovemmo scendere a patti.
+62652,63097,[GER],mussten wir einen Deal eingehen.
+62652,63097,[FRE],nous avons conclu un marché.
+62652,63097,[ENG],we had to make a deal.
+63097,64462,[SPA],"¿Quieres decir que a cambio la USA tuvo
+que retirar sus misiles IRB de Turquía?"
+63097,64462,[ITA],"Il patto con cui gli USA avrebbero rimosso
+i missili IRBM dalla Turchia?"
+63097,64462,[GER],"Die Konzession, US-Mittelstrecken-raketen
+aus der Türkei abzuziehen?"
+63097,64462,[FRE],"Les Etats-Unis ont accepté de retirer leurs
+missiles balistiques de Turquie?"
+63097,64462,[ENG],You mean the one where the U.S. agreed|to remove its IRBMs from Turkey?
+64505,64741,[SPA],No.
+64505,64741,[ITA],No.
+64505,64741,[GER],Nein.
+64505,64741,[FRE],Non.
+64505,64741,[ENG],No.
+64769,65827,[SPA],"Los IRBM Jupiter desplegados en Turquía
+estaban ya obsoletos"
+64769,65827,[ITA],"I missili IRBM Jupiter piazzati in Turchia
+erano obsoleti"
+64769,65827,[GER],"Die Jupiter-Raketen in der Türkei waren
+veraltet,"
+64769,65827,[FRE],"Les missiles Jupiter déployés en Turquie
+étaient désuets,"
+64769,65827,[ENG],"The Jupiter IRBMs deployed in Turkey|were obsolete,"
+65842,66413,[SPA],"y nos íbamos a deshacer de ellos de todas
+las formas."
+65842,66413,[ITA],e li avremmo disfatti comunque.
+65842,66413,[GER],wir hätten sie ohnehin verschrottet.
+65842,66413,[FRE],et nous avions prévu de les démanteler.
+65842,66413,[ENG],and we were going to get rid|of them anyway. 
+66413,67067,[SPA],No tenían ya ningún valor estratégico
+66413,67067,[ITA],"Non avevano alcun valore strategico,"
+66413,67067,[GER],Sie hatten weder für die USA noch für die
+66413,67067,[FRE],"Ils n'avaient d'ailleurs plus aucune valeur
+stratégique."
+66413,67067,[ENG],They had no strategic value whatsoever
+67068,67736,[SPA],ni para los americanos ni para los rusos.
+67068,67736,[ITA],né per gli USA né per la Russia.
+67068,67736,[GER],Russen irgendeine strategische Bedeutung.
+67068,67736,[FRE],"ni pour les Américains, ni pour les Russes."
+67068,67736,[ENG],to either the U.S. or the Russians.
+67765,68656,[SPA],"El acuerdo de Turquía fue una treta, una
+tapadera"
+67765,68656,[ITA],"Il patto della Turchia fu un trucco,"
+67765,68656,[GER],"Der Türkei-Deal war ein Trick - eine
+Cover-Story,"
+67765,68656,[FRE],"Ces missiles turques, c'était une histoire
+donnée"
+67765,68656,[ENG],The Turkey deal was a ruse -|a cover story that was fed
+68656,69366,[SPA],"para las agencias de inteligencia de todo
+el mundo."
+68656,69366,[ITA],"una copertura da fregare agli altri servizi
+segreti nel mondo."
+68656,69366,[GER],"der Nachrichtendienste auf der ganzen
+Welt an der Nase herumführte."
+68656,69366,[FRE],"aux agences de renseignements
+internationales pour brouiller les pistes."
+68656,69366,[ENG],to the other intelligence agencies|around the world.
+69367,70021,[SPA],¿Y qué pidieron exactamente los rusos?
+69367,70021,[ITA],Allora i russi cosa volevano veramente?
+69367,70021,[GER],Und was wollten die Russen tatsächlich?
+69367,70021,[FRE],"Alors, qu'est-ce que les Soviétiques
+voulaient vraiment ?"
+69367,70021,[ENG],So what did the Russians really want?
+70022,70328,[SPA],Sokolov.
+70022,70328,[ITA],Sokolov.
+70022,70328,[GER],Sokolov.
+70022,70328,[FRE],Sokolov.
+70022,70328,[ENG],Sokolov.
+70537,71414,[SPA],Querían que les devolviéramos a Sokolov.
+70537,71414,[ITA],Volevano che restituissimo Sokolov.
+70537,71414,[GER],Sie wollten Sokolov zurückhaben.
+70537,71414,[FRE],Ils voulaient qu'on leur rende Sokolov.
+70537,71414,[ENG],They wanted us to return Sokolov.
+71554,71818,[SPA],¿Quieres decir
+71554,71818,[ITA],Quindi
+71554,71818,[GER],"Soll das heißen,"
+71554,71818,[FRE],Tu veux dire que
+71554,71818,[ENG],You mean
+71819,73003,[SPA],"que los rusos se fueron de Cuba a cambio
+de recuperar a Sokolov?"
+71819,73003,[ITA],"i sovietici si ritirarono da Cuba solo per
+mettere mano a Sokolov?"
+71819,73003,[GER],"die Sowjets gaben Kuba auf, nur um
+Sokolov zu bekommen?"
+71819,73003,[FRE],"les Soviétiques se sont retirés de Cuba
+pour mettre la main sur Sokolov?"
+71819,73003,[ENG],the Soviets pulled out of Cuba|just to get their hands on Sokolov?
+73031,73351,[SPA],Así es.
+73031,73351,[ITA],Proprio così.
+73031,73351,[GER],Genau das!
+73031,73351,[FRE],C'est tout à fait exact.
+73031,73351,[ENG],That's right.
+73519,74271,[SPA],¿... En qué demonios estaba trabajando?
+73519,74271,[ITA],... Ma a che diavolo stava lavorando?
+73519,74271,[GER],"... Woran zum Teufel hat er denn
+gearbeitet?"
+73519,74271,[FRE],... Mais sur quoi travaillait-il donc ?
+73519,74271,[ENG],...What the hell was he working on?
+74341,75093,[SPA],"Entonces, no teníamos ni idea."
+74341,75093,[ITA],"All'epoca, non ne avevamo idea."
+74341,75093,[GER],Das wussten wir damals nicht.
+74341,75093,[FRE],"A l'époque, nous n'en avions aucune idée."
+74341,75093,[ENG],"At the time, we had no idea."
+75358,75915,[SPA],Y no teníamos tiempo.
+75358,75915,[ITA],Il tempo stava per scadere.
+75358,75915,[GER],Die Zeit wurde knapp für uns.
+75358,75915,[FRE],Nous n'avions plus beaucoup de temps.
+75358,75915,[ENG],We were running out of time.
+76138,77238,[SPA],"O entregábamos a Sokolov o corríamos el
+riesgo de una guerra nuclear."
+76138,77238,[ITA],"O consegnavamo Sokolov o rischiavamo
+una guerra nucleare totale."
+76138,77238,[GER],"Es hieß Sokolov zurückgeben oder einen
+totalen Nuklearkrieg riskieren."
+76138,77238,[FRE],"Nous devions soit rendre Sokolov, soit
+risquer une guerre nucléaire mondiale."
+76138,77238,[ENG],It was either give up Sokolov|or risk full-scale nuclear war.
+77252,77837,[SPA],"Al final, no tuvimos alternativa."
+77252,77837,[ITA],"Alla fine, non avemmo scelta."
+77252,77837,[GER],Wir hatten keine Wahl.
+77252,77837,[FRE],"Au bout du compte, nous n'avions pas le
+choix."
+77252,77837,[ENG],"In the end, we had no choice."
+77949,78924,[SPA],"El presidente Kennedy cedió a las
+demandas de Kruschev."
+77949,78924,[ITA],"Il Presidente Kennedy cedette alla
+richiesta di Krusciov."
+77949,78924,[GER],"Präsident Kennedy gab Chruschtschows
+Forderung nach."
+77949,78924,[FRE],"Le président Kennedy a cédé aux
+exigences de Khrouchtchev."
+77949,78924,[ENG],President Kennedy gave into|Khrushchev's demand.
+79147,80108,[SPA],"Al día siguiente, saqué a Sokolov del
+hospital"
+79147,80108,[ITA],"Il giorno dopo, prelevai Sokolov
+dall'ospedale"
+79147,80108,[GER],"Am darauf folgenden Tag holte ich Sokolov
+aus dem Krankenhaus"
+79147,80108,[FRE],"Le lendemain, j'ai fait sortir Sokolov de
+l'hôpital"
+79147,80108,[ENG],"The next day, I got Sokolov out of|the hospital"
+80108,81027,[SPA],y se lo entregué a los agentes del Este.
+80108,81027,[ITA],e lo consegnai agli agenti della parte est.
+80108,81027,[GER],und übergab ihn Agenten in Ostberlin.
+80108,81027,[FRE],"et je l'ai remis aux agents, côté est."
+80108,81027,[ENG],and handed him over to agents|on the eastern side.
+81028,81696,[SPA],"Sokolov gritaba sin cesar ""¡Salvadme!"","
+81028,81696,[ITA],"Sokolov continuava a gridare|""Salvatemi!"","
+81028,81696,[GER],"Sokolov schrie unaufhörlich|„Rettet mich!"","
+81028,81696,[FRE],"Sokolov hurlait ""Sauvez-moi !"","
+81028,81696,[ENG],"Sokolov kept on screaming ""Save me!"","
+81697,82323,[SPA],hasta que desapareció de mi vista.
+81697,82323,[ITA],finché scomparve dalla mia vista.
+81697,82323,[GER],bis er aus meiner Sicht verschwunden war.
+81697,82323,[FRE],puis il a disparu de ma vue.
+81697,82323,[ENG],until he disappeared from my sight.
+83396,83786,[SPA],Y hace un mes
+83396,83786,[ITA],"Poi un mese fa,"
+83396,83786,[GER],Vor einem Monat
+83396,83786,[FRE],"Et il y a environ un mois,"
+83396,83786,[ENG],"Then, a month ago,"
+83786,84761,[SPA],"recibimos información de uno de nuestros
+espías."
+83786,84761,[ITA],"abbiamo ricevuto nuove informazioni da
+uno dei nostri infiltrati."
+83786,84761,[GER],"erhielten wir dann neue Informationen von
+einem unserer Maulwürfe."
+83786,84761,[FRE],"nous avons reçu des informations de l'un
+de nos espions."
+83786,84761,[ENG],we received some new information|from one of our moles.
+84859,85318,[SPA],¿Sobre Sokolov?
+84859,85318,[ITA],Riguardo a Sokolov?
+84859,85318,[GER],Über Sokolov?
+84859,85318,[FRE],A propos de Sokolov ?
+84859,85318,[ENG],About Sokolov?
+85625,86405,[SPA],"Sí. Le llevaron de vuelta a la oficina de
+diseño"
+85625,86405,[ITA],"Già. Era stato riportato all'impianto di
+ricerca"
+85625,86405,[GER],"Ja. Man brachte ihn zurück zum
+Forschungslabor"
+85625,86405,[FRE],"Ouais. On l'avait ramené au laboratoire de
+recherche"
+85625,86405,[ENG],Yes. He was taken back to|the research facility
+86406,87227,[SPA],"y le obligaron a continuar trabajando en el
+arma en cuestión,"
+86406,87227,[ITA],"e costretto a continuare a lavorare all'arma
+in questione"
+86406,87227,[GER],"und zwang ihn, unter der Aufsicht des
+KGB seine Arbeiten"
+86406,87227,[FRE],"et on l'avait forcé à travailler sur cette
+arme"
+86406,87227,[ENG],and forced to continue working|on the weapon in question
+87228,87896,[SPA],bajo la supervisión de la KGB.
+87228,87896,[ITA],sotto la supervisione del KGB.
+87228,87896,[GER],an der fraglichen Waffe fortzusetzen.
+87228,87896,[FRE],sous le contrôle du KGB.
+87228,87896,[ENG],under KGB supervision. 
+88008,88788,[SPA],"Y lo peor de todo, él está a punto de
+concluir su trabajo."
+88008,88788,[ITA],E c'è dell'altro: è quasi stata completata.
+88008,88788,[GER],"Jetzt ist die Entwicklungsphase fast
+abgeschlossen."
+88008,88788,[FRE],"Qui plus est, cette arme est bientôt
+terminée."
+88008,88788,[ENG],"What's more, it's on the verge of|completion."
+88802,90028,[SPA],"¿Y? ¿Qué arma es? ¿Tiene algo
+que ver con los cohetes espaciales?"
+88802,90028,[ITA],"Allora? Di che arma si tratta? Ha a che
+fare con i razzi spaziali?"
+88802,90028,[GER],Und? Was für eine Waffe ist das? Hat|sie etwas mit Weltraumraketen zu tun?
+88802,90028,[FRE],"De quel type d'armes s'agit-il ? De fusées
+spatiales ?"
+88802,90028,[ENG],So? What kind of weapon is it?|Something to do with space rockets?
+90070,90627,[SPA],"No, son misiles."
+90070,90627,[ITA],"No, missili."
+90070,90627,[GER],"Nein, mit Flugkörpern."
+90070,90627,[FRE],"Non, de missiles."
+90070,90627,[ENG],"No, missiles."
+90738,91309,[SPA],"Bueno, es la misma ingeniería."
+90738,91309,[ITA],Stessa tecnologia.
+90738,91309,[GER],Gleiche Technologie.
+90738,91309,[FRE],C'est la même technologie.
+90738,91309,[ENG],Same technology.
+91519,92173,[SPA],"Puede que tengas razón. No conocemos
+los detalles,"
+91519,92173,[ITA],"Credo che tu abbia ragione.|Non conosciamo i dettagli,"
+91519,92173,[GER],"Das ist wohl richtig. Wir kennen die
+Einzelheiten nicht,"
+91519,92173,[FRE],"Oui, plus ou moins. Nous n'en avons pas
+les détails"
+91519,92173,[ENG],"I guess you're right.|We don't know the details,"
+92173,93008,[SPA],"pero creo que se trata de un nuevo tipo de
+aparato nuclear."
+92173,93008,[ITA],"ma sembra trattarsi d'un nuovo tipo di
+dispositivo nucleare."
+92173,93008,[GER],"aber es scheint ein neuartiges nukleares
+Gerät zu sein."
+92173,93008,[FRE],"mais il s'agirait d'un nouveau type d'arme
+nucléaire."
+92173,93008,[ENG],but it appears to be a new kind|of nuclear device.
+93009,93343,[SPA],"Desde hace más de medio año,"
+93009,93343,[ITA],È da circa sei mesi
+93009,93343,[GER],Seit einem halben Jahr
+93009,93343,[FRE],Cela fait maintenant six mois
+93009,93343,[ENG],"For half a year now,"
+93344,94165,[SPA],"los soviéticos realizan con mucha
+frecuencia pruebas nucleares"
+93344,94165,[ITA],"che i sovietici eseguono frequenti test
+nucleari"
+93344,94165,[GER],"führen die Sowjets nun häufig
+Atomwaffentests"
+93344,94165,[FRE],"que les Soviétiques font régulièrement des
+essais nucléaires"
+93344,94165,[ENG],the Soviets have been conducting|frequent nuclear tests
+94166,94667,[SPA],en Semipalatinsk...
+94166,94667,[ITA],a Semipalatinsk...
+94166,94667,[GER],in Semipalatinsk durch ...
+94166,94667,[FRE],à Semipalatinsk...
+94166,94667,[ENG],at Semipalatinsk...
+94667,95266,[SPA],"Puede que esas pruebas estén
+relacionadas con este arma."
+94667,95266,[ITA],"Avranno a che fare con l'arma, suppongo."
+94667,95266,[GER],"Ich nehme an, das hängt mit der Waffe
+zusammen."
+94667,95266,[FRE],"Il y a quelque chose à voir avec cette
+arme, c'est ça ?"
+94667,95266,[ENG],"Something to do with the weapon,|I assume."
+95266,95823,[SPA],"Estamos hablando de semejante arma,"
+95266,95823,[ITA],"Stiamo parlando di un'arma segreta
+talmente grande"
+95266,95823,[GER],"Wir sprechen von einer so mächtigen
+Geheimwaffe,"
+95266,95823,[FRE],"Nous parlons d'une arme secrète si
+puissante"
+95266,95823,[ENG],We're talking about a secret weapon|so big
+95824,96701,[SPA],"que Kruschev prefirió retirarse de Cuba,
+para poder proseguir con su desarrollo."
+95824,96701,[ITA],"che Krusciov fu disposto a ritirarsi da Cuba
+pur di riaverla."
+95824,96701,[GER],"dass Chruschtschow dafür bereit war, aus
+Kuba abzuziehen."
+95824,96701,[FRE],"que Khrouchtchev était prêt à se retirer
+de Cuba pour la récupérer."
+95824,96701,[ENG],that Khrushchev was ready to|pull out of Cuba to get it back.
+96729,97537,[SPA],"¿Y Sokolov todavía continúa en esa
+planta?"
+96729,97537,[ITA],Sokolov è ancora nell'impianto?
+96729,97537,[GER],"Arbeitet Sokolov noch immer in dem
+Labor?"
+96729,97537,[FRE],"Est-ce que Sokolov est toujours dans
+l'atelier de design ?"
+96729,97537,[ENG],Is Sokolov still in the facility?
+97704,98846,[SPA],"No, según nuestras fuentes, está en
+Tselinoyarsk."
+97704,98846,[ITA],"No. Secondo le nostre fonti è a
+Tselinoyarsk,"
+97704,98846,[GER],"Nein, wir haben gehört, er solle sich jetzt
+in Tselinoyarsk befinden."
+97704,98846,[FRE],"Non, selon nos renseignements, il est à
+Tselinoyarsk,"
+97704,98846,[ENG],"No, according to our intelligence|he's in Tselinoyarsk,"
+98847,99543,[SPA],"Un lugar en las montañas, 5 kilómetros al
+oeste,"
+98847,99543,[ITA],"nelle montagne, a circa 5 chilometri a
+ovest"
+98847,99543,[GER],"Das ist ein Ort in den Bergen, 5 km
+westlich"
+98847,99543,[FRE],dans les montagnes.|C'est à environ 5 km à
+98847,99543,[ENG],a place in the mountains about 3 miles|to the west
+99543,100128,[SPA],"en ""Virgin Cliffs""."
+99543,100128,[ITA],"delle cosiddette ""Virgin Cliffs""."
+99543,100128,[GER],"von den „Virgin Cliffs""."
+99543,100128,[FRE],"l'ouest des ""Virgin Cliffs"", les falaises
+vierges."
+99543,100128,[ENG],"that's known as the ""Virgin Cliffs."""
+100421,100978,[SPA],Virgin Cliffs. 
+100421,100978,[ITA],Le Virgin Cliffs. 
+100421,100978,[GER],Die Virgin Cliffs.
+100421,100978,[FRE],Les Virgin Cliffs. 
+100421,100978,[ENG],The Virgin Cliffs.
+101118,101856,[SPA],Bonito nombre para una misión virtuosa.
+101118,101856,[ITA],Bel nome per una Missione Virtuosa.
+101118,101856,[GER],"Netter Name für eine „Virtuose Mission""."
+101118,101856,[FRE],Un joli nom pour une Mission vertueuse.
+101118,101856,[ENG],Nice name for a Virtuous Mission.
+101870,102524,[SPA],Le llevaron allí hace muy poco.
+101870,102524,[ITA],Lo hanno portato lì da poco.
+101870,102524,[GER],Er wurde vor kurzem dorthin gebracht.
+101870,102524,[FRE],Ils viennent juste de l'amener ici.
+101870,102524,[ENG],They moved him there just recently.
+102539,102873,[SPA],¿Por qué?
+102539,102873,[ITA],Perché?
+102539,102873,[GER],Warum?
+102539,102873,[FRE],Pourquoi ?
+102539,102873,[ENG],Why?
+102901,103834,[SPA],"Al parecer, están probando el arma."
+102901,103834,[ITA],"A quanto pare stanno testando l'arma sul
+campo."
+102901,103834,[GER],"Anscheinend wird die Waffe in einem
+Feldversuch erprobt."
+102901,103834,[FRE],"Apparemment, ils testent cette arme sur le
+terrain."
+102901,103834,[ENG],Apparently they're conducting|a field test of the weapon
+103834,104488,[SPA],"Y ésta es nuestra oportunidad para
+recuperarle."
+103834,104488,[ITA],"È la migliore occasione che abbiamo di
+recuperarlo."
+103834,104488,[GER],"Aber es ist unsere beste Chance, Sokolov
+da herauszuholen."
+103834,104488,[FRE],"Mais c'est notre meilleure chance de le
+ramener."
+103834,104488,[ENG],But it's our best chance to get him back. 
+104489,105046,[SPA],Nunca podremos sacarle
+104489,105046,[ITA],Questa missione sarebbe impossibile
+104489,105046,[GER],"Dieser Einsatz wäre nicht möglich,"
+104489,105046,[FRE],Cette mission n'aurait pas été possible
+104489,105046,[ENG],This mission would never|have been possible
+105047,105771,[SPA],de la planta de investigación.
+105047,105771,[ITA],se lui fosse ancora nell'impianto di ricerca.
+105047,105771,[GER],"wenn er sich noch im Forschungslabor
+befände."
+105047,105771,[FRE],"s'il était resté dans le laboratoire de
+recherche."
+105047,105771,[ENG],if he were still in the research facility.
+105869,106370,[SPA],Es nuestra última oportunidad.
+105869,106370,[ITA],È la nostra ultima occasione.
+105869,106370,[GER],Es ist unsere letzte Chance.
+105869,106370,[FRE],C'est notre dernière chance.
+105869,106370,[ENG],This is our last chance.
+106370,107428,[SPA],"Seguro que Sokolov también lo sabía
+cuando se puso en contacto con nosotros."
+106370,107428,[ITA],"Anche Sokolov doveva saperlo, quando ci
+ha contattato."
+106370,107428,[GER],"Sokolov muss das auch gewusst haben,
+als er sich mit uns in Verbindung setzte."
+106370,107428,[FRE],"Sokolov devait également le savoir lorsqu'il
+nous a contacté."
+106370,107428,[ENG],"Sokolov must have known that, too,|when he contacted us."

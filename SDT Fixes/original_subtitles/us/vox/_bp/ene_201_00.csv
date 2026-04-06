@@ -1,0 +1,19 @@
+Start Time,End Time,Lang ID,Text
+0,181,[ENG],Understood.
+0,181,[FRE],Compris.
+0,181,[GER],Verstanden.
+0,181,[ITA],Ho capito.
+0,181,[SPA],Entendido.
+181,724,[ENG],The alert status has|been normalized.
+181,724,[FRE],"Le niveau d'alerte a été
+abaissé."
+181,724,[GER],"Alarmphase aufgehoben.
+Status: Normal."
+181,724,[ITA],Stato di allerta rientrato.
+181,724,[SPA],Fin de la fase de alerta.
+724,1169,[ENG],Return to your position.
+724,1169,[FRE],Reprenez vos positions.
+724,1169,[GER],"Kehrt auf euren Posten
+zurück."
+724,1169,[ITA],Tornate in posizione.
+724,1169,[SPA],Volved a vuestras posiciones.

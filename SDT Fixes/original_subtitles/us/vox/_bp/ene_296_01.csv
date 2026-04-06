@@ -1,0 +1,17 @@
+Start Time,End Time,Lang ID,Text
+0,515,[SPA],Hemos encontrado señales que|demuestran la presencia de un intruso.
+0,515,[ITA],"Abbiamo trovato segni di un
+intruso."
+0,515,[GER],"Wir haben Hinweise auf einen
+Eindringling gefunden."
+0,515,[FRE],"Nous avons repéré les traces
+d'un intrus."
+0,515,[ENG],We've found signs of|an intruder.
+515,1114,[SPA],"Comienza la formación de
+alerta."
+515,1114,[ITA],Inizio formazione di allerta.
+515,1114,[GER],"Wechseln zur
+Alarmbereitschaft."
+515,1114,[FRE],"Nous entrons en formation
+d'alerte."
+515,1114,[ENG],Commence alert formation.

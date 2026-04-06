@@ -1,0 +1,20 @@
+Start Time,End Time,Lang ID,Text
+0,264,[SPA],Recibido.
+0,264,[ITA],Ricevuto.
+0,264,[GER],Verstanden.
+0,264,[FRE],Bien reçu.
+0,264,[ENG],Acknowledged.
+264,793,[SPA],"Ahora mismo no se puede
+atender la petición."
+264,793,[ITA],"Ma non possiamo rispondere
+alla vostra richiesta ora."
+264,793,[GER],"Aber wir können derzeit
+niemanden entsenden."
+264,793,[FRE],Mais nous ne pouvons répondre|à votre requête pour l'instant.
+264,793,[ENG],But we can't answer|your request now.
+794,1170,[SPA],Volved a patrullar.
+794,1170,[ITA],Riprendete la perlustrazione.
+794,1170,[GER],"Setzen Sie Ihre Patrouille
+fort."
+794,1170,[FRE],Continuez votre patrouille.
+794,1170,[ENG],Resume patrol.

@@ -1,0 +1,268 @@
+Start Time,End Time,Lang ID,Text
+473,1239,[SPA],"Para abrir la puerta, utiliza esta llave."
+473,1239,[ITA],Usa questa chiave per aprire quella porta.
+473,1239,[GER],Mit diesem Schlüssel öffnest du die Tür.
+473,1239,[FRE],Utilise cette clé pour ouvrir la porte.
+473,1239,[ENG],Use this key to open that door.
+1532,2326,[SPA],La puerta justo al entrar al ala principal.
+1532,2326,[ITA],"La porta che ho trovato quando sono
+entrato nell'ala principale."
+1532,2326,[GER],"Die Tür rechts, als ich in den Hauptflügel
+kam."
+1532,2326,[FRE],"La porte toute de suite en entrant dans
+l'aile principale."
+1532,2326,[ENG],The door right when I entered|the main wing.
+2424,2744,[SPA],Vale.
+2424,2744,[ITA],Tutto chiaro.
+2424,2744,[GER],Verstanden.
+2424,2744,[FRE],Compris.
+2424,2744,[ENG],Got it.
+2828,3204,[SPA],¿Y tú qué vas a hacer?
+2828,3204,[ITA],Tu che farai?
+2828,3204,[GER],Was ist mit dir?
+2828,3204,[FRE],Et toi?
+2828,3204,[ENG],What about you?
+3218,3872,[SPA],"Voy a preparar las cosas para que
+escapes."
+3218,3872,[ITA],Preparerò la nostra via di fuga.
+3218,3872,[GER],Ich muss deine Flucht vorbereiten.
+3218,3872,[FRE],Je vais préparer notre sortie.
+3218,3872,[ENG],I'll get things ready for our escape.
+3887,4527,[SPA],Hacia el norte hay un puente ferroviario.
+3887,4527,[ITA],A nord c'è un ponte ferroviario.
+3887,4527,[GER],Im Norden ist eine Eisenbahnbrücke.
+3887,4527,[FRE],Il y a un pont de chemin de fer au nord.
+3887,4527,[ENG],There's a rail bridge to the north.
+4583,5697,[SPA],"Voy a poner una bomba, así que me llevo
+la mitad del C3."
+4583,5697,[ITA],"Ci piazzerò una bomba, quindi prendo la
+metà del C3."
+4583,5697,[GER],"Ich werde sie sprengen, daher behalte ich
+die Hälfte des C3."
+4583,5697,[FRE],"Je vais y poser une bombe, alors j'emporte
+la moitié du C3."
+4583,5697,[ENG],"I'm going to set a bomb there,|so I'm taking half of the C3 with me."
+5698,6366,[SPA],"Vale, pues yo me ocuparé del laboratorio
+de armas."
+5698,6366,[ITA],"D'accordo. Allora io farò saltare il
+laboratorio delle armi."
+5698,6366,[GER],"Okay. Ich mache mich dann zum
+Waffenlabor auf."
+5698,6366,[FRE],"D'accord. Moi, je m'occupe de faire
+exploser le laboratoire d'armes."
+5698,6366,[ENG],"Right. I'll set off the weapons lab, then."
+6366,6965,[SPA],"¡Aléjate de las inmediaciones cuando
+explote!"
+6366,6965,[ITA],"Quando succederà, vedi di stare alla larga."
+6366,6965,[GER],"Du solltest dich lieber nicht in der Nähe
+aufhalten, wenn der Hangar hochgeht."
+6366,6965,[FRE],T'avise pas de rester dans les parages.
+6366,6965,[ENG],Try not to be in the neighborhood|when it happens.
+6965,7201,[SPA],Entendido.
+6965,7201,[ITA],Ricevuto.
+6965,7201,[GER],Kapiert.
+6965,7201,[FRE],Compris.
+6965,7201,[ENG],Gotcha.
+7202,7689,[SPA],Y cuidado con Ocelot.
+7202,7689,[ITA],E fai attenzione a Ocelot.
+7202,7689,[GER],Und Vorsicht mit Ocelot.
+7202,7689,[FRE],Et fais attention à Ocelot.
+7202,7689,[ENG],And watch out for Ocelot.
+7690,8303,[SPA],Sospecha de tu identidad.
+7690,8303,[ITA],"Lui sospetta che non sei quella che dici di
+essere."
+7690,8303,[GER],"Er hegt den Verdacht, dass du nicht die
+bist, für die du dich ausgibst."
+7690,8303,[FRE],"Il se doute bien que tu te fais passer pour
+quelqu'un d'autre."
+7690,8303,[ENG],He suspects you're not who|you say you are.
+8303,9222,[SPA],"No te preocupes. El Coronel todavía confía
+en mí..."
+8303,9222,[ITA],"Non ti preoccupare. Il Colonnello si fida
+ancora di me..."
+8303,9222,[GER],"Keine Angst. Der Oberst vertraut mir
+noch ..."
+8303,9222,[FRE],"Ne t'inquiète pas. Le Colonel me fait
+encore confiance..."
+8303,9222,[ENG],Don't worry. the Colonel still trusts me...
+9459,10002,[SPA],... y sé cómo camelármelo.
+9459,10002,[ITA],E so essere convincente.
+9459,10002,[GER],Und ich habe noch meine Geheimwaffen ...
+9459,10002,[FRE],Et je sais m'y prendre.
+9459,10002,[ENG],And I have my ways.
+10114,10991,[SPA],"No hay hombre capaz de resistir mis
+encantos..."
+10114,10991,[ITA],"Nessun uomo vivo sa resistere al mio
+fascino..."
+10114,10991,[GER],"Kein Mann kann meinem Charme
+widerstehen ..."
+10114,10991,[FRE],"Pas un seul homme ne peut résister à mes
+charmes..."
+10114,10991,[ENG],There's not a man alive who|can resist my charms..
+11020,11605,[SPA],"Excepto tú, claro..."
+11020,11605,[ITA],"Oltre a te, naturalmente."
+11020,11605,[GER],Außer dir natürlich.
+11020,11605,[FRE],"A part toi, bien entendu."
+11020,11605,[ENG],"Besides you, of course."
+11633,12413,[SPA],"Sólo te estoy advirtiendo EVA, eso es
+todo."
+11633,12413,[ITA],"Ti sto solo avvisando, EVA."
+11633,12413,[GER],"Ich will dich nur warnen, EVA, das ist
+alles."
+11633,12413,[FRE],"Je t'aurai prévenue, EVA, c'est tout."
+11633,12413,[ENG],"I'm just warning you, EVA, that's all."
+12427,12691,[SPA],Ya lo sé.
+12427,12691,[ITA],Lo so.
+12427,12691,[GER],Ich weiß.
+12427,12691,[FRE],Je sais.
+12427,12691,[ENG],I know.
+12887,13430,[SPA],Vamos.
+12887,13430,[ITA],"O.K., andiamo."
+12887,13430,[GER],"Okay, gehen wir."
+12887,13430,[FRE],"OK, allons-y."
+12887,13430,[ENG],"OK,  let's go."
+14614,15422,[SPA],"Parece que naciste montada ya en una de
+ésas."
+14614,15422,[ITA],Sembra che tu sia nata su una di quelle.
+14614,15422,[GER],"Du scheinst auf dem Rücken einer solchen
+Maschine auf die Welt gekommen zu sein."
+14614,15422,[FRE],"On dirait que tu es née sur l'un de ces
+engins."
+14614,15422,[ENG],You seem like you were born|on one of those.
+15687,16550,[SPA],"No podría pasar ni un sólo día, sin
+montarme en una."
+15687,16550,[ITA],"Se non la usassi ogni giorno, non potrei
+continuare a vivere."
+15687,16550,[GER],"Wenn ich nicht täglich fahren könnte,
+würde ich das Leben nicht ertragen."
+15687,16550,[FRE],"Pour vivre, je dois faire de la moto tous les
+jours."
+15687,16550,[ENG],"If I didn't ride every day,|I couldn't go on living."
+16551,16759,[SPA],¿?
+16551,16759,[ITA],?
+16551,16759,[GER],?
+16551,16759,[FRE],?
+16551,16759,[ENG],?
+17010,18124,[SPA],"Cuando voy encima, el viento me da tan
+fuerte, que me hace daño."
+17010,18124,[ITA],"Sulla moto, il vento mi colpisce con tanta
+forza da farmi male."
+17010,18124,[GER],"Auf dem Motorrad peitscht mich der Wind,
+dass es wehtut."
+17010,18124,[FRE],"En moto, le vent me fouette le visage si
+fort que ça me fait mal."
+17010,18124,[ENG],"When I'm riding, the wind hits me|so hard that it hurts."
+18334,19587,[SPA],"Daño que hace olvidarme del dolor que
+siento al tener que ser otra persona."
+18334,19587,[ITA],"Quel dolore allontana il dolore di dover
+essere una persona diversa."
+18334,19587,[GER],"Dieser Schmerz lenkt mich von dem
+Schmerz ab, mich verstellen zu müssen."
+18334,19587,[FRE],"Cette douleur me fait oublier ce double jeu
+que je dois toujours jouer."
+18334,19587,[ENG],That pain keeps my mind off the pain|of having to be someone else.
+19964,20883,[SPA],No es fácil fingir constantemente.
+19964,20883,[ITA],"Non è facile ingannarmi sempre in questo
+modo."
+19964,20883,[GER],"Es ist nicht immer einfach, mich selbst so
+zu belügen."
+19964,20883,[FRE],"Ce n'est pas toujours facile de se mentir à
+soi-même."
+19964,20883,[ENG],It's not easy always fooling myself|like this.
+21483,22123,[SPA],Sólo cuando estoy encima de la moto...
+21483,22123,[ITA],È solo quando sono sulla moto
+21483,22123,[GER],"Nur auf meiner Maschine,"
+21483,22123,[FRE],"Une fois sur ma moto,"
+21483,22123,[ENG],It's only when I'm on the bike...
+22193,22945,[SPA],...puedo ser yo misma.
+22193,22945,[ITA],che sono libera di essere me stessa.
+22193,22945,[GER],kann ich wirklich ich sein.
+22193,22945,[FRE],"je me sens enfin libre d'être qui je suis
+réellement."
+22193,22945,[ENG],...that I'm free to be the real me.
+23322,24297,[SPA],"Sólo volveré a ser yo misma, al morir"
+23322,24297,[ITA],"Scendo dalla mia moto solo quando mi
+innamoro"
+23322,24297,[GER],"Ich lasse nur los, wenn ich mich verliere"
+23322,24297,[FRE],"J'en descendrai quand je serai
+amoureuse..."
+23322,24297,[ENG],I only get off my bike when I fall in love...
+24380,24839,[SPA],o al enamorarme...
+24380,24839,[ITA],o muoio...
+24380,24839,[GER],oder tot umfalle ...
+24380,24839,[FRE],ou quand je serai morte...
+24380,24839,[ENG],or fall dead...
+24980,25439,[SPA],¿Cómo te llamas?
+24980,25439,[ITA],Qual è il tuo nome?
+24980,25439,[GER],Wie heißt du?
+24980,25439,[FRE],Quel est ton nom?
+24980,25439,[ENG],What's your name?
+25439,25703,[SPA],Tatyana.
+25439,25703,[ITA],Tatyana.
+25439,25703,[GER],Tatyana.
+25439,25703,[FRE],Tatyana.
+25439,25703,[ENG],Tatyana.
+25704,25954,[SPA],"No,"
+25704,25954,[ITA],"No,"
+25704,25954,[GER],"Nein,"
+25704,25954,[FRE],"Non,"
+25704,25954,[ENG],"No,"
+26094,26525,[SPA],tu verdadero nombre.
+26094,26525,[ITA],il tuo vero nome.
+26094,26525,[GER],dein wirklicher Name.
+26094,26525,[FRE],ton vrai nom.
+26094,26525,[ENG],your real name.
+26930,27543,[SPA],¿Y qué me dices de Tanya?
+26930,27543,[ITA],Tanya non va bene?
+26930,27543,[GER],Was stimmt nicht mit Tanya?
+26930,27543,[FRE],Qu'est-ce que tu dis de Tanya?
+26930,27543,[ENG],What's wrong with Tanya?
+27599,28490,[SPA],"Vale Tanya, que no te descubran."
+27599,28490,[ITA],"O.K., Tanya. Non farti vedere da nessuno."
+27599,28490,[GER],"Okay, Tanya. Lass dich nicht erwischen."
+27599,28490,[FRE],"OK, Tanya. Fais attention à ne pas te faire
+remarquer."
+27599,28490,[ENG],"OK, Tanya. Don't let anyone see you."
+28504,28685,[SPA],¿?
+28504,28685,[ITA],?
+28504,28685,[GER],?
+28504,28685,[FRE],?
+28504,28685,[ENG],?
+28727,29089,[SPA],¿Ah esto?
+28727,29089,[ITA],"Oh, questa?"
+28727,29089,[GER],Das?
+28727,29089,[FRE],"Oh, ça?"
+28727,29089,[ENG],"Oh, this?"
+29173,29702,[SPA],Es una botón cámara.
+29173,29702,[ITA],Una macchina fotografica a bottone.
+29173,29702,[GER],"Ach, das ist eine Knopfkamera."
+29173,29702,[FRE],C'est un appareil photo espion.
+29173,29702,[ENG],It's a button camera.
+30803,31416,[SPA],¿Y para qué has hecho eso?
+30803,31416,[ITA],Perché l'hai fatto?
+30803,31416,[GER],Warum hast du das gemacht?
+30803,31416,[FRE],Pourquoi tu as fait ça?
+30803,31416,[ENG],What did you do that for?
+31430,32628,[SPA],Un seguro. Para que no me la juegues...
+31430,32628,[ITA],"Come assicurazione. Per essere certa che
+non fai il doppio gioco con me..."
+31430,32628,[GER],"Versicherung. Um sicherzustellen, dass du
+mich nicht betrügst ..."
+31430,32628,[FRE],"Une garantie. Pour être sûre que tu
+ne me trahisse pas..."
+31430,32628,[ENG],Insurance. To make sure you don't|double cross me...
+34955,35233,[SPA],¡Eh!
+34955,35233,[ITA],Ehi!
+34955,35233,[GER],He!
+34955,35233,[FRE],Hé!
+34955,35233,[ENG],Hey!
+35247,35567,[SPA],¿¡Qué!?
+35247,35567,[ITA],Cosa?!
+35247,35567,[GER],Was ist?!
+35247,35567,[FRE],Quoi!?
+35247,35567,[ENG],What!?
+35596,36236,[SPA],¡Te vas a mojar otra vez!
+35596,36236,[ITA],Ti bagnerai di nuovo!
+35596,36236,[GER],Du wirst wieder nass werden!
+35596,36236,[FRE],Tu vas encore te mouiller!
+35596,36236,[ENG],You're gonna get wet again!

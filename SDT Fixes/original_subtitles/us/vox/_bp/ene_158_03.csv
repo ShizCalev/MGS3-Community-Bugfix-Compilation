@@ -1,0 +1,15 @@
+Start Time,End Time,Lang ID,Text
+0,752,[ENG],The enemy is attacking from|an unknown position.
+0,752,[FRE],"L'ennemi attaque d'une
+position non déterminée."
+0,752,[GER],"Der Feind greift aus einer
+unbekannten Position an."
+0,752,[ITA],"Il nemico sta attaccando da
+una posizione ignota."
+0,752,[SPA],"El enemigo está atacando y
+se desconoce su posición."
+752,1378,[ENG],Begin the alert status.
+752,1378,[FRE],Passez en phase d'alerte.
+752,1378,[GER],Geht in Alarmbereitschaft.
+752,1378,[ITA],Iniziamo lo stato di allerta.
+752,1378,[SPA],Comienza el estado de alerta.
