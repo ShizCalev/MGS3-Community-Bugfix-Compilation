@@ -1,0 +1,4 @@
+output_sdt_path,output_sdt_sha1,original_sdt_sha1,relative_sdt_path,csv_sha1,built_unix_time
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\SDT Fixes\Fixed Codec\fr\codec\_bp\medikkudeforuto_cb_vp_p.sdt,119e9163edb9351b9feaf4a64505d6677334208e,cd3dc9848c05499a0ef41ddaeacc6814b9621853,fr/codec/_bp/medikkudeforuto_cb_vp_p.sdt,522980a98d1dc3ebdcc4eecfc537370b47284ecb,1775480838
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\SDT Fixes\Fixed Codec\fr\codec\_bp\nearby_cb_vp_kerotan_vr.sdt,e08cab0657aacee563d71305390c3371ad610b1c,0684f4305b809e7b2130c6633e4b68f93ea21ef3,fr/codec/_bp/nearby_cb_vp_kerotan_vr.sdt,17885bca4bbe42d89530423515405f6eabb0a8a6,1775480838
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\SDT Fixes\Fixed Codec\fr\codec\_bp\the_great_escape_tunnel_t_vp_1.sdt,ba405bb2efb31fd276c32154edcdb2b264c8e92e,e691ee46d673019fbd66b1a5bb6b3acc1240e341,fr/codec/_bp/the_great_escape_tunnel_t_vp_1.sdt,fd7caedd4442c66d81dfa16c62965c4283c1d298,1775480838
