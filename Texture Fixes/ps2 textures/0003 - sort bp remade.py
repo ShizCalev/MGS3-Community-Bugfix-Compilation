@@ -67,7 +67,7 @@ IMAGE_EXTENSIONS = {".png", ".tga"}
 PRIMARY_BUCKETS = {
     "manual",
     "same sha1",
-    "power of two",
+    "mismatched sha1",
     "bp_mismatch",
     "bp_remade",
 }
@@ -191,6 +191,9 @@ MANUAL_LIST = {
     "0033d2b2",
     "0033d2b1",
     "00dedb21",
+    "00d2be51",
+    "00c615d8",
+    "008d3d20",
 }
 
 print_lock = Lock()
@@ -476,7 +479,7 @@ def classify_primary_buckets(file_path, stem, dims_map, manual_bp_remade_set):
         return buckets
 
     if is_power_of_two(width) and is_power_of_two(height):
-        buckets.append("power of two")
+        buckets.append("mismatched sha1")
         return buckets
 
     return buckets

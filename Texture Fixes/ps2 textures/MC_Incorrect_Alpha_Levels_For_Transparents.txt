@@ -806,11 +806,8 @@ HAS ALPHA
 
 ---------- HAS ALPHA\bp_mismatch\no_mip_fixes\ui ----------
 	00220e30
-	008d3d20
 	00943b29
 	00c1e104
-	00c615d8
-	00d2be51
 	00fc64f3
 
 ---------- HAS ALPHA\bp_remade ----------
@@ -1888,7 +1885,7 @@ HAS ALPHA
 	jngl_taki_eda_12_alp_ovl_mip8000.bmp
 	jngl_taki_eda_17_alp_ovl_mip4000.bmp
 
----------- HAS ALPHA\dxt5\power of two ----------
+---------- HAS ALPHA\dxt5\mismatched sha1 ----------
 	jngl_happa04_alp_ovl.bmp
 	jngl_happa05_alp_ovl_mip4000.bmp
 	s001a_happa05_alp_ovl_mip8000.bmp
@@ -1896,6 +1893,11 @@ HAS ALPHA
 	v000a_kinokatamari_a01_alp_ovl_rep.bmp_86187137555744c273e17dd4a431d1a2
 	v000a_kinokatamari_a03_alp_ovl_rep.bmp
 	v000a_kinokatamari_a03_alp_ovl_rep.bmp_d9ec09aa2448dfac3e0b72eca57e0034
+
+---------- HAS ALPHA\manual\bp_mismatch\no_mip_fixes\ui ----------
+	008d3d20
+	00c615d8
+	00d2be51
 
 ---------- HAS ALPHA\manual\bp_remade\no_mip_fixes\ui ----------
 	0000021b
@@ -1913,6 +1915,20 @@ HAS ALPHA
 	00bf1537
 	00dbc0b4
 	00eb0221
+
+---------- HAS ALPHA\mismatched sha1 ----------
+	drone_light_a_alpx2_add_ovl.bmp
+	gave_cus_marker_ovl_alpx2.trans.bmp
+	poster_omake02_alp_mod0001_alpx2_ovl.bmp
+	s001a_komorebi3_alpx2_ovl_rep_mod1001.bmp
+	s001a_tree_komorebi_alpx2_mod1001_ovl_rep.bmp
+	s002a_komorebi2_alpx2_ovl_rep_mod1001.bmp
+	s002a_tree_komorebi3_alpx2_ovl_rep_mod1001.bmp
+	s061a_komorebi2_alpx2_ovl_rep_mod1001.bmp
+	s061a_tree_lit2_alpx2_ovl_rep_mod1001.bmp
+	s063a_komorebi3_alpx2_ovl_rep_mod1001.bmp
+	yf_nozzle_a_ovl_alpx2.bmp
+	yf_nozzle_b_ovl_alpx2.bmp
 
 ---------- HAS ALPHA\no_mip_fixes ----------
 	a_craft_struc_sub_alp_ovl.bmp
@@ -2094,18 +2110,4 @@ HAS ALPHA
 	00f16ec8
 	00fcd394
 	00fdd394
-
----------- HAS ALPHA\power of two ----------
-	drone_light_a_alpx2_add_ovl.bmp
-	gave_cus_marker_ovl_alpx2.trans.bmp
-	poster_omake02_alp_mod0001_alpx2_ovl.bmp
-	s001a_komorebi3_alpx2_ovl_rep_mod1001.bmp
-	s001a_tree_komorebi_alpx2_mod1001_ovl_rep.bmp
-	s002a_komorebi2_alpx2_ovl_rep_mod1001.bmp
-	s002a_tree_komorebi3_alpx2_ovl_rep_mod1001.bmp
-	s061a_komorebi2_alpx2_ovl_rep_mod1001.bmp
-	s061a_tree_lit2_alpx2_ovl_rep_mod1001.bmp
-	s063a_komorebi3_alpx2_ovl_rep_mod1001.bmp
-	yf_nozzle_a_ovl_alpx2.bmp
-	yf_nozzle_b_ovl_alpx2.bmp
 

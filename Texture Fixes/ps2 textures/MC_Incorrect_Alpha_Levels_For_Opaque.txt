@@ -647,10 +647,10 @@ OPAQUE
 	00c8c0af
 	00f1c0b1
 
----------- OPAQUE\manual\power of two ----------
+---------- OPAQUE\manual\mismatched sha1 ----------
 	sna_item_saru.bmp
 	sna_item_saru_himo.bmp
 
----------- OPAQUE\power of two ----------
+---------- OPAQUE\mismatched sha1 ----------
 	s091a_watchtower03.bmp
 
