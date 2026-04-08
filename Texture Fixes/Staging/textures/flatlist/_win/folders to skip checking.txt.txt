@@ -1,0 +1,2 @@
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\manual\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\manual\bp_remade\no_mip_fixes\ui

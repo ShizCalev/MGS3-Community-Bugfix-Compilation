@@ -2762,13 +2762,7 @@ None
 ----- NEEDS MIPS STRIPPED - Power of 2 (Count: 0) -----
 None
 
------ NEEDS MIPS STRIPPED - NPOT (Count: 0) -----
-None
-
------ MIPS CORRECT - Power of 2 (LOW PRIORITY) (Count: 0) -----
-None
-
------ MIPS CORRECT - NPOT (NPOT) (Count: 442) -----
+----- NEEDS MIPS STRIPPED - NPOT (Count: 442) -----
 00005011.img
 000589dd.img
 00064917.img
@@ -3212,6 +3206,12 @@ options_save_icon_volume
 options_save_volume_00
 options_save_volume_01
 
+----- MIPS CORRECT - Power of 2 (LOW PRIORITY) (Count: 0) -----
+None
+
+----- MIPS CORRECT - NPOT (NPOT) (Count: 0) -----
+None
+
 
 ###############################################################
 ########################  SUMMARY COUNTS FOR REMAINING UNDUMPED #########################
@@ -3222,9 +3222,9 @@ BP REMADE | NEEDS MIPS STRIPPED - NPOT (NEED TO FIND): 0
 BP REMADE | MIPS CORRECT - POT (LOW PRIORITY): 0
 BP REMADE | MIPS CORRECT - NPOT (NEED TO FIND): 0
 OG PS2 FILES | NEEDS MIPS STRIPPED - POT (NEED TO FIND): 0
-OG PS2 FILES | NEEDS MIPS STRIPPED - NPOT (NEED TO FIND): 0
+OG PS2 FILES | NEEDS MIPS STRIPPED - NPOT (NEED TO FIND): 442
 OG PS2 FILES | MIPS CORRECT - POT (LOW PRIORITY): 0
-OG PS2 FILES | MIPS CORRECT - NPOT (NEED TO FIND): 442
+OG PS2 FILES | MIPS CORRECT - NPOT (NEED TO FIND): 0
 
 TOTAL MIPS CORRECT (POT): 0
 ALL OTHER CATEGORIES: 442

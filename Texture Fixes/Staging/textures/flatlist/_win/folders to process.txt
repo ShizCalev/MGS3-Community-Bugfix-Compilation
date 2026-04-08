@@ -7,6 +7,7 @@ C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes
 
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_mismatch\no_mip_fixes\ui
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui
 
 
 
@@ -16,11 +17,12 @@ C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPA
 
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\mismatched sha1
 
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\bp_remade
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\mismatched sha1
+
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes\ui
-
 
 
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\HAS ALPHA\bp_remade

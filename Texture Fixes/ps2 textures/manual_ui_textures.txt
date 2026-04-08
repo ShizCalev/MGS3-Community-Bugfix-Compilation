@@ -1875,6 +1875,5 @@ options_save_icon_mute
 options_save_icon_volume
 options_save_volume_00
 options_save_volume_01
-v004a_soil01_yake_rep_mip8000
 v004a_soil01_yake_rep_mip8000.bmp
 zro_def_eri.bmp
