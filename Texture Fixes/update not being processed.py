@@ -14,6 +14,7 @@ ROOT_DIRS = [
 ]
 
 TARGET_FILENAME = "folders to process.txt"
+SKIP_FILENAME = "folders to skip checking.txt"
 OUTPUT_FILENAME = "not being processed.txt"
 VALID_EXTENSIONS = {".png", ".tga"}
 
@@ -80,6 +81,13 @@ def read_nonempty_lines(path: Path) -> list[str]:
         return [line.strip() for line in f if line.strip()]
 
 
+def read_optional_nonempty_lines(path: Path) -> list[str]:
+    if not path.exists():
+        return []
+
+    return read_nonempty_lines(path)
+
+
 def write_text_if_changed(path: Path, content: str) -> None:
     if path.exists():
         old_content = path.read_text(encoding="utf-8")
@@ -93,6 +101,24 @@ def write_text_if_changed(path: Path, content: str) -> None:
 
 def is_flatlist_win(txt_path: Path) -> bool:
     return "flatlist\\_win" in normalize_path(str(txt_path))
+
+
+def is_ovr_win(txt_path: Path) -> bool:
+    norm = normalize_path(str(txt_path))
+    parts = [part for part in Path(norm).parts]
+
+    for i in range(len(parts) - 3):
+        if parts[i] != "flatlist":
+            continue
+        if parts[i + 1] != "ovr_stm":
+            continue
+        if not parts[i + 2].startswith("ovr_"):
+            continue
+        if parts[i + 3] != "_win":
+            continue
+        return True
+
+    return False
 
 
 # ==========================================================
@@ -111,18 +137,29 @@ def main() -> None:
 
     for txt_path in script_root.rglob(TARGET_FILENAME):
         processed_lines = read_nonempty_lines(txt_path)
-        processed_set = {normalize_path(line) for line in processed_lines}
+
+        skip_path = txt_path.parent / SKIP_FILENAME
+        skipped_lines = read_optional_nonempty_lines(skip_path)
+
+        excluded_set = {
+            normalize_path(line)
+            for line in processed_lines + skipped_lines
+        }
 
         flatlist_mode = is_flatlist_win(txt_path)
+        ovr_mode = is_ovr_win(txt_path)
 
         root_chunks: list[str] = []
 
         for root in ROOT_DIRS:
             root_norm = normalize_path(str(root))
 
-            # Skip entire Self Remade root if in flatlist mode
-            if flatlist_mode and "self remade" in root_norm:
-                continue
+            if ovr_mode:
+                if "self remade" not in root_norm:
+                    continue
+            else:
+                if flatlist_mode and "self remade" in root_norm:
+                    continue
 
             immediate_groups = all_grouped.get(root, {})
             immediate_chunks: list[str] = []
@@ -134,16 +171,15 @@ def main() -> None:
                 for subgroup_key in sorted(subgroup_map.keys()):
                     entries = sorted(subgroup_map[subgroup_key], key=lambda x: x[0])
 
-                    filtered_actual_paths = []
+                    filtered_actual_paths: list[str] = []
 
                     for normalized_path, actual_path in entries:
-                        # Skip processed
-                        if normalized_path in processed_set:
+                        if normalized_path in excluded_set:
                             continue
 
-                        # Additional rule: skip ps2 bp_remade in flatlist mode
                         if (
                             flatlist_mode
+                            and not ovr_mode
                             and "ps2 textures" in root_norm
                             and "bp_remade" in normalize_path(actual_path)
                         ):
