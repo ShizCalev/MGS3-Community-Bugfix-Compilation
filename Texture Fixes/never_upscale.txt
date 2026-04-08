@@ -1,15 +1,17 @@
 #native ui stuff slash custom remade
 #dont remove these or youre likely to cause the game to crash due to resolution limits
-
+005737d5
+00b6209a
 
 #end-native-ui
 
-#liqmix water stuff
+#water stuff
+sna_vinyl_water_ovl_alp.bmp
+s191a_water_alp_ovl_rep02.bmp
+s064a_water1_base_alp_ovl_rep.bmp
+s031a_ref_water01_alp_ovl_rep.bmp
 
-
-#liqmix stuff below
-
-#end-liqmix
+#end water stuff
 
 #mc ui
 loading_wqhd
@@ -20,6 +22,25 @@ loading_fhd
 loading
 loading_jp_4k
 loading_4k
+
+options_save_volume_01
+options_save_volume_00
+options_save_icon_volume
+options_save_icon_mute
+options_save_frame_black
+options_line_00
+options_frame_back_small
+options_frame_back
+option_save_frame_cursor
+mgs3_keycon_type_base_00
+mgs3_keycon_list_base_05
+mgs3_keycon_list_base_04
+mgs3_keycon_list_base_03
+mgs3_keycon_list_base_01
+mgs3_keycon_list_base_00
+mgs3_keycon_check
+mgs3_keycon_arrow_r
+mgs3_keycon_arrow_l
 #mc ui
 
 
