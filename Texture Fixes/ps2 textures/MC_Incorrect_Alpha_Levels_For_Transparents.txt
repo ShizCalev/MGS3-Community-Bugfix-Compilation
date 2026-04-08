@@ -4,7 +4,6 @@ HAS ALPHA
 
 ---------- HAS ALPHA ----------
 	00225e9c
-	0022b2d3
 	0022d5cf
 	0022d5d0
 	0022d5d1
@@ -16,7 +15,6 @@ HAS ALPHA
 	00280305
 	002a0983
 	002b0983
-	0037b2cc
 	003e0206
 	0055cb2e
 	005aba45
@@ -32,10 +30,8 @@ HAS ALPHA
 	00a129a2
 	00a18c64
 	00b114a0
-	00b5b2d0
 	00d30dfe
 	00de5fb7
-	00f1b2dc
 	abs_def_hair_ovl_alp.bmp
 	alarm_02_sdw_alp_ovl.bmp
 	alarm_02_sdw_alp_ovl.bmp_e367385f189659cd279d49fd74fb1588
@@ -1894,11 +1890,6 @@ HAS ALPHA
 	v000a_kinokatamari_a03_alp_ovl_rep.bmp
 	v000a_kinokatamari_a03_alp_ovl_rep.bmp_d9ec09aa2448dfac3e0b72eca57e0034
 
----------- HAS ALPHA\manual\bp_mismatch\no_mip_fixes\ui ----------
-	008d3d20
-	00c615d8
-	00d2be51
-
 ---------- HAS ALPHA\manual\bp_remade\no_mip_fixes\ui ----------
 	0000021b
 	00031504
@@ -1910,9 +1901,12 @@ HAS ALPHA
 	00701506
 	007e021f
 	008514ff
+	008d3d20
 	00b98532
 	00ba022b
 	00bf1537
+	00c615d8
+	00d2be51
 	00dbc0b4
 	00eb0221
 
@@ -2096,6 +2090,8 @@ HAS ALPHA
 	001703cb
 	001beddd
 	001d9f6f
+	0022b2d3
+	0037b2cc
 	00496387
 	0060bac8
 	00703c5d
@@ -2103,11 +2099,13 @@ HAS ALPHA
 	0075eac4
 	00847ff1
 	009b787e
+	00b5b2d0
 	00b72ecd
 	00b7a65b
 	00b9ed1b
 	00ea43a7
 	00f16ec8
+	00f1b2dc
 	00fcd394
 	00fdd394
 

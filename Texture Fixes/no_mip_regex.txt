@@ -1892,3 +1892,8 @@ _bmap
 ^options_save_volume_00$
 ^options_save_volume_01$
 ^zro_def_eri\.bmp$
+
+^00f1b2dc$
+^00b5b2d0$
+^0037b2cc$
+^0022b2d3$

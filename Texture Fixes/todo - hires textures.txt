@@ -1,0 +1,1 @@
+compare sha1's, find what's identical to mc (photo_gra_ota_0.bmp & homo_picture_01.bmp is are known), then bring in cbfc's versions
