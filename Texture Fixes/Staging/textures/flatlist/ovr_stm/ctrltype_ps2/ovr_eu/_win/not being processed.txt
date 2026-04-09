@@ -6,6 +6,8 @@ C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\has 
 
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\has alpha\manual\bp_remade\no_mip_fixes\ui
 
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\not dumped
+
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\bp_remade
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\bp_remade\no_mip_fixes\ui
 
