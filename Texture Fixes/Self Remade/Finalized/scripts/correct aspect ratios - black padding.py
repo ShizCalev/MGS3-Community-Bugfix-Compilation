@@ -7,11 +7,16 @@ from pathlib import Path
 from PIL import Image
 
 
-SOURCE_DIR = Path(
-    r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\_win"
-)
+def get_script_dir() -> Path:
+    if getattr(sys, "frozen", False):
+        return Path(sys.executable).resolve().parent
+    return Path(__file__).resolve().parent
+
+
+SOURCE_DIR = get_script_dir()
+
 COMPARE_ROOT = Path(
-    r"D:\MG Textures\MGS3\Base Textures\textures\flatlist\ovr_stm\ctrltype_ps4\_win"
+    r"D:\MG Textures\MGS3\Base Textures\textures\flatlist\_win"
 )
 LOG_FILE = SOURCE_DIR / "aspect_padding_log.txt"
 
