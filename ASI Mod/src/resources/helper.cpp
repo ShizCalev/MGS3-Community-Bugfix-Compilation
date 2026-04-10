@@ -1,0 +1,1047 @@
+#include "stdafx.h"
+#include "helper.hpp"
+#include "common.hpp"
+
+#include "logging.hpp"
+
+#pragma comment(lib,"Version.lib")
+
+
+#pragma comment(lib, "bcrypt.lib")
+
+
+namespace
+{
+    std::mutex gSha1ProviderMutex;
+    BCRYPT_ALG_HANDLE gSha1Alg = nullptr;
+    DWORD gSha1HashObjectSize = 0;
+
+    int HexNibble(const char c)
+    {
+        if (c >= '0' && c <= '9')
+        {
+            return c - '0';
+        }
+
+        if (c >= 'a' && c <= 'f')
+        {
+            return 10 + (c - 'a');
+        }
+
+        if (c >= 'A' && c <= 'F')
+        {
+            return 10 + (c - 'A');
+        }
+
+        return -1;
+    }
+
+    bool ParseSha1Hex(const std::string& hex, std::array<std::uint8_t, 20>& outBytes)
+    {
+        if (hex.size() != 40)
+        {
+            return false;
+        }
+
+        for (size_t i = 0; i < outBytes.size(); ++i)
+        {
+            const int hi = HexNibble(hex[i * 2]);
+            const int lo = HexNibble(hex[i * 2 + 1]);
+
+            if (hi < 0 || lo < 0)
+            {
+                return false;
+            }
+
+            outBytes[i] = static_cast<std::uint8_t>((hi << 4) | lo);
+        }
+
+        return true;
+    }
+
+    bool EnsureSHA1ProviderInitialized()
+    {
+        std::scoped_lock lock(gSha1ProviderMutex);
+
+        if (gSha1Alg != nullptr)
+        {
+            return true;
+        }
+
+        if (BCryptOpenAlgorithmProvider(&gSha1Alg, BCRYPT_SHA1_ALGORITHM, nullptr, 0) != 0)
+        {
+            gSha1Alg = nullptr;
+            spdlog::error("SHA1Check: BCryptOpenAlgorithmProvider failed.");
+            return false;
+        }
+
+        DWORD cbData = 0;
+        if (BCryptGetProperty(
+            gSha1Alg,
+            BCRYPT_OBJECT_LENGTH,
+            reinterpret_cast<PUCHAR>(&gSha1HashObjectSize),
+            sizeof(gSha1HashObjectSize),
+            &cbData,
+            0) != 0)
+        {
+            spdlog::error("SHA1Check: BCryptGetProperty failed.");
+            BCryptCloseAlgorithmProvider(gSha1Alg, 0);
+            gSha1Alg = nullptr;
+            gSha1HashObjectSize = 0;
+            return false;
+        }
+
+        return true;
+    }
+
+    bool GetSHA1ProviderSnapshot(BCRYPT_ALG_HANDLE& outAlg, DWORD& outHashObjectSize)
+    {
+        if (!EnsureSHA1ProviderInitialized())
+        {
+            return false;
+        }
+
+        std::scoped_lock lock(gSha1ProviderMutex);
+
+        if (gSha1Alg == nullptr || gSha1HashObjectSize == 0)
+        {
+            spdlog::error("SHA1Check: SHA-1 provider is unavailable after initialization.");
+            return false;
+        }
+
+        outAlg = gSha1Alg;
+        outHashObjectSize = gSha1HashObjectSize;
+        return true;
+    }
+
+    struct HashCheckResult
+    {
+        size_t index = 0;
+        std::filesystem::path filePath;
+        bool exists = false;
+        bool hashMatched = false;
+    };
+
+    HashCheckResult CheckCtxrEntryHash(
+        const std::filesystem::path& baseDir,
+        const CtxrHashEntry& entry,
+        const size_t index)
+    {
+        HashCheckResult result;
+        result.index = index;
+        result.filePath = baseDir / (std::string(entry.stem) + ".ctxr");
+        result.exists = std::filesystem::exists(result.filePath);
+
+        if (!result.exists)
+        {
+            return result;
+        }
+
+        result.hashMatched = Util::SHA1Check(result.filePath, entry.sha1);
+        return result;
+    }
+}
+
+namespace Memory
+{
+    std::string GetModuleVersion(HMODULE module)
+    {
+        if (!module)
+            return "0.0.0";
+
+        char modulePath[MAX_PATH] = { 0 };
+        if (!GetModuleFileNameA(module, modulePath, MAX_PATH))
+            return "0.0.0";
+
+        DWORD handle = 0;
+        DWORD size = GetFileVersionInfoSizeA(modulePath, &handle);
+        if (size == 0)
+            return "0.0.0";
+
+        std::vector<BYTE> versionInfo(size);
+        if (!GetFileVersionInfoA(modulePath, handle, size, versionInfo.data()))
+            return "0.0.0";
+
+        VS_FIXEDFILEINFO* fileInfo = nullptr;
+        UINT fileInfoLen = 0;
+        if (!VerQueryValueA(versionInfo.data(), "\\", reinterpret_cast<LPVOID*>(&fileInfo), &fileInfoLen) || !fileInfo)
+            return "0.0.0";
+
+        // Extract version numbers
+        DWORD verMS = fileInfo->dwFileVersionMS;
+        DWORD verLS = fileInfo->dwFileVersionLS;
+        int major = HIWORD(verMS);
+        int minor = LOWORD(verMS);
+        int patch = HIWORD(verLS);
+
+        return std::to_string(major) + "." + std::to_string(minor) + "." + std::to_string(patch);
+    }
+
+
+    void PatchBytes(uintptr_t address, const char* pattern, unsigned int numBytes)
+    {
+        DWORD oldProtect;
+        VirtualProtect((LPVOID)address, numBytes, PAGE_EXECUTE_READWRITE, &oldProtect);
+        memcpy((LPVOID)address, pattern, numBytes);
+        VirtualProtect((LPVOID)address, numBytes, oldProtect, &oldProtect);
+    }
+   
+    static HMODULE GetThisDllHandle()
+    {
+        MEMORY_BASIC_INFORMATION info;
+        size_t len = VirtualQueryEx(GetCurrentProcess(), (void*)GetThisDllHandle, &info, sizeof(info));
+        assert(len == sizeof(info));
+        return len ? (HMODULE)info.AllocationBase : NULL;
+    }
+
+    // CSGOSimple's pattern scan
+    // https://github.com/OneshotGH/CSGOSimple-master/blob/master/CSGOSimple/helpers/utils.cpp
+    std::uint8_t* PatternScanSilent(void* module, const char* signature)
+    {
+        static auto pattern_to_byte = [](const char* pattern) {
+            auto bytes = std::vector<int>{};
+            auto start = const_cast<char*>(pattern);
+            auto end = const_cast<char*>(pattern) + strlen(pattern);
+
+            for (auto current = start; current < end; ++current) {
+                if (*current == '?') {
+                    ++current;
+                    if (*current == '?')
+                        ++current;
+                    bytes.push_back(-1);
+                }
+                else {
+                    bytes.push_back(strtoul(current, &current, 16));
+                }
+            }
+            return bytes;
+        };
+
+        auto dosHeader = (PIMAGE_DOS_HEADER)module;
+        auto ntHeaders = (PIMAGE_NT_HEADERS)((std::uint8_t*)module + dosHeader->e_lfanew);
+
+        auto sizeOfImage = ntHeaders->OptionalHeader.SizeOfImage;
+        auto patternBytes = pattern_to_byte(signature);
+        auto scanBytes = reinterpret_cast<std::uint8_t*>(module);
+
+        auto s = patternBytes.size();
+        auto d = patternBytes.data();
+
+        for (auto i = 0ul; i < sizeOfImage - s; ++i) {
+            bool found = true;
+            for (auto j = 0ul; j < s; ++j) {
+                if (scanBytes[i + j] != d[j] && d[j] != -1) {
+                    found = false;
+                    break;
+                }
+            }
+            if (found) {
+                return &scanBytes[i];
+            }
+        }
+        return nullptr;
+    }
+
+    std::uint8_t* PatternScan(void* module, const char* signature, const char* prefix)
+    {
+        std::uint8_t* foundPattern = PatternScanSilent(module, signature);
+        if (foundPattern)
+        {
+            if (g_Logging.bVerboseLogging)
+            {
+
+                spdlog::info("{}: Pattern scan found. Address: {:s}+{:X}", prefix, sExeName.c_str(), (uintptr_t)foundPattern - (uintptr_t)baseModule);
+            }
+        }
+        else
+        {
+
+            spdlog::error("{}: Pattern scan failed.", prefix);
+        }
+        return foundPattern;
+    }
+
+    uintptr_t GetAbsolute(uintptr_t address) noexcept
+    {
+        return (address + 4 + *reinterpret_cast<std::int32_t*>(address));
+    }
+
+    uintptr_t GetRelativeOffset(uint8_t* addr) noexcept
+    {
+        return reinterpret_cast<uintptr_t>(addr) + 4 + *reinterpret_cast<int32_t*>(addr);
+    }
+
+    BOOL HookIAT(HMODULE callerModule, char const* targetModule, const void* targetFunction, void* detourFunction)
+    {
+        auto* base = (uint8_t*)callerModule;
+        const auto* dos_header = (IMAGE_DOS_HEADER*)base;
+        const auto nt_headers = (IMAGE_NT_HEADERS*)(base + dos_header->e_lfanew);
+        const auto* imports = (IMAGE_IMPORT_DESCRIPTOR*)(base + nt_headers->OptionalHeader.DataDirectory[IMAGE_DIRECTORY_ENTRY_IMPORT].VirtualAddress);
+
+        for (int i = 0; imports[i].Characteristics; i++)
+        {
+            const char* name = (const char*)(base + imports[i].Name);
+            if (lstrcmpiA(name, targetModule) != 0)
+                continue;
+
+            void** thunk = (void**)(base + imports[i].FirstThunk);
+
+            for (; *thunk; thunk++)
+            {
+                const void* import = *thunk;
+
+                if (import != targetFunction)
+                    continue;
+
+                DWORD oldState;
+                if (!VirtualProtect(thunk, sizeof(void*), PAGE_READWRITE, &oldState))
+                    return FALSE;
+
+                *thunk = detourFunction;
+
+                VirtualProtect(thunk, sizeof(void*), oldState, &oldState);
+
+                return TRUE;
+            }
+        }
+        return FALSE;
+    }
+    // Read the current IAT entry (without changing it)
+    void* ReadIAT(HMODULE callerModule, const char* targetModule, const char* targetFunction)
+    {
+        uint8_t* base = reinterpret_cast<uint8_t*>(callerModule);
+        auto dos_header = reinterpret_cast<IMAGE_DOS_HEADER*>(base);
+        auto nt_headers = reinterpret_cast<IMAGE_NT_HEADERS*>(base + dos_header->e_lfanew);
+        auto imports = reinterpret_cast<IMAGE_IMPORT_DESCRIPTOR*>(
+            base + nt_headers->OptionalHeader.DataDirectory[IMAGE_DIRECTORY_ENTRY_IMPORT].VirtualAddress);
+
+        for (int i = 0; imports[i].Characteristics; ++i)
+        {
+            const char* dllName = reinterpret_cast<const char*>(base + imports[i].Name);
+            if (_stricmp(dllName, targetModule) != 0)
+                continue;
+
+            auto origFirstThunk = reinterpret_cast<IMAGE_THUNK_DATA*>(base + imports[i].OriginalFirstThunk);
+            auto firstThunk = reinterpret_cast<IMAGE_THUNK_DATA*>(base + imports[i].FirstThunk);
+
+            for (; origFirstThunk->u1.AddressOfData; ++origFirstThunk, ++firstThunk)
+            {
+                auto importByName = reinterpret_cast<IMAGE_IMPORT_BY_NAME*>(base + origFirstThunk->u1.AddressOfData);
+                if (strcmp(reinterpret_cast<const char*>(importByName->Name), targetFunction) != 0)
+                    continue;
+
+                return reinterpret_cast<void*>(firstThunk->u1.Function);
+            }
+        }
+
+        return nullptr;
+    }
+
+    // Write a new pointer into the IAT entry (unconditionally)
+    BOOL WriteIAT(HMODULE callerModule, const char* targetModule, const char* targetFunction, void* detourFunction)
+    {
+        uint8_t* base = reinterpret_cast<uint8_t*>(callerModule);
+        auto dos_header = reinterpret_cast<IMAGE_DOS_HEADER*>(base);
+        auto nt_headers = reinterpret_cast<IMAGE_NT_HEADERS*>(base + dos_header->e_lfanew);
+        auto imports = reinterpret_cast<IMAGE_IMPORT_DESCRIPTOR*>(
+            base + nt_headers->OptionalHeader.DataDirectory[IMAGE_DIRECTORY_ENTRY_IMPORT].VirtualAddress);
+
+        for (int i = 0; imports[i].Characteristics; ++i)
+        {
+            const char* dllName = reinterpret_cast<const char*>(base + imports[i].Name);
+            if (_stricmp(dllName, targetModule) != 0)
+                continue;
+
+            auto origFirstThunk = reinterpret_cast<IMAGE_THUNK_DATA*>(base + imports[i].OriginalFirstThunk);
+            auto firstThunk = reinterpret_cast<IMAGE_THUNK_DATA*>(base + imports[i].FirstThunk);
+
+            for (; origFirstThunk->u1.AddressOfData; ++origFirstThunk, ++firstThunk)
+            {
+                auto importByName = reinterpret_cast<IMAGE_IMPORT_BY_NAME*>(base + origFirstThunk->u1.AddressOfData);
+                if (strcmp(reinterpret_cast<const char*>(importByName->Name), targetFunction) != 0)
+                    continue;
+
+                DWORD oldProtect;
+                if (!VirtualProtect(&firstThunk->u1.Function, sizeof(void*), PAGE_EXECUTE_READWRITE, &oldProtect))
+                    return FALSE;
+
+                firstThunk->u1.Function = reinterpret_cast<ULONG_PTR>(detourFunction);
+
+                VirtualProtect(&firstThunk->u1.Function, sizeof(void*), oldProtect, &oldProtect);
+
+                return TRUE;
+            }
+        }
+
+        return FALSE;
+    }
+
+}
+
+namespace Util
+{
+#if !defined(RELEASE_BUILD)
+    /*
+    void DumpContext(const safetyhook::Context& ctx)
+    {
+        spdlog::info("\n"
+#if defined(_M_X64) || defined(__x86_64__)
+            // General-purpose 64-bit registers
+            "RAX = 0x{:X}\t| RBX = 0x{:X}\t| RCX = 0x{:X}\t| RDX = 0x{:X}\n"
+            "RSI = 0x{:X}\t| RDI = 0x{:X}\t| RBP = 0x{:X}\t| RSP = 0x{:X}\n"
+            "R8  = 0x{:X}\t| R9  = 0x{:X}\t| R10 = 0x{:X}\t| R11 = 0x{:X}\n"
+            "R12 = 0x{:X}\t| R13 = 0x{:X}\t| R14 = 0x{:X}\t| R15 = 0x{:X}\n"
+            "RIP = 0x{:X}\n"
+            // XMM floats
+            "XMM0 = {:g}\t| XMM1 = {:g}\t| XMM2 = {:g}\t| XMM3 = {:g}\n"
+            "XMM4 = {:g}\t| XMM5 = {:g}\t| XMM6 = {:g}\t| XMM7 = {:g}\n"
+            "XMM8 = {:g}\t| XMM9 = {:g}\t| XMM10 = {:g}\t| XMM11 = {:g}\n"
+            "XMM12 = {:g}\t| XMM13 = {:g}\t| XMM14 = {:g}\t| XMM15 = {:g}",
+            ctx.rax, ctx.rbx, ctx.rcx, ctx.rdx,
+            ctx.rsi, ctx.rdi, ctx.rbp, ctx.rsp,
+            ctx.r8, ctx.r9, ctx.r10, ctx.r11,
+            ctx.r12, ctx.r13, ctx.r14, ctx.r15,
+            ctx.rip,
+            ctx.xmm0.f32[0], ctx.xmm1.f32[0], ctx.xmm2.f32[0], ctx.xmm3.f32[0],
+            ctx.xmm4.f32[0], ctx.xmm5.f32[0], ctx.xmm6.f32[0], ctx.xmm7.f32[0],
+            ctx.xmm8.f32[0], ctx.xmm9.f32[0], ctx.xmm10.f32[0], ctx.xmm11.f32[0],
+            ctx.xmm12.f32[0], ctx.xmm13.f32[0], ctx.xmm14.f32[0], ctx.xmm15.f32[0]
+#else       
+            // General-purpose 32-bit registers
+             "EAX = 0x{:X}\t| EBX = 0x{:X}\t| ECX = 0x{:X}\t| EDX = 0x{:X}\n"
+             "ESI = 0x{:X}\t| EDI = 0x{:X}\t| EBP = 0x{:X}\t| ESP = 0x{:X}\n"
+             "EIP = 0x{:X}\n"
+             // XMM floats
+             "XMM0 = {:g}\t| XMM1 = {:g}\t| XMM2 = {:g}\t| XMM3 = {:g}\n"
+             "XMM4 = {:g}\t| XMM5 = {:g}\t| XMM6 = {:g}\t| XMM7 = {:g}\n",
+             ctx.eax, ctx.ebx, ctx.ecx, ctx.edx,
+             ctx.esi, ctx.edi, ctx.ebp, ctx.esp,
+             ctx.eip,
+             ctx.xmm0.f32[0], ctx.xmm1.f32[0], ctx.xmm2.f32[0], ctx.xmm3.f32[0],
+             ctx.xmm4.f32[0], ctx.xmm5.f32[0], ctx.xmm6.f32[0], ctx.xmm7.f32[0]
+#endif
+        );
+    }
+    */
+    void DumpBytes(uint64_t address)
+    {
+        BYTE* fn = reinterpret_cast<BYTE*>(address);
+        spdlog::info("First 6 bytes at DrawInstanced address:");
+        for (int i = 0; i < 6; ++i)
+        {
+            spdlog::info("  0x{:02X}", fn[i]);
+        }
+    }
+#endif
+    /*
+
+    bool IsProcessRunning(const std::filesystem::path& fullPath)
+    {
+        HANDLE snapshot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, 0);
+        if (snapshot == INVALID_HANDLE_VALUE)
+        {
+            return false;
+        }
+
+        PROCESSENTRY32W entry {};
+        entry.dwSize = sizeof(entry);
+
+        bool found = false;
+
+        if (Process32FirstW(snapshot, &entry))
+        {
+            do
+            {
+                HANDLE hProcess = OpenProcess(PROCESS_QUERY_LIMITED_INFORMATION, FALSE, entry.th32ProcessID);
+                if (hProcess)
+                {
+                    wchar_t buf[MAX_PATH];
+                    DWORD size = MAX_PATH;
+                    if (QueryFullProcessImageNameW(hProcess, 0, buf, &size))
+                    {
+                        if (_wcsicmp(buf, fullPath.c_str()) == 0)
+                        {
+                            found = true;
+                        }
+                    }
+                    CloseHandle(hProcess);
+                    if (found) break;
+                }
+            } while (Process32NextW(snapshot, &entry));
+        }
+
+        CloseHandle(snapshot);
+        return found;
+    }
+    */
+
+    int findStringInVector(const std::string& str, const std::initializer_list<std::string>& search)
+    {
+        std::string lowerStr = str;
+        std::transform(lowerStr.begin(), lowerStr.end(), lowerStr.begin(), ::tolower);
+
+        for (auto it = search.begin(); it != search.end(); ++it)
+        {
+            std::string lower = *it;
+            std::transform(lower.begin(), lower.end(), lower.begin(), ::tolower);
+
+            if (lowerStr == lower)
+                return static_cast<int>(std::distance(search.begin(), it));
+        }
+        return 0;
+    }
+
+
+
+    // Convert an UTF8 string to a wide Unicode String
+    std::wstring UTF8toWide(const std::string& str)
+    {
+        if (str.empty()) return std::wstring();
+        int size_needed = MultiByteToWideChar(CP_UTF8, 0, &str[0], (int)str.size(), NULL, 0);
+        std::wstring wstrTo(size_needed, 0);
+        MultiByteToWideChar(CP_UTF8, 0, &str[0], (int)str.size(), &wstrTo[0], size_needed);
+        return wstrTo;
+    }
+
+    std::string WideToUTF8(const std::wstring& wstr)
+    {
+        if (wstr.empty()) return {};
+
+        int sizeNeeded = WideCharToMultiByte(
+            CP_UTF8, 0,
+            wstr.data(), (int)wstr.size(),
+            nullptr, 0, nullptr, nullptr
+        );
+
+        std::string result(sizeNeeded, 0);
+        WideCharToMultiByte(
+            CP_UTF8, 0,
+            wstr.data(), (int)wstr.size(),
+            result.data(), sizeNeeded,
+            nullptr, nullptr
+        );
+
+        return result;
+    }
+
+
+    std::pair<int, int> GetPhysicalDesktopDimensions()
+    {
+        if (DEVMODE devMode { .dmSize = sizeof(DEVMODE) }; EnumDisplaySettings(nullptr, ENUM_CURRENT_SETTINGS, &devMode))
+            return { devMode.dmPelsWidth, devMode.dmPelsHeight };
+        return {};
+    }
+
+    std::string GetFileDescription(const std::string& filePath)
+    {
+        DWORD handle = 0;
+        DWORD size = GetFileVersionInfoSizeA(filePath.c_str(), &handle);
+        if (size > 0)
+        {
+            std::vector<BYTE> versionInfo(size);
+            if (GetFileVersionInfoA(filePath.c_str(), handle, size, versionInfo.data()))
+            {
+                void* buffer = nullptr;
+                UINT sizeBuffer = 0;
+                if (VerQueryValueA(versionInfo.data(), R"(\VarFileInfo\Translation)", &buffer, &sizeBuffer))
+                {
+                    auto translations = static_cast<WORD*>(buffer);
+                    size_t translationCount = sizeBuffer / sizeof(WORD) / 2; // Each translation is two WORDs (language and code page)
+                    for (size_t i = 0; i < translationCount; ++i)
+                    {
+                        WORD language = translations[i * 2];
+                        WORD codePage = translations[i * 2 + 1];
+                        // Construct the query string for the file description
+                        std::ostringstream subBlock;
+                        subBlock << R"(\StringFileInfo\)" << std::hex << std::setw(4) << std::setfill('0') << language
+                            << std::setw(4) << std::setfill('0') << codePage << R"(\ProductName)";
+                        if (VerQueryValueA(versionInfo.data(), subBlock.str().c_str(), &buffer, &sizeBuffer))
+                        {
+                            return std::string(static_cast<char*>(buffer), sizeBuffer - 1);
+                        }
+                    }
+                }
+            }
+        }
+        return "File description not found.";
+    }
+
+    ///Scans all valid ASI directories for any .asi files matching the fileName.
+    bool CheckForASIFiles(std::string fileName, bool checkForDuplicates, bool setFixPath, const char* checkCreationDate)
+    {
+        std::array<std::string, 4> paths = { "", "plugins", "scripts", "update" };
+        std::filesystem::path foundPath;
+        bool bFoundOnce = false;
+        for (const auto& path : paths)
+        {
+            auto filePath = sExePath / path / (fileName + ".asi");
+            if (std::filesystem::exists(filePath))
+            {
+                if (checkCreationDate)
+                {
+                    auto fileTime = std::filesystem::last_write_time(filePath);
+                    auto fileTimeChrono = std::chrono::system_clock::to_time_t(std::chrono::clock_cast<std::chrono::system_clock>(fileTime));
+                    std::tm fileCreationTime = *std::localtime(&fileTimeChrono);
+                    std::tm checkDate = {};
+                    std::istringstream ss(checkCreationDate);
+                    ss >> std::get_time(&checkDate, "%Y-%m-%d");
+                    if (ss.fail() || std::mktime(&fileCreationTime) >= std::mktime(&checkDate))
+                    {
+                        continue;
+                    }
+                }
+                if (bFoundOnce)
+                {
+                    std::string errorMessage = "DUPLICATE FILE ERROR: Duplicate " + fileName + ".asi installations found! Please make sure to delete any old versions!\n";
+                    errorMessage.append("DUPLICATE FILE ERROR - Installation 1: ").append((sExePath / foundPath / (fileName + ".asi")).string().append("\n"));
+                    errorMessage.append("DUPLICATE FILE ERROR - Installation 2: ").append(filePath.string());
+                    spdlog::error("{}", errorMessage);
+                    Logging::ShowConsole();
+                    std::cout << errorMessage << std::endl;
+                    FreeLibraryAndExitThread(baseModule, 1);
+                }
+                foundPath = path;
+                if (setFixPath)
+                {
+                    sFixPath = foundPath;
+                }
+                if (!checkForDuplicates)
+                {
+                    return TRUE;
+                }
+                bFoundOnce = true;
+            }
+        }
+        return FALSE;
+    }
+
+    std::string GetNameAtIndex(const std::initializer_list<std::string>& list, int index)
+    {
+        if (index >= 0 && index < static_cast<int>(list.size()))
+        {
+            auto it = list.begin();
+            std::advance(it, index);
+            return *it;
+        }
+        return "Unknown";
+    }
+
+    std::string GetUppercaseNameAtIndex(const std::initializer_list<std::string>& list, int index)
+    {
+        if (index >= 0 && index < static_cast<int>(list.size()))
+        {
+            auto it = list.begin();
+            std::advance(it, index);
+            std::string name = *it;
+            std::transform(name.begin(), name.end(), name.begin(), ::toupper);
+            return name;
+        }
+        return "UNKNOWN";
+    }
+
+    bool IsSteamOS()
+    {
+        static bool bCheckedSteamDeck = false;
+        static bool bIsSteamDeck = false;
+        if (bCheckedSteamDeck)
+        {
+            return bIsSteamDeck;
+        }
+        bCheckedSteamDeck = true;
+        // Check for Proton/Steam Deck environment variables
+        if (std::getenv("STEAM_COMPAT_CLIENT_INSTALL_PATH") || std::getenv("STEAM_COMPAT_DATA_PATH") || std::getenv("XDG_SESSION_TYPE"))
+        {
+            bIsSteamDeck = true;
+        }
+        return bIsSteamDeck;
+    }
+
+    std::string StripQuotes(const std::string& value)
+    {
+        if (value.size() >= 2 && value.front() == '"' && value.back() == '"')
+        {
+            std::string s = value.substr(1, value.size() - 2);
+            // Handle escaped quotes
+            size_t pos = 0;
+            while ((pos = s.find("\\\"", pos)) != std::string::npos)
+            {
+                s.replace(pos, 2, "\"");
+                pos += 1;
+            }
+            return s;
+        }
+        return value;
+    }
+
+    /*
+    std::string GetParentProcessName(const bool returnFullPath = false)
+    {
+        DWORD currentPid = GetCurrentProcessId();
+        DWORD parentPid = 0;
+
+        HANDLE snapshot = CreateToolhelp32Snapshot(TH32CS_SNAPPROCESS, 0);
+        if (snapshot == INVALID_HANDLE_VALUE)
+        {
+            return {};
+        }
+
+        PROCESSENTRY32 pe;
+        pe.dwSize = sizeof(PROCESSENTRY32);
+
+        if (Process32First(snapshot, &pe))
+        {
+            do
+            {
+                if (pe.th32ProcessID == currentPid)
+                {
+                    parentPid = pe.th32ParentProcessID;
+                    break;
+                }
+            } while (Process32Next(snapshot, &pe));
+        }
+        CloseHandle(snapshot);
+
+        if (parentPid == 0)
+        {
+            return {};
+        }
+
+        HANDLE hParent = OpenProcess(PROCESS_QUERY_LIMITED_INFORMATION, FALSE, parentPid);
+        if (!hParent)
+        {
+            return {};
+        }
+
+        char exePath[MAX_PATH] = {};
+        DWORD size = sizeof(exePath);
+        if (!QueryFullProcessImageNameA(hParent, 0, exePath, &size))
+        {
+            CloseHandle(hParent);
+            return {};
+        }
+        CloseHandle(hParent);
+
+        std::string name = exePath;
+        if (returnFullPath)
+        {
+            return name;
+        }
+        size_t pos = name.find_last_of("\\/");
+        if (pos != std::string::npos)
+        {
+            name = name.substr(pos + 1);
+        }
+
+        // lowercase normalize
+        std::transform(name.begin(), name.end(), name.begin(), ::tolower);
+        return name;
+    }
+
+    bool IsProcessParent(const std::string& exeName)
+    {
+        std::string parent = GetParentProcessName(false);
+        if (parent.empty())
+        {
+            return false;
+        }
+
+        std::string target = exeName;
+        std::transform(target.begin(), target.end(), target.begin(), ::tolower);
+        return parent == target;
+    }    */
+
+
+
+    std::string GetFileProductName(const std::filesystem::path& path)
+    {
+        DWORD handle = 0;
+        DWORD size = GetFileVersionInfoSizeW(path.c_str(), &handle);
+        if (size == 0)
+        {
+            return {};
+        }
+
+        std::vector<char> buffer(size);
+        if (!GetFileVersionInfoW(path.c_str(), handle, size, buffer.data()))
+        {
+            return {};
+        }
+
+        struct LANGANDCODEPAGE
+        {
+            WORD wLanguage; WORD wCodePage;
+        };
+        LANGANDCODEPAGE* lpTranslate = nullptr;
+        UINT cbTranslate = 0;
+
+        if (!VerQueryValueW(buffer.data(), L"\\VarFileInfo\\Translation",
+                            reinterpret_cast<LPVOID*>(&lpTranslate), &cbTranslate))
+        {
+            return {};
+        }
+
+        // Just take the first translation entry
+        wchar_t subBlock[50];
+        swprintf_s(subBlock, L"\\StringFileInfo\\%04x%04x\\ProductName",
+                   lpTranslate[0].wLanguage, lpTranslate[0].wCodePage);
+
+        LPVOID lpBuffer = nullptr;
+        UINT dwBytes = 0;
+        if (VerQueryValueW(buffer.data(), subBlock, &lpBuffer, &dwBytes) && dwBytes > 0)
+        {
+            std::wstring ws(static_cast<wchar_t*>(lpBuffer), dwBytes);
+            return std::string(ws.begin(), ws.end());
+        }
+
+        return {};
+    }
+
+
+    std::optional<std::array<std::uint8_t, 20>> ComputeSHA1Bytes(const std::filesystem::path& filePath)
+    {
+        BCRYPT_ALG_HANDLE hAlg = nullptr;
+        DWORD hashObjectSize = 0;
+        if (!GetSHA1ProviderSnapshot(hAlg, hashObjectSize))
+        {
+            spdlog::error("ComputeSHA1Bytes: failed to initialize SHA-1 provider for '{}'", filePath.string());
+            return std::nullopt;
+        }
+
+        std::vector<std::uint8_t> hashObject(hashObjectSize);
+
+        BCRYPT_HASH_HANDLE hHash = nullptr;
+        if (BCryptCreateHash(hAlg, &hHash, hashObject.data(), hashObjectSize, nullptr, 0, 0) != 0)
+        {
+            spdlog::error("ComputeSHA1Bytes: BCryptCreateHash failed for '{}'", filePath.string());
+            return std::nullopt;
+        }
+
+        std::ifstream file(filePath, std::ios::binary);
+        if (!file)
+        {
+            spdlog::error("ComputeSHA1Bytes: failed to open file '{}'", filePath.string());
+            BCryptDestroyHash(hHash);
+            return std::nullopt;
+        }
+
+        thread_local std::vector<char> buffer(1 << 16);
+
+        while (true)
+        {
+            file.read(buffer.data(), static_cast<std::streamsize>(buffer.size()));
+            const std::streamsize bytesRead = file.gcount();
+
+            if (bytesRead > 0)
+            {
+                if (BCryptHashData(
+                    hHash,
+                    reinterpret_cast<PUCHAR>(buffer.data()),
+                    static_cast<ULONG>(bytesRead),
+                    0) != 0)
+                {
+                    spdlog::error("ComputeSHA1Bytes: BCryptHashData failed for '{}'", filePath.string());
+                    BCryptDestroyHash(hHash);
+                    return std::nullopt;
+                }
+            }
+
+            if (file.eof())
+            {
+                break;
+            }
+
+            if (file.fail())
+            {
+                spdlog::error("ComputeSHA1Bytes: read failed for '{}'", filePath.string());
+                BCryptDestroyHash(hHash);
+                return std::nullopt;
+            }
+        }
+
+        std::array<std::uint8_t, 20> computedHash {};
+        if (BCryptFinishHash(hHash, computedHash.data(), static_cast<ULONG>(computedHash.size()), 0) != 0)
+        {
+            spdlog::error("ComputeSHA1Bytes: BCryptFinishHash failed for '{}'", filePath.string());
+            BCryptDestroyHash(hHash);
+            return std::nullopt;
+        }
+
+        BCryptDestroyHash(hHash);
+        return computedHash;
+    }
+
+    bool SHA1Equals(const std::array<std::uint8_t, 20>& actual, const std::string& expected)
+    {
+        std::array<std::uint8_t, 20> expectedBytes {};
+        if (!ParseSha1Hex(expected, expectedBytes))
+        {
+            spdlog::error("SHA1Equals: invalid expected SHA-1 hex.");
+            return false;
+        }
+
+        return std::equal(actual.begin(), actual.end(), expectedBytes.begin());
+    }
+
+    bool SHA1Check(const std::filesystem::path& filePath, const std::string& expected)
+    {
+        const std::optional<std::array<std::uint8_t, 20>> computed = ComputeSHA1Bytes(filePath);
+        if (!computed.has_value())
+        {
+            return false;
+        }
+
+        return SHA1Equals(*computed, expected);
+    }
+    
+    void ShutdownSHA1Provider()
+    {
+        std::scoped_lock lock(gSha1ProviderMutex);
+
+        if (gSha1Alg != nullptr)
+        {
+            BCryptCloseAlgorithmProvider(gSha1Alg, 0);
+            gSha1Alg = nullptr;
+            gSha1HashObjectSize = 0;
+
+            spdlog::info("SHA1Check: SHA-1 provider shut down.");
+        }
+    }
+
+    bool RemoveMatchedCtxrFilesWithSentinelLast(const std::filesystem::path& baseDir, const std::span<const CtxrHashEntry> entries, const char* logDescription)
+    {
+        if (entries.empty())
+        {
+            spdlog::warn("RemoveMatchedCtxrFilesWithSentinelLast: no entries supplied.");
+            return false;
+        }
+
+        std::error_code baseEc;
+
+        const std::filesystem::path exeRoot = std::filesystem::weakly_canonical(sExePath, baseEc);
+        if (baseEc)
+        {
+            spdlog::error("RemoveMatchedCtxrFilesWithSentinelLast: failed to canonicalize sExePath '{}': {}", sExePath.string(), baseEc.message());
+            return false;
+        }
+
+        baseEc.clear();
+        const std::filesystem::path baseCanonical = std::filesystem::weakly_canonical(baseDir, baseEc);
+        if (baseEc)
+        {
+            spdlog::error("RemoveMatchedCtxrFilesWithSentinelLast: failed to canonicalize baseDir '{}': {}", baseDir.string(), baseEc.message());
+            return false;
+        }
+
+        auto exeIt = exeRoot.begin();
+        auto baseIt = baseCanonical.begin();
+
+        for (; exeIt != exeRoot.end(); ++exeIt, ++baseIt)
+        {
+            if (baseIt == baseCanonical.end() || *baseIt != *exeIt)
+            {
+                spdlog::error(
+                    "RemoveMatchedCtxrFilesWithSentinelLast: baseDir '{}' is outside sExePath '{}'. Aborting cleanup.",
+                    baseCanonical.string(),
+                    exeRoot.string());
+                return false;
+            }
+        }
+
+        const size_t sentinelIndex = entries.size() - 1;
+        const CtxrHashEntry& sentinelEntry = entries[sentinelIndex];
+        const std::filesystem::path sentinelPath = baseCanonical / (std::string(sentinelEntry.stem) + ".ctxr");
+
+        spdlog::info("Checking for presence of {} in: {}", logDescription, baseCanonical.string());
+
+        if (!std::filesystem::exists(sentinelPath))
+        {
+            spdlog::info("No {} found, skipping cleanup.", logDescription);
+            return true;
+        }
+
+        if (!SHA1Check(sentinelPath, sentinelEntry.sha1))
+        {
+            spdlog::info("No {} found. Sentinel ({}.ctxr) detected but hash did not match outdated version, skipping cleanup.", logDescription, sentinelEntry.stem);
+            return true;
+        }
+
+        std::vector<std::future<HashCheckResult>> futures;
+        futures.reserve(sentinelIndex);
+
+        for (size_t i = 0; i < sentinelIndex; ++i)
+        {
+            futures.emplace_back(std::async(
+                std::launch::async,
+                [baseCanonical, entries, i]()
+                {
+                    return CheckCtxrEntryHash(baseCanonical, entries[i], i);
+                }));
+        }
+
+        std::vector<HashCheckResult> matchesToRemove;
+        matchesToRemove.reserve(sentinelIndex);
+
+        for (auto& future : futures)
+        {
+            HashCheckResult result = future.get();
+
+            if (!result.exists)
+            {
+                continue;
+            }
+
+            if (!result.hashMatched)
+            {
+                continue;
+            }
+
+            matchesToRemove.emplace_back(std::move(result));
+        }
+
+        for (const HashCheckResult& match : matchesToRemove)
+        {
+            std::error_code removeEc;
+            std::filesystem::remove(match.filePath, removeEc);
+
+            if (removeEc)
+            {
+                spdlog::warn("{} cleanup halted: failed to remove {}: {}", logDescription, match.filePath.string(), removeEc.message());
+                spdlog::warn("{} cleanup stopped before sentinel removal. Sentinel was intentionally left in place.", logDescription);
+                return false;
+            }
+
+            spdlog::info("Removed matched ctxr: {}", match.filePath.string());
+        }
+
+        {
+            std::error_code removeEc;
+            std::filesystem::remove(sentinelPath, removeEc);
+
+            if (removeEc)
+            {
+                spdlog::warn("{} cleanup halted: failed to remove sentinel {}: {}", logDescription, sentinelPath.string(), removeEc.message());
+                return false;
+            }
+
+            spdlog::info("Removed matched ctxr: {}", sentinelPath.string());
+        }
+
+        spdlog::info("{} cleanup fully completed.", logDescription);
+        return true;
+    }
+
+
+    bool IsFileReadOnly(const std::filesystem::path& path)
+    {
+        DWORD attrs = GetFileAttributesW(path.wstring().c_str());
+        if (attrs == INVALID_FILE_ATTRIBUTES)
+        {
+            std::wcerr << L"[ERROR] Failed to get attributes for: " << path << std::endl;
+            spdlog::error("Failed to get attributes for file: {}", path.string());
+            return false;
+        }
+
+        return (attrs & FILE_ATTRIBUTE_READONLY) != 0;
+    }
+
+}
