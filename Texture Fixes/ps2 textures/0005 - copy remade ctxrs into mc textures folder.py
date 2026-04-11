@@ -12,7 +12,9 @@ from pathlib import Path
 from PIL import Image
 from tqdm import tqdm
 
-NEXT_SCRIPT_2 = os.path.join(SCRIPT_DIR, "0009 - find incorrect ps2 to mc alpha levels.py")
+NEXT_SCRIPT_2 = Path(
+    r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\0009 - find incorrect ps2 to mc alpha levels.py"
+)
 
 MC_DIMENSIONS_CSV = Path(
     r"C:\Development\Git\MGS3-PS2-Textures\Tri-Dumped\Master Collection\Metadata\mgs3_mc_dimensions_including_override_folders.csv"
