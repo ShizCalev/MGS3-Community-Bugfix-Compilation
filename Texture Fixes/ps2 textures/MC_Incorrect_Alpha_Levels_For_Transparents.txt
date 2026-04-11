@@ -46,7 +46,6 @@ HAS ALPHA
 	armory_paper00_alp_ovl.bmp_3de9cd3e5a27240fd1744bc8205c3a91
 	armory_sdw02_alp_ovl.bmp
 	armory_sign_alp_ovl_03.bmp
-	award_cup01.bmp
 	award_cup03_alp_ovl.bmp
 	bee_cmd_ovl_alp.bmp
 	bee_suana_alp_ovl.bmp
@@ -88,8 +87,6 @@ HAS ALPHA
 	ene_ind_body_belt_alp_ovl.bmp
 	ene_jonny_ovl_alp.bmp
 	ene_kgb_dam_ovl_alp.bmp
-	enjine01.bmp_64e7bcb9df415f5e0f8831b99e7aeb4c
-	enjinp03.bmp_f6166fd326cb6514d952749618aa71b9
 	eve_cov_blood_ovl_alp.bmp
 	eve_cov_burn_ovl_alp.bmp
 	eve_def_boot_crack_ovl_alp.bmp
@@ -124,8 +121,6 @@ HAS ALPHA
 	hangar_11_alp_ovl.bmp_ac78870f5f54690e3545d687e8624a81
 	hangar_11_alp_ovl.bmp_d6929f48bfb42343d0f6b7a1cd82dd11
 	hind_02_num_b_alp_ovl.bmp
-	hind_body_sidea.bmp
-	hind_body_sidec.bmp
 	hind_cargo_shadow_alp_ovl.bmp
 	hind_roter02_alp.trans.bmp
 	hind_roter02_ria_alp.trans.bmp
@@ -134,16 +129,6 @@ HAS ALPHA
 	iiz_n033a_paparb_alp_ovl.bmp
 	ivn_belt_shl_ovl_alp.bmp
 	ivn_body_suit_bh_ovl_alp.bmp
-	jeh_arm01.bmp
-	jeh_arm02.bmp
-	jeh_arm03.bmp
-	jeh_body06.bmp
-	jeh_chest05.bmp
-	jeh_cpu02.bmp
-	jeh_fist01.bmp
-	jeh_fist02.bmp
-	jeh_fist03.bmp
-	jeh_glass01.bmp
 	jngl_eda1_alp_ovl.bmp
 	katu_door_light_blue_alp_add_tr.trans.bmp
 	katu_door_light_red_alp_add_tr.trans.bmp
@@ -297,26 +282,8 @@ HAS ALPHA
 	red_def_wing_ovl_alp.bmp
 	rex_eyes_alp_ovl.bmp
 	rex_finger_s_alp_ovl.bmp
-	rex_gun_s01.bmp
-	rex_head_t03s.bmp
-	rex_leg1parts_s01.bmp
-	rex_leg1parts_s02.bmp
-	rex_leg2_s01.bmp
-	rex_leg2_s02.bmp
-	rex_leg2_t01.bmp
-	rex_radome_b04.bmp
-	rex_radome_s02out.bmp
-	rex_radome_u02.bmp
-	rex_railgun_t03.bmp
-	rex_railgun_t05.bmp
-	rex_railgun_t08.bmp
 	rex_railgun_ts_alp_ovl.bmp
-	rex_rg_parts_t03.bmp
-	rex_tail_f01.bmp
-	rex_waist_f03.bmp
 	rex_waist_plate_alp_ovl.bmp
-	rex_waist_u05.bmp
-	rex_wing_s02.bmp
 	rogo_alp_ovl.bmp
 	rpv_def_wing_ovl_alp.bmp
 	s006a_2f_rail_shd1_alp_ovl.bmp
@@ -401,7 +368,6 @@ HAS ALPHA
 	s054a_papere_alp_ovl.bmp
 	s054a_sdw_floor_l0_alp_ovl.bmp
 	s054a_sdw_floor_s0_alp_ovl.bmp
-	s055a_cell_door00.bmp
 	s055a_pos_woman00_alp_ovl.bmp
 	s055a_sdw01_alp_ovl.bmp
 	s055a_sdw_wall00_alp_ovl.bmp

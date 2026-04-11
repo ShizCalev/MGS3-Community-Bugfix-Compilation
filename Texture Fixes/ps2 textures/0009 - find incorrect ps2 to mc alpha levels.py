@@ -115,6 +115,7 @@ def main():
     no_mip_regex_path = repo_root / "Texture Fixes" / "no_mip_regex.txt"
     manual_ui_path = repo_root / "Texture Fixes" / "ps2 textures" / "manual_ui_textures.txt"
     log_path = script_dir / "MC - Incorrect Alpha Report (Verbose).txt"
+    log_no_ui_path = script_dir / "MC - Incorrect Alpha Report (Verbose) - no manual ui.txt"
 
     if not tri_dumped_csv.exists():
         raise FileNotFoundError(f"Missing tri-dumped metadata CSV: {tri_dumped_csv}")
@@ -127,6 +128,14 @@ def main():
 
     added_tgas = inject_missing_tgas(opaque_dir, tri_dumped_data)
     print(f"Injected {added_tgas} new TGA entries from {opaque_dir}")
+
+    ui_textures = set()
+    if manual_ui_path.exists():
+        with open(manual_ui_path, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith("#"):
+                    ui_textures.add(line.lower())
 
     group1_exceeds = []
     group1_below = []
@@ -286,83 +295,198 @@ def main():
         if k.startswith("OG PS2 FILES") and "MIPS CORRECT - POT (LOW PRIORITY)" not in k
     )
 
-    should_write_log = any((
-        bp1x, bp1b, bp2, bp3,
-        nbp1x, nbp1b, nbp2, nbp3,
-        unreferenced,
-    ))
+    def filter_entry_group(group):
+        return [entry for entry in group if entry[0].lower() not in ui_textures]
 
-    if should_write_log:
-        with open(log_path, "w", encoding="utf-8") as f:
-            def section(title, data):
-                f.write(f"===== {title} (Count: {len(data)}) =====\n")
-                if not data:
-                    f.write("None\n\n")
-                    return
+    def filter_name_group(group):
+        return [tex for tex in group if tex.lower() not in ui_textures]
 
-                for tex, tri_alpha, mc_alpha in data:
-                    f.write(f"{tex}\t\t\t\t\tPS2: {tri_alpha}\t\t\t\t\tMC: {mc_alpha}\n")
-                f.write("\n")
+    def build_summary_counts(bp_group, og_group):
+        counts = {}
 
-            f.write("###############################################################\n")
-            f.write(f"########################  BP REMADE  (Total: {total_bp})  ##########################\n")
-            f.write("###############################################################\n\n")
-            section("GROUP 1 - Single Alpha Value (MC Exceeds)", bp1x)
-            section("GROUP 1 - Single Alpha Value (MC Below)", bp1b)
-            section("GROUP 2 - Two Alpha Values (Mismatch)", bp2)
-            section("GROUP 3 - Complex Alpha Lists (Mismatch)", bp3)
+        def collect(title, group):
+            matched, unmatched = regex_split(group)
+            matched_pot, matched_npot = pot_split(matched)
+            unmatched_pot, unmatched_npot = pot_split(unmatched)
 
-            f.write("###############################################################\n")
-            f.write(f"########################  OG PS2 FILES  (Total: {total_nonbp})  #########################\n")
-            f.write("###############################################################\n\n")
-            section("GROUP 1 - Single Alpha Value (MC Exceeds)", nbp1x)
-            section("GROUP 1 - Single Alpha Value (MC Below)", nbp1b)
-            section("GROUP 2 - Two Alpha Values (Mismatch)", nbp2)
-            section("GROUP 3 - Complex Alpha Lists (Mismatch)", nbp3)
+            counts[f"{title} | NEEDS MIPS STRIPPED - POT (NEED TO FIND)"] = len(matched_pot)
+            counts[f"{title} | NEEDS MIPS STRIPPED - NPOT (NEED TO FIND)"] = len(matched_npot)
+            counts[f"{title} | MIPS CORRECT - POT (LOW PRIORITY)"] = len(unmatched_pot)
+            counts[f"{title} | MIPS CORRECT - NPOT (NEED TO FIND)"] = len(unmatched_npot)
 
-            f.write("###############################################################\n")
-            f.write(f"\n###################  NOT IN TRI-DUMPED CSV YET  (Count: {len(unreferenced)})  ################\n\n")
-            f.write("###############################################################\n")
+        collect("BP REMADE", bp_group)
+        collect("OG PS2 FILES", og_group)
+        return counts
 
-            def log_hierarchy(title, group):
-                matched, unmatched = regex_split(group)
-                matched_pot, matched_npot = pot_split(matched)
-                unmatched_pot, unmatched_npot = pot_split(unmatched)
+    bp1x_no_ui = filter_entry_group(bp1x)
+    nbp1x_no_ui = filter_entry_group(nbp1x)
+    bp1b_no_ui = filter_entry_group(bp1b)
+    nbp1b_no_ui = filter_entry_group(nbp1b)
+    bp2_no_ui = filter_entry_group(bp2)
+    nbp2_no_ui = filter_entry_group(nbp2)
+    bp3_no_ui = filter_entry_group(bp3)
+    nbp3_no_ui = filter_entry_group(nbp3)
 
-                f.write(f"===== {title} (Total: {len(group)}) =====\n\n")
+    unreferenced_no_ui = filter_name_group(unreferenced)
+    bp_unref_no_ui = filter_name_group(bp_unref)
+    og_unref_no_ui = filter_name_group(og_unref)
 
-                sections = [
-                    ("NEEDS MIPS STRIPPED - Power of 2", matched_pot),
-                    ("NEEDS MIPS STRIPPED - NPOT", matched_npot),
-                    ("MIPS CORRECT - Power of 2 (LOW PRIORITY)", unmatched_pot),
-                    ("MIPS CORRECT - NPOT (NPOT)", unmatched_npot),
-                ]
+    total_bp_no_ui = len(bp1x_no_ui) + len(bp1b_no_ui) + len(bp2_no_ui) + len(bp3_no_ui)
+    total_nonbp_no_ui = len(nbp1x_no_ui) + len(nbp1b_no_ui) + len(nbp2_no_ui) + len(nbp3_no_ui)
 
-                for label, items in sections:
-                    f.write(f"----- {label} (Count: {len(items)}) -----\n")
-                    if items:
-                        for tex in sorted(items, key=str.lower):
-                            f.write(f"{tex}\n")
-                    else:
-                        f.write("None\n")
+    summary_counts_no_ui = build_summary_counts(bp_unref_no_ui, og_unref_no_ui)
+
+    total_mips_correct_pot_no_ui = sum(
+        v for k, v in summary_counts_no_ui.items()
+        if "MIPS CORRECT - POT (LOW PRIORITY)" in k
+    )
+    total_other_no_ui = sum(summary_counts_no_ui.values()) - total_mips_correct_pot_no_ui
+    og_left_to_find_no_ui = sum(
+        v for k, v in summary_counts_no_ui.items()
+        if k.startswith("OG PS2 FILES") and "MIPS CORRECT - POT (LOW PRIORITY)" not in k
+    )
+
+    def write_verbose_log(
+        out_path: Path,
+        bp_total: int,
+        nonbp_total: int,
+        bp1x_group,
+        bp1b_group,
+        bp2_group,
+        bp3_group,
+        nbp1x_group,
+        nbp1b_group,
+        nbp2_group,
+        nbp3_group,
+        unreferenced_group,
+        bp_unref_group,
+        og_unref_group,
+        summary_counts_group,
+        total_mips_correct_pot_group: int,
+        total_other_group: int,
+        og_left_to_find_group: int,
+    ) -> bool:
+        should_write = any((
+            bp1x_group, bp1b_group, bp2_group, bp3_group,
+            nbp1x_group, nbp1b_group, nbp2_group, nbp3_group,
+            unreferenced_group,
+        ))
+
+        if should_write:
+            with open(out_path, "w", encoding="utf-8") as f:
+                def section(title, data):
+                    f.write(f"===== {title} (Count: {len(data)}) =====\n")
+                    if not data:
+                        f.write("None\n\n")
+                        return
+
+                    for tex, tri_alpha, mc_alpha in data:
+                        f.write(f"{tex}\t\t\t\t\tPS2: {tri_alpha}\t\t\t\t\tMC: {mc_alpha}\n")
                     f.write("\n")
 
-            log_hierarchy("BP REMADE", bp_unref)
-            f.write("\n")
-            log_hierarchy("OG PS2 FILES", og_unref)
+                f.write("###############################################################\n")
+                f.write(f"########################  BP REMADE  (Total: {bp_total})  ##########################\n")
+                f.write("###############################################################\n\n")
+                section("GROUP 1 - Single Alpha Value (MC Exceeds)", bp1x_group)
+                section("GROUP 1 - Single Alpha Value (MC Below)", bp1b_group)
+                section("GROUP 2 - Two Alpha Values (Mismatch)", bp2_group)
+                section("GROUP 3 - Complex Alpha Lists (Mismatch)", bp3_group)
 
-            f.write("\n###############################################################\n")
-            f.write("########################  SUMMARY COUNTS FOR REMAINING UNDUMPED #########################\n")
-            f.write("###############################################################\n\n")
-            for k, v in summary_counts.items():
-                f.write(f"{k}: {v}\n")
-            f.write(f"\nTOTAL MIPS CORRECT (POT): {total_mips_correct_pot}\n")
-            f.write(f"ALL OTHER CATEGORIES: {total_other}\n")
-            f.write(f"COMBINED TOTAL: {total_mips_correct_pot + total_other}\n")
-            f.write(f"OG PS2 LEFT TO FIND: {og_left_to_find}\n")
-    else:
-        if log_path.exists():
-            log_path.unlink()
+                f.write("###############################################################\n")
+                f.write(f"########################  OG PS2 FILES  (Total: {nonbp_total})  #########################\n")
+                f.write("###############################################################\n\n")
+                section("GROUP 1 - Single Alpha Value (MC Exceeds)", nbp1x_group)
+                section("GROUP 1 - Single Alpha Value (MC Below)", nbp1b_group)
+                section("GROUP 2 - Two Alpha Values (Mismatch)", nbp2_group)
+                section("GROUP 3 - Complex Alpha Lists (Mismatch)", nbp3_group)
+
+                f.write("###############################################################\n")
+                f.write(f"\n###################  NOT IN TRI-DUMPED CSV YET  (Count: {len(unreferenced_group)})  ################\n\n")
+                f.write("###############################################################\n")
+
+                def log_hierarchy(title, group):
+                    matched, unmatched = regex_split(group)
+                    matched_pot, matched_npot = pot_split(matched)
+                    unmatched_pot, unmatched_npot = pot_split(unmatched)
+
+                    f.write(f"===== {title} (Total: {len(group)}) =====\n\n")
+
+                    sections = [
+                        ("NEEDS MIPS STRIPPED - Power of 2", matched_pot),
+                        ("NEEDS MIPS STRIPPED - NPOT", matched_npot),
+                        ("MIPS CORRECT - Power of 2 (LOW PRIORITY)", unmatched_pot),
+                        ("MIPS CORRECT - NPOT (NPOT)", unmatched_npot),
+                    ]
+
+                    for label, items in sections:
+                        f.write(f"----- {label} (Count: {len(items)}) -----\n")
+                        if items:
+                            for tex in sorted(items, key=str.lower):
+                                f.write(f"{tex}\n")
+                        else:
+                            f.write("None\n")
+                        f.write("\n")
+
+                log_hierarchy("BP REMADE", bp_unref_group)
+                f.write("\n")
+                log_hierarchy("OG PS2 FILES", og_unref_group)
+
+                f.write("\n###############################################################\n")
+                f.write("########################  SUMMARY COUNTS FOR REMAINING UNDUMPED #########################\n")
+                f.write("###############################################################\n\n")
+                for k, v in summary_counts_group.items():
+                    f.write(f"{k}: {v}\n")
+                f.write(f"\nTOTAL MIPS CORRECT (POT): {total_mips_correct_pot_group}\n")
+                f.write(f"ALL OTHER CATEGORIES: {total_other_group}\n")
+                f.write(f"COMBINED TOTAL: {total_mips_correct_pot_group + total_other_group}\n")
+                f.write(f"OG PS2 LEFT TO FIND: {og_left_to_find_group}\n")
+        else:
+            if out_path.exists():
+                out_path.unlink()
+
+        return should_write
+
+    should_write_log = write_verbose_log(
+        log_path,
+        total_bp,
+        total_nonbp,
+        bp1x,
+        bp1b,
+        bp2,
+        bp3,
+        nbp1x,
+        nbp1b,
+        nbp2,
+        nbp3,
+        unreferenced,
+        bp_unref,
+        og_unref,
+        summary_counts,
+        total_mips_correct_pot,
+        total_other,
+        og_left_to_find,
+    )
+
+    should_write_log_no_ui = write_verbose_log(
+        log_no_ui_path,
+        total_bp_no_ui,
+        total_nonbp_no_ui,
+        bp1x_no_ui,
+        bp1b_no_ui,
+        bp2_no_ui,
+        bp3_no_ui,
+        nbp1x_no_ui,
+        nbp1b_no_ui,
+        nbp2_no_ui,
+        nbp3_no_ui,
+        unreferenced_no_ui,
+        bp_unref_no_ui,
+        og_unref_no_ui,
+        summary_counts_no_ui,
+        total_mips_correct_pot_no_ui,
+        total_other_no_ui,
+        og_left_to_find_no_ui,
+    )
 
     print("\n[Filtered Export] Creating left-to-find list excluding any Texture Fixes assets...")
 
@@ -389,14 +513,6 @@ def main():
             filtered_basic_csv.unlink()
         print(f"[Filtered Export] No items for {filtered_basic_csv.name}")
         print(f"[Filtered Export] {len(unreferenced) - len(filtered_unref_basic)} excluded (found in Texture Fixes).")
-
-    ui_textures = set()
-    if manual_ui_path.exists():
-        with open(manual_ui_path, encoding="utf-8") as f:
-            for line in f:
-                line = line.strip()
-                if line and not line.startswith("#"):
-                    ui_textures.add(line.lower())
 
     def is_npot_mc(tex_name: str) -> bool:
         row = mc_data.get(tex_name.lower())
@@ -441,6 +557,12 @@ def main():
         print(f"Log written to: {log_path}")
     else:
         print(f"Log removed or skipped: {log_path}")
+
+    if should_write_log_no_ui:
+        print(f"No-UI log written to: {log_no_ui_path}")
+    else:
+        print(f"No-UI log removed or skipped: {log_no_ui_path}")
+
     print(f"Unreferenced total: {len(unreferenced)} (BP+OG split by regex and POT)")
     print(f"MIPS CORRECT (POT / LOW PRIORITY): {total_mips_correct_pot}, LEFT TO DUMP: {total_other}")
     print(f"OG PS2 LEFT TO FIND: {og_left_to_find}")
