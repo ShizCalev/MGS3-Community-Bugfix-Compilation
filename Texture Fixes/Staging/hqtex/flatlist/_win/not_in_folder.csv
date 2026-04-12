@@ -1082,6 +1082,7 @@ filename,full_path
 00880b64,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00880b64.png
 00880b65,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00880b65.png
 00880b66,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00880b66.png
+0088205a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\0088205a.png
 00882820,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00882820.png
 00883597,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\00883597.png
 00889643,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00889643.png
@@ -2208,12 +2209,14 @@ bos_eyelashes_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Text
 bos_face_end.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\bos_face_end.bmp.png
 bos_face_ss.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\bos_face_ss.bmp.png
 bos_hair_tail_all_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\bos_hair_tail_all_ovl_alp.bmp.png
+bos_item_hair_ss_string_.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\bos_item_hair_ss_string_.bmp.png
 bos_item_shoelace_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\bos_item_shoelace_ovl_alp.bmp.png
 bos_mant_cloth.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\bos_mant_cloth.bmp.png
 bos_mant_col.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\bos_mant_col.bmp.png
 bos_mant_hood.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\bos_mant_hood.bmp.png
 bos_mant_hood_sub_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\bos_mant_hood_sub_ovl_alp.bmp.png
 bos_mant_sub_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\bos_mant_sub_ovl_alp.bmp.png
+bos_mod1120_ovl_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\bos_mod1120_ovl_alp_emap.bmp.png
 bos_rope_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\bos_rope_ovl_alp.bmp.png
 bos_ss_arm.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\bos_ss_arm.bmp.png
 bos_ss_belt_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\bos_ss_belt_ovl_alp.bmp.png
@@ -2577,6 +2580,10 @@ colttex.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 
 colttex.bmp_38de91f1aa72a3cb2c1407a8cd778ae3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\colttex.bmp_38de91f1aa72a3cb2c1407a8cd778ae3.png
 colttex_bara.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\colttex_bara.bmp.png
 colttex_bara_gin.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\colttex_bara_gin.bmp.png
+comic_1.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\comic_1.bmp.png
+comic_2.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\comic_2.bmp.png
+comic_3.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\comic_3.bmp.png
+comic_4.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\comic_4.bmp.png
 comp_a00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\comp_a00.bmp.png
 comp_a00.bmp_7acc2ca737f5d7b6061dc6160fd4d675,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\comp_a00.bmp_7acc2ca737f5d7b6061dc6160fd4d675.png
 comp_b00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\comp_b00.bmp.png
@@ -2729,6 +2736,10 @@ e01_1.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 te
 e01_2.bmp_f0b63fb0ea7e68f56e4e83a511bf37e1,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e01_2.bmp_f0b63fb0ea7e68f56e4e83a511bf37e1.png
 e01_3.bmp_541acc1ad8a115247861fcf34368023d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e01_3.bmp_541acc1ad8a115247861fcf34368023d.png
 e01_4.bmp_54f96d8a29ca80b1a3feabfd6ad0ce4b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e01_4.bmp_54f96d8a29ca80b1a3feabfd6ad0ce4b.png
+e02_1.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e02_1.bmp.png
+e02_2.bmp_75c18656e1070488b65f4ef3c5459c6a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e02_2.bmp_75c18656e1070488b65f4ef3c5459c6a.png
+e02_3.bmp_9f9413fdf4806383d89d42846a722a3f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e02_3.bmp_9f9413fdf4806383d89d42846a722a3f.png
+e02_4.bmp_e98df2b1939851f47c8a6c28ea1d4cda,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e02_4.bmp_e98df2b1939851f47c8a6c28ea1d4cda.png
 e02a_leave01_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\e02a_leave01_alp_ovl.bmp.png
 e02a_leave03_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\e02a_leave03_alp_ovl.bmp.png
 e02a_tree01_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\e02a_tree01_alp_ovl.bmp.png
@@ -2794,6 +2805,10 @@ e04_1.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 te
 e04_2.bmp_04dda450a93965ec055c9b3e101e099b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\e04_2.bmp_04dda450a93965ec055c9b3e101e099b.png
 e04_3.bmp_6e40581365c7129ba9808c175223db1c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\e04_3.bmp_6e40581365c7129ba9808c175223db1c.png
 e04_4.bmp_8c6cd8cff37073ad12c3337cfc6743c9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\e04_4.bmp_8c6cd8cff37073ad12c3337cfc6743c9.png
+e05_1.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e05_1.bmp.png
+e05_2.bmp_82b3b58938902ff77960ab86bece7fde,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e05_2.bmp_82b3b58938902ff77960ab86bece7fde.png
+e05_3.bmp_af67f0040e86439009598c872cff2e9d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e05_3.bmp_af67f0040e86439009598c872cff2e9d.png
+e05_4.bmp_36713177f73649f66e6d12e18911a8b2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\e05_4.bmp_36713177f73649f66e6d12e18911a8b2.png
 e_akm.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\e_akm.bmp.png
 e_box_a00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\e_box_a00.bmp.png
 e_grene-do.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\e_grene-do.bmp.png
@@ -2825,14 +2840,18 @@ egun_tama_x_ray.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fi
 end_dead_hand.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_dead_hand.bmp.png
 end_def_hand.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_def_hand.bmp.png
 end_ela01_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\end_ela01_alp_ovl.bmp.png
+end_face_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_face_ovl_mod1120_alp_emap.bmp.png
 end_false_gums.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_false_gums.bmp.png
+end_false_metal.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_false_metal.bmp.png
 end_false_tooth.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_false_tooth.bmp.png
 end_ghost_foot.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_ghost_foot.bmp.png
 end_ghost_foot_under.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_ghost_foot_under.bmp.png
 end_ghost_hand.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_ghost_hand.bmp.png
+end_hp_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_hp_ovl_mod1120_alp_emap.bmp.png
 end_item_bk.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_item_bk.bmp.png
 end_item_bk_side.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_item_bk_side.bmp.png
 end_item_case_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_item_case_def.bmp.png
+end_item_hp_coad.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_item_hp_coad.bmp.png
 end_item_hp_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_item_hp_def.bmp.png
 end_item_hp_ma.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\end_item_hp_ma.bmp.png
 end_item_hp_mb.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_item_hp_mb.bmp.png
@@ -2850,6 +2869,7 @@ end_mgs3_body_gr_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\T
 end_mgs3_body_red.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_mgs3_body_red.bmp.png
 end_mgs3_body_red_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\end_mgs3_body_red_ovl_alp.bmp.png
 end_mgs3_eye.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_mgs3_eye.bmp.png
+end_mgs3_eye_dead.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_mgs3_eye_dead.bmp.png
 end_mgs3_eye_side.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\end_mgs3_eye_side.bmp.png
 end_mgs3_face_dead.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_mgs3_face_dead.bmp.png
 end_mgs3_face_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\end_mgs3_face_def.bmp.png
@@ -3146,6 +3166,7 @@ fea_face_dead.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixe
 fea_face_fix.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\fea_face_fix.bmp.png
 fea_face_fix.bmp_7f1d3c13eea0ad4841af24e2b2561093,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\fea_face_fix.bmp_7f1d3c13eea0ad4841af24e2b2561093.png
 fea_face_ovl_alp_mod1120_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\fea_face_ovl_alp_mod1120_emap.bmp.png
+fea_face_ovl_alp_mod1120_emap.bmp_20090ce542f2c5ce0babfeb8f195dd0c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\fea_face_ovl_alp_mod1120_emap.bmp_20090ce542f2c5ce0babfeb8f195dd0c.png
 fea_hair_back_fix_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\fea_hair_back_fix_ovl_alp.bmp.png
 fea_hair_top_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\fea_hair_top_ovl_alp.bmp.png
 fea_hair_top_white_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\fea_hair_top_white_ovl_alp.bmp.png
@@ -3706,6 +3727,10 @@ j07_1.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 te
 j07_2.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\j07_2.bmp.png
 j07_3.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\j07_3.bmp.png
 j07_4.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\j07_4.bmp.png
+j10_1.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\j10_1.bmp.png
+j10_2.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\j10_2.bmp.png
+j10_3.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\j10_3.bmp.png
+j10_4.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\j10_4.bmp.png
 jeh_ant01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\jeh_ant01.bmp.png
 jeh_arm01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\jeh_arm01.bmp.png
 jeh_arm02.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\jeh_arm02.bmp.png
@@ -9154,9 +9179,11 @@ sofa_top.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2
 sofa_under.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sofa_under.bmp.png
 sofa_under1.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\sofa_under1.bmp.png
 sok_coat_body.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_body.bmp.png
+sok_coat_boots_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_boots_ovl_mod1120_alp_emap.bmp.png
 sok_coat_coat.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_coat.bmp.png
 sok_coat_coat_ovl_sub_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\sok_coat_coat_ovl_sub_alp.bmp.png
 sok_coat_eye.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_eye.bmp.png
+sok_coat_eye_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_eye_ovl_mod1120_alp_emap.bmp.png
 sok_coat_face.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_face.bmp.png
 sok_coat_face_ovl_sub_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\sok_coat_face_ovl_sub_alp.bmp.png
 sok_coat_haind.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_haind.bmp.png
@@ -9164,9 +9191,11 @@ sok_coat_haind_hand.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Textur
 sok_coat_hair_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\sok_coat_hair_alp_ovl.bmp.png
 sok_coat_lupe2_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\sok_coat_lupe2_ovl_alp.bmp.png
 sok_coat_lupe_himo.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_lupe_himo.bmp.png
+sok_coat_lupe_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_lupe_ovl_mod1120_alp_emap.bmp.png
 sok_coat_lupe_pin.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_lupe_pin.bmp.png
 sok_coat_matuge_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\sok_coat_matuge_alp_ovl.bmp.png
 sok_coat_nekutai.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_nekutai.bmp.png
+sok_coat_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_ovl_mod1120_alp_emap.bmp.png
 sok_coat_shatu.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_shatu.bmp.png
 sok_coat_teeth.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_coat_teeth.bmp.png
 sok_white_body.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_white_body.bmp.png
@@ -9174,6 +9203,7 @@ sok_white_botan_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Te
 sok_white_damknee_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\sok_white_damknee_ovl_alp.bmp.png
 sok_white_hand.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_white_hand.bmp.png
 sok_white_staffproof.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_white_staffproof.bmp.png
+sok_white_white_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sok_white_white_ovl_mod1120_alp_emap.bmp.png
 sokuseki_ramen_01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sokuseki_ramen_01.bmp.png
 solidago1_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\solidago1_alp_ovl.bmp.png
 sor_board_01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\sor_board_01.bmp.png
@@ -9181,6 +9211,7 @@ sor_board_num_01_alp.trans.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation
 sor_body_park_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\sor_body_park_ovl_mod1120_alp_emap.bmp.png
 sor_body_park_smole_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\sor_body_park_smole_ovl_mod1120_alp_emap.bmp.png
 sor_foot_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_foot_def.bmp.png
+sor_foot_def_smole.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_foot_def_smole.bmp.png
 sor_foot_under.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_foot_under.bmp.png
 sor_hair_back_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\sor_hair_back_ovl_alp.bmp.png
 sor_hair_front_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sor_hair_front_ovl_alp.bmp.png
@@ -9201,28 +9232,48 @@ sor_item_glass_park_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilatio
 sor_item_glass_ref_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sor_item_glass_ref_ovl_alp.bmp.png
 sor_item_glass_ref_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\sor_item_glass_ref_ovl_mod1120_alp_emap.bmp.png
 sor_item_hol_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_item_hol_def.bmp.png
+sor_item_hol_def_deth.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_item_hol_def_deth.bmp.png
 sor_mgs3_arm_park.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_arm_park.bmp.png
+sor_mgs3_arm_park_smole.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_arm_park_smole.bmp.png
 sor_mgs3_belt.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_belt.bmp.png
+sor_mgs3_belt_deth.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_belt_deth.bmp.png
+sor_mgs3_belt_vr.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_belt_vr.bmp.png
 sor_mgs3_body_over.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_body_over.bmp.png
+sor_mgs3_body_over_det.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_body_over_det.bmp.png
 sor_mgs3_body_over_park.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_body_over_park.bmp.png
+sor_mgs3_body_over_park_smole.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_body_over_park_smole.bmp.png
 sor_mgs3_body_park.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_body_park.bmp.png
+sor_mgs3_body_park_smole.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_body_park_smole.bmp.png
 sor_mgs3_body_shld.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_body_shld.bmp.png
+sor_mgs3_body_shld_deth.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_body_shld_deth.bmp.png
 sor_mgs3_body_under.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_body_under.bmp.png
+sor_mgs3_body_under_deth.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_body_under_deth.bmp.png
 sor_mgs3_eye_hi.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_eye_hi.bmp.png
+sor_mgs3_eye_hi_smole.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_eye_hi_smole.bmp.png
+sor_mgs3_eye_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_eye_ovl_mod1120_alp_emap.bmp.png
 sor_mgs3_eye_red_decal.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_eye_red_decal.bmp.png
 sor_mgs3_face_blood.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_face_blood.bmp.png
 sor_mgs3_face_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_face_def.bmp.png
 sor_mgs3_face_park.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_face_park.bmp.png
+sor_mgs3_face_park_smole.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_face_park_smole.bmp.png
 sor_mgs3_foot_goast.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_foot_goast.bmp.png
 sor_mgs3_gun.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_gun.bmp.png
 sor_mgs3_gun_belt.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_gun_belt.bmp.png
+sor_mgs3_gun_belt_deth.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_gun_belt_deth.bmp.png
 sor_mgs3_gun_belt_fuck.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\sor_mgs3_gun_belt_fuck.bmp.png
 sor_mgs3_gun_belt_left.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_gun_belt_left.bmp.png
 sor_mgs3_gun_belt_shl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_gun_belt_shl.bmp.png
+sor_mgs3_gun_belt_shl_deth.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_gun_belt_shl_deth.bmp.png
 sor_mgs3_gun_grip.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_gun_grip.bmp.png
 sor_mgs3_hand_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_hand_def.bmp.png
+sor_mgs3_hand_def_smole.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_hand_def_smole.bmp.png
 sor_mgs3_head_park.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_head_park.bmp.png
+sor_mgs3_head_park_smole.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_head_park_smole.bmp.png
 sor_mgs3_wpl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_mgs3_wpl.bmp.png
+sor_rend_waist.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_rend_waist.bmp.png
+sor_xry_bones.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_xry_bones.bmp.png
+sor_xry_buckbone.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_xry_buckbone.bmp.png
+sor_xry_skull.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sor_xry_skull.bmp.png
 sor_xry_spine_a_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sor_xry_spine_a_ovl_alp.bmp.png
 spd_tex.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\spd_tex.bmp.png
 spoke_fade_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\spoke_fade_alp_ovl.bmp.png
@@ -9460,6 +9511,8 @@ thu_mgs3_arm_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture F
 thu_mgs3_arm_jnt.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\thu_mgs3_arm_jnt.bmp.png
 thu_mgs3_body_pit_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\thu_mgs3_body_pit_ovl_alp.bmp.png
 thu_mgs3_body_rog_ovl_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\thu_mgs3_body_rog_ovl_alp.bmp.png
+thu_mgs3_btn_body.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\thu_mgs3_btn_body.bmp.png
+thu_mgs3_btn_coat.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\thu_mgs3_btn_coat.bmp.png
 thu_mgs3_bull.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\thu_mgs3_bull.bmp.png
 thu_mgs3_coat_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\thu_mgs3_coat_def.bmp.png
 thu_mgs3_coat_hand_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\thu_mgs3_coat_hand_def.bmp.png

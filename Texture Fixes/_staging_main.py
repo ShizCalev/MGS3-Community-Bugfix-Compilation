@@ -84,6 +84,9 @@ UPSCALE_PROCESS_VERSION = "2"
 # 2 = alpha clamped instead of split.
 NON_UPSCALED_PROCESS_VERSION = "2"
 
+SKIP_GOOD_ALPHA_FILES = True
+SPAM_LOG_WITH_GOOD_ALPHA = False
+
 CSV_FLUSH_SECONDS = 5.0
 
 PRINT_LOCK = Lock()
@@ -568,6 +571,31 @@ def image_is_fully_opaque_or_no_alpha(path: Path) -> bool:
             return (mn == mx) and (mn == 255 or mn == 128)
     except Exception as e:
         raise RuntimeError(f"Failed checking alpha opacity for {path}: {e}")
+
+
+def image_alpha_is_exactly_128_everywhere(path: Path) -> bool:
+    try:
+        with Image.open(path) as im:
+            if "A" not in im.getbands():
+                return False
+
+            rgba = im.convert("RGBA")
+            a = rgba.getchannel("A")
+            mn, mx = a.getextrema()
+            return mn == 128 and mx == 128
+    except Exception as e:
+        raise RuntimeError(f"Failed checking for exact 128 alpha in {path}: {e}")
+
+
+def should_skip_nonupscaled_nondemastered_bp_remade(path: Path) -> bool:
+    if not SKIP_GOOD_ALPHA_FILES:
+        return False
+
+    parent_lower = str(path.parent).lower().replace("/", "\\")
+    return (
+        parent_lower.endswith(r"mc textures\opaque\bp_remade")
+        and image_alpha_is_exactly_128_everywhere(path)
+    )
 
 
 def build_nonupscaled_ctxr3_required_stems(
@@ -2708,6 +2736,30 @@ def main() -> int:
 
         original_image_files = gather_image_files_non_recursive(folders)
 
+        skipped_bp_remade_meta_mismatch_stems: set[str] = set()
+
+        if (not is_upscaled_run) and (not is_demastered_run):
+            filtered_original_image_files: list[Path] = []
+
+            for img in original_image_files:
+                if should_skip_nonupscaled_nondemastered_bp_remade(img):
+                    skipped_bp_remade_meta_mismatch_stems.add(img.stem.lower())
+                    if SPAM_LOG_WITH_GOOD_ALPHA:
+                        log(f"[SKIP - ALPHA GOOD] {img}")
+                        
+                    continue
+
+                filtered_original_image_files.append(img)
+
+            if skipped_bp_remade_meta_mismatch_stems:
+                log(
+                    "[INFO] Skipped "
+                    f"{len(skipped_bp_remade_meta_mismatch_stems)} "
+                    "non-demastered, non-upscaled bp_remade texture(s) with exact 128 alpha"
+                )
+
+            original_image_files = filtered_original_image_files
+
         ctxr3_required_stems: set[str] = set()
         if not is_upscaled_run:
             ctxr3_required_stems = build_nonupscaled_ctxr3_required_stems(
@@ -2797,6 +2849,50 @@ def main() -> int:
                 image_used_nomips_by_name[stem_lower] = used_nomips
 
         conversion_map, conversion_rows, conversion_header, header_has_upscaler_cols = load_conversion_csv_unique_or_die(conversion_csv)
+
+        if skipped_bp_remade_meta_mismatch_stems:
+            pruned_rows: list[dict[str, str]] = []
+            removed = 0
+            delete_failures = 0
+
+            for row in conversion_rows:
+                filename_raw = (row.get("filename") or row.get("Filename") or row.get("FILENAME") or "").strip()
+                filename_lower = filename_raw.lower()
+
+                if filename_lower and filename_lower in skipped_bp_remade_meta_mismatch_stems:
+                    removed += 1
+                    continue
+
+                pruned_rows.append(row)
+
+            if removed:
+                conversion_rows[:] = pruned_rows
+
+                for stem in list(conversion_map.keys()):
+                    if stem in skipped_bp_remade_meta_mismatch_stems:
+                        del conversion_map[stem]
+
+                write_conversion_csv_atomic(conversion_csv, conversion_header, conversion_rows)
+                log(
+                    f"[CSV] Removed {removed} row(s) from {CONVERSION_CSV} "
+                    "for skipped bp_remade exact-128-alpha metadata mismatches"
+                )
+
+            for stem in sorted(skipped_bp_remade_meta_mismatch_stems):
+                ctxr_path = STAGING_FOLDER / f"{stem}.ctxr"
+                if not ctxr_path.is_file():
+                    continue
+
+                try:
+                    ctxr_path.unlink()
+                    log(f"[DEL META-MISMATCH] {ctxr_path.name}")
+                except Exception as e:
+                    log(f"[FAIL META-MISMATCH] {ctxr_path.name} (delete error: {e})")
+                    delete_failures += 1
+
+            if delete_failures:
+                return pause_and_exit(1)
+
         if not conversion_header:
             conversion_header = [
                 "filename",
