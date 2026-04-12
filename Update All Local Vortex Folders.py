@@ -7,8 +7,8 @@ from pathlib import Path
 
 SCRIPTS = [
     Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Build_Dist_Folders.py"),
-    Path(r"C:\Development\Git\MGS3-Demastered-Subsistence-Edition\Build_Dist_Folders.py"),
-    Path(r"C:\Development\Git\MGS3-Upscaled-UI-Textures\Build_Dist_Folders.py"),
+    #Path(r"C:\Development\Git\MGS3-Demastered-Subsistence-Edition\Build_Dist_Folders.py"),
+    #Path(r"C:\Development\Git\MGS3-Upscaled-UI-Textures\Build_Dist_Folders.py"),
 ]
 
 

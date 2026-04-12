@@ -21,7 +21,7 @@ CTXR3_EXE = Path(r"J:\Mega\Games\MG Master Collection\Self made mods\Tooling\CTX
 # Kept for compatibility, but ctxr_list.txt now lists source image filenames only (png/tga), one per line.
 PREFIX = "mgs3/textures/flatlist/_win"
 
-NON_UPSCALED_PROCESS_VERSION = "1"
+NON_UPSCALED_PROCESS_VERSION = "2"
 
 
 OUT_CTXR_LIST_TXT = "ctxr_list.txt"
@@ -187,7 +187,7 @@ def should_strip_opacity_and_use_rgb_only(src_path: Path, manual_opaque: set[str
 
 def write_rgb_only_temp(src_path: Path, tmp_dir: Path) -> Path:
     """
-    Split RGB and alpha, and save RGB only (no alpha) to tmp_dir with same filename (lowercased).
+    Preserve RGB and force alpha channel to 128 for all pixels.
     """
     tmp_dir.mkdir(parents=True, exist_ok=True)
 
@@ -199,26 +199,21 @@ def write_rgb_only_temp(src_path: Path, tmp_dir: Path) -> Path:
             if "transparency" in im.info:
                 im = im.convert("RGBA")
             else:
-                im = im.convert("RGB")
-        elif im.mode in ("RGBA", "LA"):
-            if im.mode != "RGBA":
                 im = im.convert("RGBA")
-        else:
-            im = im.convert("RGB")
+        elif im.mode != "RGBA":
+            im = im.convert("RGBA")
 
-        if im.mode == "RGBA":
-            r, g, b, _a = im.split()
-            rgb = Image.merge("RGB", (r, g, b))
-        else:
-            rgb = im.convert("RGB")
+        # Replace alpha with constant 128
+        alpha_128 = Image.new("L", im.size, 128)
+        im.putalpha(alpha_128)
 
         ext = src_path.suffix.lower()
         if ext == ".png":
-            rgb.save(out_path, format="PNG")
+            im.save(out_path, format="PNG", optimize=False)
         elif ext == ".tga":
-            rgb.save(out_path, format="TGA")
+            im.save(out_path, format="TGA")
         else:
-            rgb.save(out_path)
+            im.save(out_path)
 
     return out_path
 

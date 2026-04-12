@@ -81,7 +81,8 @@ UPSCALE_PROCESS_VERSION = "2"
 # - Don't forget to update this in launch_ctxr3 too.
 # 0 = v1 release
 # 1 = fixed crash in ovr_jp's w01a01box. almost all opaque have a different hash too, so reconverted everything (i'd assume my mtime fuckery messed something up at some point.)
-NON_UPSCALED_PROCESS_VERSION = "1"
+# 2 = alpha clamped instead of split.
+NON_UPSCALED_PROCESS_VERSION = "2"
 
 CSV_FLUSH_SECONDS = 5.0
 
@@ -1393,12 +1394,12 @@ def make_temp_rgb_only_copy_or_die(src: Path, tmp_dir: Path) -> Path:
 
     with Image.open(src) as im:
         rgba = im.convert("RGBA")
-        r, g, b, _a = rgba.split()
-        rgb = Image.merge("RGB", (r, g, b))
-        rgb.save(tmp_path, format="PNG", optimize=False)
+        alpha_128 = Image.new("L", rgba.size, 128)
+        rgba.putalpha(alpha_128)
+        rgba.save(tmp_path, format="PNG", optimize=False)
 
     if not tmp_path.is_file():
-        raise RuntimeError(f"Failed creating RGB-only temp copy: {tmp_path}")
+        raise RuntimeError(f"Failed creating temp copy with clamped alpha: {tmp_path}")
 
     return tmp_path
 
