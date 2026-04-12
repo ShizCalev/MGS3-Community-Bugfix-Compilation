@@ -1,0 +1,162 @@
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\mc textures\has alpha\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\mc textures\has alpha\bp_remade\no_mip_fixes
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\mc textures\has alpha\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\mc textures\has alpha\manual\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\mc textures\not dumped\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\mc textures\opaque\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\mc textures\opaque\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\mc textures\opaque\manual\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\mc textures\opaque\manual\bp_remade\no_mip_fixes\ui
+
+
+---------------------------------------------------------------------
+
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA\mismatched sha1
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA\no_mip_fixes
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA\same sha1
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE\manual\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE\manual\bp_remade\no_mip_fixes\ui
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE\manual\mismatched sha1
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE\manual\same sha1\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE\mismatched sha1
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE\same sha1
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures\OPAQUE\same sha1\no_mip_fixes
+
+
+---------------------------------------------------------------------
+
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\has alpha\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\has alpha\bp_remade\no_mip_fixes
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\has alpha\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\has alpha\dxt5\bp_remade
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\has alpha\manual\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\not dumped\HAS ALPHA\bp_remade\no_mip_fixes\ui
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\not dumped\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\not dumped\OPAQUE\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\dxt5\bp_remade
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\manual\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\manual\bp_remade\no_mip_fixes\ui
+
+
+---------------------------------------------------------------------
+
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_mismatch\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\dxt5
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\dxt5\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\dxt5\mismatched sha1
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\mismatched sha1
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\dxt5\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\dxt5\mismatched sha1
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\bp_remade\no_mip_fixes\ui
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\mismatched sha1
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\same sha1\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\mismatched sha1
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\no_mip_fixes
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\no_mip_fixes\ui
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes\ui
+
+
+---------------------------------------------------------------------
+
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Dont demaster
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\_win
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\ovr_jp\_win
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\ovr_us\_win
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Dont demaster\UI\Shared
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Shared
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Shared\UI\Shared
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Shared\UI\Shared\toddo
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Snake Eater
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Subsistence
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Subsistence\Misc
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Subsistence\UI
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Posters\MC - Vanilla\ovr_jp
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Posters\MC - Vanilla\ovr_us
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Self Remastered
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Self Remastered\UI\Shared
+
+
+---------------------------------------------------------------------
+
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized - HighRes
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized - HighRes\UI\Shared
+

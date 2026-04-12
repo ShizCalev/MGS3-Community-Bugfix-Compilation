@@ -8,9 +8,14 @@ from pathlib import Path
 # CONFIG
 # ==========================================================
 ROOT_DIRS = [
+    Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\mc textures"),
+    Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\ps2 textures"),
+
     Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures"),
     Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures"),
+    
     Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized"),
+    Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized - HighRes"),
 ]
 
 TARGET_FILENAME = "folders to process.txt"
@@ -24,6 +29,14 @@ ROOT_SEPARATOR = "\n\n\n--------------------------------------------------------
 # ==========================================================
 # HELPERS
 # ==========================================================
+def pause_and_exit(code: int = 1) -> None:
+    try:
+        input("\nPress ENTER to exit...")
+    except EOFError:
+        pass
+    raise SystemExit(code)
+
+
 def normalize_path(path_str: str) -> str:
     return os.path.normcase(os.path.normpath(path_str.strip()))
 
@@ -81,13 +94,6 @@ def read_nonempty_lines(path: Path) -> list[str]:
         return [line.strip() for line in f if line.strip()]
 
 
-def read_optional_nonempty_lines(path: Path) -> list[str]:
-    if not path.exists():
-        return []
-
-    return read_nonempty_lines(path)
-
-
 def write_text_if_changed(path: Path, content: str) -> None:
     if path.exists():
         old_content = path.read_text(encoding="utf-8")
@@ -138,8 +144,18 @@ def main() -> None:
     for txt_path in script_root.rglob(TARGET_FILENAME):
         processed_lines = read_nonempty_lines(txt_path)
 
+        # -----------------------------
+        # REQUIRED skip file
+        # -----------------------------
         skip_path = txt_path.parent / SKIP_FILENAME
-        skipped_lines = read_optional_nonempty_lines(skip_path)
+
+        if not skip_path.exists():
+            # create empty skip file (LF, deterministic)
+            tmp_path = skip_path.with_name(skip_path.name + ".tmp")
+            tmp_path.write_text("", encoding="utf-8", newline="\n")
+            tmp_path.replace(skip_path)
+
+        skipped_lines = read_nonempty_lines(skip_path)
 
         excluded_set = {
             normalize_path(line)
@@ -210,6 +226,15 @@ def main() -> None:
             content = ROOT_SEPARATOR.join(root_chunks) + "\n"
 
         output_path = txt_path.parent / OUTPUT_FILENAME
+
+        # -----------------------------
+        # DELETE output if empty
+        # -----------------------------
+        if not content.strip():
+            if output_path.exists():
+                output_path.unlink()
+            continue
+
         write_text_if_changed(output_path, content)
 
 
