@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import os
+import subprocess
 import csv
 import sys
 from pathlib import Path
@@ -102,7 +104,7 @@ def run_next_stage(script_path):
 def main() -> None:
     manual_stems = load_manual_ui_stems(MANUAL_UI_TXT)
 
-    NEXT_SCRIPT = os.path.join(script_dir, "0011 - mirror hires files.py")
+    NEXT_SCRIPT = os.path.join(SCRIPT_DIR, "0011 - mirror hires files.py")
 
     print(f"Loaded manual UI stems: {len(manual_stems)}")
     print(f"Scanning: {SCRIPT_DIR}")

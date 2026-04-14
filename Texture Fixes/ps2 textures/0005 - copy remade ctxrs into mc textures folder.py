@@ -6,6 +6,7 @@ import os
 import re
 import shutil
 import tempfile
+import subprocess
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 

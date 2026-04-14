@@ -72,7 +72,8 @@ CHAINNER_PROJECT_4X_STRIPPED_OPACITY_DEMASTERED = Path(r"C:\Development\Git\Afev
 # 0 = v1 release
 # 1 = corrected opaque texture alpha stripping for upscaling
 # 2 = wavelet color fix!!!!! oh dang
-UPSCALE_PROCESS_VERSION = "2"
+# 3 = clamped alpha instead of split
+UPSCALE_PROCESS_VERSION = "3"
 
 # - normal non-upscaled nvtt -> CtxrTool flow
 # - non-upscaled ctxr3 flow
