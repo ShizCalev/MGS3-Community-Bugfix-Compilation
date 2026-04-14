@@ -1,0 +1,5 @@
+
+
+todo - C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui
+	- go through, find ui textures that have white bars on the top & bottom. 
+	- exmaples; 00c37d79, 00bcf5a9, 003b6d6f, 00b26c2e
