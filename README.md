@@ -139,19 +139,19 @@ Partial Coverage:
 
 - Removed mipmaps from atlas map textures (ie magazines, item box words, ect), which lead to wrong parts/words being seen at a distance. [2011 HDC]
 
-- Fixed rogue black pixels at the tips of Snake's hair. [2005 SE]
+- Fixed rogue black pixels at the tips of Snake's hair. [2004 SE]
 
-- Fixed a flipped first aid kit sign on the WIG. [2005 SE]
+- Fixed a flipped first aid kit sign on the WIG. [2004 SE]
 
 - Fixed Snake's cigar swapping to a different colored original PS2 texture when broken. [2011 HDC]
 
 - Fixed broken shadow mask on a poster in Groznyj Grad Weapons Lab. [2011 HDC]
 
-- Fixed multiple English radio calls with Para-medic switching to French subtitles half-way into the conversation. [2005 SE]
+- Fixed multiple English radio calls with Para-medic switching to French subtitles half-way into the conversation. [2004 SE]
 
 - Fixed US version's Cobra Unit boss names showing their EU textures (ie "The Pain" instead of "Hornet Soldier - The Pain". [2011 HDC]
 
-- Fixed black seams (dilation padding) on Eva's neck in multiple cutscenes. [2005 SE]
+- Fixed black seams (dilation padding) on Eva's neck in multiple cutscenes. [2004 SE]
 
 <br>
 

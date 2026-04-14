@@ -462,6 +462,7 @@ mog_deco_alp_ovl_01.bmp
 s081a_mogi_deco_alp_ovl_01.bmp
 00cd4028
 0071b304
+00896943
 
 
 sor_board_num_01_alp.trans.bmp

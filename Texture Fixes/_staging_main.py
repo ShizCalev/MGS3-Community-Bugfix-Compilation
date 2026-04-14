@@ -1523,7 +1523,6 @@ def copy_images_for_upscaling_or_die(images: list[Path], dest_dir: Path) -> dict
 
     return mapping
 
-
 def _is_chainner_running() -> bool:
     try:
         out = subprocess.check_output(
@@ -1546,39 +1545,45 @@ def run_chaiNNer_or_die(project: Path) -> None:
     if not project.is_file():
         raise RuntimeError(f"chaiNNer project file not found: {project}")
 
-    log(f"[UPSCALE] Launching chaiNNer with project:")
+    if _is_chainner_running():
+        raise RuntimeError(
+            "chaiNNer.exe is already running before CLI launch.\n"
+            "This is unsafe and will cause overlapping runs.\n"
+            "Close chaiNNer and retry."
+        )
+
+    args = [
+        str(CHAINNER_EXE),
+        "run",
+        str(project),
+    ]
+
+    log("[UPSCALE] Running chaiNNer CLI project:")
     log(f"         {project}")
 
     try:
-        subprocess.Popen(
-            [str(CHAINNER_EXE), str(project)],
+        p = subprocess.run(
+            args,
             cwd=str(project.parent),
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.DEVNULL,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            encoding="utf8",
+            errors="replace",
         )
     except Exception as e:
-        raise RuntimeError(f"Failed to launch chaiNNer with project: {e}")
+        raise RuntimeError(f"Failed to run chaiNNer CLI: {e}")
 
-    log("[UPSCALE] Waiting for chaiNNer.exe to appear...")
-    started = False
-    start_wait_deadline = time.time() + 30.0
+    out = (p.stdout or "").rstrip()
+    if out:
+        log("[UPSCALE OUT]")
+        log(out)
 
-    while time.time() < start_wait_deadline:
-        if _is_chainner_running():
-            started = True
-            break
-        time.sleep(1.0)
+    if p.returncode != 0:
+        raise RuntimeError(f"chaiNNer CLI failed with exit code {p.returncode}: {project}")
 
-    if not started:
-        log("[UPSCALE WARN] chaiNNer.exe never appeared in tasklist; continuing WITHOUT waiting.")
-        return
-
-    log("[UPSCALE] chaiNNer detected. Waiting for it to close...")
-    while _is_chainner_running():
-        time.sleep(5.0)
-
-    log("[UPSCALE] chaiNNer closed, continuing.")
-
+    log("[UPSCALE] chaiNNer CLI finished successfully.")
+    time.sleep(2.0)
 
 # ==========================================================
 # UPSCALED RESAVE TO POWER-OF-TWO (NO HASH CHANGES)
