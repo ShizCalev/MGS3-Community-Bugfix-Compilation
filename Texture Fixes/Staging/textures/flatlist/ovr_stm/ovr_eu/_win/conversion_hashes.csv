@@ -6,6 +6,11 @@ filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,u
 00c8c0af,779ab38fc37dca84e81866d5f5125c805cd86e92,b76ea09b5903b2ca23666a0e783aedec3566d218,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,2
 00f1c0b1,bf8d61c294db1017447065024c5d9509728a1d89,ee3e55ead406bde00c42e6d1b9112192dc678cbe,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,2
 00fc60e2,6787412400ada44b5cf5cd53595fc8a9dceb5bd5,7d43a2bd81a37c37e1ac8780d9e58b24dc0d3bb4,false,Self Remade\Finalized\Self Remastered\UI\Shared,false,false,0,none,true,2
+eve_def_face_fix_new.bmp,072e80b0b641ea40ea5589011b318ac0de2db38f,4e70578397899cda94d69cb8645677a4201d7d60,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
+eve_naked_face_fix.bmp,803830b8bec3f2f9c768fe4017859448ed584dc5,ad5f84295c332d50314703b8d3a7fd6ce2528e50,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
+eve_tac_face_fix.bmp,374dece810a31c6136715362afa889c3d7960ef2,98c6528a708764721da5971df831cd6c1b596394,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
+eve_tac_face_fix_new.bmp,57ad4bc90071d6e232b380b305106622902ddc1c,7aad27b20646ef812ba1b652ce49537fa0bca076,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
+eve_tac_face_new.bmp,bbb89412b6eee5d4ca187b0fb2dac900d14ba12f,04a02a6c0f462f0df64bd8c68de4b97dbf483d37,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
 h_bottle_ovl_alp.bmp,9450c9c30e8fd3d39f5ed0d5217e4fc8cee1c578,18843fb7f6e9f651f0c83a310d1a927fcaa0990c,true,Self Remade\Finalized,false,false,0,none,false,2
 s112a_cell_floor_01_alp_ovl.bmp,542b302e6e51d3e3d326fdcaa068accc971355e0,d44bb70844590019324e7018da8a4e203b6fe2be,true,Self Remade\Finalized,false,false,0,none,false,2
 s112a_hibi_01_alp_ovl.bmp,3451f5d2345a9f71ba74b8d128ba97bc715fe9f4,7a2f3d5b13bbae699c66a6d908d31ea1d9106053,true,Self Remade\Finalized\Dont demaster,false,false,0,none,false,2
