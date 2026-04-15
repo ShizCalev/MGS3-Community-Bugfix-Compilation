@@ -1,0 +1,21 @@
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\_win
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\ovr_eu\_win
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\ovr_jp\_win
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\ovr_us\_win
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Shared
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Shared\UI\Shared
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Shared\UI\Shared\toddo
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Subsistence
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Subsistence\Misc
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Subsistence\UI
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Posters\MC - Vanilla\ovr_jp
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Posters\MC - Vanilla\ovr_us
+
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\Not Demaster Fixed\Demaster Fixed\Snake Eater
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized - HighRes
+
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized - HighRes\UI\Shared
