@@ -212,3 +212,7 @@ DISABLE_wor_suspend_eye.bmp
 
 00930696
 
+s111a_s091a_endoor00.bmp
+
+
+s074a_obj_kan.bmp

@@ -1522,11 +1522,97 @@ def copy_images_for_upscaling_or_die(images: list[Path], dest_dir: Path) -> dict
         raise RuntimeError(f"Failed copying {failed} image(s) to upscaling folder")
 
     return mapping
+    
+    
+CHAINNER_EMBEDDED_PYTHON_EXE = Path(
+    r"C:\Users\cmkoo\AppData\Roaming\chaiNNer\python\python\python.exe"
+)
+
+
+def _normalize_windows_path(path_str: str) -> str:
+    return os.path.normcase(os.path.normpath(path_str.strip().strip('"')))
+
+
+def _get_process_image_paths_by_name(exe_name: str) -> dict[int, str]:
+    try:
+        p = subprocess.run(
+            [
+                "powershell",
+                "-NoProfile",
+                "-Command",
+                (
+                    "Get-CimInstance Win32_Process "
+                    f"| Where-Object {{ $_.Name -ieq '{exe_name}' }} "
+                    "| Select-Object ProcessId, ExecutablePath "
+                    "| ConvertTo-Csv -NoTypeInformation"
+                ),
+            ],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.DEVNULL,
+            text=True,
+            encoding="utf8",
+            errors="replace",
+            check=False,
+        )
+    except Exception:
+        return {}
+
+    out: dict[int, str] = {}
+    text_out = (p.stdout or "").strip()
+    if not text_out:
+        return out
+
+    reader = csv.DictReader(text_out.splitlines())
+    for row in reader:
+        pid_raw = (row.get("ProcessId") or "").strip()
+        exe_path = (row.get("ExecutablePath") or "").strip()
+
+        if not pid_raw or not exe_path:
+            continue
+
+        try:
+            pid = int(pid_raw)
+        except ValueError:
+            continue
+
+        out[pid] = exe_path
+
+    return out
+
+
+def _get_chainner_embedded_python_pids() -> set[int]:
+    target = _normalize_windows_path(str(CHAINNER_EMBEDDED_PYTHON_EXE))
+    found = _get_process_image_paths_by_name("python.exe")
+
+    out: set[int] = set()
+
+    for pid, exe_path in found.items():
+        try:
+            if _normalize_windows_path(exe_path) == target:
+                out.add(pid)
+        except Exception:
+            continue
+
+    return out
+
+
+def _kill_pids_force(pids: set[int]) -> None:
+    for pid in sorted(pids):
+        try:
+            subprocess.run(
+                ["taskkill", "/PID", str(pid), "/F"],
+                stdout=subprocess.DEVNULL,
+                stderr=subprocess.DEVNULL,
+                check=False,
+            )
+        except Exception:
+            pass
+
 
 def _is_chainner_running() -> bool:
     try:
         out = subprocess.check_output(
-            ["tasklist", "/FI", "IMAGENAME eq chaiNNer.exe"],
+            ["tasklist", "/FI", "IMAGENAME eq chaiNNer.exe", "/FO", "CSV", "/NH"],
             stderr=subprocess.DEVNULL,
             text=True,
             encoding="utf8",
@@ -1535,7 +1621,12 @@ def _is_chainner_running() -> bool:
     except Exception:
         return False
 
-    return "chaiNNer.exe" in out
+    for line in out.splitlines():
+        line = line.strip()
+        if line.startswith('"chaiNNer.exe",'):
+            return True
+
+    return False
 
 
 def run_chaiNNer_or_die(project: Path) -> None:
@@ -1544,6 +1635,11 @@ def run_chaiNNer_or_die(project: Path) -> None:
 
     if not project.is_file():
         raise RuntimeError(f"chaiNNer project file not found: {project}")
+
+    if not CHAINNER_EMBEDDED_PYTHON_EXE.is_file():
+        raise RuntimeError(
+            f"chaiNNer embedded python.exe not found: {CHAINNER_EMBEDDED_PYTHON_EXE}"
+        )
 
     if _is_chainner_running():
         raise RuntimeError(
@@ -1558,11 +1654,16 @@ def run_chaiNNer_or_die(project: Path) -> None:
         str(project),
     ]
 
+    before_embedded_python = _get_chainner_embedded_python_pids()
+
     log("[UPSCALE] Running chaiNNer CLI project:")
     log(f"         {project}")
 
+    p: subprocess.Popen[str] | None = None
+    out = ""
+
     try:
-        p = subprocess.run(
+        p = subprocess.Popen(
             args,
             cwd=str(project.parent),
             stdout=subprocess.PIPE,
@@ -1570,20 +1671,81 @@ def run_chaiNNer_or_die(project: Path) -> None:
             text=True,
             encoding="utf8",
             errors="replace",
+            creationflags=subprocess.CREATE_NEW_PROCESS_GROUP,
         )
+
+        out, _ = p.communicate()
+        rc = p.returncode if p.returncode is not None else -1
+
     except Exception as e:
+        if p is not None:
+            try:
+                subprocess.run(
+                    ["taskkill", "/PID", str(p.pid), "/T", "/F"],
+                    stdout=subprocess.DEVNULL,
+                    stderr=subprocess.DEVNULL,
+                    check=False,
+                )
+            except Exception:
+                pass
+
+        time.sleep(2.0)
+
+        after_embedded_python = _get_chainner_embedded_python_pids()
+        leaked_embedded_python = after_embedded_python - before_embedded_python
+        if leaked_embedded_python:
+            log(
+                "[UPSCALE CLEANUP] Killing leaked chaiNNer embedded python PID(s) after exception: "
+                f"{sorted(leaked_embedded_python)}"
+            )
+            _kill_pids_force(leaked_embedded_python)
+
         raise RuntimeError(f"Failed to run chaiNNer CLI: {e}")
 
-    out = (p.stdout or "").rstrip()
     if out:
         log("[UPSCALE OUT]")
-        log(out)
+        log(out.rstrip())
 
-    if p.returncode != 0:
-        raise RuntimeError(f"chaiNNer CLI failed with exit code {p.returncode}: {project}")
+    try:
+        subprocess.run(
+            ["taskkill", "/PID", str(p.pid), "/T", "/F"],
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+            check=False,
+        )
+    except Exception:
+        pass
+
+    time.sleep(2.0)
+
+    after_embedded_python = _get_chainner_embedded_python_pids()
+    leaked_embedded_python = after_embedded_python - before_embedded_python
+
+    if leaked_embedded_python:
+        log(
+            "[UPSCALE CLEANUP] Killing leaked chaiNNer embedded python PID(s): "
+            f"{sorted(leaked_embedded_python)}"
+        )
+        _kill_pids_force(leaked_embedded_python)
+        time.sleep(0.5)
+
+        final_embedded_python = _get_chainner_embedded_python_pids()
+        still_leaked = final_embedded_python - before_embedded_python
+
+        if still_leaked:
+            log(
+                "[UPSCALE CLEANUP WARN] chaiNNer embedded python PID(s) still remain: "
+                f"{sorted(still_leaked)}"
+            )
+        else:
+            log("[UPSCALE CLEANUP] No leaked chaiNNer embedded python processes remain.")
+    else:
+        log("[UPSCALE CLEANUP] No leaked chaiNNer embedded python processes detected.")
+
+    if rc != 0:
+        raise RuntimeError(f"chaiNNer CLI failed with exit code {rc}: {project}")
 
     log("[UPSCALE] chaiNNer CLI finished successfully.")
-    time.sleep(2.0)
 
 # ==========================================================
 # UPSCALED RESAVE TO POWER-OF-TWO (NO HASH CHANGES)
