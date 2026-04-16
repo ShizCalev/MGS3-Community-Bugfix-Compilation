@@ -1,10 +1,25 @@
-#native ui stuff slash custom remade
-#dont remove these or youre likely to cause the game to crash due to resolution limits
+#native ui
+#for self remastered stuff & assets that don't actually get used / are just wasted space. 
+#these wont get demastered nor included in upscaled packs.
+
+00bd89a1.img
+0010fc7e
+0037b2cc
+0022b2d3
+00f1b2dc
+00b5b2d0
+
+
+#end-native-ui
+
+
+#ui stuff
+
+00393ebb
+
 005737d5
 00b6209a
-0010fc7e
 00fc60e2
-00bd89a1.img
 00830496
 00429728
 00266501
@@ -35,12 +50,10 @@
 0051ed70
 0044f17c
 0044df5c
-0037b2cc
 0036bd68
 0035ce0b
 0034ca32
 0032c4c8
-0022b2d3
 0014b46f
 009fc4ca
 009bedb5
@@ -71,7 +84,6 @@
 00f9cdfe
 00f5f14a
 00f5df2a
-00f1b2dc
 00eec4fb
 00ee44ea
 00ebbdd9
@@ -98,18 +110,16 @@
 00b17c2a
 00b6bd8f
 00b5ce32
-00b5b2d0
 00b4ca0a
 00b4c4c3
 00af44b4
 00ab6026
 00aa451e
 00a66528
-#end-native-ui
-
-
 00454202
 00e11a3e
+#end ui stuff
+
 
 
 #menu screen background stuff

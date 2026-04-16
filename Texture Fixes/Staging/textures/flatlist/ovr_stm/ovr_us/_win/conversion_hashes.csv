@@ -1,5 +1,6 @@
 filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,upscaler_version,upscaler_type,ctxr3_converted,non_upscaled_version
 00040da5,be5d69c46afbb5919dbdd3d409b6c4223235f05e,ff165a5d014cb8a033de1d9fbf6756e3cbcf8171,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,2
+00393ebb,024f8ebb22254eccd10089dff56477b8e60eca65,cd891326c5de5c36bd855e0f084cb1ee6ec7ea98,false,Self Remade\Finalized\Self Remastered\UI\Shared\Dont Demaster\1080p,false,false,0,none,true,2
 00454202,0b0095770b4457e2b03422cfc49f026a276f9b0e,d4b81f2973fe49cb5bb3ba6fd37b7fcb28ae1b06,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,2
 004f0fb2,ad70fcdd19f9934a49e3d4e7e79c04505f565106,2c8cc8578e455e64b80e56ff16697181d2810896,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,2
 004f81ad,2c5ac3715aaf95586aa9e9baad02d373e9d93cce,87930a828cc7c68608f44b4068f8087b0e47858f,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
@@ -38,7 +39,7 @@ filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,u
 0091ab39,11e6d44261fc41255570820f175dbcd935b56637,a77828f44eed23e2ebecb94a066d9a3f4812b8ca,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US,false,false,0,none,true,2
 00bd89a1.img,a07cba9abb6ae591ea6847d0c12ccd8f76dd94c6,6883bfed07925c1f57f42e1bab2be80571340bab,false,Self Remade\Finalized\Dont demaster\UI\Shared,false,false,0,none,true,2
 00c8c0af,779ab38fc37dca84e81866d5f5125c805cd86e92,b76ea09b5903b2ca23666a0e783aedec3566d218,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,2
-00e11a3e,d0bfc7165793f56828d199b33cf376d0260d99a1,b5227b6df2daf78013240310371c8d3ded6d7760,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,2
+00e11a3e,1c0cb80e263942d0676e9f8e2c0e3a2f4cba7ef6,7813c27116e8b055ad544bee38efb87233e74584,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,2
 00ede1ab,9abccfbc50ab082ef4c9980ed712aeb4e5b231f7,d4a8204dd177eb2428bbb1709a30c7d7e9592b7b,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
 00edf1ab,3451f4ef734a257349355c612d5645d2006380fe,b6b34e9add22c7345ad11412655ea19f0685abe4,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
 00ee01ab,5c279a79376e6a5e565bf80a20545966c2371dc6,a1d1ae28e8f0f1592bd2e5f17b787a88943b3118,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
