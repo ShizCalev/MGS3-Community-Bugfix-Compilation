@@ -178,18 +178,6 @@ def get_current_upscaler_metadata_for_run(is_upscaled_run: bool, use_extra: bool
             return (UPSCALE_PROCESS_VERSION, "remarci_4x_extra_smooth")
         return (UPSCALE_PROCESS_VERSION, "remarci_4x")
     return ("0", "none")
-    
-    
-def origin_forces_nonupscaled_processing(origin_folder: str) -> bool:
-    origin = (origin_folder or "").strip().lower().replace("/", "\\")
-
-    if "hires" in origin:
-        return True
-
-    if origin.endswith(r"\4k") or origin.endswith(r"\1080p"):
-        return True
-
-    return False
 
 def get_current_non_upscaled_version_for_run(is_upscaled_run: bool) -> str:
     if is_upscaled_run:
