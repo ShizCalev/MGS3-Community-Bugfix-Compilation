@@ -73,6 +73,7 @@ STAGING_ROOTS: list[Path] = [
     BUGFIX_ROOT / "Staging",
     BUGFIX_ROOT / "Staging - 2x Upscaled",
     BUGFIX_ROOT / "Staging - 4x Upscaled",
+    BUGFIX_ROOT / "Staging - 4K Assets",
     # Demastered pack
     DEMASTER_ROOT / "Staging",
     DEMASTER_ROOT / "Staging - 2x Upscaled",

@@ -678,9 +678,31 @@ def build_ctxr3_required_stems_for_override_subset(
     manual_ui_textures: set[str],
     is_demastered_run: bool,
 ) -> set[str]:
-    subset = [img for img in image_files if img.stem.lower() in override_stems]
-    return build_nonupscaled_ctxr3_required_stems(subset, no_mip_regexes, manual_ui_textures, is_demastered_run)
+    subset: list[Path] = []
 
+    for img in image_files:
+        stem_lower = img.stem.lower()
+        origin_lower = str(img.parent).lower().replace("/", "\\")
+
+        if stem_lower in override_stems:
+            subset.append(img)
+            continue
+
+        if is_demastered_run:
+            if origin_lower.endswith(r"\1080p"):
+                subset.append(img)
+                continue
+        else:
+            if origin_lower.endswith(r"\4k"):
+                subset.append(img)
+                continue
+
+    return build_nonupscaled_ctxr3_required_stems(
+        subset,
+        no_mip_regexes,
+        manual_ui_textures,
+        is_demastered_run,
+    )
 
 def build_ctxr3_required_stems_for_effective_nonupscaled_subset(
     image_files: list[Path],
@@ -3092,26 +3114,24 @@ def main() -> int:
         ctxr3_required_stems: set[str] = set()
         if not is_upscaled_run:
             ctxr3_required_stems = build_nonupscaled_ctxr3_required_stems(
-                image_files,
+                original_image_files,
                 no_mip_regexes,
                 manual_ui_textures,
                 is_demastered_run,
             )
             if ctxr3_required_stems:
                 log(f"[CTXR3] NON-upscaled ctxr3-managed stems discovered: {len(ctxr3_required_stems)}")
-        elif is_demastered_run:
-            ctxr3_required_stems = build_ctxr3_required_stems_for_effective_nonupscaled_subset(
-                image_files,
-                is_upscaled_run,
+        else:
+            ctxr3_required_stems = build_ctxr3_required_stems_for_override_subset(
+                original_image_files,
                 demastered_nonupscaled_override_stems,
-                image_origin_by_name,
                 no_mip_regexes,
                 manual_ui_textures,
-                True,
+                is_demastered_run,
             )
             if ctxr3_required_stems:
                 log(
-                    f"[CTXR3] Demastered upscaled effective NON-upscaled stems requiring ctxr3 handling: "
+                    "[CTXR3] Upscaled-run stems requiring NON-upscaled ctxr3 handling: "
                     f"{len(ctxr3_required_stems)}"
                 )
 

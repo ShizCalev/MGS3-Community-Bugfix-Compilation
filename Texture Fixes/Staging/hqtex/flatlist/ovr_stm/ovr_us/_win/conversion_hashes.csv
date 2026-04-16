@@ -2,7 +2,17 @@ filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,u
 00040da5,be5d69c46afbb5919dbdd3d409b6c4223235f05e,ff165a5d014cb8a033de1d9fbf6756e3cbcf8171,false,Self Remade\Finalized - HighRes\UI\Shared,true,false,0,none,true,2
 00393ebb,0b9c97f4525a208e6e10e4aa90631f8b2b7093d7,d54f19ceed829488edc618d2e057095f9af9b30f,false,Self Remade\Finalized\Self Remastered\UI\Shared\Dont Demaster\4K,false,false,0,none,true,2
 00454202,a5abb50baf5f5006765479f3a8f366b3124c4aeb,7b2c89b0fc287ea128c986ddb096a05333e74281,false,Self Remade\Finalized - HighRes\Dont Upscale\UI\Shared,false,false,0,none,true,2
+0049b9cb,0cc94795eea33939e001865340898ee65424f58a,8999d5c68dc01fb6a1a903de60aa0cfaf10f8098,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\4k,false,false,0,none,true,2
 004f0fb2,ad70fcdd19f9934a49e3d4e7e79c04505f565106,2c8cc8578e455e64b80e56ff16697181d2810896,false,Self Remade\Finalized - HighRes\UI\Shared,true,false,0,none,true,2
+005eb9cb,df002dab5662e059ea883a790dda8ccc7fc1fb8b,a01e1c8701a6b4fa91a2ee4e4111e051637dff72,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\4k,false,false,0,none,true,2
+0060a8e0,68c30a23fc63109f79de0ed56438c02cf1420022,6810f8af796b4fc9664ab883754037962cf17de9,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\4k,false,false,0,none,true,2
+0061b17c,dbdc5af505fed4a6084b9b150b58a50cd30560d7,df988445c97dc47b3076474a90210b42e1e1032d,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\4k,false,false,0,none,true,2
+00746cd0,ca6c9f010a89b3863deeffc4605956ff0ffc8e19,b0cb3962aee3dd511fbd6cb92632ff3c8928f398,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\4k,false,false,0,none,true,2
+0075a8e0,0410e70a9ff4639a365a307b1f922a777b3c4b7f,bc719694a91d0b2e81fbb8a30ca9360fbcc8c632,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\4k,false,false,0,none,true,2
+0076b17c,df7ea10c4eb4e0e15dc3e163c89c7e7e3081e15f,49cbdeba4808a3679ebe1cc91a70c1e0be1d89a6,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\4k,false,false,0,none,true,2
+007cab39,43ba8207a3a977c06e92941b758488973013566e,a3a3430b9d5bbe7d5cb25e0d6faf74eb5d7eb910,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\4k,false,false,0,none,true,2
+00896cd0,7cd41e485670da6329906991f2337fcbd23dd5e0,e7db171193a41e5723084e54596a5652ba1fd6e8,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\4k,false,false,0,none,true,2
+0091ab39,a5167ba0d754a734e3edc9770a98d4789aee9779,22124a03086bd714bb8b08169d73d9f3178e1a30,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\4k,false,false,0,none,true,2
 00bd89a1.img,596fd574590df6be9b8af5989563986e8d6c1e86,304ba3b90eb3d1efbc8fac4d6e1863f95962c767,false,Self Remade\Finalized - HighRes\UI\Shared,false,false,0,none,true,2
 00c8c0af,779ab38fc37dca84e81866d5f5125c805cd86e92,b76ea09b5903b2ca23666a0e783aedec3566d218,false,Self Remade\Finalized - HighRes\UI\Shared,true,false,0,none,true,2
 00e11a3e,d81d0a92284eaae6bbc849b519909ee725e81631,9e6f440f80b5303f195c0d1ee8cee0a36b313152,false,Self Remade\Finalized - HighRes\Dont Upscale\UI\Shared,false,false,0,none,true,2
@@ -12,5 +22,6 @@ ibox_a.bmp,a030a8d765937ca75c7120b06791e53310e4c14d,cf3ba6b253bfecdfcf0dae119fba
 item_a.bmp,221534374170ac1c3c7a3502cf4e85cebeff69c6,d3cc4d5d6dea827a141938f78f961a8d5901b0ee,true,Self Remade\Finalized - HighRes\Dont Upscale,true,false,0,none,false,2
 s112a_cell_floor_01_alp_ovl.bmp,23e7b51fc25ce5845a3ad3ff8f893bfb85a31103,c14a4d3f851fb594a605505f829db2a2554b87bd,true,Self Remade\Finalized - HighRes\Dont Upscale,false,false,0,none,false,2
 sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310,26d234bd4ae9cf946697d9fde9bf66eb126ef58a,9699568e52e107b7be66df06ab831171d0a5fcdb,true,Self Remade\Finalized - HighRes,true,false,0,none,false,2
-sna_face_ed_def.bmp,a1363c9df0468a6e902c1c624d0264efd0909357,9a601c832a735e8730c57634284da29ce8149a57,true,Self Remade\Finalized - HighRes\Dont Upscale,false,false,0,none,false,2
+sna_face_ed_def.bmp,9bb8f04a531399fcd35add73030ab06125d5ecd8,2fbc06b42863ad862e6cd031ab440847ff99469f,true,Self Remade\Finalized - HighRes\Dont Upscale,false,false,0,none,false,2
+sna_flirt_tiger.bmp,ca4dbfbe673408a28d54602c47d0a28f45bd2a4c,bc1070feb43617074ba1bdf91b731cb0fe94395a,true,Self Remade\Finalized - HighRes\Dont Upscale,true,false,0,none,false,2
 vva_first_aid_kit_alp_ovl.bmp,449015ac6b2167171fc0addff2bbdc158cff9067,d5ed5dd8e7fb724ace9722f816c7c60ca8974330,true,Self Remade\Finalized - HighRes\Dont Upscale,false,false,0,none,false,2

@@ -1,12 +1,4 @@
 filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,upscaler_version,upscaler_type,ctxr3_converted,non_upscaled_version
-00040da5,be5d69c46afbb5919dbdd3d409b6c4223235f05e,e214440fbff0bcf3f3fadae3cced6fa13e077ab9,true,Self Remade\Finalized\Dont demaster\UI\Shared,true,true,3,remarci_4x,false,0
-00393ebb,0b9c97f4525a208e6e10e4aa90631f8b2b7093d7,149da048355820dc51bee09b53285a41ead662ef,false,Self Remade\Finalized\Self Remastered\UI\Shared\Dont Demaster\4k,false,false,0,none,false,2
-00454202,a5abb50baf5f5006765479f3a8f366b3124c4aeb,c40e28ca5085d05a956c86efda260bcf64b3cab4,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4k,false,false,0,none,false,2
-004f0fb2,ad70fcdd19f9934a49e3d4e7e79c04505f565106,c0a87c26e137451b039ede6914c1b04e293aa7ff,true,Self Remade\Finalized\Dont demaster\UI\Shared,true,true,3,remarci_4x,false,0
-00c8c0af,779ab38fc37dca84e81866d5f5125c805cd86e92,c5c1596550826def0ec1b2b346e492304e2a0cc8,true,Self Remade\Finalized\Dont demaster\UI\Shared,true,true,3,remarci_4x,false,0
-00e11a3e,4d828135cb28fdeb173df872317aa6e0dd8c7581,ad6f2013aa20fda295425d0ab42e2e994c14d869,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4k,false,false,0,none,false,2
-00f1c0b1,bf8d61c294db1017447065024c5d9509728a1d89,c9a61eed3f59945078d812d30fb4f6f07b4b66bc,true,Self Remade\Finalized\Dont demaster\UI\Shared,true,true,3,remarci_4x,false,0
-00fc60e2,a5abb50baf5f5006765479f3a8f366b3124c4aeb,2bbce467abda8a9d6239b91415f87bd93dee6f50,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4k,false,false,0,none,false,2
 armory_kan01.bmp,129320326f869c4edae4398e6c2205d1f92629b0,9309862a61c77ac79951263df68de1ffdc0e7190,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
 armory_kan01.bmp_1926b58465933136b8b8e9a28ffb67c1,e71bddcb8e8636a504f191087ace47c155ac0a3b,2767285ddfe0decd8f10ce0c58583f9b9483eb0c,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
 armory_kan02.bmp,6c79800fe963b6e7c95a5e8f47caad48d9cce6ed,c915b8a9e3c816fc2bd6a38e0461c3e7f7909d87,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
@@ -60,7 +52,7 @@ sna_def_hair_front_ovl_alp.bmp,1dbdf1fcb2284258d41dd0f0ecafe3acef4c34f4,58147bf5
 sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310,26d234bd4ae9cf946697d9fde9bf66eb126ef58a,da7f19b7a897acd6663d4d4f91ceab87bca9a4dc,true,Self Remade\Finalized\Dont demaster,true,true,3,remarci_4x,false,0
 sna_face_cell_hi.bmp,7530ef8ce7c9df3f07f3a6d0bedbd210a411161c,15d4d207f475730467b67fbb0d7280fc190d8acf,true,Self Remade\Finalized,true,true,3,remarci_4x,false,0
 sna_face_dam_eye_ovl_alp.bmp,1c7e275b57b1aa8e98b866b46e3844bb9179342e,2f18a752ccc3b447df86f1292284ba88097ec075,true,Self Remade\Finalized,false,true,3,remarci_4x,false,0
-sna_face_ed_def.bmp,c312e3c3c265a22061ad93208287d792641e2c2e,531a9dbef93b42720aa87be4a7b076a252e1f2c0,true,Self Remade\Finalized,true,true,3,remarci_4x,false,0
+sna_face_ed_def.bmp,38cc84c7724144dc52f86807d2d8ce753dc5b4c1,af7248770bde70067a26c5038954a62e35ce3ee3,true,Self Remade\Finalized,true,true,3,remarci_4x,false,0
 sna_face_vr_sta_ovl_alp.bmp,56801e2836bf198748e62037fcc342a563276638,eb050f3710125f6a59c9a4cb098997e1f6dfaa73,true,Self Remade\Finalized,false,true,3,remarci_4x,false,0
 sna_flirt_tiger.bmp,26bce004256f1b7f8fe42443763a4c5bacd941ca,e241c7877654820fd9e6981ae8b12671a6aeb774,true,Self Remade\Finalized,true,true,3,remarci_4x,false,0
 sna_foot_naked_flirt.bmp,71f4c66aefab8949b228246632d75fff82913af2,c9991fd61d898c8a5890aec64b89bfbb8ba6afc2,true,Self Remade\Finalized,true,true,3,remarci_4x,false,0
