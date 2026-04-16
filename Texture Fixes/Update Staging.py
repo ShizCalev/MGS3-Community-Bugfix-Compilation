@@ -69,20 +69,20 @@ DEMASTER_ROOT = Path(r"C:\Development\Git\MGS3-Demastered-Subsistence-Edition\Te
 UPSCALED_UI_ROOT = Path(r"C:\Development\Git\MGS3-Upscaled-UI-Textures\Textures")
 
 STAGING_ROOTS: list[Path] = [
-    # Bugfix Compilation
-    BUGFIX_ROOT / "Staging",
+    ## Bugfix Compilation
+    #BUGFIX_ROOT / "Staging",
     BUGFIX_ROOT / "Staging - 2x Upscaled",
     BUGFIX_ROOT / "Staging - 4x Upscaled",
-    # Demastered pack
-    DEMASTER_ROOT / "Staging",
-    DEMASTER_ROOT / "Staging - 2x Upscaled",
-    DEMASTER_ROOT / "Staging - 4x Upscaled",
-    DEMASTER_ROOT / "Staging - UI",
-    DEMASTER_ROOT / "Staging - UI - 2x Upscaled",
-    DEMASTER_ROOT / "Staging - UI - 4x Upscaled",
-    # Upscaled UI pack (2x / 4x only)
-    UPSCALED_UI_ROOT / "Staging - 2x Upscaled",
-    UPSCALED_UI_ROOT / "Staging - 4x Upscaled",
+    ## Demastered pack
+    #DEMASTER_ROOT / "Staging",
+    #DEMASTER_ROOT / "Staging - 2x Upscaled",
+    #DEMASTER_ROOT / "Staging - 4x Upscaled",
+    #DEMASTER_ROOT / "Staging - UI",
+    #DEMASTER_ROOT / "Staging - UI - 2x Upscaled",
+    #DEMASTER_ROOT / "Staging - UI - 4x Upscaled",
+    ## Upscaled UI pack (2x / 4x only)
+    #UPSCALED_UI_ROOT / "Staging - 2x Upscaled",
+    #UPSCALED_UI_ROOT / "Staging - 4x Upscaled",
 ]
 
 # Self Remade Finalized folder and output CSV name

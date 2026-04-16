@@ -1,12 +1,19 @@
 filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,upscaler_version,upscaler_type,ctxr3_converted,non_upscaled_version
 00040da5,be5d69c46afbb5919dbdd3d409b6c4223235f05e,47a9eaf63e2af27b1544f1009c75f4ce5287dca3,true,Self Remade\Finalized\Dont demaster\UI\Shared,true,true,3,remarci_4x,false,0
-00393ebb,0b9c97f4525a208e6e10e4aa90631f8b2b7093d7,d54f19ceed829488edc618d2e057095f9af9b30f,false,Self Remade\Finalized\Self Remastered\UI\Shared\Dont Demaster\4K,false,false,0,none,true,2
-00454202,a5abb50baf5f5006765479f3a8f366b3124c4aeb,7b2c89b0fc287ea128c986ddb096a05333e74281,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4K,false,false,0,none,true,2
+00393ebb,0b9c97f4525a208e6e10e4aa90631f8b2b7093d7,149da048355820dc51bee09b53285a41ead662ef,false,Self Remade\Finalized\Self Remastered\UI\Shared\Dont Demaster\4k,false,false,0,none,false,2
+00454202,a5abb50baf5f5006765479f3a8f366b3124c4aeb,f1a10405bee4827da0f7bb7c5ef378a178b4f4c5,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4k,false,false,0,none,false,2
 004f0fb2,ad70fcdd19f9934a49e3d4e7e79c04505f565106,e3fd69088c69ffe7a7ba36100a5cc5c276b8377a,true,Self Remade\Finalized\Dont demaster\UI\Shared,true,true,3,remarci_4x,false,0
 00c8c0af,779ab38fc37dca84e81866d5f5125c805cd86e92,d0690235c808f15481f610dfc54e98e6f4ecc077,true,Self Remade\Finalized\Dont demaster\UI\Shared,true,true,3,remarci_4x,false,0
-00e11a3e,4d828135cb28fdeb173df872317aa6e0dd8c7581,a58e7c3f62d2b5a34859ebca0f5bbd9c23070dde,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4K,false,false,0,none,true,2
+00e11a3e,4d828135cb28fdeb173df872317aa6e0dd8c7581,ad6f2013aa20fda295425d0ab42e2e994c14d869,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4k,false,false,0,none,false,2
 00f1c0b1,bf8d61c294db1017447065024c5d9509728a1d89,34df88fa2e3d3d04e77bb213dd9c2c17a4ae0ded,true,Self Remade\Finalized\Dont demaster\UI\Shared,true,true,3,remarci_4x,false,0
-00fc60e2,a5abb50baf5f5006765479f3a8f366b3124c4aeb,7b2c89b0fc287ea128c986ddb096a05333e74281,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4K,false,false,0,none,true,2
+00fc60e2,a5abb50baf5f5006765479f3a8f366b3124c4aeb,2bbce467abda8a9d6239b91415f87bd93dee6f50,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4k,false,false,0,none,false,2
+armory_kan01.bmp,129320326f869c4edae4398e6c2205d1f92629b0,9309862a61c77ac79951263df68de1ffdc0e7190,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
+armory_kan01.bmp_1926b58465933136b8b8e9a28ffb67c1,e71bddcb8e8636a504f191087ace47c155ac0a3b,2767285ddfe0decd8f10ce0c58583f9b9483eb0c,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
+armory_kan02.bmp,6c79800fe963b6e7c95a5e8f47caad48d9cce6ed,c915b8a9e3c816fc2bd6a38e0461c3e7f7909d87,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
+armory_kan02.bmp_f2036919f3c1c4eaeaee951679a30cc9,b45d18001a6de4757f0fac463dc1bae99b9ac102,0dcf4efc31ba88eabf542ee3d3ff2b0f97ff778c,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
+armory_kan03.bmp,4236287c9bfa5625e0f07db899025d6f99ac3e6b,0921b04d43e89bc412dfa8f9fe6f06603e8265d5,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
+armory_nosmk_alp_ovl.bmp,2550387bec28df82e1aa32900eaad5a33140cf20,6c0da65f1fee3d1aa22438a139ce6a9f4c2b864d,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
+armory_nosmk_alp_ovl.bmp_424696b4a9db087afd9d2be2112e6de5,3c24fec3434a0fb899925b51c939e50dc56521cf,6b6b48d00d0a31e044ccf74a0ff6866563bbb115,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
 e02_1.bmp,968d83b4d3a006f1eee46b3046d7fca5c99cf25f,403f36f10484a47552e927632f38fcb150b5c1ec,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_jp,true,true,3,remarci_4x,false,0
 e02_2.bmp_75c18656e1070488b65f4ef3c5459c6a,96be59ca4f962314e732f33fa9573dd664ae26b2,744597d2d303005e664ae97fe6d5a7a835b3b4c6,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_jp,true,true,3,remarci_4x,false,0
 e02_3.bmp_9f9413fdf4806383d89d42846a722a3f,acf3bccef14666fa2b4c3d3d0c52a21893c78827,0fef2d99036f90157419a6bc38f1826e1ddd0923,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_jp,true,true,3,remarci_4x,false,0
@@ -46,6 +53,7 @@ s112a_hibi_01_alp_ovl.bmp,3451f5d2345a9f71ba74b8d128ba97bc715fe9f4,b64d7832d4dbd
 s122a_fence_alp_ovl_01.bmp,6c0ff5d78be43e11a11fedba0b9d4ac3cfffd4b3,cf339b81bd56f45a18f4824ab6eab58eb805035e,true,Self Remade\Finalized,false,true,3,remarci_4x,false,0
 s171a_mo_fence_alp_ovl_rep_01.bmp,a0c501b97e8241b000209da05d94a892177cb443,5815891154c9be73519cdd7fab06d3d913d70f28,true,Self Remade\Finalized,false,true,3,remarci_4x,false,0
 s171a_mogi_fence_alp_ovl_rep_01.bmp,1b5aa35dca27b0fb0e89545e9f18a71d69871b69,67e43118a9bd4c401b5b4bab6f6b786e0f84aff0,true,Self Remade\Finalized,false,true,3,remarci_4x,false,0
+s222a_america_01.bmp,951c1636bbe6475685834a75dc36f570efcbd417,538fba53c50956d56832b0775e70d73ef2850e71,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,2
 sga_cigar01_brake.bmp,ab3f215ae94e7093bfa04359064b6bdf96cc90a2,b00e1cfd5887889990d132ce83b1567651fdd624,true,Self Remade\Finalized\Self Remastered,true,true,3,remarci_4x,false,0
 sga_cigar_origin.bmp,3b76ac2db9487ab7214c64103aa04d55cea1bd84,f040723be584e18edcb5702953f3347dea0d0550,true,Self Remade\Finalized\Self Remastered,true,true,3,remarci_4x,false,0
 sna_def_hair_front_ovl_alp.bmp,1dbdf1fcb2284258d41dd0f0ecafe3acef4c34f4,6da493439c3cace12b63abe3d04fad7b32ba62c4,true,Self Remade\Finalized\Dont demaster,false,true,3,remarci_4x,false,0

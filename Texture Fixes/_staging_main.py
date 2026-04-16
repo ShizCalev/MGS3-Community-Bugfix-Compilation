@@ -178,7 +178,18 @@ def get_current_upscaler_metadata_for_run(is_upscaled_run: bool, use_extra: bool
             return (UPSCALE_PROCESS_VERSION, "remarci_4x_extra_smooth")
         return (UPSCALE_PROCESS_VERSION, "remarci_4x")
     return ("0", "none")
+    
+    
+def origin_forces_nonupscaled_processing(origin_folder: str) -> bool:
+    origin = (origin_folder or "").strip().lower().replace("/", "\\")
 
+    if "hires" in origin:
+        return True
+
+    if origin.endswith(r"\4k") or origin.endswith(r"\1080p"):
+        return True
+
+    return False
 
 def get_current_non_upscaled_version_for_run(is_upscaled_run: bool) -> str:
     if is_upscaled_run:
@@ -186,22 +197,52 @@ def get_current_non_upscaled_version_for_run(is_upscaled_run: bool) -> str:
     return NON_UPSCALED_PROCESS_VERSION
 
 
-def stem_treated_as_upscaled(stem_lower: str, staging_is_upscaled: bool, nonupscaled_override_stems: set[str]) -> bool:
-    return staging_is_upscaled and (stem_lower not in nonupscaled_override_stems)
+def stem_forced_nonupscaled_by_origin(
+    stem_lower: str,
+    image_origin_by_name: dict[str, str],
+) -> bool:
+    origin = (image_origin_by_name.get(stem_lower) or "").strip().lower().replace("/", "\\")
 
+    if "hires backports" in origin:
+        return True
 
-def get_effective_upscaled_flag_for_stem(stem_lower: str, staging_is_upscaled: bool, nonupscaled_override_stems: set[str]) -> bool:
-    return stem_treated_as_upscaled(stem_lower, staging_is_upscaled, nonupscaled_override_stems)
+    if origin.endswith(r"\4k") or origin.endswith(r"\1080p"):
+        return True
+
+    return False
+
+def get_effective_upscaled_flag_for_stem(
+    stem_lower: str,
+    staging_is_upscaled: bool,
+    nonupscaled_override_stems: set[str],
+    image_origin_by_name: dict[str, str],
+) -> bool:
+    if not staging_is_upscaled:
+        return False
+
+    if stem_forced_nonupscaled_by_origin(stem_lower, image_origin_by_name):
+        return False
+
+    if stem_lower in nonupscaled_override_stems:
+        return False
+
+    return True
 
 
 def get_effective_upscaler_metadata_for_stem(
     stem_lower: str,
     staging_is_upscaled: bool,
     nonupscaled_override_stems: set[str],
+    image_origin_by_name: dict[str, str],
     extra_smooth_stems: set[str],
 ) -> tuple[str, str]:
     return get_current_upscaler_metadata_for_run(
-        get_effective_upscaled_flag_for_stem(stem_lower, staging_is_upscaled, nonupscaled_override_stems),
+        get_effective_upscaled_flag_for_stem(
+            stem_lower,
+            staging_is_upscaled,
+            nonupscaled_override_stems,
+            image_origin_by_name,
+        ),
         stem_lower in extra_smooth_stems,
     )
 
@@ -210,9 +251,15 @@ def get_effective_non_upscaled_version_for_stem(
     stem_lower: str,
     staging_is_upscaled: bool,
     nonupscaled_override_stems: set[str],
+    image_origin_by_name: dict[str, str],
 ) -> str:
     return get_current_non_upscaled_version_for_run(
-        get_effective_upscaled_flag_for_stem(stem_lower, staging_is_upscaled, nonupscaled_override_stems)
+        get_effective_upscaled_flag_for_stem(
+            stem_lower,
+            staging_is_upscaled,
+            nonupscaled_override_stems,
+            image_origin_by_name,
+        )
     )
 
 
@@ -281,7 +328,12 @@ def build_extra_smooth_stems(
         if stem_lower not in force_extra_smooth_stems:
             continue
 
-        if not get_effective_upscaled_flag_for_stem(stem_lower, staging_is_upscaled, nonupscaled_override_stems):
+        if not get_effective_upscaled_flag_for_stem(
+            stem_lower,
+            staging_is_upscaled,
+            nonupscaled_override_stems,
+            image_origin_by_name,
+        ):
             continue
 
         origin_lower = (origin_folder or "").strip().lower()
@@ -537,11 +589,17 @@ def get_effective_used_nomips_for_stem(
     stem_lower: str,
     staging_is_upscaled: bool,
     nonupscaled_override_stems: set[str],
+    image_origin_by_name: dict[str, str],
     rx_list: list[re.Pattern],
     manual_ui_textures: set[str],
 ) -> bool:
     used_nomips = should_use_nomips(stem_lower, rx_list, manual_ui_textures)
-    effective_upscaled = get_effective_upscaled_flag_for_stem(stem_lower, staging_is_upscaled, nonupscaled_override_stems)
+    effective_upscaled = get_effective_upscaled_flag_for_stem(
+        stem_lower,
+        staging_is_upscaled,
+        nonupscaled_override_stems,
+        image_origin_by_name,
+    )
 
     if effective_upscaled and stem_lower in manual_ui_textures:
         used_nomips = False
@@ -684,9 +742,17 @@ def remap_demastered_self_remade_to_ps2(image_files: list[Path]) -> list[Path]:
     skipped: list[Path] = []
 
     for img in image_files:
-        path_lower = str(img).lower()
+        path_lower = str(img).lower().replace("/", "\\")
 
-        if path_contains_self_remade(img) and "demaster fixed" not in path_lower:
+        if "hires backports" in path_lower:
+            #skipped.append(img)
+            log(f"[DEMASTERED SKIP] Skipping hires backports texture: {img}")
+            continue
+
+        if (
+            path_contains_self_remade(img)
+            and "demaster fixed" not in path_lower
+        ):
             stem_lower = img.stem.lower()
             ps2_path = ps2_map.get(stem_lower)
 
@@ -1898,7 +1964,12 @@ def run_nvtt_exports_or_die(
 
     for img in image_files:
         name = img.stem.lower()
-        effective_upscaled = get_effective_upscaled_flag_for_stem(name, staging_is_upscaled, nonupscaled_override_stems)
+        effective_upscaled = get_effective_upscaled_flag_for_stem(
+            name,
+            staging_is_upscaled,
+            nonupscaled_override_stems,
+            image_origin_by_name,
+        )
 
         if (not effective_upscaled) and (name in ctxr3_required_stems):
             skipped_ctxr3_managed_nonupscaled.append(img)
@@ -1933,7 +2004,12 @@ def run_nvtt_exports_or_die(
 
     for img in missing:
         stem_lower = img.stem.lower()
-        effective_upscaled = get_effective_upscaled_flag_for_stem(stem_lower, staging_is_upscaled, nonupscaled_override_stems)
+        effective_upscaled = get_effective_upscaled_flag_for_stem(
+            stem_lower,
+            staging_is_upscaled,
+            nonupscaled_override_stems,
+            image_origin_by_name,
+        )
 
         if not effective_upscaled:
             nonupscaled_direct.append(img)
@@ -2232,17 +2308,24 @@ def run_nvtt_exports_or_die(
         out_ctxr = PARAM_FOLDER / f"{stem_lower}.ctxr"
 
         tmp_rgb_path: Path | None = None
-        effective_upscaled = get_effective_upscaled_flag_for_stem(stem_lower, staging_is_upscaled, nonupscaled_override_stems)
+        effective_upscaled = get_effective_upscaled_flag_for_stem(
+            stem_lower,
+            staging_is_upscaled,
+            nonupscaled_override_stems,
+            image_origin_by_name,
+        )
         upscaler_version, upscaler_type = get_effective_upscaler_metadata_for_stem(
             stem_lower,
             staging_is_upscaled,
             nonupscaled_override_stems,
+            image_origin_by_name,
             extra_smooth_stems,
         )
         non_upscaled_version = get_effective_non_upscaled_version_for_stem(
             stem_lower,
             staging_is_upscaled,
             nonupscaled_override_stems,
+            image_origin_by_name,
         )
 
         def cleanup_param_ctxr():
@@ -2267,6 +2350,7 @@ def run_nvtt_exports_or_die(
             stem_lower,
             staging_is_upscaled,
             nonupscaled_override_stems,
+            image_origin_by_name,
             no_mip_regexes,
             manual_ui_textures,
         )
@@ -2958,6 +3042,7 @@ def main() -> int:
             filtered: list[Path] = []
             skipped = 0
             kept_nonupscaled_override = 0
+            kept_origin_forced_nonupscaled = 0
 
             for img in image_files:
                 stem_lower = img.stem.lower()
@@ -2966,6 +3051,17 @@ def main() -> int:
                     filtered.append(img)
                     continue
 
+                origin_folder = origin_relative_to_required_subpath_or_die(img)
+                origin_lower = origin_folder.strip().lower().replace("/", "\\")
+
+                if (
+                    "hires backports" in origin_lower
+                    or origin_lower.endswith(r"\4k")
+                    or origin_lower.endswith(r"\1080p")
+                ):
+                    filtered.append(img)
+                    kept_origin_forced_nonupscaled += 1
+                    continue
                 if is_demastered_run and stem_lower in demastered_nonupscaled_override_stems:
                     filtered.append(img)
                     kept_nonupscaled_override += 1
@@ -2977,10 +3073,17 @@ def main() -> int:
 
             if skipped:
                 log(f"[UPSCALE] Skipped {skipped} image(s) listed in never_upscale.txt for upscaled staging run")
+
             if kept_nonupscaled_override:
                 log(
                     f"[UPSCALE] Kept {kept_nonupscaled_override} image(s) from the post-#end-native-ui section "
                     "for NON-upscaled demaster processing"
+                )
+
+            if kept_origin_forced_nonupscaled:
+                log(
+                    f"[UPSCALE] Kept {kept_origin_forced_nonupscaled} image(s) from never_upscale.txt "
+                    "for full NON-upscaled processing due to origin folder rule"
                 )
 
         if is_demastered_run:
@@ -3011,6 +3114,7 @@ def main() -> int:
                     stem_lower,
                     is_upscaled_run,
                     demastered_nonupscaled_override_stems,
+                    image_origin_by_name,
                     no_mip_regexes,
                     manual_ui_textures,
                 )
@@ -3105,17 +3209,20 @@ def main() -> int:
                     filename_lower,
                     is_upscaled_run,
                     demastered_nonupscaled_override_stems,
+                    image_origin_by_name,
                 )
                 default_uv, default_ut = get_effective_upscaler_metadata_for_stem(
                     filename_lower,
                     is_upscaled_run,
                     demastered_nonupscaled_override_stems,
+                    image_origin_by_name,
                     extra_smooth_stems,
                 )
                 default_nuv = get_effective_non_upscaled_version_for_stem(
                     filename_lower,
                     is_upscaled_run,
                     demastered_nonupscaled_override_stems,
+                    image_origin_by_name,
                 )
 
                 if "upscaler_version" not in row or not (row.get("upscaler_version") or "").strip():
@@ -3282,17 +3389,24 @@ def main() -> int:
                 early_mismatch_names.add(name)
                 continue
 
-            current_upscaled = get_effective_upscaled_flag_for_stem(name, is_upscaled_run, demastered_nonupscaled_override_stems)
+            current_upscaled = get_effective_upscaled_flag_for_stem(
+                name,
+                is_upscaled_run,
+                demastered_nonupscaled_override_stems,
+                image_origin_by_name,
+            )
             current_upscaler_version, current_upscaler_type = get_effective_upscaler_metadata_for_stem(
                 name,
                 is_upscaled_run,
                 demastered_nonupscaled_override_stems,
+                image_origin_by_name,
                 extra_smooth_stems,
             )
             current_non_upscaled_version = get_effective_non_upscaled_version_for_stem(
                 name,
                 is_upscaled_run,
                 demastered_nonupscaled_override_stems,
+                image_origin_by_name,
             )
 
             origin_ok = (str(csv_origin).strip().lower() == str(img_origin).strip().lower())
@@ -3481,17 +3595,24 @@ def main() -> int:
             current_origin = image_origin_by_name.get(name, "")
             current_used_nomips = image_used_nomips_by_name.get(name, False)
             current_opacity_expected = image_opacity_expected_by_name.get(name, False)
-            current_upscaled = get_effective_upscaled_flag_for_stem(name, is_upscaled_run, demastered_nonupscaled_override_stems)
+            current_upscaled = get_effective_upscaled_flag_for_stem(
+                name,
+                is_upscaled_run,
+                demastered_nonupscaled_override_stems,
+                image_origin_by_name,
+            )
             current_upscaler_version, current_upscaler_type = get_effective_upscaler_metadata_for_stem(
                 name,
                 is_upscaled_run,
                 demastered_nonupscaled_override_stems,
+                image_origin_by_name,
                 extra_smooth_stems,
             )
             current_non_upscaled_version = get_effective_non_upscaled_version_for_stem(
                 name,
                 is_upscaled_run,
                 demastered_nonupscaled_override_stems,
+                image_origin_by_name,
             )
 
             before_ok = (expected_before == (img_digest or "").lower())
@@ -3552,17 +3673,24 @@ def main() -> int:
             current_origin = image_origin_by_name.get(name, "")
             current_used_nomips = image_used_nomips_by_name.get(name, False)
             current_opacity_expected = image_opacity_expected_by_name.get(name, False)
-            current_upscaled = get_effective_upscaled_flag_for_stem(name, is_upscaled_run, demastered_nonupscaled_override_stems)
+            current_upscaled = get_effective_upscaled_flag_for_stem(
+                name,
+                is_upscaled_run,
+                demastered_nonupscaled_override_stems,
+                image_origin_by_name,
+            )
             current_upscaler_version, current_upscaler_type = get_effective_upscaler_metadata_for_stem(
                 name,
                 is_upscaled_run,
                 demastered_nonupscaled_override_stems,
+                image_origin_by_name,
                 extra_smooth_stems,
             )
             current_non_upscaled_version = get_effective_non_upscaled_version_for_stem(
                 name,
                 is_upscaled_run,
                 demastered_nonupscaled_override_stems,
+                image_origin_by_name,
             )
 
             expected_before = ""
