@@ -682,6 +682,36 @@ def build_ctxr3_required_stems_for_override_subset(
     return build_nonupscaled_ctxr3_required_stems(subset, no_mip_regexes, manual_ui_textures, is_demastered_run)
 
 
+def build_ctxr3_required_stems_for_effective_nonupscaled_subset(
+    image_files: list[Path],
+    staging_is_upscaled: bool,
+    nonupscaled_override_stems: set[str],
+    image_origin_by_name: dict[str, str],
+    no_mip_regexes: list[re.Pattern],
+    manual_ui_textures: set[str],
+    is_demastered_run: bool,
+) -> set[str]:
+    subset: list[Path] = []
+
+    for img in image_files:
+        stem_lower = img.stem.lower()
+        if get_effective_upscaled_flag_for_stem(
+            stem_lower,
+            staging_is_upscaled,
+            nonupscaled_override_stems,
+            image_origin_by_name,
+        ):
+            continue
+        subset.append(img)
+
+    return build_nonupscaled_ctxr3_required_stems(
+        subset,
+        no_mip_regexes,
+        manual_ui_textures,
+        is_demastered_run,
+    )
+
+
 # ==========================================================
 # DEMASTERED PS2 SOURCE REMAP HELPERS
 # ==========================================================
@@ -3000,30 +3030,6 @@ def main() -> int:
 
             original_image_files = filtered_original_image_files
 
-        ctxr3_required_stems: set[str] = set()
-        if not is_upscaled_run:
-            ctxr3_required_stems = build_nonupscaled_ctxr3_required_stems(
-                original_image_files,
-                no_mip_regexes,
-                manual_ui_textures,
-                is_demastered_run,
-            )
-            if ctxr3_required_stems:
-                log(f"[CTXR3] NON-upscaled ctxr3-managed stems discovered: {len(ctxr3_required_stems)}")
-        elif is_demastered_run and demastered_nonupscaled_override_stems:
-            ctxr3_required_stems = build_ctxr3_required_stems_for_override_subset(
-                original_image_files,
-                demastered_nonupscaled_override_stems,
-                no_mip_regexes,
-                manual_ui_textures,
-                True,
-            )
-            if ctxr3_required_stems:
-                log(
-                    f"[CTXR3] Demastered upscaled override stems requiring NON-upscaled ctxr3 handling: "
-                    f"{len(ctxr3_required_stems)}"
-                )
-
         image_files = list(original_image_files)
 
         if is_upscaled_run and never_upscale_stems:
@@ -3082,6 +3088,32 @@ def main() -> int:
             workers,
             manual_opaque_textures,
         )
+
+        ctxr3_required_stems: set[str] = set()
+        if not is_upscaled_run:
+            ctxr3_required_stems = build_nonupscaled_ctxr3_required_stems(
+                image_files,
+                no_mip_regexes,
+                manual_ui_textures,
+                is_demastered_run,
+            )
+            if ctxr3_required_stems:
+                log(f"[CTXR3] NON-upscaled ctxr3-managed stems discovered: {len(ctxr3_required_stems)}")
+        elif is_demastered_run:
+            ctxr3_required_stems = build_ctxr3_required_stems_for_effective_nonupscaled_subset(
+                image_files,
+                is_upscaled_run,
+                demastered_nonupscaled_override_stems,
+                image_origin_by_name,
+                no_mip_regexes,
+                manual_ui_textures,
+                True,
+            )
+            if ctxr3_required_stems:
+                log(
+                    f"[CTXR3] Demastered upscaled effective NON-upscaled stems requiring ctxr3 handling: "
+                    f"{len(ctxr3_required_stems)}"
+                )
 
         mc_tri_dumped_dims_by_name = load_mc_tri_dumped_dimensions_or_die(MC_TRI_DUMPED_METADATA_CSV_PATH)
         extra_smooth_stems = build_extra_smooth_stems(
