@@ -1,0 +1,91 @@
+name: CI Builds
+
+env:
+  CI: true
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: ["**"]
+
+permissions:
+  contents: read
+
+defaults:
+  run:
+    shell: pwsh
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Enable long paths in Git
+      run: git config --system core.longpaths true
+
+    - name: Enable Win32 long paths at runtime
+      shell: pwsh
+      run: reg add "HKLM\SYSTEM\CurrentControlSet\Control\FileSystem" /v LongPathsEnabled /t REG_DWORD /d 1 /f
+
+    - uses: actions/checkout@v4
+      with:
+        submodules: recursive
+        fetch-depth: 0
+
+    - name: Setup MSBuild
+      uses: microsoft/setup-msbuild@v2
+
+    # -------------------------
+    # Prepare output structure
+    # -------------------------
+    - run: mkdir dist
+    - run: mkdir dist/plugins
+    - run: mkdir dist/logs
+
+
+    # -------------------------
+    # Build
+    # -------------------------
+    - name: Build
+      run: msbuild "ASI Mod\${{ github.event.repository.name }}.sln" /m -t:rebuild -verbosity:minimal -property:Configuration=Release -property:Platform=x64  -property:PlatformToolset=v143
+
+    # Copy built binaries directly into plugins/
+    - run: Copy-Item "ASI Mod\x64\Release\${{ github.event.repository.name }}.asi" "dist/plugins/${{ github.event.repository.name }}.asi"
+
+    # Logs & metadata
+    - run: Copy-Item README.md "dist/logs/${{ github.event.repository.name }}_Game.log"
+    - run: Copy-Item README.md "dist/logs/${{ github.event.repository.name }}_Launcher.log" 
+    - run: Copy-Item README.md "dist/logs/${{ github.event.repository.name }}_README.md"
+    - run: Copy-Item LICENSE "dist/plugins/${{ github.event.repository.name }}_LICENSE"
+    - run: Copy-Item "ASI Mod\${{ github.event.repository.name }}.ini" "dist/plugins/${{ github.event.repository.name }}.ini"
+    
+
+    # Build Dist Folders
+    - name: Build Dist Folders
+      run: |
+        $RepoRootDir = "${{ github.workspace }}"
+        $scriptPath  = Join-Path $RepoRootDir "Build_Dist_Folders.py"
+
+        if (-not (Test-Path $scriptPath)) {
+          Write-Error "Build_Dist_Folders.py not found at $scriptPath"
+          exit 1
+        }
+
+        Write-Host "Running Build_Dist_Folders.py..."
+        py $scriptPath
+
+    # Package everything
+    - name: Create Base release zip
+      working-directory: dist
+      run: 7z a -tzip "../${{ github.event.repository.name }}}_Base_run-${{ github.run_number }}.zip" *
+
+
+    - name: Create Base 4K Assets zip
+      working-directory: dist_4k_assets
+      run: 7z a -tzip "../${{ github.event.repository.name }}_Base_4K_Assets_Addon_run-${{ github.run_number }}.zip" *
+
+
+    - name: Create 2x Upscaled release zip
+      working-directory: dist_2x
+      run: 7z a -tzip "../${{ github.event.repository.name }}_2x_Upscaled_run-${{ github.run_number }}.zip" *
