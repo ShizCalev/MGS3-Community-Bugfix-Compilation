@@ -25,14 +25,9 @@ This compilation should be considered a perpetual work-in-progress.
 
 ## Community contributions to the pack are absolutely encouraged.
 
-*Files generated/upscaled through AI upscaling will NOT be accepted into the base pack.
+* Textures generated/upscaled through AI upscaling will NOT be accepted into the base pack. All textures must be properly made by an actual human.
 
-The repo IS set up to easily contribute corrections (via [CSV files](https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/blob/main/SDT%20Fixes/Script%20CSVs/Radio%20Calls/fr/codec/_bp/1_face_mask_to_take_a_wireless_demo_cb_vd_v030_010_r010_raidenhttpd.csv)) for **ALL** translations of the game. If you know of any typos in the French, Spanish, Japanese, ect versions, PLEASE feel free to submit those corrections as well!
-
-<br>
-
-
-NOTE: OPTIONAL ADDON 2X & 4X AI UPSCALED RELEASES OF THIS PACK ARE PROVIDED (for those that prefer AI upscaled textures over the official High Resolution pack.) Our upscaled packs do FULLY REPLACE LiqMix's AI Slop texture packs.
+The repo is set up to easily contribute corrections (via [CSV files](https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/blob/main/SDT%20Fixes/Script%20CSVs/Radio%20Calls/fr/codec/_bp/1_face_mask_to_take_a_wireless_demo_cb_vd_v030_010_r010_raidenhttpd.csv)) for **ALL** translations of the game. If you know of any typos in the French, Spanish, Japanese, ect versions, PLEASE feel free to submit those corrections as well!
 
 <br>
 
@@ -54,9 +49,27 @@ https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/issues
 1. Download the latest "Base" zip from: [here](https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/releases)
 2. Extract the contents of the release zip into your game folder.
    - (e.g., `steamapps\common\MGS3`.)
+   
+<br>
+   
+### 4K Asset Pack:
 
+All community bugfix remade UI textures & videos are mastered to display natively at 1920x1080 resolution (1080p / FHD.)
+ * Yes, they still work with Steamdeck / at 1280x720p.
+
+An optional 4K asset pack is provided which contains these remade assests mastered to display natively at 3840x2160 (4K resolution.)
+
+1. After installing the "Base" version (from the steps above)
+2. Extract the 4K asset pack zip into your game folder, overwriting any files when asked.
+  - 4K asset pack **MUST** always be installed/loaded AFTER the base version.
+
+
+<br>
 
 ### 2x / 4x Upscaled Texture Addons:
+
+Optional 2x & 4x AI Upscaled versions of all the game's textures (for those that prefer AI upscaled textures over the official High Resolution pack.) 
+  * Our upscaled packs do FULLY REPLACE LiqMix's AI Slop texture packs.
 
 1. After installing the "Base" version (from the steps above)
 2. Download the desired addon pack from the "Assets" section below.
@@ -76,6 +89,7 @@ https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/issues
 1. [MGSHDFix](https://github.com/Lyall/MGSHDFix) (REQUIRED)
 2. [Knight_Killer](https://www.nexusmods.com/profile/KnightKiIIer)'s [MGS3 Better Audio Mod](www.nexusmods.com/metalgearsolid3mc/mods/4)
 3. MGS3 Community Bugfix Compilation - Base
+4. MGS3 Community Bugfix Compilation - 4K Asset Pack (if desired)
 4. MGS3 Community Bugfix Compilation - AI Upscaled Texture Addon (if desired)
 5. [MGS3 Demastered Texture Pack](https://github.com/ShizCalev/MGS3-Demastered-Subsistence-Edition/) (if installed)
 6. All other mods
@@ -101,21 +115,18 @@ As this compilation reimports a lot of the original higher-quality PS2 textures,
 Full Coverage:
 - [Banana Camo and Icons](https://www.nexusmods.com/metalgearsolid3mc/mods/51) (By [PliskinHunter](www.nexusmods.com/profile/PliskinHunter))
 - [Cigar Fix](https://www.nexusmods.com/metalgearsolid3mc/mods/131) (By [Afevis](https://www.nexusmods.com/profile/Afevis/mods)) 
-- [HD Eva Body](https://www.nexusmods.com/metalgearsolid3mc/mods/33) (By [TieuLink](https://www.nexusmods.com/profile/TieuLink/mods))
+- [Ending HD Face](https://www.nexusmods.com/metalgearsolid3mc/mods/34) (by [TieuLink](https://www.nexusmods.com/profile/TieuLink/mods)) 
+- [HD Damage face](https://www.nexusmods.com/metalgearsolid3mc/mods/32) (by [TieuLink](https://www.nexusmods.com/profile/TieuLink/mods)) 
+- [HD Eva Body](https://www.nexusmods.com/metalgearsolid3mc/mods/33) (By [TieuLink](https://www.nexusmods.com/profile/TieuLink/mods)) (original PS2 NPOT was higher quality / didn't have the pixelization issue.)
 - [Red Cross Restoration](https://www.nexusmods.com/metalgearsolid3mc/mods/41) (By [Spingas](https://www.nexusmods.com/profile/Spingas/mods))
     - (The original mod recolored the MC's corrupted NPOT textures. The higher quality PS2 textures were reimported. Also, restoration has been expanded to also cover the official high resolution texture pack's crosses.)
 - [Restore Full Cobra Boss Titles](https://www.nexusmods.com/metalgearsolid3mc/mods/181) (By [MechaMike](https://www.nexusmods.com/profile/MechaMike/mods))
 - [Upscaled Textures (AI Slop Edition)](https://www.nexusmods.com/metalgearsolid3mc/mods/54) (By [LiqMix](https://www.nexusmods.com/profile/LiqMix/mods))
 
+
 Partial Coverage:
 - [Bandanna Fixes](https://www.nexusmods.com/metalgearsolid3mc/mods/38) (By [GuyOnAChair](https://www.nexusmods.com/profile/GuyOnAChair/mods)) 
     - (OPACITY FIXES ONLY. Color changes made by the mod that deviate from the original game's textures are not present.) 
-- [Ending HD Face](https://www.nexusmods.com/metalgearsolid3mc/mods/34) (by [TieuLink](https://www.nexusmods.com/profile/TieuLink/mods)) 
-    - (Face texture was not remade yet, original PS2 NPOT face textures fix the pixelization issue.)
-- [HD Damage face](https://www.nexusmods.com/metalgearsolid3mc/mods/32) (by [TieuLink](https://www.nexusmods.com/profile/TieuLink/mods)) 
-    - (Face texture was not remade yet, original PS2 NPOT face textures fix the pixelization issue.)
-	
-<br>
 
 
 ## List of Fixes:
@@ -127,35 +138,33 @@ Partial Coverage:
 ### Bug Fixes:
 
 - Fixed compression artifacting/pixelization present with 3310 textures (an issue originally introduced in the 2011 PS3 HD Collection) by re-exporting all 10565 textures from each of the original PS2 versions of MGS3, and fully rebuilding the game's file structure. [2011 HDC]
-
-    - Most notably, this corrects pixelization / banding issues on Snake's, EVA's, Raikov's, and several other characters' faces and ears throughout the game. [2011 HDC] - [Examples](https://imgur.com/a/5PSVV76)
-	- These higher quality PS2 NPOT textures are released under GPL-3.0 for other mod makers to use for their own mods as part of [MGS3-PS2-Textures](https://github.com/dotlessone/MGS3-PS2-Textures). Textures sorted by remade status, mipmap requirements, and DXT5 usage can also be found [here](https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/tree/main/Texture%20Fixes/ps2%20textures).
-
+    - Notably, this corrects pixelization / banding issues on Snake's, EVA's, Raikov's, and several other characters' faces and ears throughout the game. [2011 HDC] - [Examples](https://imgur.com/a/5PSVV76)
+    - These higher quality PS2 NPOT textures are released under GPL-3.0 for other mod makers to use for their own mods as part of [MGS3-PS2-Textures](https://github.com/dotlessone/MGS3-PS2-Textures).
+	    - Textures sorted by remastered status, mipmap requirements, and DXT5 usage can also be found [here](https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/tree/main/Texture%20Fixes/ps2%20textures).
 - Removes mipmaps that are incorrectly applied to 439 textures, correcting issues ranging from broken texture atlases, blurriness, and specular map quality issues. [2011 HDC]
-
 - Fixed 526 partially (and in some cases fully) transparent textures (which even let you fully see enemies through walls in some places.) [2011 HDC]
-
-- Fixed numerous textures which were not transparent enough (resulting in reflection effects not working on them.) [2011 HDC]
-
+- Fixed numerous textures which were not transparent enough (resulting in reflection effects not working properly.) [2011 HDC]
 - Removed mipmaps from atlas map textures (ie magazines, item box words, ect), which lead to wrong parts/words being seen at a distance. [2011 HDC]
-
 - Fixed rogue black pixels at the tips of Snake's hair. [2004 SE]
-
 - Fixed a flipped first aid kit sign on the WIG. [2004 SE]
-
-- Fixed Snake's cigar swapping to a different colored original PS2 texture when broken. [2011 HDC]
-
 - Fixed broken shadow mask on a poster in Groznyj Grad Weapons Lab. [2011 HDC]
-
 - Fixed multiple English radio calls with Para-medic switching to French subtitles half-way into the conversation. [2004 SE]
-
-- Fixed US version's Cobra Unit boss names showing their EU textures (ie "The Pain" instead of "Hornet Soldier - The Pain". [2011 HDC]
-
 - Fixed black seams (dilation padding) on Eva's neck in multiple cutscenes. [2004 SE]
-
 - Fixed broken wall damage decals in torture chamber. [2011 HDC]
 
 <br>
+
+
+------------
+
+
+### Continuity Fixes:
+
+- Corrected Snake's cigar swapping to a different colored cigar (the original PS2 texture) when broken. [2011 HDC]
+
+
+<br>
+
 
 ------------
 
@@ -163,26 +172,29 @@ Partial Coverage:
 ### Restored Content:
 
 - Restored original PS2 controller icons (can be selected via MGSHDFix's config tool.) [2011 HDC]
-
+    - Note: Some hard-coded UI text still utilizes the PS4 controller phrasing, such as the demo theater instructions saying "PRESS TOUCHPAD". These will be addressed in an upcoming MGSHDFix update.
 - Restored numerous crosses censored from red to green. [2023 MC]
-
-- Restored removed banana camoflague & various other Snake vs Monkey textures. [2011 HDC] (Note: This still requrie a third party mod to unlock. Adding unlocking as part of the CBFC is being looked into.)
-
+- Restored removed banana camoflague & various other Snake vs Monkey textures. [2011 HDC] 
+    - Note: Banana camoflague still requires a third party mod to unlock. Adding unlocking as part of the CBFC is being looked into.
 - Restored 3 developer ghosts pictures, which were changed to different people / backs of heads. [2023 MC]
+- Restored North America / US regional version's Cobra Unit boss namecards, which were utilizing their EU namecards (ie saying "The Pain" instead of "Hornet Soldier - The Pain".) [2011 HDC]
+
 
 <br>
 
 
 ------------
 
-### Remastered Assests:
+### Remade Assests:
 
-- Remade multiple textures which were still using the original PS2 texture: [2011 HDC]
+- Remade multiple textures which were still using the original PS2 texture. [2011 HDC]
+    - These were remade using edited together mixtures of the original PS2 textures, similar variants of Bluepoint's 2011 HD Collection remastered textures, and the official 2026 High Resolution textures.
+      - Snake's face during ending cutscenes. 
+      - Snake's bloody face during capture cutscenes.
+      - Snake's tiger-stripe uniform (both with and without shirt) during ending cutscenes.
+      - Snake's naked / shirtless uniform during gameplay.
 
-    - Snake's face during ending cutscenes. 
-	- Snake's bloody face during capture cutscenes.
-	- Snake's tiger-stripe uniform (both with and without shirt) during ending cutscenes.
-	- Snake's naked / shirtless uniform during gameplay.
+- Remade title screen assets, fixing pixelization issues, & restoring the original scaling, copyright symbols, and coloration. [2011 HDC]
 	
 
 <br>
@@ -194,7 +206,7 @@ Partial Coverage:
 * Chainner
 * Blender
 * Autodesk Maya
-* Adobe Photoshop 2025 (using self-made scripts for proper UV edge padding on export due to a legacy photoshop bug with transparent textures.)
+* Adobe Photoshop 2026 (using self-made scripts for proper UV edge padding on export due to a legacy photoshop bug with transparent textures.)
 * Adobe Substance 3D Painter
 * Gimp
 * Nvidia Texture Export Tool (using self-made presets for production quality Kaiser mipmaps. More than happy to share with other modders at request to generate the highest quality mipmaps possible!)
@@ -206,6 +218,7 @@ Partial Coverage:
 * Jayveer's MGS3 Master Collection & PS2 Noesis plugins
 * 316austin316's CTXR3
 * Jayveer's CTXRTool (using self-made batch scripts for automated mipmap generation using Nvidia texture tool)
+* Self-made CLI CTXR conversion tooling for UI elements.
 * Visual Studio Code (bp_asset & manifest file management)
 * Notepad++ (bp_asset & manifest file management)
 
