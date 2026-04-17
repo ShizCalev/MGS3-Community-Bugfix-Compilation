@@ -1,0 +1,4720 @@
+0x291c,SINGLE ACTION ARMY,SINGLE ACTION ARMY
+0x292f,PATRIOT,PATRIOT
+0x2937,EZ GUN,EZ GUN
+0x293e,CAMERA,CAMERA
+0x2945,MONKEY MASK,MONKEY MASK
+0x2951,STEALTH,STEALTH
+0x2959,GREEN FACE PAINT,GREEN FACE PAINT
+0x296a,BROWN FACE PAINT,BROWN FACE PAINT
+0x297b,INFINITY FACE PAINT,INFINITY FACE PAINT
+0x298f,TUXEDO,TUXEDO
+0x2996,BANANA CAMO,BANANA CAMO
+0x29a2,DPM CAMO,DPM CAMO
+0x29ab,AUSCAM DESERT CAMO,AUSCAM DESERT CAMO
+0x29be,DESERT TIGER CAMO,DESERT TIGER CAMO
+0x29d0,FLECKTARN CAMO,FLECKTARN CAMO
+0x29df,NATIONAL FLAG FACE PAINTS,NATIONAL FLAG FACE PAINTS
+0x29f9,"You got a Single Action Army.|
+","You got a Single Action Army.|
+"
+0x2a19,"You got a Patriot.|
+","You got a Patriot.|
+"
+0x2a2e,"You got an EZ GUN.|
+","You got an EZ GUN.|
+"
+0x2a43,"You got a Camera.|
+","You got a Camera.|
+"
+0x2a57,"You got a Monkey Mask.|
+You can use it in MGS3.","You got a Monkey Mask.|
+You can use it in MGS3."
+0x2a87,"You got Stealth camo.|
+","You got Stealth camo.|
+"
+0x2a9f,"You got Green face paint.|
+You can use it in MGS3.","You got Green face paint.|
+You can use it in MGS3."
+0x2ad2,"You got Brown face paint.|
+","You got Brown face paint.|
+"
+0x2aee,"You got Infinity face paint.|
+","You got Infinity face paint.|
+"
+0x2b0d,"You got a Tuxedo.|
+","You got a Tuxedo.|
+"
+0x2b21,"You got Banana pattern camo.|
+You can use it in MGS3.","You got Banana pattern camo.|
+You can use it in MGS3."
+0x2b57,"You got DPM pattern camo.|
+You can use it in MGS3.","You got DPM pattern camo.|
+You can use it in MGS3."
+0x2b8a,"You got AUSCAM desert pattern|
+camo.","You got AUSCAM desert pattern|
+camo."
+0x2baf,"You got Desert Tiger pattern camo.|
+","You got Desert Tiger pattern camo.|
+"
+0x2bd4,"You got Flecktarn pattern camo.|
+","You got Flecktarn pattern camo.|
+"
+0x2bf6,"You got National Flags face|
+paints.","You got National Flags face|
+paints."
+0x2c1b,SINGLE ACTION ARMY,SINGLE ACTION ARMY
+0x2c2e,PATRIOT,PATRIOT
+0x2c36,EZ GUN,EZ GUN
+0x2c3d,FOTOCAMERA,FOTOCAMERA
+0x2c48,MASQUE DE SINGE,MASQUE DE SINGE
+0x2c58,CAMOUFLAGE OPTIQUE,CAMOUFLAGE OPTIQUE
+0x2c6b,VERT,VERT
+0x2c70,MARRON,MARRON
+0x2c77,INFINI,INFINI
+0x2c7e,SMOKING,SMOKING
+0x2c86,BANANE,BANANE
+0x2c8d,DPM,DPM
+0x2c91,DESERT AUSTRALIEN,DESERT AUSTRALIEN
+0x2ca3,TIGRE DU DESERT,TIGRE DU DESERT
+0x2cb3,FLECKTARN,FLECKTARN
+0x2cbd,PEINTURES DRAPEAUX VISAGE,PEINTURES DRAPEAUX VISAGE
+0x2cd7,"Vous avez obtenu un Single Action Army.|
+","Vous avez obtenu un Single Action Army.|
+"
+0x2d01,"Vous avez obtenu un Patriot.|
+","Vous avez obtenu un Patriot.|
+"
+0x2d20,"Vous avez obtenu un EZ GUN.|
+","Vous avez obtenu un EZ GUN.|
+"
+0x2d3e,"Vous avez obtenu un Appareil photo.|
+","Vous avez obtenu un Appareil photo.|
+"
+0x2d64,"Vous avez obtenu un Masque de singe.|
+Vous pouvez l'utiliser dans MGS3.","Vous avez obtenu un Masque de singe.|
+Vous pouvez l'utiliser dans MGS3."
+0x2dac,"Vous avez obtenu un Camouflage optique.|
+","Vous avez obtenu un Camouflage optique.|
+"
+0x2dd6,"Vous avez obtenu une peinture verte pour le|
+visage. Vous pouvez l'utiliser dans MGS3.","Vous avez obtenu une peinture verte pour le|
+visage. Vous pouvez l'utiliser dans MGS3."
+0x2e2d,"Vous avez obtenu une peinture marron|
+pour le visage.","Vous avez obtenu une peinture marron|
+pour le visage."
+0x2e63,"Vous avez obtenu une peinture|
+pour le visage Infinity.","Vous avez obtenu une peinture|
+pour le visage Infinity."
+0x2e9b,"Vous avez obtenu un Smoking.|
+","Vous avez obtenu un Smoking.|
+"
+0x2eba,"Vous avez obtenu un Camouflage au motif|
+Banane. Vous pouvez l'utiliser dans MGS3.","Vous avez obtenu un Camouflage au motif|
+Banane. Vous pouvez l'utiliser dans MGS3."
+0x2f0d,"Vous avez obtenu un Camouflage au motif|
+DPM. Vous pouvez l'utiliser dans MGS3.","Vous avez obtenu un Camouflage au motif|
+DPM. Vous pouvez l'utiliser dans MGS3."
+0x2f5d,"Vous avez obtenu un Camouflage au motif|
+Désert.","Vous avez obtenu un Camouflage au motif|
+Désert."
+0x2f8f,"Vous avez obtenu un Camouflage Tigre du|
+désert.","Vous avez obtenu un Camouflage Tigre du|
+désert."
+0x2fc1,"Vous avez obtenu un Camouflage au|
+motif Flecktarn.","Vous avez obtenu un Camouflage au|
+motif Flecktarn."
+0x2ff5,"Vous avez obtenu des peintures|
+de drapeaux nationaux pour le visage.","Vous avez obtenu des peintures|
+de drapeaux nationaux pour le visage."
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0x303b,"Sélectionner l'emplacement
+de sauvegarde.
+","Sélectionner l'emplacement
+de sauvegarde.
+"
+0x3067,"Sélectionner l'emplacement
+de chargement.
+","Sélectionner l'emplacement
+de chargement.
+"
+0x3093,"Aucune Memory Card (PS2)
+n'a été détectée.
+","Aucune Memory Card (PS2)
+n'a été détectée.
+"
+0x30c3,"Aucune Memory Card (PS2)
+n'a été détectée.
+Continuer avec la partie?
+","Aucune Memory Card (PS2)
+n'a été détectée.
+Continuer avec la partie?
+"
+0x310d,"Aucune Memory Card (PS2)
+n'a été détectée.
+Continuer sans sauvegarder?
+","Aucune Memory Card (PS2)
+n'a été détectée.
+Continuer sans sauvegarder?
+"
+0x3159,"Espace libre insuffisant sur la Memory
+Card (PS2). Un minimum de %dKB est
+nécessaire pour sauvegarder les données.
+","Espace libre insuffisant sur la Memory
+Card (PS2). Un minimum de %dKB est
+nécessaire pour sauvegarder les données.
+"
+0x31cf,"Créer de nouvelles données de
+sauvegarde sur la Memory Card (PS2)?
+Oui ou Non
+","Créer de nouvelles données de
+sauvegarde sur la Memory Card (PS2)?
+Oui ou Non
+"
+0x3220,"Etes-vous sûr(e) de vouloir écraser
+ces données de sauvegarde?
+Oui ou Non
+","Etes-vous sûr(e) de vouloir écraser
+ces données de sauvegarde?
+Oui ou Non
+"
+0x326e,"La Memory Card (PS2) n'est pas
+formatée. Formater la Memory Card
+(PS2) et sauvegarder?
+","La Memory Card (PS2) n'est pas
+formatée. Formater la Memory Card
+(PS2) et sauvegarder?
+"
+0x32c7,"Sauvegarde des données. Ne pas retirer la
+Memory Card (PS2) ou la manette, ni
+redémarrer ou éteindre la console.
+","Sauvegarde des données. Ne pas retirer la
+Memory Card (PS2) ou la manette, ni
+redémarrer ou éteindre la console.
+"
+0x333c,"Formatage en cours. Ne pas retirer la
+Memory Card (PS2) ou la manette, ni
+redémarrer ou éteindre la console.
+","Formatage en cours. Ne pas retirer la
+Memory Card (PS2) ou la manette, ni
+redémarrer ou éteindre la console.
+"
+0x33ac,"Sauvegarde réussie.
+","Sauvegarde réussie.
+"
+0x33c2,"Echec de la sauvegarde! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+","Echec de la sauvegarde! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+"
+0x3413,"Echec du formatage! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+","Echec du formatage! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+"
+0x3460,"Pas de données présentes sur
+la Memory Card (PS2).
+","Pas de données présentes sur
+la Memory Card (PS2).
+"
+0x3496,"Pas de données présentes sur la Memory
+Card (PS2). Continuer avec la partie?
+","Pas de données présentes sur la Memory
+Card (PS2). Continuer avec la partie?
+"
+0x34e6,"Pas de données présentes sur la Memory
+Card (PS2). Continuer sans sauvegarder?
+","Pas de données présentes sur la Memory
+Card (PS2). Continuer sans sauvegarder?
+"
+0x3538,"Oui ou Non
+","Oui ou Non
+"
+0x3544,"Chargement en cours.
+","Chargement en cours.
+"
+0x355a,"Chargement réussi
+","Chargement réussi
+"
+0x356e,"Echec du chargement! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+","Echec du chargement! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+"
+0x35bc,"Annuler le chargement?
+","Annuler le chargement?
+"
+0x35d4,"Annuler la sauvegarde?
+","Annuler la sauvegarde?
+"
+0x35ec,"Espace insuf. sur la Memory Card (PS2).
+Un minimum de %dKB est nécessaire pour
+sauvegarder les données. Continuer?
+","Espace insuf. sur la Memory Card (PS2).
+Un minimum de %dKB est nécessaire pour
+sauvegarder les données. Continuer?
+"
+0x3662,"Aucune Memory Card (PS2) détectée. Un
+minimum de %dKB est nécessaire pour
+sauvegarder les données. Continuer?
+","Aucune Memory Card (PS2) détectée. Un
+minimum de %dKB est nécessaire pour
+sauvegarder les données. Continuer?
+"
+0x36d5,"Echec de la vérification de la Memory
+Card (PS2)! Un minimum de %dKB est
+nécessaire pour sauvegarder. Continuer?
+","Echec de la vérification de la Memory
+Card (PS2)! Un minimum de %dKB est
+nécessaire pour sauvegarder. Continuer?
+"
+0x3749,"Veuillez insérer une autre
+Memory Card (PS2).
+","Veuillez insérer une autre
+Memory Card (PS2).
+"
+0x3779,"Oui
+","Oui
+"
+0x377e,"Non
+","Non
+"
+0x3783,"Avertissement
+","Avertissement
+"
+0x3792,"Continuer avec la partie?
+","Continuer avec la partie?
+"
+0x37ad,"Les données sur la Memory Card (PS2)
+sont corrompues.
+","Les données sur la Memory Card (PS2)
+sont corrompues.
+"
+0x37e5,"Vérification de la Memory Card (PS2).
+","Vérification de la Memory Card (PS2).
+"
+0x380d,"Veuillez insérer une Memory Card (PS2).
+","Veuillez insérer une Memory Card (PS2).
+"
+0x3837,"Aucune Memory Card (PS2) n'a été
+détectée. Insérez la Memory Card (PS2)
+utilisée pour charger les données.
+","Aucune Memory Card (PS2) n'a été
+détectée. Insérez la Memory Card (PS2)
+utilisée pour charger les données.
+"
+0x38aa,"Aucune donnée de chargement n'a été
+détectée. Insérez la Memory Card (PS2)
+utilisée pour charger les données.
+","Aucune donnée de chargement n'a été
+détectée. Insérez la Memory Card (PS2)
+utilisée pour charger les données.
+"
+0x3921,"Echec du chargement! Insérez la Memory
+Card (PS2) utilisée pour charger les
+données.
+","Echec du chargement! Insérez la Memory
+Card (PS2) utilisée pour charger les
+données.
+"
+0x397a,"Les données sauvegardées sont
+corrompues. Insérez la Memory Card
+(PS2) utilisée pour charger les données.
+","Les données sauvegardées sont
+corrompues. Insérez la Memory Card
+(PS2) utilisée pour charger les données.
+"
+0x39ea,"Retourner au menu principal?
+","Retourner au menu principal?
+"
+0x3a08,"La Memory Card (PS2) a été retirée lors
+de la sauvegarde. Ré-insérez la Memory
+Card (PS2). Annuler l'écrasement?
+","La Memory Card (PS2) a été retirée lors
+de la sauvegarde. Ré-insérez la Memory
+Card (PS2). Annuler l'écrasement?
+"
+0x3a80,"Les données sauvegardées chargées n'ont
+pas été trouvées. Ecraser sur la Memory
+Card (PS2) les données sauv. présentes?
+","Les données sauvegardées chargées n'ont
+pas été trouvées. Ecraser sur la Memory
+Card (PS2) les données sauv. présentes?
+"
+0x3b01,"Le transfert a réussi.
+","Le transfert a réussi.
+"
+0x3b1a,"Le transfert a échoué.
+","Le transfert a échoué.
+"
+0x3b34,"Vérification de la fente pour
+MEMORY CARD(carte mémoire) Nº1.
+","Vérification de la fente pour
+MEMORY CARD(carte mémoire) Nº1.
+"
+0x3b76,"Vérification de la fente pour
+MEMORY CARD(carte mémoire) Nº2.
+","Vérification de la fente pour
+MEMORY CARD(carte mémoire) Nº2.
+"
+0x3bb8,Sauvegarder ?,Sauvegarder ?
+0x3bc6,"Select save location.
+","Select save location.
+"
+0x3bdd,"Select load location.
+","Select load location.
+"
+0x3bf4,"No memory card (PS2) found.
+","No memory card (PS2) found.
+"
+0x3c11,"No memory card (PS2) found.
+Continue with the game?
+","No memory card (PS2) found.
+Continue with the game?
+"
+0x3c46,"No memory card (PS2) found.
+Continue without saving?
+","No memory card (PS2) found.
+Continue without saving?
+"
+0x3c7c,"Insufficient free space on memory card
+(PS2). At least %dKB of free space is
+required to save data.
+","Insufficient free space on memory card
+(PS2). At least %dKB of free space is
+required to save data.
+"
+0x3ce1,"Create new save data on
+memory card (PS2)?
+Yes or No
+","Create new save data on
+memory card (PS2)?
+Yes or No
+"
+0x3d17,"Are you sure you wish to overwrite this
+save data?
+Yes or No
+","Are you sure you wish to overwrite this
+save data?
+Yes or No
+"
+0x3d55,"Memory card (PS2) is not formatted.
+Format memory card (PS2) and save?
+","Memory card (PS2) is not formatted.
+Format memory card (PS2) and save?
+"
+0x3d9d,"Saving data.
+Do not remove memory card (PS2),
+controller, or reset/switch off the console.
+","Saving data.
+Do not remove memory card (PS2),
+controller, or reset/switch off the console.
+"
+0x3df9,"Formatting memory card (PS2).
+Do not remove memory card (PS2),
+controller, or reset/switch off the console.
+","Formatting memory card (PS2).
+Do not remove memory card (PS2),
+controller, or reset/switch off the console.
+"
+0x3e66,"Save Successful
+","Save Successful
+"
+0x3e77,"Save failed! Check memory card (PS2)
+and please try again.
+","Save failed! Check memory card (PS2)
+and please try again.
+"
+0x3eb3,"Format failed! Please check memory
+card (PS2) and try again.
+","Format failed! Please check memory
+card (PS2) and try again.
+"
+0x3ef1,"No data present on memory card (PS2).
+","No data present on memory card (PS2).
+"
+0x3f18,"No data present on memory card (PS2).
+Continue with the game?
+","No data present on memory card (PS2).
+Continue with the game?
+"
+0x3f57,"No data present on memory card (PS2).
+Continue without saving?
+","No data present on memory card (PS2).
+Continue without saving?
+"
+0x3f97,"Yes or No
+","Yes or No
+"
+0x3fa2,"Loading data.
+","Loading data.
+"
+0x3fb1,"Load Successful
+","Load Successful
+"
+0x3fc2,"Load failed! Check memory card (PS2)
+and please try again.
+","Load failed! Check memory card (PS2)
+and please try again.
+"
+0x3ffe,"Cancel load?
+","Cancel load?
+"
+0x400c,"Cancel save?
+","Cancel save?
+"
+0x401a,"Insufficient free space on memory card (PS2).
+At least %dKB of free space is required to
+save data. Contiune with the game?
+","Insufficient free space on memory card (PS2).
+At least %dKB of free space is required to
+save data. Contiune with the game?
+"
+0x4097,"No memory card (PS2) found. At least %dKB
+of free space is required to save data.
+Continue with the game?
+","No memory card (PS2) found. At least %dKB
+of free space is required to save data.
+Continue with the game?
+"
+0x4102,"Memory card (PS2) check failed! At least
+%dKB of free space is required to save data.
+Continue with the game?
+","Memory card (PS2) check failed! At least
+%dKB of free space is required to save data.
+Continue with the game?
+"
+0x4171,"Please insert a different
+memory card (PS2).
+","Please insert a different
+memory card (PS2).
+"
+0x419f,"Yes
+","Yes
+"
+0x41a4,"No
+","No
+"
+0x41a8,"Warning
+","Warning
+"
+0x41b1,"Continue with the game?
+","Continue with the game?
+"
+0x41ca,"Data on memory card (PS2) is broken.
+","Data on memory card (PS2) is broken.
+"
+0x41f0,"Checking memory card (PS2).
+","Checking memory card (PS2).
+"
+0x420d,"Please insert a memory card (PS2).
+","Please insert a memory card (PS2).
+"
+0x4231,"No memory card (PS2) found. Insert
+the memory card (PS2) that was used
+to load the saved data.
+","No memory card (PS2) found. Insert
+the memory card (PS2) that was used
+to load the saved data.
+"
+0x4291,"No loaded data found. Insert the
+memory card (PS2) that was used
+to load the saved data.
+","No loaded data found. Insert the
+memory card (PS2) that was used
+to load the saved data.
+"
+0x42eb,"Load failed! Insert the memory card
+(PS2) that was used to load the saved
+data.
+","Load failed! Insert the memory card
+(PS2) that was used to load the saved
+data.
+"
+0x433c,"Saved data is broken. Insert the
+memory card (PS2) that was used
+to load the saved data.
+","Saved data is broken. Insert the
+memory card (PS2) that was used
+to load the saved data.
+"
+0x4396,"Return to the main menu?
+","Return to the main menu?
+"
+0x43b0,"Memory card (PS2) was removed during
+saving. Re-insert the memory card (PS2).
+Cancel overwriting?
+","Memory card (PS2) was removed during
+saving. Re-insert the memory card (PS2).
+Cancel overwriting?
+"
+0x4413,"Saved data that was loaded is not found.
+Overwrite the present saved data on
+memory card (PS2)?
+","Saved data that was loaded is not found.
+Overwrite the present saved data on
+memory card (PS2)?
+"
+0x4474,"Transfer succeeded.
+","Transfer succeeded.
+"
+0x4489,"Transfer failed.
+","Transfer failed.
+"
+0x449b,"Checking MEMORY CARD slot1.
+","Checking MEMORY CARD slot1.
+"
+0x44b8,"Checking MEMORY CARD slot2.
+","Checking MEMORY CARD slot2.
+"
+0x44d5,Save?,Save?
+0x44db,"?
+","?
+"
+0x44de,"Dremuchij Sud
+","Dremuchij Sud
+"
+0x44ed,"Dremuchij Est
+","Dremuchij Est
+"
+0x44fc,"Marais de Dremuchij
+","Marais de Dremuchij
+"
+0x4511,"Dremuchij Nord
+","Dremuchij Nord
+"
+0x4521,"Dolinovodno
+","Dolinovodno
+"
+0x452e,"Rassvet
+","Rassvet
+"
+0x4537,"Rivages de Dolinovodno
+","Rivages de Dolinovodno
+"
+0x454f,"Chyornyj Prud
+","Chyornyj Prud
+"
+0x455e,"Bolshaya Past Sud
+","Bolshaya Past Sud
+"
+0x4571,"Base de Bolshaya Past
+","Base de Bolshaya Past
+"
+0x4588,"Crevasse de Bolshaya Past
+","Crevasse de Bolshaya Past
+"
+0x45a3,"Branche de la grotte
+de Chyornaya Peschera
+","Branche de la grotte
+de Chyornaya Peschera
+"
+0x45cf,"Grotte de Chyornaya Peschera
+","Grotte de Chyornaya Peschera
+"
+0x45ed,"Entrée de la grotte
+de Chyornaya Peschera
+","Entrée de la grotte
+de Chyornaya Peschera
+"
+0x4619,"Ponizovje Sud
+","Ponizovje Sud
+"
+0x4628,"Ponizovje Ouest
+","Ponizovje Ouest
+"
+0x4639,"Entrepôt de Ponizovje: Extérieur
+","Entrepôt de Ponizovje: Extérieur
+"
+0x465d,"Entrepôt de Ponizovje
+","Entrepôt de Ponizovje
+"
+0x4675,"Graniny Gorki Sud
+","Graniny Gorki Sud
+"
+0x4688,"Extérieur du labo de Graniny Gorki:
+A l'extérieur des murs
+","Extérieur du labo de Graniny Gorki:
+A l'extérieur des murs
+"
+0x46c6,"Extérieur du labo de Graniny Gorki:
+A l'intérieur des murs
+","Extérieur du labo de Graniny Gorki:
+A l'intérieur des murs
+"
+0x4704,"Labo de Graniny Gorki +1/+2:
+","Labo de Graniny Gorki +1/+2:
+"
+0x4722,"Labo de Graniny Gorki -1 Est
+","Labo de Graniny Gorki -1 Est
+"
+0x4740,"Labo de Graniny Gorki -1 Ouest
+","Labo de Graniny Gorki -1 Ouest
+"
+0x4760,"Svyatogornyj Sud
+","Svyatogornyj Sud
+"
+0x4772,"Svyatogornyj Ouest
+","Svyatogornyj Ouest
+"
+0x4786,"Svyatogornyj Est
+","Svyatogornyj Est
+"
+0x4798,"Sokrovenno Sud
+","Sokrovenno Sud
+"
+0x47a8,"cSokrovenno Ouest
+","cSokrovenno Ouest
+"
+0x47bb,"Sokrovenno Nord
+","Sokrovenno Nord
+"
+0x47cc,"Tunnel de Krasnogorje
+","Tunnel de Krasnogorje
+"
+0x47e3,"Refuge de montagne de Krasnogorje
+","Refuge de montagne de Krasnogorje
+"
+0x4806,"Montagne de Krasnogorje: Côté
+","Montagne de Krasnogorje: Côté
+"
+0x4827,"Sommet de la montagne de Krasnogorje
+","Sommet de la montagne de Krasnogorje
+"
+0x484d,"Ruines au sommet de la montagne
+de Krasnogorje
+","Ruines au sommet de la montagne
+de Krasnogorje
+"
+0x487d,"Ruines au sommet de la montagne
+de Krasnogorje: Arrière
+","Ruines au sommet de la montagne
+de Krasnogorje: Arrière
+"
+0x48b7,"Tunnel souterrain de Groznyj Grad
+","Tunnel souterrain de Groznyj Grad
+"
+0x48da,"Groznyj Grad Sud-Ouest
+","Groznyj Grad Sud-Ouest
+"
+0x48f2,"Groznyj Grad Nord-Ouest
+","Groznyj Grad Nord-Ouest
+"
+0x490b,"Groznyj Grad Nord-Est
+","Groznyj Grad Nord-Est
+"
+0x4922,"Groznyj Grad Sud-Est
+","Groznyj Grad Sud-Est
+"
+0x4938,"Laboratoire d'armes de Groznyj Grad:
+Aile Est
+","Laboratoire d'armes de Groznyj Grad:
+Aile Est
+"
+0x4967,"Laboratoire d'armes de Groznyj Grad:
+Couloir de l'Aile Ouest
+","Laboratoire d'armes de Groznyj Grad:
+Couloir de l'Aile Ouest
+"
+0x49a5,"Salle de torture de Groznyj Grad
+","Salle de torture de Groznyj Grad
+"
+0x49c7,"Egouts de Groznyj Grad
+","Egouts de Groznyj Grad
+"
+0x49df,"Laboratoire d'armes de Groznyj Grad:
+Aile principale
+","Laboratoire d'armes de Groznyj Grad:
+Aile principale
+"
+0x4a15,"Laboratoire d'armes de Groznyj Grad:
+Aile principale -1
+","Laboratoire d'armes de Groznyj Grad:
+Aile principale -1
+"
+0x4a4e,"?
+","?
+"
+0x4a51,"Tikhogornyj
+","Tikhogornyj
+"
+0x4a5e,"Tikhogornyj: Derrière la cascade
+","Tikhogornyj: Derrière la cascade
+"
+0x4a81,"Groznyj Grad
+","Groznyj Grad
+"
+0x4a8f,"Piste de décollage sud de Groznyj Grad
+","Piste de décollage sud de Groznyj Grad
+"
+0x4ab8,"Piste de décollage de Groznyj Grad
+","Piste de décollage de Groznyj Grad
+"
+0x4add,"Pont ferroviaire de Groznyj Grad
+","Pont ferroviaire de Groznyj Grad
+"
+0x4aff,"Pont ferroviaire de Groznyj Grad Nord
+","Pont ferroviaire de Groznyj Grad Nord
+"
+0x4b26,"Lazorevo Sud
+","Lazorevo Sud
+"
+0x4b34,"Lazorevo Nord
+","Lazorevo Nord
+"
+0x4b43,"Zaozyorje Ouest
+","Zaozyorje Ouest
+"
+0x4b54,"Zaozyorje Est
+","Zaozyorje Est
+"
+0x4b63,"Rokovoj Bereg
+","Rokovoj Bereg
+"
+0x4b72,"WIG: Intérieur
+","WIG: Intérieur
+"
+0x4b83,"Mission vertueuse accomplie.
+","Mission vertueuse accomplie.
+"
+0x4ba1,"Rassvet
+","Rassvet
+"
+0x4baa,"Laboratoire d'armes de Groznyj Grad:
+Aile Ouest
+","Laboratoire d'armes de Groznyj Grad:
+Aile Ouest
+"
+0x4bdb,"Laboratoire d'armes de Groznyj Grad:
+Aile principale
+","Laboratoire d'armes de Groznyj Grad:
+Aile principale
+"
+0x4c11,"De l'autre côté de la frontière soviétique.
+","De l'autre côté de la frontière soviétique.
+"
+0x4c42,"Opération Snake Eater accomplie.
+","Opération Snake Eater accomplie.
+"
+0x4c65,"?
+","?
+"
+0x4c68,"Dremuchij South
+","Dremuchij South
+"
+0x4c79,"Dremuchij East
+","Dremuchij East
+"
+0x4c89,"Dremuchij Swampland
+","Dremuchij Swampland
+"
+0x4c9e,"Dremuchij North
+","Dremuchij North
+"
+0x4caf,"Dolinovodno
+","Dolinovodno
+"
+0x4cbc,"Rassvet
+","Rassvet
+"
+0x4cc5,"Dolinovodno Riverbank
+","Dolinovodno Riverbank
+"
+0x4cdc,"Chyornyj Prud
+","Chyornyj Prud
+"
+0x4ceb,"Bolshaya Past South
+","Bolshaya Past South
+"
+0x4d00,"Bolshaya Past Base
+","Bolshaya Past Base
+"
+0x4d14,"Bolshaya Past Crevice
+","Bolshaya Past Crevice
+"
+0x4d2b,"Chyornaya Peschera Cave Branch
+","Chyornaya Peschera Cave Branch
+"
+0x4d4b,"Chyornaya Peschera Cave
+","Chyornaya Peschera Cave
+"
+0x4d64,"Chyornaya Peschera Cave Entrance
+","Chyornaya Peschera Cave Entrance
+"
+0x4d86,"Ponizovje South
+","Ponizovje South
+"
+0x4d97,"Ponizovje West
+","Ponizovje West
+"
+0x4da7,"Ponizovje Warehouse: Exterior
+","Ponizovje Warehouse: Exterior
+"
+0x4dc6,"Ponizovje Warehouse
+","Ponizovje Warehouse
+"
+0x4ddb,"Graniny Gorki South
+","Graniny Gorki South
+"
+0x4df0,"Graniny Gorki Lab Exterior:
+Outside Walls
+","Graniny Gorki Lab Exterior:
+Outside Walls
+"
+0x4e1b,"Graniny Gorki Lab Exterior:
+Inside Walls
+","Graniny Gorki Lab Exterior:
+Inside Walls
+"
+0x4e45,"Graniny Gorki Lab 1F/2F
+","Graniny Gorki Lab 1F/2F
+"
+0x4e5e,"Graniny Gorki Lab B1 East
+","Graniny Gorki Lab B1 East
+"
+0x4e79,"Graniny Gorki Lab B1 West
+","Graniny Gorki Lab B1 West
+"
+0x4e94,"Svyatogornyj South
+","Svyatogornyj South
+"
+0x4ea8,"Svyatogornyj West
+","Svyatogornyj West
+"
+0x4ebb,"Svyatogornyj East
+","Svyatogornyj East
+"
+0x4ece,"Sokrovenno South
+","Sokrovenno South
+"
+0x4ee0,"Sokrovenno West
+","Sokrovenno West
+"
+0x4ef1,"Sokrovenno North
+","Sokrovenno North
+"
+0x4f03,"Krasnogorje Tunnel
+","Krasnogorje Tunnel
+"
+0x4f17,"Krasnogorje Mountain Base
+","Krasnogorje Mountain Base
+"
+0x4f32,"Krasnogorje Mountain: Side
+","Krasnogorje Mountain: Side
+"
+0x4f4e,"Krasnogorje Mountaintop
+","Krasnogorje Mountaintop
+"
+0x4f67,"Krasnogorje Mountaintop Ruins
+","Krasnogorje Mountaintop Ruins
+"
+0x4f86,"Krasnogorje Mountaintop Ruins: Back
+","Krasnogorje Mountaintop Ruins: Back
+"
+0x4fab,"Groznyj Grad Underground Tunnel
+","Groznyj Grad Underground Tunnel
+"
+0x4fcc,"Groznyj Grad Southwest
+","Groznyj Grad Southwest
+"
+0x4fe4,"Groznyj Grad Northwest
+","Groznyj Grad Northwest
+"
+0x4ffc,"Groznyj Grad Northeast
+","Groznyj Grad Northeast
+"
+0x5014,"Groznyj Grad Southeast
+","Groznyj Grad Southeast
+"
+0x502c,"Groznyj Grad Weapons Lab:
+East Wing
+","Groznyj Grad Weapons Lab:
+East Wing
+"
+0x5051,"Groznyj Grad Weapons Lab:
+West Wing Corridor
+","Groznyj Grad Weapons Lab:
+West Wing Corridor
+"
+0x507f,"Groznyj Grad Torture Room
+","Groznyj Grad Torture Room
+"
+0x509a,"Groznyj Grad Sewers
+","Groznyj Grad Sewers
+"
+0x50af,"Groznyj Grad Weapons Lab:
+Main Wing
+","Groznyj Grad Weapons Lab:
+Main Wing
+"
+0x50d4,"Groznyj Grad Weapons Lab:
+Main Wing B1
+","Groznyj Grad Weapons Lab:
+Main Wing B1
+"
+0x50fc,"?
+","?
+"
+0x50ff,"Tikhogornyj
+","Tikhogornyj
+"
+0x510c,"Tikhogornyj: Behind Waterfall
+","Tikhogornyj: Behind Waterfall
+"
+0x512b,"Groznyj Grad
+","Groznyj Grad
+"
+0x5139,"Groznyj Grad Runway South
+","Groznyj Grad Runway South
+"
+0x5154,"Groznyj Grad Runway
+","Groznyj Grad Runway
+"
+0x5169,"Groznyj Grad Rail Bridge
+","Groznyj Grad Rail Bridge
+"
+0x5183,"Groznyj Grad Rail Bridge North
+","Groznyj Grad Rail Bridge North
+"
+0x51a3,"Lazorevo South
+","Lazorevo South
+"
+0x51b3,"Lazorevo North
+","Lazorevo North
+"
+0x51c3,"Zaozyorje West
+","Zaozyorje West
+"
+0x51d3,"Zaozyorje East
+","Zaozyorje East
+"
+0x51e3,"Rokovoj Bereg
+","Rokovoj Bereg
+"
+0x51f2,"WIG: Interior
+","WIG: Interior
+"
+0x5201,"Virtuous Mission completed.
+","Virtuous Mission completed.
+"
+0x521e,"Rassvet
+","Rassvet
+"
+0x5227,"Groznyj Grad Weapons Lab:
+West Wing
+","Groznyj Grad Weapons Lab:
+West Wing
+"
+0x524c,"Groznyj Grad Weapons Lab:
+Main Wing
+","Groznyj Grad Weapons Lab:
+Main Wing
+"
+0x5271,"Over the Soviet border.
+","Over the Soviet border.
+"
+0x528a,"Operation Snake Eater completed.
+","Operation Snake Eater completed.
+"
+0x52ac,"1ère fois que je joue à un jeu de la série MGS!
+","1ère fois que je joue à un jeu de la série MGS!
+"
+0x52e0,"J'aime MGS1!
+","J'aime MGS1!
+"
+0x52ee,"J'aime MGS2!
+","J'aime MGS2!
+"
+0x52fc,"J'aime MGS3!
+","J'aime MGS3!
+"
+0x530a,"NOUVELLE PARTIE
+","NOUVELLE PARTIE
+"
+0x531b,"CHARGER PARTIE
+","CHARGER PARTIE
+"
+0x532b,"FICHIERS BRIEFING
+","FICHIERS BRIEFING
+"
+0x533e,"SERPENT CONTRE LES SINGES
+","SERPENT CONTRE LES SINGES
+"
+0x5359,"MODE OPTIONS
+","MODE OPTIONS
+"
+0x5367,"MODE SPECIAL
+","MODE SPECIAL
+"
+0x5375,"Pour les débutants.
+","Pour les débutants.
+"
+0x538b,"Si l'action n'est pas votre fort.
+","Si l'action n'est pas votre fort.
+"
+0x53ae,"Niveau de difficulté standard.
+","Niveau de difficulté standard.
+"
+0x53cf,"Pour les joueurs sûrs d'eux.
+","Pour les joueurs sûrs d'eux.
+"
+0x53ee,"Pour les experts en jeux d'action.
+","Pour les experts en jeux d'action.
+"
+0x5412,"MISSION VERTUEUSE
+","MISSION VERTUEUSE
+"
+0x5425,"OPERATION SNAKE EATER
+","OPERATION SNAKE EATER
+"
+0x543c,"Retourner dans l'écran précédent.
+","Retourner dans l'écran précédent.
+"
+0x5462,"DUEL
+","DUEL
+"
+0x5468,"DEMO
+","DEMO
+"
+0x546e,"Le jeu s'arrête dès que l'ennemi vous repère.
+","Le jeu s'arrête dès que l'ennemi vous repère.
+"
+0x54a0,"I'm playing the MGS series for the first time!
+","I'm playing the MGS series for the first time!
+"
+0x54d0,"I like MGS1!
+","I like MGS1!
+"
+0x54de,"I like MGS2!
+","I like MGS2!
+"
+0x54ec,"I like MGS3!
+","I like MGS3!
+"
+0x54fa,"NEW GAME
+","NEW GAME
+"
+0x5504,"LOAD GAME
+","LOAD GAME
+"
+0x550f,"BRIEFING FILES
+","BRIEFING FILES
+"
+0x551f,"SNAKE vs MONKEY
+","SNAKE vs MONKEY
+"
+0x5530,"OPTIONS MODE
+","OPTIONS MODE
+"
+0x553e,"SPECIAL MODE
+","SPECIAL MODE
+"
+0x554c,"For beginners.
+","For beginners.
+"
+0x555c,"For non action-experts.
+","For non action-experts.
+"
+0x5575,"Standard difficulty level.
+","Standard difficulty level.
+"
+0x5591,"For confident players.
+","For confident players.
+"
+0x55a9,"For action game experts.
+","For action game experts.
+"
+0x55c3,"VIRTUOUS MISSION
+","VIRTUOUS MISSION
+"
+0x55d5,"OPERATION SNAKE EATER
+","OPERATION SNAKE EATER
+"
+0x55ec,"Return to previous screen.
+","Return to previous screen.
+"
+0x5608,"DUEL
+","DUEL
+"
+0x560e,"DEMO THEATER
+","DEMO THEATER
+"
+0x561c,"Game ends when being seen by enemy.
+","Game ends when being seen by enemy.
+"
+0x5641,"Mettre la vibration sur Marche/Arrêt.
+","Mettre la vibration sur Marche/Arrêt.
+"
+0x5669,"Mettre l'affichage du sang sur Marche/Arrêt.
+","Mettre l'affichage du sang sur Marche/Arrêt.
+"
+0x5698,"Son Dolby Pro Logic II Marche/Arrêt.
+","Son Dolby Pro Logic II Marche/Arrêt.
+"
+0x56bf,"Mettre les sous-titres sur Marche/Arrêt.
+","Mettre les sous-titres sur Marche/Arrêt.
+"
+0x56ea,"Choisir l'Observation à la première personne.
+","Choisir l'Observation à la première personne.
+"
+0x571b,"Selectionner la langue.
+","Selectionner la langue.
+"
+0x5734,"Régler la position de l'écran.
+","Régler la position de l'écran.
+"
+0x5756,"Régler la luminosité de l'écran
+","Régler la luminosité de l'écran
+"
+0x577a,"Retourner dans l'écran précédent.
+","Retourner dans l'écran précédent.
+"
+0x57a0,"Pour obtenir la luminosité optimale pour ce jeu,
+réglez la lum. du moniteur de façon à rendre
+invisible l'échelle de gris sous la ligne orange.
+","Pour obtenir la luminosité optimale pour ce jeu,
+réglez la lum. du moniteur de façon à rendre
+invisible l'échelle de gris sous la ligne orange.
+"
+0x5836,"Sélectionner le mode de caméra
+","Sélectionner le mode de caméra
+"
+0x5858,"Contrôles haut/bas pour la caméra 3D.
+","Contrôles haut/bas pour la caméra 3D.
+"
+0x5881,"Contrôles gauche/droite pour la caméra 3D.
+","Contrôles gauche/droite pour la caméra 3D.
+"
+0x58af,"Turn the vibration ON / OFF.
+","Turn the vibration ON / OFF.
+"
+0x58cd,"Turn blood display ON / OFF.
+","Turn blood display ON / OFF.
+"
+0x58eb,"Turn the Dolby Pro Logic II ON / OFF.
+","Turn the Dolby Pro Logic II ON / OFF.
+"
+0x5912,"Turn the captions ON / OFF.
+","Turn the captions ON / OFF.
+"
+0x592f,"Select First Person View control type.
+","Select First Person View control type.
+"
+0x5957,"Select language.
+","Select language.
+"
+0x5969,"Adjust screen position.
+","Adjust screen position.
+"
+0x5982,"Adjust screen brightness.
+","Adjust screen brightness.
+"
+0x599d,"Return to previous screen.
+","Return to previous screen.
+"
+0x59b9,"Adjust the monitor brightness so that the gray
+scale under the orange line is no longer seen
+to obtain optimal brightness for this game.
+","Adjust the monitor brightness so that the gray
+scale under the orange line is no longer seen
+to obtain optimal brightness for this game.
+"
+0x5a43,"Select Camera Mode.
+","Select Camera Mode.
+"
+0x5a58,"Set up/down controls for 3D Camera Mode.
+","Set up/down controls for 3D Camera Mode.
+"
+0x5a82,"Set left/right controls for 3D Camera Mode.
+","Set left/right controls for 3D Camera Mode.
+"
+0x5aaf,"ACTIONS DE BASE
+","ACTIONS DE BASE
+"
+0x5ac0,"ALBUM PHOTO
+","ALBUM PHOTO
+"
+0x5acd,"BONUS
+","BONUS
+"
+0x5ad4,"TELECHARGEMENT CAMOUFLAGE
+","TELECHARGEMENT CAMOUFLAGE
+"
+0x5aef,"LIEN METAL GEAR ACID
+","LIEN METAL GEAR ACID
+"
+0x5b05,"RETOURNER DANS L'ECRAN PRECEDENT.
+","RETOURNER DANS L'ECRAN PRECEDENT.
+"
+0x5b28,"BASIC ACTIONS
+","BASIC ACTIONS
+"
+0x5b37,"PHOTO ALBUM
+","PHOTO ALBUM
+"
+0x5b44,"BONUS
+","BONUS
+"
+0x5b4b,"CAMOUFLAGE DOWNLOAD
+","CAMOUFLAGE DOWNLOAD
+"
+0x5b60,"METAL GEAR ACID LINK
+","METAL GEAR ACID LINK
+"
+0x5b76,"RETURN TO PREVIOUS SCREEN
+","RETURN TO PREVIOUS SCREEN
+"
+0x5b91,"Marcher/Courir
+","Marcher/Courir
+"
+0x5ba1,"Déplacez le joystick analogique gauche
+dans la direction où vous désirez vous
+déplacer.
+","Déplacez le joystick analogique gauche
+dans la direction où vous désirez vous
+déplacer.
+"
+0x5bfe,"Il y a deux vitesses de mouvement, en
+fonction de la pression sur le joystick
+analogique gauche.
+","Il y a deux vitesses de mouvement, en
+fonction de la pression sur le joystick
+analogique gauche.
+"
+0x5c60,"Appuyez légèrement pour marcher ou
+plus fort pour courir.
+","Appuyez légèrement pour marcher ou
+plus fort pour courir.
+"
+0x5c9d,"Utilisez la touche directionnelle pour
+vous déplacer lentement et sans faire de
+bruit, en mode Traque.
+","Utilisez la touche directionnelle pour
+vous déplacer lentement et sans faire de
+bruit, en mode Traque.
+"
+0x5d06,"END
+","END
+"
+0x5d0b,"Ramper
+","Ramper
+"
+0x5d13,"Pour ramper, appuyez sur le joystick
+analogique gauche après vous être accroupi
+ou allongé au sol. Il y a deux types de
+mouvements: normal (en faisant du bruit)
+","Pour ramper, appuyez sur le joystick
+analogique gauche après vous être accroupi
+ou allongé au sol. Il y a deux types de
+mouvements: normal (en faisant du bruit)
+"
+0x5db8,"et traquer (sans faire de bruit), en fonction
+de la pression sur le joystick analogique
+gauche.
+","et traquer (sans faire de bruit), en fonction
+de la pression sur le joystick analogique
+gauche.
+"
+0x5e19,"END
+","END
+"
+0x5e1e,"Accroupi/Debout
+","Accroupi/Debout
+"
+0x5e2f,"Appuyez sur la touche  pour changer entre
+les positions debout, accroupi et couché.
+","Appuyez sur la touche  pour changer entre
+les positions debout, accroupi et couché.
+"
+0x5e88,"Appuyez deux fois rapidement sur la touche
+ ou maintenez-la enfoncée pour passer de
+debout à couché ou de couché à debout.
+","Appuyez deux fois rapidement sur la touche
+ ou maintenez-la enfoncée pour passer de
+debout à couché ou de couché à debout.
+"
+0x5f0c,"END
+","END
+"
+0x5f11,"Obs à la 1ère personne
+","Obs à la 1ère personne
+"
+0x5f2b,"Maintenez la touche  enfoncée pour
+passer en Observation à la première
+personne. Le joystick analogique gauche
+contrôle alors la direction en face de vous.
+","Maintenez la touche  enfoncée pour
+passer en Observation à la première
+personne. Le joystick analogique gauche
+contrôle alors la direction en face de vous.
+"
+0x5fcf,"Il est également possible d'attaquer en
+Observation à la première personne à l'aide
+de la touche .
+","Il est également possible d'attaquer en
+Observation à la première personne à l'aide
+de la touche .
+"
+0x603a,"END
+","END
+"
+0x603f,"Actions sur les arbres
+","Actions sur les arbres
+"
+0x6057,"En face d'un arbre entouré de lianes,
+appuyez sur la touche  pour monter à cet
+arbre.
+","En face d'un arbre entouré de lianes,
+appuyez sur la touche  pour monter à cet
+arbre.
+"
+0x60b3,"Il est également possible de se pendre aux
+branches les plus proches en s'approchant
+de l'une d'elles et en appuyant sur la touche
+.
+","Il est également possible de se pendre aux
+branches les plus proches en s'approchant
+de l'une d'elles et en appuyant sur la touche
+.
+"
+0x613d,"END
+","END
+"
+0x6142,"Viser
+","Viser
+"
+0x6149,"Avec certaines armes, appuyez sur la touche
+ en Observation à la première personne
+pour viser de façon plus précise.
+","Avec certaines armes, appuyez sur la touche
+ en Observation à la première personne
+pour viser de façon plus précise.
+"
+0x61c6,"Vous pouvez également verrouiller la
+direction en face de vous en appuyant sur
+la touche  en Observation à la verticale.
+","Vous pouvez également verrouiller la
+direction en face de vous en appuyant sur
+la touche  en Observation à la verticale.
+"
+0x6245,"END
+","END
+"
+0x624a,"Nager
+","Nager
+"
+0x6251,"En nageant à la surface de l'eau, appuyez
+sur la touche  pour plonger sous l'eau.
+Vous pourrez rester sous l'eau tant que votre
+Jauge d'oxygène n'a pas atteint zéro.
+","En nageant à la surface de l'eau, appuyez
+sur la touche  pour plonger sous l'eau.
+Vous pourrez rester sous l'eau tant que votre
+Jauge d'oxygène n'a pas atteint zéro.
+"
+0x62fe,"Déplacez le joystick analogique gauche dans
+la direction où vous désirez vous déplacer et
+appuyez plusieurs fois sur la touche  pour
+nager dans cette direction.
+","Déplacez le joystick analogique gauche dans
+la direction où vous désirez vous déplacer et
+appuyez plusieurs fois sur la touche  pour
+nager dans cette direction.
+"
+0x63a7,"Relâchez la touche  pour vous arrêter.
+","Relâchez la touche  pour vous arrêter.
+"
+0x63d4,"Appuyez vers le haut sur le joystick
+analogique gauche pour nager en direction
+de la surface et vers le bas pour plonger
+plus profondément.
+","Appuyez vers le haut sur le joystick
+analogique gauche pour nager en direction
+de la surface et vers le bas pour plonger
+plus profondément.
+"
+0x6462,"La jauge d'endurance affecte la durée de
+la jauge d'oxygène. Appuyez rapidement sur
+la touche  pour remonter à la surface.
+","La jauge d'endurance affecte la durée de
+la jauge d'oxygène. Appuyez rapidement sur
+la touche  pour remonter à la surface.
+"
+0x64e4,"END
+","END
+"
+0x64e9,"Roulade
+","Roulade
+"
+0x64f2,"Appuyez sur la touche  en courant pour
+faire une roulade dans la direction du
+mouvement.
+","Appuyez sur la touche  en courant pour
+faire une roulade dans la direction du
+mouvement.
+"
+0x654f,"En faisant une roulade, il est possible de
+vous débarrasser de petits obstacles.
+","En faisant une roulade, il est possible de
+vous débarrasser de petits obstacles.
+"
+0x65a2,"END
+","END
+"
+0x65a7,"Point de vue d'intrusion
+","Point de vue d'intrusion
+"
+0x65c1,"Vous passerez et vous vous déplacerez
+automatiquement en point de vue d'intrusion
+quand vous ramperez sous les bureaux,
+","Vous passerez et vous vous déplacerez
+automatiquement en point de vue d'intrusion
+quand vous ramperez sous les bureaux,
+"
+0x663b,"dans les conduits d'aération ou dans tout
+espace restreint.
+","dans les conduits d'aération ou dans tout
+espace restreint.
+"
+0x6679,"Si vous rampez à travers les herbes hautes,
+vous passerez et vous vous déplacerez
+automatiquement en point de vue d'intrusion.
+","Si vous rampez à travers les herbes hautes,
+vous passerez et vous vous déplacerez
+automatiquement en point de vue d'intrusion.
+"
+0x66fb,"END
+","END
+"
+0x6700,"Grimper Objet/Echelles
+","Grimper Objet/Echelles
+"
+0x6718,"Appuyez sur la touche  en face d'un objet
+d'une certaine hauteur pour y grimper.
+","Appuyez sur la touche  en face d'un objet
+d'une certaine hauteur pour y grimper.
+"
+0x676d,"Appuyez également sur la touche  en
+face d'une échelle pour y grimper ou en
+descendre.
+","Appuyez également sur la touche  en
+face d'une échelle pour y grimper ou en
+descendre.
+"
+0x67ca,"END
+","END
+"
+0x67cf,"Suspension
+","Suspension
+"
+0x67db,"Vous pouvez vous suspendre aux falaises,
+aux branches et à d'autres endroits élevés.
+","Vous pouvez vous suspendre aux falaises,
+aux branches et à d'autres endroits élevés.
+"
+0x6834,"S'il y a une rambarde, mettez-vous face au
+rebord et appuyez sur la touche  pour
+sauter et vous y suspendre.
+","S'il y a une rambarde, mettez-vous face au
+rebord et appuyez sur la touche  pour
+sauter et vous y suspendre.
+"
+0x68a5,"S'il n'y a pas de rambarde et qu'en
+avançant, vous risqueriez de tomber et de
+vous faire mal, alors vous vous suspendrez
+automatiquement au rebord.
+","S'il n'y a pas de rambarde et qu'en
+avançant, vous risqueriez de tomber et de
+vous faire mal, alors vous vous suspendrez
+automatiquement au rebord.
+"
+0x693b,"Si la chute n'est pas importante, vous ne
+vous suspendrez que si vous vous approchez
+du rebord en marchant ou en mode Traque.
+","Si la chute n'est pas importante, vous ne
+vous suspendrez que si vous vous approchez
+du rebord en marchant ou en mode Traque.
+"
+0x69ba,"Utilisez le joystick analogique gauche pour
+vous déplacer, en suspension, le long du
+rebord.
+","Utilisez le joystick analogique gauche pour
+vous déplacer, en suspension, le long du
+rebord.
+"
+0x6a19,"Appuyez simultanément sur les touches 
+et  pour faire une traction et jeter un coup
+d'œil au-dessus du rebord.
+","Appuyez simultanément sur les touches 
+et  pour faire une traction et jeter un coup
+d'œil au-dessus du rebord.
+"
+0x6a91,"La Jauge de prise diminue constamment
+tant que vous êtes en suspension et si elle
+arrive à zéro, vous lâcherez prise.
+","La Jauge de prise diminue constamment
+tant que vous êtes en suspension et si elle
+arrive à zéro, vous lâcherez prise.
+"
+0x6b0c,"En suspension, appuyez sur la touche 
+pour lâcher prise et vous laisser tomber.
+","En suspension, appuyez sur la touche 
+pour lâcher prise et vous laisser tomber.
+"
+0x6b61,"END
+","END
+"
+0x6b66,"Changement rapide
+","Changement rapide
+"
+0x6b79,"Appuyez rapidement sur les touches  ou
+ pour vous déséquiper et ré-équiper d'une
+arme ou d'un objet.
+","Appuyez rapidement sur les touches  ou
+ pour vous déséquiper et ré-équiper d'une
+arme ou d'un objet.
+"
+0x6be9,"Une arme est automatiquement rechargée
+en la déséquipant, alors utilisez cette
+technique pour recharger dans le feu de
+l'action.
+","Une arme est automatiquement rechargée
+en la déséquipant, alors utilisez cette
+technique pour recharger dans le feu de
+l'action.
+"
+0x6c6e,"END
+","END
+"
+0x6c73,"Coup CQC (KO)
+","Coup CQC (KO)
+"
+0x6c82,"Inclinez le joystick analogique gauche et
+maintenez la touche  enfoncée près
+d'un soldat ennemi tout en vous équipant
+d'une arme prête pour le CQC pour faire
+","Inclinez le joystick analogique gauche et
+maintenez la touche  enfoncée près
+d'un soldat ennemi tout en vous équipant
+d'une arme prête pour le CQC pour faire
+"
+0x6d28,"tomber votre ennemi. L'ennemi sera mis
+KO une fois tombé au sol.
+","tomber votre ennemi. L'ennemi sera mis
+KO une fois tombé au sol.
+"
+0x6d6b,"END
+","END
+"
+0x6d70,"CQC (Etrangler)
+","CQC (Etrangler)
+"
+0x6d81,"Près d'un soldat ennemi, maintenez la
+touche  enfoncée tout en vous équipant
+d'une arme prête pour le CQC pour
+étrangler votre ennemi.
+","Près d'un soldat ennemi, maintenez la
+touche  enfoncée tout en vous équipant
+d'une arme prête pour le CQC pour
+étrangler votre ennemi.
+"
+0x6e11,"En étranglant votre adversaire, plusieurs
+options s'offrent à vous.
+","En étranglant votre adversaire, plusieurs
+options s'offrent à vous.
+"
+0x6e58,"END
+","END
+"
+0x6e5d,"CQC (Menacer)
+","CQC (Menacer)
+"
+0x6e6c,"Maintenez la touche  enfoncée tout
+en étranglant un soldat ennemi pour
+le menacer avec un couteau et obtenir
+des informations.
+","Maintenez la touche  enfoncée tout
+en étranglant un soldat ennemi pour
+le menacer avec un couteau et obtenir
+des informations.
+"
+0x6ef1,"END
+","END
+"
+0x6ef6,"CQC (Egorger)
+","CQC (Egorger)
+"
+0x6f05,"En étranglant votre ennemi, maintenez
+la touche  fermement enfoncée pour
+l'égorger.
+","En étranglant votre ennemi, maintenez
+la touche  fermement enfoncée pour
+l'égorger.
+"
+0x6f60,"END
+","END
+"
+0x6f65,"CQC (Bouclier humain)
+","CQC (Bouclier humain)
+"
+0x6f7c,"Appuyez rapidement sur la touche  en
+étranglant votre ennemi pour l'utiliser comme
+bouclier humain et avoir la main libre pour
+tirer.
+","Appuyez rapidement sur la touche  en
+étranglant votre ennemi pour l'utiliser comme
+bouclier humain et avoir la main libre pour
+tirer.
+"
+0x7007,"END
+","END
+"
+0x700c,"CQC (Repousser/Braquer)
+","CQC (Repousser/Braquer)
+"
+0x7025,"Maintenez le joystick analogique gauche
+enfoncé vers le bas en étranglant votre
+ennemi et appuyez sur la touche  pour
+le repousser.
+","Maintenez le joystick analogique gauche
+enfoncé vers le bas en étranglant votre
+ennemi et appuyez sur la touche  pour
+le repousser.
+"
+0x70af,"Si vous pointez votre arme en direction
+de l'ennemi après l'avoir repoussé, vous
+pourrez le braquer.
+","Si vous pointez votre arme en direction
+de l'ennemi après l'avoir repoussé, vous
+pourrez le braquer.
+"
+0x7117,"END
+","END
+"
+0x711c,"Vue en coin (Coup d'œil)
+","Vue en coin (Coup d'œil)
+"
+0x7137,"Maintenez le joystick analogique gauche
+enfoncé en direction d'un angle de couloir
+ou un tronc d'arbre pour vous plaquer contre
+lui et passer en vue en coin inversée.
+","Maintenez le joystick analogique gauche
+enfoncé en direction d'un angle de couloir
+ou un tronc d'arbre pour vous plaquer contre
+lui et passer en vue en coin inversée.
+"
+0x71e1,"Appuyez sur les touches  ou  pour
+jeter un coup d'œil à gauche ou à droite
+respectivement.
+","Appuyez sur les touches  ou  pour
+jeter un coup d'œil à gauche ou à droite
+respectivement.
+"
+0x7246,"Vous pouvez également utiliser le joystick
+analogique droit pour changer de point de
+vue et mieux scruter les environs.
+","Vous pouvez également utiliser le joystick
+analogique droit pour changer de point de
+vue et mieux scruter les environs.
+"
+0x72c0,"END
+","END
+"
+0x72c5,"Tir précis
+","Tir précis
+"
+0x72d2,"Plus vous serez près du sol pour tirer, moins
+vos mains trembleront et plus le tir sera
+précis. Une fois accroupi, vous serez plus
+précis que debout.
+","Plus vous serez près du sol pour tirer, moins
+vos mains trembleront et plus le tir sera
+précis. Une fois accroupi, vous serez plus
+précis que debout.
+"
+0x736c,"Allongé au sol, vous serez plus précis que
+dans ces deux positions.
+","Allongé au sol, vous serez plus précis que
+dans ces deux positions.
+"
+0x73b3,"END
+","END
+"
+0x73b8,"Tir en coin en sautant
+","Tir en coin en sautant
+"
+0x73d0,"Avec certaines armes comme un revolver,
+il est possible de sauter en vue en coin et
+de tirer à gauche ou à droite à l'aide de
+la touche Arme.
+","Avec certaines armes comme un revolver,
+il est possible de sauter en vue en coin et
+de tirer à gauche ou à droite à l'aide de
+la touche Arme.
+"
+0x7462,"Cette technique est utile lors d'un
+affrontement avec des soldats ennemis.
+","Cette technique est utile lors d'un
+affrontement avec des soldats ennemis.
+"
+0x74ae,"END
+","END
+"
+0x74b3,"Actions Obs. 1ère pers.
+","Actions Obs. 1ère pers.
+"
+0x74cd,"Appuyez sur les touches  ou  en
+Observation à la première personne pour
+faire un pas de côté sur la gauche ou sur
+la droite.
+","Appuyez sur les touches  ou  en
+Observation à la première personne pour
+faire un pas de côté sur la gauche ou sur
+la droite.
+"
+0x7555,"Cette action s'avère utile si vous désirez
+scruter votre environnement plaqué contre
+un élément qui vous couvre.
+","Cette action s'avère utile si vous désirez
+scruter votre environnement plaqué contre
+un élément qui vous couvre.
+"
+0x75cc,"Utilisez cette action en face d'une porte
+pour l'entrouvrir et espionner à l'intérieur.
+","Utilisez cette action en face d'une porte
+pour l'entrouvrir et espionner à l'intérieur.
+"
+0x7627,"Vous pouvez également appuyer en même
+temps sur les touches  et  pour vous
+mettre sur la pointe des pieds et scruter
+les environs.
+","Vous pouvez également appuyer en même
+temps sur les touches  et  pour vous
+mettre sur la pointe des pieds et scruter
+les environs.
+"
+0x76b3,"END
+","END
+"
+0x76b8,"Tir en suspension
+","Tir en suspension
+"
+0x76cb,"En suspension, appuyez sur la touche 
+avec certaines armes comme le revolver
+pour tirer d'une seule main.
+","En suspension, appuyez sur la touche 
+avec certaines armes comme le revolver
+pour tirer d'une seule main.
+"
+0x7739,"END
+","END
+"
+0x773e,"Traîner
+","Traîner
+"
+0x7748,"Sans être armé, appuyez sur la touche 
+près d'un ennemi au sol pour le soulever.
+Si vous vous déplacez tout en soulevant son
+corps, vous pourrez le déplacer.
+","Sans être armé, appuyez sur la touche 
+près d'un ennemi au sol pour le soulever.
+Si vous vous déplacez tout en soulevant son
+corps, vous pourrez le déplacer.
+"
+0x77ef,"Parfois, des objets tombent du corps de
+l'ennemi lorsque vous le reposez au sol.
+","Parfois, des objets tombent du corps de
+l'ennemi lorsque vous le reposez au sol.
+"
+0x7841,"END
+","END
+"
+0x7846,"Armes lourdes de l'ennemi
+","Armes lourdes de l'ennemi
+"
+0x7861,"Près d'un emplacement à mitrailleuse ou à
+canon anti-aérien, appuyez sur la touche 
+pour vous en emparer et commencer à
+l'utiliser.
+","Près d'un emplacement à mitrailleuse ou à
+canon anti-aérien, appuyez sur la touche 
+pour vous en emparer et commencer à
+l'utiliser.
+"
+0x78ee,"END
+","END
+"
+0x78f3,"Faire du bruit
+","Faire du bruit
+"
+0x7903,"Une fois plaqué contre un mur, appuyez sur
+la touche  pour frapper contre ce mur et
+attirer l'attention de l'ennemi. En détournant
+l'attention d'un ennemi,
+","Une fois plaqué contre un mur, appuyez sur
+la touche  pour frapper contre ce mur et
+attirer l'attention de l'ennemi. En détournant
+l'attention d'un ennemi,
+"
+0x79a5,"vous pourrez parfois réussir à vous infiltrer
+sans avoir à l'affronter.
+","vous pourrez parfois réussir à vous infiltrer
+sans avoir à l'affronter.
+"
+0x79f1,"END
+","END
+"
+0x79f6,"Joystick analogique droit
+","Joystick analogique droit
+"
+0x7a11,"Utilisez le joystick analogique droit en
+observation à la verticale pour changer
+l'angle de vue de la caméra.
+","Utilisez le joystick analogique droit en
+observation à la verticale pour changer
+l'angle de vue de la caméra.
+"
+0x7a82,"Déplacez le joystick analogique droit dans
+une direction et appuyez sur la touche 
+pour verrouiller cet angle de vue.
+","Déplacez le joystick analogique droit dans
+une direction et appuyez sur la touche 
+pour verrouiller cet angle de vue.
+"
+0x7afd,"Ceci est parfois très utile lorsque vous
+désirez vérifier ce qui est en face de vous,
+dans la direction du mouvement.
+","Ceci est parfois très utile lorsque vous
+désirez vérifier ce qui est en face de vous,
+dans la direction du mouvement.
+"
+0x7b77,"Déplacez le joystick analogique droit ou
+appuyez à nouveau sur la touche  pour
+déverrouiller l'angle de vue.
+","Déplacez le joystick analogique droit ou
+appuyez à nouveau sur la touche  pour
+déverrouiller l'angle de vue.
+"
+0x7beb,"END
+","END
+"
+0x7bf0,"Désarmer
+","Désarmer
+"
+0x7bfb,"En tirant sur la main droite d'un soldat
+ennemi armé, vous lui ferez lâcher son arme.
+Vous pourrez aussi tirer sur les radios des
+soldats ennemis pour les détruire.
+","En tirant sur la main droite d'un soldat
+ennemi armé, vous lui ferez lâcher son arme.
+Vous pourrez aussi tirer sur les radios des
+soldats ennemis pour les détruire.
+"
+0x7ca4,"Une fois la radio détruite, le soldat n'aura
+plus aucun moyen de communication pour
+appeler des renforts.
+","Une fois la radio détruite, le soldat n'aura
+plus aucun moyen de communication pour
+appeler des renforts.
+"
+0x7d10,"END
+","END
+"
+0x7d15,"Braquer
+","Braquer
+"
+0x7d1e,"Pointez votre arme dans le dos d'un soldat
+ennemi pour le braquer.
+","Pointez votre arme dans le dos d'un soldat
+ennemi pour le braquer.
+"
+0x7d62,"END
+","END
+"
+0x7d67,"Walking/Running
+","Walking/Running
+"
+0x7d78,"Press the left analog stick in the direction
+you want to move to start heading in that
+direction. There are two movement speeds
+depending on how far the left analog stick
+","Press the left analog stick in the direction
+you want to move to start heading in that
+direction. There are two movement speeds
+depending on how far the left analog stick
+"
+0x7e24,"is pressed. Press it lightly to walk or harder
+to run. Also, use the directional button to
+perform stalking that is slow, but noiseless.
+","is pressed. Press it lightly to walk or harder
+to run. Also, use the directional button to
+perform stalking that is slow, but noiseless.
+"
+0x7eae,"END
+","END
+"
+0x7eb3,"Crawling
+","Crawling
+"
+0x7ebd,"Press the left analog stick while crouching
+or lying down to crawl. There are two types
+of movement, normal (making noise) and
+stalking (not making any noise), depending
+","Press the left analog stick while crouching
+or lying down to crawl. There are two types
+of movement, normal (making noise) and
+stalking (not making any noise), depending
+"
+0x7f68,"on how far the left analog stick is pressed.
+","on how far the left analog stick is pressed.
+"
+0x7f96,"END
+","END
+"
+0x7f9b,"Crouching/Standing
+","Crouching/Standing
+"
+0x7faf,"Press the  button to switch between
+standing, crouching and lying down. Press
+the  button twice rapidly or hold it down
+to instantly switch from standing to lying
+","Press the  button to switch between
+standing, crouching and lying down. Press
+the  button twice rapidly or hold it down
+to instantly switch from standing to lying
+"
+0x8059,"down or from lying down to standing.
+","down or from lying down to standing.
+"
+0x807f,"END
+","END
+"
+0x8084,"First Person View
+","First Person View
+"
+0x8097,"Hold down the  button to change to First
+Person View. While in First Person View,
+the left analog stick controls the viewing
+direction. It is also possible to attack in
+","Hold down the  button to change to First
+Person View. While in First Person View,
+the left analog stick controls the viewing
+direction. It is also possible to attack in
+"
+0x8144,"First Person View with the  button.
+","First Person View with the  button.
+"
+0x816c,"END
+","END
+"
+0x8171,"Actions on trees
+","Actions on trees
+"
+0x8183,"Press the  button in front of any tree with
+vines attached to start climbing it.
+","Press the  button in front of any tree with
+vines attached to start climbing it.
+"
+0x81d8,"It is also possible to hang down from nearby
+branches by getting close to one and
+pressing the  button.
+","It is also possible to hang down from nearby
+branches by getting close to one and
+pressing the  button.
+"
+0x8244,"END
+","END
+"
+0x8249,"Aiming
+","Aiming
+"
+0x8251,"Press the  button in First Person View with
+certain weapons to improve the accuracy
+over regular aiming.
+","Press the  button in First Person View with
+certain weapons to improve the accuracy
+over regular aiming.
+"
+0x82be,"It is also possible to lock the direction you
+are facing by pressing the  button in
+overhead view.
+","It is also possible to lock the direction you
+are facing by pressing the  button in
+overhead view.
+"
+0x8325,"END
+","END
+"
+0x832a,"Swimming
+","Swimming
+"
+0x8334,"Press the  button while above the surface
+of water to dive under. It is possible to stay
+under as long as the O2 Gauge is not empty.
+Use the left analog stick to determine the
+","Press the  button while above the surface
+of water to dive under. It is possible to stay
+under as long as the O2 Gauge is not empty.
+Use the left analog stick to determine the
+"
+0x83e8,"direction you are facing and repeatedly press
+the  button to swim in that direction. Let
+go of the  button to stop. Press the left
+analog stick up to swim up and down to
+","direction you are facing and repeatedly press
+the  button to swim in that direction. Let
+go of the  button to stop. Press the left
+analog stick up to swim up and down to
+"
+0x8499,"dive down. The Stamina Gauge will affect
+the length of the O2 Gauge. Rapidly press
+the  button to head for the surface.
+","dive down. The Stamina Gauge will affect
+the length of the O2 Gauge. Rapidly press
+the  button to head for the surface.
+"
+0x8515,"END
+","END
+"
+0x851a,"Rolling (Rolling Attack)
+","Rolling (Rolling Attack)
+"
+0x8534,"Press the  button while running to roll in
+the direction of movement. With rolling, it
+is possible to clear some small obstacles.
+","Press the  button while running to roll in
+the direction of movement. With rolling, it
+is possible to clear some small obstacles.
+"
+0x85ba,"END
+","END
+"
+0x85bf,"Intrusion View
+","Intrusion View
+"
+0x85cf,"You will enter and move in intrusion view
+automatically when you crawl under desks,
+into ducts or any other constricted spaces.
+","You will enter and move in intrusion view
+automatically when you crawl under desks,
+into ducts or any other constricted spaces.
+"
+0x8650,"If you crawl into areas of tall grass, you
+will also enter and move around in intrusion
+view.
+","If you crawl into areas of tall grass, you
+will also enter and move around in intrusion
+view.
+"
+0x86af,"END
+","END
+"
+0x86b4,"Object/Ladders Climbing
+","Object/Ladders Climbing
+"
+0x86cd,"Press the  button in front of objects of a
+certain height to climb up on them. Also,
+press the  button in front of a ladder to
+climb or descend it.
+","Press the  button in front of objects of a
+certain height to climb up on them. Also,
+press the  button in front of a ladder to
+climb or descend it.
+"
+0x8768,"END
+","END
+"
+0x876d,"Hanging
+","Hanging
+"
+0x8776,"It is possible to hang down from cliffs,
+branches and other high places.
+","It is possible to hang down from cliffs,
+branches and other high places.
+"
+0x87c0,"When there is a railing, face the edge and
+press the  button to jump over it and hang
+down.
+","When there is a railing, face the edge and
+press the  button to jump over it and hang
+down.
+"
+0x8820,"If there is no railing and the edge faces a
+long drop that might result in injury, you will
+automatically hang down when you walk over
+the edge.
+","If there is no railing and the edge faces a
+long drop that might result in injury, you will
+automatically hang down when you walk over
+the edge.
+"
+0x88b2,"If it is not a long drop, then you will only
+hang down if you approach the edge walking
+or stalking. Use the left analog stick to move
+along the edge, hanging.
+","If it is not a long drop, then you will only
+hang down if you approach the edge walking
+or stalking. Use the left analog stick to move
+along the edge, hanging.
+"
+0x8953,"Press the  button and  button at the
+same time to do a pull-up and peek over the
+edge.
+","Press the  button and  button at the
+same time to do a pull-up and peek over the
+edge.
+"
+0x89b1,"The Grip Gauge will continue to decrease
+while hanging, and you will fall if it runs out.
+Press the  button to let go and drop down
+while hanging.
+","The Grip Gauge will continue to decrease
+while hanging, and you will fall if it runs out.
+Press the  button to let go and drop down
+while hanging.
+"
+0x8a48,"END
+","END
+"
+0x8a4d,"Quick Change
+","Quick Change
+"
+0x8a5b,"Quickly press the  button or  button to
+unequip and re-equip the current weapon or
+item.
+","Quickly press the  button or  button to
+unequip and re-equip the current weapon or
+item.
+"
+0x8abb,"A weapon will automatically reload if it is
+unequipped, so use this technique to reload
+in the heat of battle.
+","A weapon will automatically reload if it is
+unequipped, so use this technique to reload
+in the heat of battle.
+"
+0x8b2b,"END
+","END
+"
+0x8b30,"CQC Throw (Knockout)
+","CQC Throw (Knockout)
+"
+0x8b46,"Use the left analog stick and the  button
+while near an enemy soldier and while
+equipping a CQC-ready weapon to throw
+the enemy.
+","Use the left analog stick and the  button
+while near an enemy soldier and while
+equipping a CQC-ready weapon to throw
+the enemy.
+"
+0x8bcb,"The enemy will be knocked unconscious
+after being tossed.
+","The enemy will be knocked unconscious
+after being tossed.
+"
+0x8c06,"END
+","END
+"
+0x8c0b,"CQC (Chokehold)
+","CQC (Chokehold)
+"
+0x8c1c,"Use the  button while near an enemy
+soldier and while equipping a CQC-ready
+weapon to put the enemy in a chokehold.
+","Use the  button while near an enemy
+soldier and while equipping a CQC-ready
+weapon to put the enemy in a chokehold.
+"
+0x8c94,"From the chokehold, several further options
+are available.
+","From the chokehold, several further options
+are available.
+"
+0x8cd0,"END
+","END
+"
+0x8cd5,"CQC (Threaten)
+","CQC (Threaten)
+"
+0x8ce5,"Hold down the  button while holding an
+enemy soldier in a chokehold to threaten
+them with a knife and get some information
+out of them.
+","Hold down the  button while holding an
+enemy soldier in a chokehold to threaten
+them with a knife and get some information
+out of them.
+"
+0x8d71,"END
+","END
+"
+0x8d76,"CQC (Slit Throat)
+","CQC (Slit Throat)
+"
+0x8d89,"Press down the  button firmly while the
+enemy is in a chokehold to slit their throat.
+","Press down the  button firmly while the
+enemy is in a chokehold to slit their throat.
+"
+0x8de3,"END
+","END
+"
+0x8de8,"CQC (Human Shield)
+","CQC (Human Shield)
+"
+0x8dfc,"Quickly press the  button after grabbing
+the enemy in a chokehold to use them as
+a human shield, leaving you free to fire.
+","Quickly press the  button after grabbing
+the enemy in a chokehold to use them as
+a human shield, leaving you free to fire.
+"
+0x8e7b,"END
+","END
+"
+0x8e80,"CQC (Throw/Holdup)
+","CQC (Throw/Holdup)
+"
+0x8e94,"Hold down the left analog stick and press
+the  button while the enemy is in a
+chokehold to throw them.
+","Hold down the left analog stick and press
+the  button while the enemy is in a
+chokehold to throw them.
+"
+0x8eff,"If you bring your gun up to the enemy
+soldier after throwing them, you can hold
+them up.
+","If you bring your gun up to the enemy
+soldier after throwing them, you can hold
+them up.
+"
+0x8f59,"END
+","END
+"
+0x8f5e,"Corner View (Peeking)
+","Corner View (Peeking)
+"
+0x8f75,"Continue to hold the left analog stick in
+the direction against hallway corners or tree
+trunks to press up against them and enter
+into a reverse facing corner view.
+","Continue to hold the left analog stick in
+the direction against hallway corners or tree
+trunks to press up against them and enter
+into a reverse facing corner view.
+"
+0x901b,"Press the  or  button to peek out left
+or right respectively.
+","Press the  or  button to peek out left
+or right respectively.
+"
+0x9060,"You can also use the right analog stick to
+change the point of view and get a clearer
+picture of your surroundings.
+","You can also use the right analog stick to
+change the point of view and get a clearer
+picture of your surroundings.
+"
+0x90d5,"END
+","END
+"
+0x90da,"Accurate Firing
+","Accurate Firing
+"
+0x90eb,"The lower the position, the less your hands
+will tremble and the more accurate shooting
+will be. Crouching is better than standing, and
+lying down is better than either position.
+","The lower the position, the less your hands
+will tremble and the more accurate shooting
+will be. Crouching is better than standing, and
+lying down is better than either position.
+"
+0x919f,"END
+","END
+"
+0x91a4,"Corner Jumpout Shooting
+","Corner Jumpout Shooting
+"
+0x91bd,"With certain weapons like a handgun in
+corner view, it is possible to make a jumpout
+shot to the left or right with the Weapon
+button.
+","With certain weapons like a handgun in
+corner view, it is possible to make a jumpout
+shot to the left or right with the Weapon
+button.
+"
+0x9245,"This corner technique is useful when you are
+in a shootout with enemy soldiers.
+","This corner technique is useful when you are
+in a shootout with enemy soldiers.
+"
+0x9296,"END
+","END
+"
+0x929b,"Actions in 1st Person View
+","Actions in 1st Person View
+"
+0x92b7,"Press the  button or  button in First
+Person View to sidestep left or right.
+","Press the  button or  button in First
+Person View to sidestep left or right.
+"
+0x930b,"This is only useful for probing your
+surroundings when there is some cover
+to press against.
+","This is only useful for probing your
+surroundings when there is some cover
+to press against.
+"
+0x9369,"Do this action in front of a door to open the
+door slightly and peek through the opening.
+","Do this action in front of a door to open the
+door slightly and peek through the opening.
+"
+0x93c4,"You can also press the  button and 
+button at the same time to stand on your
+tiptoes and check the surrounding area.
+","You can also press the  button and 
+button at the same time to stand on your
+tiptoes and check the surrounding area.
+"
+0x9440,"END
+","END
+"
+0x9445,"Hanging Shots
+","Hanging Shots
+"
+0x9454,"While hanging, press the  button with
+certain weapons like a handgun to fire it
+one-handed.
+","While hanging, press the  button with
+certain weapons like a handgun to fire it
+one-handed.
+"
+0x94b4,"END
+","END
+"
+0x94b9,"Drag
+","Drag
+"
+0x94bf,"Press the  button near a downed enemy
+while you are unarmed to pick their body up.
+","Press the  button near a downed enemy
+while you are unarmed to pick their body up.
+"
+0x9516,"If you move while holding the body, you can
+drag it along with you. There are occasions
+when items will fall from the enemy soldier
+if the body is dropped.
+","If you move while holding the body, you can
+drag it along with you. There are occasions
+when items will fall from the enemy soldier
+if the body is dropped.
+"
+0x95b3,"END
+","END
+"
+0x95b8,"Enemy's heavy weapons
+","Enemy's heavy weapons
+"
+0x95cf,"Press the  button near any gun
+emplacements or anti-aircraft cannons
+to hop in and start using them.
+","Press the  button near any gun
+emplacements or anti-aircraft cannons
+to hop in and start using them.
+"
+0x9638,"END
+","END
+"
+0x963d,"Making Noise
+","Making Noise
+"
+0x964b,"Press the  button while up against a wall to
+knock on it and attract the enemy's attention.
+","Press the  button while up against a wall to
+knock on it and attract the enemy's attention.
+"
+0x96ab,"If you distract an enemy, you can occasionally
+make your way around them and infiltrate
+while avoiding combat.
+","If you distract an enemy, you can occasionally
+make your way around them and infiltrate
+while avoiding combat.
+"
+0x971b,"END
+","END
+"
+0x9720,"Right analog stick
+","Right analog stick
+"
+0x9734,"Use the right analog stick in overhead view
+to shift the camera view. Hold down the right
+analog stick in any direction and press the
+ button to lock the view in place.
+","Use the right analog stick in overhead view
+to shift the camera view. Hold down the right
+analog stick in any direction and press the
+ button to lock the view in place.
+"
+0x97e1,"This is very useful for keeping track of what
+is up ahead in the direction of movement.
+Move the right analog stick or press
+the  button again to free the view lock.
+","This is very useful for keeping track of what
+is up ahead in the direction of movement.
+Move the right analog stick or press
+the  button again to free the view lock.
+"
+0x988b,"END
+","END
+"
+0x9890,"Disarming
+","Disarming
+"
+0x989b,"Shooting the right hand of an armed enemy
+soldier will make them drop the weapon they
+are carrying.
+","Shooting the right hand of an armed enemy
+soldier will make them drop the weapon they
+are carrying.
+"
+0x9900,"It is also possible to shoot and destroy the
+radios that enemy soldiers are holding. If the
+radio is destroyed, the soldier will be left
+without any way to call for backup.
+","It is also possible to shoot and destroy the
+radios that enemy soldiers are holding. If the
+radio is destroyed, the soldier will be left
+without any way to call for backup.
+"
+0x99ae,"END
+","END
+"
+0x99b3,"Holdup
+","Holdup
+"
+0x99bb,"Bring your gun up to an enemy's back
+while in close proximity to hold them up.
+","Bring your gun up to an enemy's back
+while in close proximity to hold them up.
+"
+0x9a0b,"END
+","END
+"
+0x9a10,"Sélectionner les données Camouflage
+à sauvegarder sur la Memory Card (PS2).
+","Sélectionner les données Camouflage
+à sauvegarder sur la Memory Card (PS2).
+"
+0x9a60,"Sauvegarder les données Camouflage
+sur la Memory Card (PS2) ?
+","Sauvegarder les données Camouflage
+sur la Memory Card (PS2) ?
+"
+0x9aa0,"Sélectionner les fente pour MEMORY
+CARD pour sauvegarder les données
+Camouflage.
+","Sélectionner les fente pour MEMORY
+CARD pour sauvegarder les données
+Camouflage.
+"
+0x9af4,"Annuler la sauvegarde des données
+Camouflage ?
+","Annuler la sauvegarde des données
+Camouflage ?
+"
+0x9b25,"Vérification de la Memory Card (PS2).
+","Vérification de la Memory Card (PS2).
+"
+0x9b4d,"Erreur de Memory Card (PS2)!
+Veuillez vérifier la Memory Card
+(PS2) et ré-essayer.
+","Erreur de Memory Card (PS2)!
+Veuillez vérifier la Memory Card
+(PS2) et ré-essayer.
+"
+0x9ba3,"La Memory Card (PS2) contient déjà
+ces données Camouflage.
+Sauvegarder par-dessus ?
+","La Memory Card (PS2) contient déjà
+ces données Camouflage.
+Sauvegarder par-dessus ?
+"
+0x9bfb,"Créer une nouvelle sauvegarde pour les
+données Camouflages sur la Memory Card
+(PS2) ?
+","Créer une nouvelle sauvegarde pour les
+données Camouflages sur la Memory Card
+(PS2) ?
+"
+0x9c54,"La Memory Card (PS2) n'est pas formatée.
+Formater la Memory Card (PS2) puis
+sauvegarder les données Camouflage ?
+","La Memory Card (PS2) n'est pas formatée.
+Formater la Memory Card (PS2) puis
+sauvegarder les données Camouflage ?
+"
+0x9cc8,"Formatage de la Memory Card (PS2)
+en cours. Ne pas retirer la Memory Card
+(PS2), réinitialiser ou éteindre la console.
+","Formatage de la Memory Card (PS2)
+en cours. Ne pas retirer la Memory Card
+(PS2), réinitialiser ou éteindre la console.
+"
+0x9d42,"Une erreur est survenue lors du
+formatage. Réessayer ?
+","Une erreur est survenue lors du
+formatage. Réessayer ?
+"
+0x9d7b,"Sauvegarde de la Memory Card (PS2)
+en cours. Ne pas retirer la Memory Card
+(PS2), réinitialiser ou éteindre la console.
+","Sauvegarde de la Memory Card (PS2)
+en cours. Ne pas retirer la Memory Card
+(PS2), réinitialiser ou éteindre la console.
+"
+0x9df6,"Une erreur est survenue lors de la
+sauvegarde sur la Memory Card (PS2).
+Sauvegarder de nouveau ?
+","Une erreur est survenue lors de la
+sauvegarde sur la Memory Card (PS2).
+Sauvegarder de nouveau ?
+"
+0x9e58,"Veuillez insérer une Memory Card (PS2)
+pour sauvegarder les données
+Camouflage.
+","Veuillez insérer une Memory Card (PS2)
+pour sauvegarder les données
+Camouflage.
+"
+0x9eab,"Mettre fin au téléchargement des
+données Camouflage ?
+","Mettre fin au téléchargement des
+données Camouflage ?
+"
+0x9ee5,"Sauvegarde des données Camouflage
+réussi. Mettre fin au téléchargement
+des données Camouflage ?
+","Sauvegarde des données Camouflage
+réussi. Mettre fin au téléchargement
+des données Camouflage ?
+"
+0x9f4b,"Espace libre insuff. sur la Memory Card
+(PS2). Un minimum de %dKB est néc.
+pour sauv. les données Camouflage.
+","Espace libre insuff. sur la Memory Card
+(PS2). Un minimum de %dKB est néc.
+pour sauv. les données Camouflage.
+"
+0x9fbc,"Un min. de %dKB d'espace libre est néc.
+sur la memory card (PS2) pour sauv.
+les données Camouflage. Continuer?
+","Un min. de %dKB d'espace libre est néc.
+sur la memory card (PS2) pour sauv.
+les données Camouflage. Continuer?
+"
+0xa02e,"Memory Card (PS2) non trouvée.
+Insérer une Memory Card (PS2).
+Sauvegarder de nouveau ?
+","Memory Card (PS2) non trouvée.
+Insérer une Memory Card (PS2).
+Sauvegarder de nouveau ?
+"
+0xa088,"※デバッグ用です
+メモリーカードスロット1を強制的に
+アンフォーマットします。いいかい？
+","※デバッグ用です
+メモリーカードスロット1を強制的に
+アンフォーマットします。いいかい？
+"
+0xa11a,"Select camouflage data to save to
+memory card (PS2).
+","Select camouflage data to save to
+memory card (PS2).
+"
+0xa150,"Save this camouflage data to memory
+card (PS2)?
+","Save this camouflage data to memory
+card (PS2)?
+"
+0xa181,"Select MEMORY CARD slot to save
+camouflage data.
+","Select MEMORY CARD slot to save
+camouflage data.
+"
+0xa1b3,"Cancel camouflage data save?
+","Cancel camouflage data save?
+"
+0xa1d1,"Checking memory card (PS2).
+","Checking memory card (PS2).
+"
+0xa1ee,"Memory card (PS2) error! Please check
+memory card (PS2) and try again.
+","Memory card (PS2) error! Please check
+memory card (PS2) and try again.
+"
+0xa236,"Memory card (PS2)
+already contains this
+camouflage data. Overwrite data?
+","Memory card (PS2)
+already contains this
+camouflage data. Overwrite data?
+"
+0xa280,"Create new camouflage data save file on
+memory card (PS2)?
+","Create new camouflage data save file on
+memory card (PS2)?
+"
+0xa2bc,"Memory card (PS2) is not formatted.
+Format memory card (PS2) and save
+camouflage data?
+","Memory card (PS2) is not formatted.
+Format memory card (PS2) and save
+camouflage data?
+"
+0xa314,"Formatting memory card (PS2). Do not
+remove memory card (PS2), reset, or
+switch off the console.
+","Formatting memory card (PS2). Do not
+remove memory card (PS2), reset, or
+switch off the console.
+"
+0xa376,"An error occurred during format.
+Retry formatting?
+","An error occurred during format.
+Retry formatting?
+"
+0xa3aa,"Saving to memory card (PS2). Do not
+remove memory card (PS2), reset, or
+switch off the console.
+","Saving to memory card (PS2). Do not
+remove memory card (PS2), reset, or
+switch off the console.
+"
+0xa40b,"An error occurred while saving camouflage
+data to memory card (PS2).
+Try saving again?
+","An error occurred while saving camouflage
+data to memory card (PS2).
+Try saving again?
+"
+0xa463,"Please insert memory card (PS2) to save
+camouflage data.
+","Please insert memory card (PS2) to save
+camouflage data.
+"
+0xa49d,"End camouflage data download?
+","End camouflage data download?
+"
+0xa4bc,"Camouflage data save successful.
+End camouflage data download?
+","Camouflage data save successful.
+End camouflage data download?
+"
+0xa4fc,"Insufficient free space on memory card
+(PS2). At least %dKB of free space
+is required to save Camouflage data.
+","Insufficient free space on memory card
+(PS2). At least %dKB of free space
+is required to save Camouflage data.
+"
+0xa56c,"At least %dKB of free space is needed
+on memory card (PS2) to save camouflage
+data. Continue?
+","At least %dKB of free space is needed
+on memory card (PS2) to save camouflage
+data. Continue?
+"
+0xa5cb,"Memory card (PS2) not found.
+Please insert memory card (PS2).
+Try saving again?
+","Memory card (PS2) not found.
+Please insert memory card (PS2).
+Try saving again?
+"
+0xa61c,"※デバッグ用です
+メモリーカードスロット1を強制的に
+アンフォーマットします。いいかい？
+","※デバッグ用です
+メモリーカードスロット1を強制的に
+アンフォーマットします。いいかい？
+"

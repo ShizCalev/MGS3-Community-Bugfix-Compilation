@@ -1,0 +1,7616 @@
+0x2eec,"Eccezionale recupero di vigore.
+","Eccezionale recupero di vigore.
+"
+0x2f0d,"Grande recupero di vigore.
+","Grande recupero di vigore.
+"
+0x2f29,"Ottimo recupero di vigore.
+","Ottimo recupero di vigore.
+"
+0x2f45,"Buon recupero di vigore.
+","Buon recupero di vigore.
+"
+0x2f5f,"Discreto recupero di vigore.
+","Discreto recupero di vigore.
+"
+0x2f7d,"Moderato recupero di vigore.
+","Moderato recupero di vigore.
+"
+0x2f9b,"Limitato recupero di vigore.
+","Limitato recupero di vigore.
+"
+0x2fb9,"Scarso recupero di vigore.
+","Scarso recupero di vigore.
+"
+0x2fd5,"Leggero recupero di vigore.
+","Leggero recupero di vigore.
+"
+0x2ff2,"Grande recupero di vigore di EVA.
+","Grande recupero di vigore di EVA.
+"
+0x3015,"Ottimo recupero di vigore di EVA.
+","Ottimo recupero di vigore di EVA.
+"
+0x3038,"Eccezionale recupero di vigore di EVA.
+","Eccezionale recupero di vigore di EVA.
+"
+0x3060,"Discreto recupero di vigore di EVA.
+","Discreto recupero di vigore di EVA.
+"
+0x3085,"Moderato recupero di vigore di EVA.
+","Moderato recupero di vigore di EVA.
+"
+0x30aa,"Buon recupero di vigore di EVA.
+","Buon recupero di vigore di EVA.
+"
+0x30cb,"Scarso recupero di vigore di EVA.
+","Scarso recupero di vigore di EVA.
+"
+0x30ee,"Leggero recupero di vigore di EVA.
+","Leggero recupero di vigore di EVA.
+"
+0x3112,"Limitato recupero di vigore di EVA.
+","Limitato recupero di vigore di EVA.
+"
+0x3137,"Crollata per intossicazione.
+","Crollata per intossicazione.
+"
+0x3155,"Cibo avariato. Inizia a dolere lo stomaco.
+","Cibo avariato. Inizia a dolere lo stomaco.
+"
+0x3181,"Batterie ricaricate.
+","Batterie ricaricate.
+"
+0x3197,"Ha avuto sonno.
+","Ha avuto sonno.
+"
+0x31a8,"Non ha fame.
+","Non ha fame.
+"
+0x31b6,"EVA è crollata per intossicazione.
+","EVA è crollata per intossicazione.
+"
+0x31db,"Sembra che fosse avariato.
+Sembra che EVA abbia il mal di stomaco.
+","Sembra che fosse avariato.
+Sembra che EVA abbia il mal di stomaco.
+"
+0x321f,"EVA sembra assonnata.
+","EVA sembra assonnata.
+"
+0x3236,"EVA non sembra affamata.
+","EVA non sembra affamata.
+"
+0x3250,"Pitone reticolato:
+Non ancora mangiato. Sapore sconosciuto.
+","Pitone reticolato:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x328d,"Pitone reticolato:
+Non ancora mangiato. Pare sia abbastanza saporito.
+","Pitone reticolato:
+Non ancora mangiato. Pare sia abbastanza saporito.
+"
+0x32d4,"Pitone reticolato:
+Abbastanza saporito.
+","Pitone reticolato:
+Abbastanza saporito.
+"
+0x32fd,"Pitone reticolato catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Pitone reticolato catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3349,"Pitone reticolato catturato vivo:
+Non ancora mangiato. Pare sia abbastanza saporito.
+","Pitone reticolato catturato vivo:
+Non ancora mangiato. Pare sia abbastanza saporito.
+"
+0x339f,"Pitone reticolato catturato vivo:
+Abbastanza saporito.
+","Pitone reticolato catturato vivo:
+Abbastanza saporito.
+"
+0x33d7,"Anaconda gigante:
+Non ancora mangiato. Sapore sconosciuto.
+","Anaconda gigante:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3413,"Anaconda gigante:
+Non ancora mangiato. Pare sia saporito.
+","Anaconda gigante:
+Non ancora mangiato. Pare sia saporito.
+"
+0x344e,"Anaconda gigante:
+Piuttosto saporito.
+","Anaconda gigante:
+Piuttosto saporito.
+"
+0x3475,"Anaconda gigante catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Anaconda gigante catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x34c0,"Anaconda gigante catturato vivo:
+Non ancora mangiato. Pare sia piuttosto saporito.
+","Anaconda gigante catturato vivo:
+Non ancora mangiato. Pare sia piuttosto saporito.
+"
+0x3514,"Anaconda gigante catturato vivo:
+Piuttosto saporito.
+","Anaconda gigante catturato vivo:
+Piuttosto saporito.
+"
+0x354a,"Gaviale indiano:
+Non ancora mangiato. Sapore sconosciuto.
+","Gaviale indiano:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3585,"Gaviale indiano:
+Non ancora mangiato. Pare sia saporito.
+","Gaviale indiano:
+Non ancora mangiato. Pare sia saporito.
+"
+0x35bf,"Gaviale indiano:
+Saporito.
+","Gaviale indiano:
+Saporito.
+"
+0x35db,"Bengalino moscato:
+Non ancora mangiato. Sapore sconosciuto.
+","Bengalino moscato:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3618,"Bengalino moscato:
+Chiesto il sapore, non ho avuto risposta.
+","Bengalino moscato:
+Chiesto il sapore, non ho avuto risposta.
+"
+0x3656,"Bengalino moscato:
+Sapore cattivo.
+","Bengalino moscato:
+Sapore cattivo.
+"
+0x367a,"Bengalino moscato catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Bengalino moscato catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x36c6,"Bengalino moscato catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Bengalino moscato catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3712,"Bengalino moscato catturato vivo:
+Sapore cattivo.
+","Bengalino moscato catturato vivo:
+Sapore cattivo.
+"
+0x3745,"Gazza:
+Non ancora mangiata. Sapore sconosciuto.
+","Gazza:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x3776,"Gazza:
+Sapore sconosciuto, ma pare sia commestibile.
+","Gazza:
+Sapore sconosciuto, ma pare sia commestibile.
+"
+0x37ac,"Gazza:
+Sapore cattivo.
+","Gazza:
+Sapore cattivo.
+"
+0x37c4,"Gazza catturata viva:
+Non ancora mangiata. Sapore sconosciuto.
+","Gazza catturata viva:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x3804,"Gazza catturata viva:
+Sapore sconosciuto, ma pare sia commestibile.
+","Gazza catturata viva:
+Sapore sconosciuto, ma pare sia commestibile.
+"
+0x3849,"Gazza catturata viva:
+Sapore cattivo.
+","Gazza catturata viva:
+Sapore cattivo.
+"
+0x3870,"Tordo zufolatore della Sonda:
+Non ancora mangiato. Sapore sconosciuto.
+","Tordo zufolatore della Sonda:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x38b8,"Tordo zufolatore della Sonda:
+Sapore sconosciuto, ma pare sia commestibile.
+","Tordo zufolatore della Sonda:
+Sapore sconosciuto, ma pare sia commestibile.
+"
+0x3905,"Tordo zufolatore della Sonda:
+Non cattivo.
+","Tordo zufolatore della Sonda:
+Non cattivo.
+"
+0x3931,"Tordo zufolatore della Sonda catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Tordo zufolatore della Sonda catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3988,"Tordo zufolatore della Sonda catturato vivo:
+Sapore sconosciuto, ma pare sia commestibile.
+","Tordo zufolatore della Sonda catturato vivo:
+Sapore sconosciuto, ma pare sia commestibile.
+"
+0x39e4,"Tordo zufolatore della Sonda catturato vivo:
+Non cattivo.
+","Tordo zufolatore della Sonda catturato vivo:
+Non cattivo.
+"
+0x3a1f,"Raganella:
+Non ancora mangiata. Sapore sconosciuto.
+","Raganella:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x3a54,"Raganella:
+Sapore sconosciuto. Probabilmente commestibile.
+","Raganella:
+Sapore sconosciuto. Probabilmente commestibile.
+"
+0x3a90,"Raganella:
+Sapore cattivo.
+","Raganella:
+Sapore cattivo.
+"
+0x3aac,"Raganella catturata viva:
+Non ancora mangiata. Sapore sconosciuto.
+","Raganella catturata viva:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x3af0,"Raganella catturata viva:
+Sapore sconosciuto. Probabilmente commestibile.
+","Raganella catturata viva:
+Sapore sconosciuto. Probabilmente commestibile.
+"
+0x3b3b,"Raganella catturata viva:
+Sapore cattivo.
+","Raganella catturata viva:
+Sapore cattivo.
+"
+0x3b66,"Fungo ostricone russo:
+Non ancora mangiato. Sapore sconosciuto.
+","Fungo ostricone russo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3ba7,"Fungo ostricone russo:
+Sapore sconosciuto, ma pare sia commestibile.
+","Fungo ostricone russo:
+Sapore sconosciuto, ma pare sia commestibile.
+"
+0x3bed,"Fungo ostricone russo:
+Sapore cattivo.
+","Fungo ostricone russo:
+Sapore cattivo.
+"
+0x3c15,"Fungo dell'inchiostro siberiano:
+Non ancora mangiato. Sapore sconosciuto.
+","Fungo dell'inchiostro siberiano:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3c60,"Fungo dell'inchiostro siberiano:
+Sapore sconosciuto, ma pare sia commestibile.
+","Fungo dell'inchiostro siberiano:
+Sapore sconosciuto, ma pare sia commestibile.
+"
+0x3cb0,"Fungo dell'inchiostro siberiano:
+Sapore cattivo.
+","Fungo dell'inchiostro siberiano:
+Sapore cattivo.
+"
+0x3ce2,"Yabloko moloko:
+Non ancora mangiato. Sapore sconosciuto.
+","Yabloko moloko:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3d1c,"Yabloko moloko:
+Non ancora mangiato. Pare sia saporito.
+","Yabloko moloko:
+Non ancora mangiato. Pare sia saporito.
+"
+0x3d55,"Yabloko moloko:
+Sapore cattivo.
+","Yabloko moloko:
+Sapore cattivo.
+"
+0x3d76,"Falso mango russo:
+Non ancora mangiato. Sapore sconosciuto.
+","Falso mango russo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3db3,"Falso mango russo:
+Non ancora mangiato. Pare sia saporito.
+","Falso mango russo:
+Non ancora mangiato. Pare sia saporito.
+"
+0x3def,"Falso mango russo:
+Abbastanza saporito.
+","Falso mango russo:
+Abbastanza saporito.
+"
+0x3e18,"Golova:
+Non ancora mangiata. Sapore sconosciuto.
+","Golova:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x3e4a,"Golova:
+Non ancora mangiata. Pare sia abbastanza saporita.
+","Golova:
+Non ancora mangiata. Pare sia abbastanza saporita.
+"
+0x3e86,"Golova:
+Abbastanza saporita.
+","Golova:
+Abbastanza saporita.
+"
+0x3ea4,"Melone rampicante:
+Non ancora mangiato. Sapore sconosciuto.
+","Melone rampicante:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3ee1,"Melone rampicante:
+Non ancora mangiato. Pare sia abbastanza saporito.
+","Melone rampicante:
+Non ancora mangiato. Pare sia abbastanza saporito.
+"
+0x3f28,"Melone rampicante:
+Abbastanza saporito.
+","Melone rampicante:
+Abbastanza saporito.
+"
+0x3f51,"Nido di calabroni del Baltico:
+Non ancora mangiato. Sapore sconosciuto.
+","Nido di calabroni del Baltico:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x3f9a,"Nido di calabroni del Baltico:
+Non ancora mangiato. Pare sia squisito!
+","Nido di calabroni del Baltico:
+Non ancora mangiato. Pare sia squisito!
+"
+0x3fe2,"Nido di calabroni del Baltico:
+Squisito.
+","Nido di calabroni del Baltico:
+Squisito.
+"
+0x400c,"Ratto:
+Non ancora mangiato. Sapore sconosciuto.
+","Ratto:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x403d,"Ratto:
+Sapore sconosciuto, ma pare sia commestibile.
+","Ratto:
+Sapore sconosciuto, ma pare sia commestibile.
+"
+0x4073,"Ratto:
+Non cattivo.
+","Ratto:
+Non cattivo.
+"
+0x4088,"Ratto catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Ratto catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x40c8,"Ratto catturato vivo:
+Sapore sconosciuto, ma pare sia commestibile.
+","Ratto catturato vivo:
+Sapore sconosciuto, ma pare sia commestibile.
+"
+0x410d,"Ratto catturato vivo:
+Ottimo.
+","Ratto catturato vivo:
+Ottimo.
+"
+0x412c,"Cobra reale:
+Non ancora mangiato. Sapore sconosciuto.
+","Cobra reale:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4163,"Cobra reale:
+Non ancora mangiato. Pare non sia cattivo.
+","Cobra reale:
+Non ancora mangiato. Pare non sia cattivo.
+"
+0x419c,"Cobra reale:
+Non cattivo.
+","Cobra reale:
+Non cattivo.
+"
+0x41b7,"Cobra reale catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Cobra reale catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x41fd,"Cobra reale catturato vivo:
+Non ancora mangiato. Pare non sia cattivo.
+","Cobra reale catturato vivo:
+Non ancora mangiato. Pare non sia cattivo.
+"
+0x4245,"Cobra reale catturato vivo:
+Non cattivo.
+","Cobra reale catturato vivo:
+Non cattivo.
+"
+0x426f,"Cobra di Taiwan:
+Non ancora mangiato. Sapore sconosciuto.
+","Cobra di Taiwan:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x42aa,"Cobra di Taiwan: Non ancora mangiato.
+Mi hanno detto che il sapore è sconosciuto.
+","Cobra di Taiwan: Non ancora mangiato.
+Mi hanno detto che il sapore è sconosciuto.
+"
+0x42fe,"Cobra di Taiwan:
+Ottimo.
+","Cobra di Taiwan:
+Ottimo.
+"
+0x4318,"Cobra di Taiwan catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Cobra di Taiwan catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4362,"Cobra di Taiwan catturato vivo: Non mangiato
+Mi hanno detto che il sapore è sconosciuto.
+","Cobra di Taiwan catturato vivo: Non mangiato
+Mi hanno detto che il sapore è sconosciuto.
+"
+0x43bd,"Cobra di Taiwan catturato vivo:
+Ottimo.
+","Cobra di Taiwan catturato vivo:
+Ottimo.
+"
+0x43e6,"Cobra thai:
+Non ancora mangiato. Sapore sconosciuto.
+","Cobra thai:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x441c,"Cobra thai:
+Non ancora mangiato. Mi hanno detto di assaggiarlo.
+","Cobra thai:
+Non ancora mangiato. Mi hanno detto di assaggiarlo.
+"
+0x445d,"Cobra thai:
+Ottimo.
+","Cobra thai:
+Ottimo.
+"
+0x4472,"Cobra thai catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Cobra thai catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x44b7,"Cobra thai catturato vivo:
+Non ancora mangiato. Mi hanno detto di assaggiarlo.
+","Cobra thai catturato vivo:
+Non ancora mangiato. Mi hanno detto di assaggiarlo.
+"
+0x4507,"Cobra thai catturato vivo:
+Ottimo.
+","Cobra thai catturato vivo:
+Ottimo.
+"
+0x452b,"Serpente corallo:
+Non ancora mangiato. Sapore sconosciuto.
+","Serpente corallo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4567,"Serpente corallo:
+Non ancora mangiato. Pare non sia cattivo.
+","Serpente corallo:
+Non ancora mangiato. Pare non sia cattivo.
+"
+0x45a5,"Serpente corallo:
+Non cattivo.
+","Serpente corallo:
+Non cattivo.
+"
+0x45c5,"Serpente corallo catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Serpente corallo catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4610,"Serpente corallo catturato vivo:
+Non ancora mangiato. Pare non sia cattivo.
+","Serpente corallo catturato vivo:
+Non ancora mangiato. Pare non sia cattivo.
+"
+0x465d,"Serpente corallo catturato vivo:
+Non cattivo.
+","Serpente corallo catturato vivo:
+Non cattivo.
+"
+0x468c,"Serpente del latte:
+Non ancora mangiato. Sapore sconosciuto.
+","Serpente del latte:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x46ca,"Serpente del latte:
+Non ancora mangiato. Pare non sia granché.
+","Serpente del latte:
+Non ancora mangiato. Pare non sia granché.
+"
+0x470b,"Serpente del latte:
+Sapore cattivo.
+","Serpente del latte:
+Sapore cattivo.
+"
+0x4730,"Serpente del latte catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Serpente del latte catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x477d,"Serpente del latte catturato vivo:
+Non ancora mangiato. Pare non sia granché.
+","Serpente del latte catturato vivo:
+Non ancora mangiato. Pare non sia granché.
+"
+0x47cd,"Serpente del latte catturato vivo:
+Sapore cattivo.
+","Serpente del latte catturato vivo:
+Sapore cattivo.
+"
+0x4801,"Pitone verde arboricolo:
+Non ancora mangiato. Sapore sconosciuto.
+","Pitone verde arboricolo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4844,"Pitone verde arboricolo:
+Chiesto il sapore, non ho avuto risposta.
+","Pitone verde arboricolo:
+Chiesto il sapore, non ho avuto risposta.
+"
+0x4888,"Pitone verde arboricolo:
+Abbastanza saporito.
+","Pitone verde arboricolo:
+Abbastanza saporito.
+"
+0x48b7,"Pitone verde arboricolo catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Pitone verde arboricolo catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4909,"Pitone verde arboricolo catturato vivo:
+Chiesto il sapore, non ho avuto risposta.
+","Pitone verde arboricolo catturato vivo:
+Chiesto il sapore, non ho avuto risposta.
+"
+0x495c,"Pitone verde arboricolo catturato vivo:
+Abbastanza saporito.
+","Pitone verde arboricolo catturato vivo:
+Abbastanza saporito.
+"
+0x499a,"Rana subaspera:
+Non ancora mangiata. Sapore sconosciuto.
+","Rana subaspera:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x49d4,"Rana subaspera:
+Non ancora mangiata. Pare sia abbastanza saporita.
+","Rana subaspera:
+Non ancora mangiata. Pare sia abbastanza saporita.
+"
+0x4a18,"Rana subaspera:
+Abbastanza saporita.
+","Rana subaspera:
+Abbastanza saporita.
+"
+0x4a3e,"Rana subaspera catturata viva:
+Non ancora mangiata. Sapore sconosciuto.
+","Rana subaspera catturata viva:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x4a87,"Rana subaspera catturata viva:
+Non ancora mangiata. Pare sia abbastanza saporita.
+","Rana subaspera catturata viva:
+Non ancora mangiata. Pare sia abbastanza saporita.
+"
+0x4ada,"Rana subaspera catturata viva:
+Abbastanza saporita.
+","Rana subaspera catturata viva:
+Abbastanza saporita.
+"
+0x4b0f,"Rana freccia:
+Non ancora mangiata. Sapore sconosciuto.
+","Rana freccia:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x4b47,"Rana freccia:
+Non ancora mangiata. Pare sia velenosa.
+","Rana freccia:
+Non ancora mangiata. Pare sia velenosa.
+"
+0x4b7e,"Rana freccia:
+Ha provocato intossicazione.
+","Rana freccia:
+Ha provocato intossicazione.
+"
+0x4baa,"Rana freccia catturata viva:
+Non ancora mangiata. Sapore sconosciuto.
+","Rana freccia catturata viva:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x4bf1,"Rana freccia catturata viva:
+Non ancora mangiata. Pare sia velenosa.
+","Rana freccia catturata viva:
+Non ancora mangiata. Pare sia velenosa.
+"
+0x4c37,"Rana freccia catturata viva:
+Ha provocato intossicazione.
+","Rana freccia catturata viva:
+Ha provocato intossicazione.
+"
+0x4c72,"Coniglio europeo:
+Non ancora mangiato. Sapore sconosciuto.
+","Coniglio europeo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4cae,"Coniglio europeo:
+Non ancora mangiato. Si sa che è commestibile.
+","Coniglio europeo:
+Non ancora mangiato. Si sa che è commestibile.
+"
+0x4cf1,"Coniglio europeo:
+Abbastanza buono.
+","Coniglio europeo:
+Abbastanza buono.
+"
+0x4d16,"Coniglio europeo catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Coniglio europeo catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4d61,"Coniglio europeo catturato vivo:
+Non ancora mangiato. Si sa che è commestibile.
+","Coniglio europeo catturato vivo:
+Non ancora mangiato. Si sa che è commestibile.
+"
+0x4db3,"Coniglio europeo catturato vivo:
+Abbastanza buono.
+","Coniglio europeo catturato vivo:
+Abbastanza buono.
+"
+0x4de7,"Scoiattolo volante giapponese:
+Non ancora mangiato. Sapore sconosciuto.
+","Scoiattolo volante giapponese:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4e30,"Scoiattolo volante gpn: Non ancora mangiato.
+Non mi hanno detto che sapore ha.
+","Scoiattolo volante gpn: Non ancora mangiato.
+Non mi hanno detto che sapore ha.
+"
+0x4e80,"Scoiattolo volante giapponese:
+Sapore cattivo.
+","Scoiattolo volante giapponese:
+Sapore cattivo.
+"
+0x4eb0,"Scoiattolo volante giapponese catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Scoiattolo volante giapponese catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4f08,"Scoiattolo volante giapponese catturato vivo: Non
+ancora mangiato. Non mi hanno detto che sapore ha.
+","Scoiattolo volante giapponese catturato vivo: Non
+ancora mangiato. Non mi hanno detto che sapore ha.
+"
+0x4f6e,"Scoiattolo volante giapponese catturato vivo:
+Sapore cattivo.
+","Scoiattolo volante giapponese catturato vivo:
+Sapore cattivo.
+"
+0x4fad,"Markhor:
+Non ancora mangiato. Sapore sconosciuto.
+","Markhor:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x4fe0,"Markhor:
+Non ancora mangiato. Dovrebbe essere squisito.
+","Markhor:
+Non ancora mangiato. Dovrebbe essere squisito.
+"
+0x5019,"Markhor:
+Squisito.
+","Markhor:
+Squisito.
+"
+0x502d,"Pipistrello vampiro:
+Non ancora mangiato. Sapore sconosciuto.
+","Pipistrello vampiro:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x506c,"Pipistrello vampiro: Non ancora mangiato.
+Pare sia commestibile, all'occorrenza.
+","Pipistrello vampiro: Non ancora mangiato.
+Pare sia commestibile, all'occorrenza.
+"
+0x50be,"Pipistrello vampiro:
+Sapore cattivo.
+","Pipistrello vampiro:
+Sapore cattivo.
+"
+0x50e4,"Pipistrello vampiro catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Pipistrello vampiro catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5132,"Pipistrello vampiro catturato vivo: Non ancora
+mangiato. Pare sia commestibile, all'occorrenza.
+","Pipistrello vampiro catturato vivo: Non ancora
+mangiato. Pare sia commestibile, all'occorrenza.
+"
+0x5193,"Pipistrello vampiro catturato vivo:
+Sapore cattivo.
+","Pipistrello vampiro catturato vivo:
+Sapore cattivo.
+"
+0x51c8,"Tarantola blu cobalto catturata viva:
+Non ancora mangiata. Sapore sconosciuto.
+","Tarantola blu cobalto catturata viva:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x5218,"Tarantola blu cobalto catturata viva:
+Non ancora mangiata. Pare non sia granché.
+","Tarantola blu cobalto catturata viva:
+Non ancora mangiata. Pare non sia granché.
+"
+0x526b,"Tarantola blu cobalto catturata viva:
+Sapore cattivo.
+","Tarantola blu cobalto catturata viva:
+Sapore cattivo.
+"
+0x52a2,"Tarantola blu cobalto:
+Non ancora mangiata. Sapore sconosciuto.
+","Tarantola blu cobalto:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x52e3,"Tarantola blu cobalto:
+Non ancora mangiata. Pare non sia granché.
+","Tarantola blu cobalto:
+Non ancora mangiata. Pare non sia granché.
+"
+0x5327,"Tarantola blu cobalto:
+Sapore cattivo.
+","Tarantola blu cobalto:
+Sapore cattivo.
+"
+0x534f,"Scorpione imperatore catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Scorpione imperatore catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x539e,"Scorpione imperatore catturato vivo:
+Non ancora mangiato. Pare sia cattivo.
+","Scorpione imperatore catturato vivo:
+Non ancora mangiato. Pare sia cattivo.
+"
+0x53eb,"Scorpione imperatore catturato vivo:
+Sapore cattivo.
+","Scorpione imperatore catturato vivo:
+Sapore cattivo.
+"
+0x5421,"Scorpione imperatore:
+Non ancora mangiato. Sapore sconosciuto.
+","Scorpione imperatore:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5461,"Scorpione imperatore:
+Non ancora mangiato. Pare sia cattivo.
+","Scorpione imperatore:
+Non ancora mangiato. Pare sia cattivo.
+"
+0x549f,"Scorpione imperatore:
+Sapore cattivo.
+","Scorpione imperatore:
+Sapore cattivo.
+"
+0x54c6,"Pappagallo:
+Questo uccello ha un'aria familiare.
+","Pappagallo:
+Questo uccello ha un'aria familiare.
+"
+0x54f8,"Pappagallo:
+Sapore cattivo.
+","Pappagallo:
+Sapore cattivo.
+"
+0x5515,"Pappagallo catturato vivo:
+Questo uccello ha un'aria familiare.
+","Pappagallo catturato vivo:
+Questo uccello ha un'aria familiare.
+"
+0x5556,"Pappagallo catturato vivo:
+Sapore schifoso.
+","Pappagallo catturato vivo:
+Sapore schifoso.
+"
+0x5583,"Avvoltoio groppabianca:
+Non ancora mangiato. Sapore sconosciuto.
+","Avvoltoio groppabianca:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x55c5,"Avvoltoio groppabianca:
+Abbastanza saporito.
+","Avvoltoio groppabianca:
+Abbastanza saporito.
+"
+0x55f3,"Carangide:
+Non ancora mangiato. Sapore sconosciuto.
+","Carangide:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5628,"Carangide:
+Non ancora mangiato. Potrebbe essere velenoso.
+","Carangide:
+Non ancora mangiato. Potrebbe essere velenoso.
+"
+0x5663,"Carangide:
+Sapore cattivo.
+","Carangide:
+Sapore cattivo.
+"
+0x567f,"Carangide catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Carangide catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x56c3,"Carangide catturato vivo:
+Non ancora mangiato. Potrebbe essere velenoso.
+","Carangide catturato vivo:
+Non ancora mangiato. Potrebbe essere velenoso.
+"
+0x570d,"Carangide catturato vivo:
+Sapore cattivo.
+","Carangide catturato vivo:
+Sapore cattivo.
+"
+0x5738,"Leptobarbus hoeveni:
+Non ancora mangiato. Sapore sconosciuto.
+","Leptobarbus hoeveni:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5777,"Leptobarbus hoeveni:
+Non ancora mangiato. Pare sia ottimo.
+","Leptobarbus hoeveni:
+Non ancora mangiato. Pare sia ottimo.
+"
+0x57b3,"Leptobarbus hoeveni:
+Ottimo.
+","Leptobarbus hoeveni:
+Ottimo.
+"
+0x57d1,"Leptobarbus hoeveni catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Leptobarbus hoeveni catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x581f,"Leptobarbus hoeveni catturato vivo:
+Non ancora mangiato. Pare sia ottimo.
+","Leptobarbus hoeveni catturato vivo:
+Non ancora mangiato. Pare sia ottimo.
+"
+0x586a,"Leptobarbus hoeveni catturato vivo:
+Ottimo.
+","Leptobarbus hoeveni catturato vivo:
+Ottimo.
+"
+0x5897,"Arowana:
+Non ancora mangiato. Sapore sconosciuto.
+","Arowana:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x58ca,"Arowana:
+Non ancora mangiato. Pare non sia cattivo.
+","Arowana:
+Non ancora mangiato. Pare non sia cattivo.
+"
+0x58ff,"Arowana:
+Abbastanza saporito.
+","Arowana:
+Abbastanza saporito.
+"
+0x591e,"Granchio delle mangrovie del Kenya:
+Non ancora mangiato. Sapore sconosciuto.
+","Granchio delle mangrovie del Kenya:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x596c,"Granchio delle mangrovie del Kenya:
+Non ancora mangiato. Pare sia saporito.
+","Granchio delle mangrovie del Kenya:
+Non ancora mangiato. Pare sia saporito.
+"
+0x59b9,"Granchio delle mangrovie del Kenya:
+Abbastanza saporito.
+","Granchio delle mangrovie del Kenya:
+Abbastanza saporito.
+"
+0x59f3,"Granchio delle mangrovie del Kenya catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Granchio delle mangrovie del Kenya catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5a50,"Granchio delle mangrovie del Kenya catturato vivo:
+Non ancora mangiato. Pare sia saporito.
+","Granchio delle mangrovie del Kenya catturato vivo:
+Non ancora mangiato. Pare sia saporito.
+"
+0x5aac,"Granchio delle mangrovie del Kenya catturato vivo:
+Abbastanza saporito.
+","Granchio delle mangrovie del Kenya catturato vivo:
+Abbastanza saporito.
+"
+0x5af5,"Tsuchinoko:
+Non ancora mangiato. Sapore sconosciuto.
+","Tsuchinoko:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5b2b,"Tsuchinoko:
+Incredibilmente buono!
+","Tsuchinoko:
+Incredibilmente buono!
+"
+0x5b4f,"Tsuchinoko catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Tsuchinoko catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5b94,"Tsuchinoko catturato vivo:
+Incredibilmente buono!
+","Tsuchinoko catturato vivo:
+Incredibilmente buono!
+"
+0x5bc7,"Fungo luminescente degli Urali:
+Non ancora mangiato. Sapore sconosciuto.
+","Fungo luminescente degli Urali:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5c11,"Fungo luminescente degli Urali:
+Non ancora mangiato, ma pare sia commestibile.
+","Fungo luminescente degli Urali:
+Non ancora mangiato, ma pare sia commestibile.
+"
+0x5c61,"Fungo luminescente degli Urali:
+Era velenoso.
+","Fungo luminescente degli Urali:
+Era velenoso.
+"
+0x5c90,"Ovolaccio:
+Non ancora mangiato. Sapore sconosciuto.
+","Ovolaccio:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5cc5,"Ovolaccio:
+Non ancora mangiato. Pare sia velenoso.
+","Ovolaccio:
+Non ancora mangiato. Pare sia velenoso.
+"
+0x5cf9,"Ovolaccio:
+Era velenoso.
+","Ovolaccio:
+Era velenoso.
+"
+0x5d13,"Fungo luminescente russo:
+Non ancora mangiato. Sapore sconosciuto.
+","Fungo luminescente russo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5d57,"Fungo luminescente russo: Non ancora mangiato.
+Se mangiato, pare ricarichi le batterie.
+","Fungo luminescente russo: Non ancora mangiato.
+Se mangiato, pare ricarichi le batterie.
+"
+0x5db0,"Fungo luminescente russo:
+Una volta mangiato, ha ricaricato le batterie.
+","Fungo luminescente russo:
+Una volta mangiato, ha ricaricato le batterie.
+"
+0x5dfa,"Spatsa: Non ancora mangiato.
+Non ancora mangiato. Sapore sconosciuto.
+","Spatsa: Non ancora mangiato.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5e41,"Spatsa: Non ancora mangiato.
+Non mi hanno detto che sapore ha.
+","Spatsa: Non ancora mangiato.
+Non mi hanno detto che sapore ha.
+"
+0x5e81,"Spatsa:
+Mi è venuto sonno dopo averlo mangiato.
+","Spatsa:
+Mi è venuto sonno dopo averlo mangiato.
+"
+0x5eb3,"Steccherino bruno del Baikal:
+Non ancora mangiato. Sapore sconosciuto.
+","Steccherino bruno del Baikal:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x5efb,"Steccherino bruno del Baikal:
+Non ancora mangiato. Pare non sia granché.
+","Steccherino bruno del Baikal:
+Non ancora mangiato. Pare non sia granché.
+"
+0x5f46,"Steccherino bruno del Baikal:
+Sapore schifoso.
+","Steccherino bruno del Baikal:
+Sapore schifoso.
+"
+0x5f76,"Tagliolini istantanei:
+Non ancora mangiati. Sapore sconosciuto.
+","Tagliolini istantanei:
+Non ancora mangiati. Sapore sconosciuto.
+"
+0x5fb7,"Tagliolini istantanei:
+Non ancora mangiati. Pare siano squisiti!
+","Tagliolini istantanei:
+Non ancora mangiati. Pare siano squisiti!
+"
+0x5ff9,"Tagliolini istantanei:
+Incredibilmente buoni!
+","Tagliolini istantanei:
+Incredibilmente buoni!
+"
+0x6028,"Razione:
+Non ancora mangiata. Sapore sconosciuto.
+","Razione:
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x605b,"Razione:
+Non ancora mangiata. Pare sia schifosa.
+","Razione:
+Non ancora mangiata. Pare sia schifosa.
+"
+0x608d,"Razione:
+Sapore schifoso.
+","Razione:
+Sapore schifoso.
+"
+0x60a8,"Liquid:
+Non ancora mangiato. Sapore sconosciuto.
+","Liquid:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x60da,"Liquid:
+Incredibilmente buono!
+","Liquid:
+Incredibilmente buono!
+"
+0x60fa,"Liquid catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Liquid catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x613b,"Liquid catturato vivo:
+Incredibilmente buono!
+","Liquid catturato vivo:
+Incredibilmente buono!
+"
+0x616a,"Solid:
+Non ancora mangiato. Sapore sconosciuto.
+","Solid:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x619b,"Solid:
+Incredibilmente buono!
+","Solid:
+Incredibilmente buono!
+"
+0x61ba,"Solid catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Solid catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x61fa,"Solid catturato vivo:
+Incredibilmente buono!
+","Solid catturato vivo:
+Incredibilmente buono!
+"
+0x6228,"Solidus:
+Non ancora mangiato. Sapore sconosciuto.
+","Solidus:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x625b,"Solidus:
+Incredibilmente buono!
+","Solidus:
+Incredibilmente buono!
+"
+0x627c,"Solidus catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+","Solidus catturato vivo:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x62be,"Solidus catturato vivo:
+Incredibilmente buono!
+","Solidus catturato vivo:
+Incredibilmente buono!
+"
+0x62ee,"Nido di calabroni del Baltico con i calabroni di The
+Pain: Non ancora mangiato. Sapore sconosciuto.
+","Nido di calabroni del Baltico con i calabroni di The
+Pain: Non ancora mangiato. Sapore sconosciuto.
+"
+0x6353,"Nido di calabroni del Baltico con i calabroni di The
+Pain: Non ancora mangiato. Pare sia squisito!
+","Nido di calabroni del Baltico con i calabroni di The
+Pain: Non ancora mangiato. Pare sia squisito!
+"
+0x63b7,"Nido di calabroni del Baltico con i calabroni di The
+Pain: Ottimo sapore!
+","Nido di calabroni del Baltico con i calabroni di The
+Pain: Ottimo sapore!
+"
+0x6402,"Calorie Mate:
+Non ancora mangiato. Sapore sconosciuto.
+","Calorie Mate:
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x643a,"Calorie Mate:
+Non ancora mangiato. Pare sia squisito!
+","Calorie Mate:
+Non ancora mangiato. Pare sia squisito!
+"
+0x6471,"Calorie Mate:
+Incredibilmente buono!
+","Calorie Mate:
+Incredibilmente buono!
+"
+0x6497,"Pitone reticolato. Grande serpente
+caratterizzato da motivi reticolati.
+Non ancora mangiato. Sapore sconosciuto.
+","Pitone reticolato. Grande serpente
+caratterizzato da motivi reticolati.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x6509,"Pitone reticolato. Il più lungo
+serpente del mondo.
+Non velenoso. Originario dell'Asia
+sudorientale.
+Non ancora mangiato.
+Pare sia abbastanza saporito.
+","Pitone reticolato. Il più lungo
+serpente del mondo.
+Non velenoso. Originario dell'Asia
+sudorientale.
+Non ancora mangiato.
+Pare sia abbastanza saporito.
+"
+0x65a3,"Pitone reticolato. Grande serpente
+caratterizzato da motivi reticolati.
+Assaggiato. Abbastanza saporito.
+","Pitone reticolato. Grande serpente
+caratterizzato da motivi reticolati.
+Assaggiato. Abbastanza saporito.
+"
+0x660d,"Pitone reticolato. Il più lungo
+serpente del mondo.
+Non velenoso. Originario dell'Asia
+sudorientale.
+Assaggiato. Abbastanza saporito.
+","Pitone reticolato. Il più lungo
+serpente del mondo.
+Non velenoso. Originario dell'Asia
+sudorientale.
+Assaggiato. Abbastanza saporito.
+"
+0x6695,"Anaconda gigante. Grande serpente
+con macchie nere.
+Non ancora mangiato. Sapore sconosciuto.
+","Anaconda gigante. Grande serpente
+con macchie nere.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x66f3,"Anaconda gigante. Il più grande serpente
+del mondo in quanto a peso e diametro.
+Non velenoso. Originario del Sud America.
+Non ancora mangiato. Pare sia saporito.
+","Anaconda gigante. Il più grande serpente
+del mondo in quanto a peso e diametro.
+Non velenoso. Originario del Sud America.
+Non ancora mangiato. Pare sia saporito.
+"
+0x6797,"Anaconda gigante. Grande serpente
+con macchie nere.
+Assaggiato. Piuttosto saporito.
+","Anaconda gigante. Grande serpente
+con macchie nere.
+Assaggiato. Piuttosto saporito.
+"
+0x67ec,"Anaconda gigante. Il più grande serpente
+del mondo in quanto a peso e diametro.
+Non velenoso. Originario del Sud America.
+Assaggiato. Piuttosto saporito.
+","Anaconda gigante. Il più grande serpente
+del mondo in quanto a peso e diametro.
+Non velenoso. Originario del Sud America.
+Assaggiato. Piuttosto saporito.
+"
+0x6888,"Gaviale indiano. Grande coccodrillo.
+Non ancora mangiato. Sapore sconosciuto.
+","Gaviale indiano. Grande coccodrillo.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x68d7,"Gaviale indiano. Grande coccodrillo che
+vive nelle acque dolci di India e Nepal.
+Di solito è una creatura timida, ma è
+impazzito in seguito ai test nucleari.
+Non ancora mangiato. Pare sia saporito.
+","Gaviale indiano. Grande coccodrillo che
+vive nelle acque dolci di India e Nepal.
+Di solito è una creatura timida, ma è
+impazzito in seguito ai test nucleari.
+Non ancora mangiato. Pare sia saporito.
+"
+0x69a0,"Gaviale indiano. Grande coccodrillo.
+Assaggiato. Saporito.
+","Gaviale indiano. Grande coccodrillo.
+Assaggiato. Saporito.
+"
+0x69dc,"Gaviale indiano. Grande coccodrillo che
+vive nelle acque dolci di India e Nepal.
+Di solito è una creatura timida, ma è
+impazzito in seguito ai test nucleari.
+Assaggiato. Saporito.
+","Gaviale indiano. Grande coccodrillo che
+vive nelle acque dolci di India e Nepal.
+Di solito è una creatura timida, ma è
+impazzito in seguito ai test nucleari.
+Assaggiato. Saporito.
+"
+0x6a93,"Bengalino moscato. Piccolo uccello rosso.
+Non ancora mangiato. Sapore sconosciuto.
+","Bengalino moscato. Piccolo uccello rosso.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x6ae7,"Bengalino moscato. Uccellino originario
+della Cina meridionale e dell'Asia sudorientale.
+Attualmente nella stagione degli accoppiamenti,
+quindi i suoi colori sono brillanti.
+Chiesto il sapore, non ho avuto risposta.
+","Bengalino moscato. Uccellino originario
+della Cina meridionale e dell'Asia sudorientale.
+Attualmente nella stagione degli accoppiamenti,
+quindi i suoi colori sono brillanti.
+Chiesto il sapore, non ho avuto risposta.
+"
+0x6bc0,"Bengalino moscato. Piccolo uccello rosso.
+Assaggiato. Sapore schifoso.
+","Bengalino moscato. Piccolo uccello rosso.
+Assaggiato. Sapore schifoso.
+"
+0x6c08,"Bengalino moscato. Uccellino originario
+della Cina meridionale e dell'Asia sudorientale.
+Attualmente nella stagione degli accoppiamenti,
+quindi i suoi colori sono brillanti.
+Assaggiato. Sapore schifoso.
+","Bengalino moscato. Uccellino originario
+della Cina meridionale e dell'Asia sudorientale.
+Attualmente nella stagione degli accoppiamenti,
+quindi i suoi colori sono brillanti.
+Assaggiato. Sapore schifoso.
+"
+0x6cd4,"Gazza. Uccello con una lunga coda.
+Non ancora mangiata. Sapore sconosciuto.
+","Gazza. Uccello con una lunga coda.
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x6d21,"Gazza. Appartiene alla famiglia dei corvi.
+Originaria del Nord America e dell'Eurasia.
+Si distingue per il corpo di un bel
+colore blu scuro e bianco e per la
+lunga coda.
+Sapore sconosciuto, ma pare sia commestibile.
+","Gazza. Appartiene alla famiglia dei corvi.
+Originaria del Nord America e dell'Eurasia.
+Si distingue per il corpo di un bel
+colore blu scuro e bianco e per la
+lunga coda.
+Sapore sconosciuto, ma pare sia commestibile.
+"
+0x6dfa,"Gazza. Uccello con una lunga coda.
+Assaggiata. Sapore schifoso.
+","Gazza. Uccello con una lunga coda.
+Assaggiata. Sapore schifoso.
+"
+0x6e3b,"Gazza.
+Appartiene alla famiglia dei corvi.
+Originaria del Nord America e dell'Eurasia.
+Si distingue per il corpo di un bel
+colore blu scuro e bianco e per la
+lunga coda.
+Assaggiata. Sapore schifoso.
+","Gazza.
+Appartiene alla famiglia dei corvi.
+Originaria del Nord America e dell'Eurasia.
+Si distingue per il corpo di un bel
+colore blu scuro e bianco e per la
+lunga coda.
+Assaggiata. Sapore schifoso.
+"
+0x6f03,"Tordo zufolatore della Sonda. Grande
+uccello nero.
+Non ancora mangiato. Sapore sconosciuto.
+","Tordo zufolatore della Sonda. Grande
+uccello nero.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x6f60,"Tordo zufolatore della Sonda. Uccello
+che si distingue per il lungo becco e
+il grande corpo blu. Originario di Giava
+e Sumatra.
+Sapore sconosciuto, ma pare sia commestibile.
+","Tordo zufolatore della Sonda. Uccello
+che si distingue per il lungo becco e
+il grande corpo blu. Originario di Giava
+e Sumatra.
+Sapore sconosciuto, ma pare sia commestibile.
+"
+0x700f,"Tordo zufolatore della Sonda. Grande
+uccello nero.
+Assaggiato. Non cattivo.
+","Tordo zufolatore della Sonda. Grande
+uccello nero.
+Assaggiato. Non cattivo.
+"
+0x705c,"Tordo zufolatore della Sonda. Uccello
+che si distingue per il lungo becco e
+il grande corpo blu. Originario di Giava
+e Sumatra.
+Assaggiato. Non cattivo.
+","Tordo zufolatore della Sonda. Uccello
+che si distingue per il lungo becco e
+il grande corpo blu. Originario di Giava
+e Sumatra.
+Assaggiato. Non cattivo.
+"
+0x70f6,"Raganella. Rana arboricola stranamente grande.
+Non ancora mangiata. Sapore sconosciuto.
+","Raganella. Rana arboricola stranamente grande.
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x714f,"Raganella. Rana diffusa in tutta l'Asia.
+Arboricola. Vive sugli alberelli e tra i cespugli.
+Sapore sconosciuto. Probabilmente commestibile.
+","Raganella. Rana diffusa in tutta l'Asia.
+Arboricola. Vive sugli alberelli e tra i cespugli.
+Sapore sconosciuto. Probabilmente commestibile.
+"
+0x71dc,"Raganella. Rana arboricola stranamente grande.
+Assaggiata. Sapore schifoso.
+","Raganella. Rana arboricola stranamente grande.
+Assaggiata. Sapore schifoso.
+"
+0x7229,"Raganella. Rana diffusa in tutta l'Asia.
+Arboricola. Vive sugli alberelli e tra i cespugli.
+Assaggiata. Sapore schifoso.
+","Raganella. Rana diffusa in tutta l'Asia.
+Arboricola. Vive sugli alberelli e tra i cespugli.
+Assaggiata. Sapore schifoso.
+"
+0x72a3,"Fungo ostricone russo. Fungo
+dal cappello piatto.
+Non ancora mangiato. Sapore sconosciuto.
+","Fungo ostricone russo. Fungo
+dal cappello piatto.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x72ff,"Fungo ostricone russo. Fungo della
+famiglia shimeji, si trova solo a
+Tselinoyarsk. Si sa che è commestibile.
+","Fungo ostricone russo. Fungo della
+famiglia shimeji, si trova solo a
+Tselinoyarsk. Si sa che è commestibile.
+"
+0x736e,"Fungo ostricone russo. Fungo
+dal cappello piatto.
+Assaggiato. Sapore schifoso.
+","Fungo ostricone russo. Fungo
+dal cappello piatto.
+Assaggiato. Sapore schifoso.
+"
+0x73be,"Fungo ostricone russo. Fungo della
+famiglia shimeji, si trova solo a
+Tselinoyarsk. Si sa che è commestibile.
+Assaggiato. Sapore schifoso.
+","Fungo ostricone russo. Fungo della
+famiglia shimeji, si trova solo a
+Tselinoyarsk. Si sa che è commestibile.
+Assaggiato. Sapore schifoso.
+"
+0x744a,"Fungo dell'inchiostro siberiano.
+Fungo marrone.
+Non ancora mangiato. Sapore sconosciuto.
+","Fungo dell'inchiostro siberiano.
+Fungo marrone.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x74a4,"Fungo dell'inchiostro siberiano.
+Tipo di fungo che si trova solo
+dalle parti di Tselinoyarsk.
+Non ancora mangiato. Si sa che è
+commestibile.
+","Fungo dell'inchiostro siberiano.
+Tipo di fungo che si trova solo
+dalle parti di Tselinoyarsk.
+Non ancora mangiato. Si sa che è
+commestibile.
+"
+0x7533,"Fungo dell'inchiostro siberiano.
+Fungo marrone.
+Assaggiato. Sapore schifoso.
+","Fungo dell'inchiostro siberiano.
+Fungo marrone.
+Assaggiato. Sapore schifoso.
+"
+0x7581,"Fungo dell'inchiostro siberiano.
+Tipo di fungo che si trova solo
+dalle parti di Tselinoyarsk. Si sa
+che è commestibile.
+Assaggiato. Sapore schifoso.
+","Fungo dell'inchiostro siberiano.
+Tipo di fungo che si trova solo
+dalle parti di Tselinoyarsk. Si sa
+che è commestibile.
+Assaggiato. Sapore schifoso.
+"
+0x7618,"Yabloko moloko. Frutto rosso.
+Non ancora mangiato. Sapore sconosciuto.
+","Yabloko moloko. Frutto rosso.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x7660,"Yabloko moloko. Frutto simile alla
+mela caimito, cresce solo nella
+regione di Tselinoyarsk.
+Yabloko moloko significa ""mela che
+gronda latte"". Tagliandolo nel senso
+della lunghezza appare una striscia
+particolare a forma di stella.
+Non ancora mangiato. Pare sia saporito.
+","Yabloko moloko. Frutto simile alla
+mela caimito, cresce solo nella
+regione di Tselinoyarsk.
+Yabloko moloko significa ""mela che
+gronda latte"". Tagliandolo nel senso
+della lunghezza appare una striscia
+particolare a forma di stella.
+Non ancora mangiato. Pare sia saporito.
+"
+0x7770,"Yabloko moloko. Frutto rosso.
+Assaggiato. Non molto buono.
+","Yabloko moloko. Frutto rosso.
+Assaggiato. Non molto buono.
+"
+0x77ac,"Yabloko moloko. Frutto simile alla
+mela caimito, cresce solo nella
+regione di Tselinoyarsk.
+Yabloko moloko significa ""mela che
+gronda latte"". Tagliandolo nel senso
+della lunghezza appare una striscia
+particolare a forma di stella.
+Assaggiato. Non molto buono.
+","Yabloko moloko. Frutto simile alla
+mela caimito, cresce solo nella
+regione di Tselinoyarsk.
+Yabloko moloko significa ""mela che
+gronda latte"". Tagliandolo nel senso
+della lunghezza appare una striscia
+particolare a forma di stella.
+Assaggiato. Non molto buono.
+"
+0x78b1,"Falso mango russo. Frutto giallo.
+Non ancora mangiato. Sapore sconosciuto.
+","Falso mango russo. Frutto giallo.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x78fd,"Falso mango russo. Frutto somigliante
+al mango che cresce solo a Tselinoyarsk.
+I semi curano il mal di stomaco.
+Cogliendone uno compare una
+Medicina digestiva.
+Non ancora mangiato. Pare sia saporito.
+","Falso mango russo. Frutto somigliante
+al mango che cresce solo a Tselinoyarsk.
+I semi curano il mal di stomaco.
+Cogliendone uno compare una
+Medicina digestiva.
+Non ancora mangiato. Pare sia saporito.
+"
+0x79c6,"Falso mango russo. Frutto giallo.
+Assaggiato. Abbastanza saporito.
+","Falso mango russo. Frutto giallo.
+Assaggiato. Abbastanza saporito.
+"
+0x7a0a,"Falso mango russo. Frutto somigliante
+al mango che cresce solo a Tselinoyarsk.
+I semi curano il mal di stomaco.
+Cogliendone uno compare una
+Medicina digestiva.
+Assaggiato. Abbastanza saporito.
+","Falso mango russo. Frutto somigliante
+al mango che cresce solo a Tselinoyarsk.
+I semi curano il mal di stomaco.
+Cogliendone uno compare una
+Medicina digestiva.
+Assaggiato. Abbastanza saporito.
+"
+0x7acc,"Golova. Frutto di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+","Golova. Frutto di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x7b1b,"Golova. Tipo di jackfruit che cresce
+solo a Tselinoyarsk.
+Golova significa ""testa"" e il frutto deve
+il nome al fatto che cresce fino a
+raggiungere le dimensioni di una
+testa umana.
+Non ancora mangiato. Pare sia
+abbastanza saporito.
+","Golova. Tipo di jackfruit che cresce
+solo a Tselinoyarsk.
+Golova significa ""testa"" e il frutto deve
+il nome al fatto che cresce fino a
+raggiungere le dimensioni di una
+testa umana.
+Non ancora mangiato. Pare sia
+abbastanza saporito.
+"
+0x7c04,"Golova. Frutto di grandi dimensioni.
+Assaggiato. Abbastanza saporito.
+","Golova. Frutto di grandi dimensioni.
+Assaggiato. Abbastanza saporito.
+"
+0x7c4b,"Golova. Tipo di jackfruit che cresce
+solo a Tselinoyarsk.
+Golova significa ""testa"" e il frutto deve
+il nome al fatto che cresce fino a
+raggiungere le dimensioni di una
+testa umana.
+Assaggiato. Abbastanza saporito.
+","Golova. Tipo di jackfruit che cresce
+solo a Tselinoyarsk.
+Golova significa ""testa"" e il frutto deve
+il nome al fatto che cresce fino a
+raggiungere le dimensioni di una
+testa umana.
+Assaggiato. Abbastanza saporito.
+"
+0x7d22,"Melone rampicante. Melone che
+cresce su una pianta rampicante.
+Non ancora mangiato. Sapore sconosciuto.
+","Melone rampicante. Melone che
+cresce su una pianta rampicante.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x7d8b,"Melone rampicante. Melone rampicante
+che si trova solo a Tselinoyarsk. Pieno
+di nutrienti.
+Non ancora mangiato. Pare sia
+abbastanza saporito.
+","Melone rampicante. Melone rampicante
+che si trova solo a Tselinoyarsk. Pieno
+di nutrienti.
+Non ancora mangiato. Pare sia
+abbastanza saporito.
+"
+0x7e1a,"Melone rampicante. Melone che
+cresce su una pianta rampicante.
+Assaggiato. Abbastanza saporito.
+","Melone rampicante. Melone che
+cresce su una pianta rampicante.
+Assaggiato. Abbastanza saporito.
+"
+0x7e7b,"Melone rampicante. Melone rampicante
+che si trova solo a Tselinoyarsk. Pieno
+di nutrienti.
+Assaggiato. Abbastanza saporito.
+","Melone rampicante. Melone rampicante
+che si trova solo a Tselinoyarsk. Pieno
+di nutrienti.
+Assaggiato. Abbastanza saporito.
+"
+0x7ef8,"Nido di calabroni del Baltico. Un nido di calabroni.
+Non ancora mangiato. Sapore sconosciuto.
+","Nido di calabroni del Baltico. Un nido di calabroni.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x7f57,"Nido di calabroni del Baltico. Nido di calabroni
+del Baltico, un tipo di calabroni presente solo
+in questa zona.
+Pieno di miele. Non ancora mangiato.
+Pare sia squisito!
+","Nido di calabroni del Baltico. Nido di calabroni
+del Baltico, un tipo di calabroni presente solo
+in questa zona.
+Pieno di miele. Non ancora mangiato.
+Pare sia squisito!
+"
+0x8001,"Nido di calabroni del Baltico. Un nido di calabroni.
+Assaggiato. Squisito.
+","Nido di calabroni del Baltico. Un nido di calabroni.
+Assaggiato. Squisito.
+"
+0x804d,"Nido di calabroni del Baltico. Il nido dei
+calabroni del Baltico.
+Tipo di calabroni presenti solo in questa zona.
+Pieno di miele. Assaggiato. Squisito.
+","Nido di calabroni del Baltico. Il nido dei
+calabroni del Baltico.
+Tipo di calabroni presenti solo in questa zona.
+Pieno di miele. Assaggiato. Squisito.
+"
+0x80e6,"Ratto. Un comune topo.
+Non ancora mangiato. Sapore sconosciuto.
+","Ratto. Un comune topo.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x8127,"Ratto. Tipo di ratto selvatico marrone allevato
+dagli uomini come animale da compagnia
+e da laboratorio.
+Non ancora mangiato. Pare sia ottimo.
+","Ratto. Tipo di ratto selvatico marrone allevato
+dagli uomini come animale da compagnia
+e da laboratorio.
+Non ancora mangiato. Pare sia ottimo.
+"
+0x81b7,"Ratto. Un comune topo.
+Assaggiato. Ottimo.
+","Ratto. Un comune topo.
+Assaggiato. Ottimo.
+"
+0x81e3,"Ratto. Tipo di ratto selvatico marrone allevato
+dagli uomini come animale da compagnia
+e da laboratorio.
+Assaggiato. Ottimo.
+","Ratto. Tipo di ratto selvatico marrone allevato
+dagli uomini come animale da compagnia
+e da laboratorio.
+Assaggiato. Ottimo.
+"
+0x8261,"Cobra reale. Grande serpente grigio.
+Non ancora mangiato. Sapore sconosciuto.
+","Cobra reale. Grande serpente grigio.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x82b0,"Cobra reale. Uno dei più grandi
+serpenti al mondo. Il suo morso
+può uccidere persino un elefante.
+Originario dell'Asia sudorientale.
+Non ancora mangiato. Pare non sia cattivo.
+","Cobra reale. Uno dei più grandi
+serpenti al mondo. Il suo morso
+può uccidere persino un elefante.
+Originario dell'Asia sudorientale.
+Non ancora mangiato. Pare non sia cattivo.
+"
+0x8363,"Cobra reale. Grande serpente grigio.
+Assaggiato. Non cattivo.
+","Cobra reale. Grande serpente grigio.
+Assaggiato. Non cattivo.
+"
+0x83a2,"Cobra reale. Uno dei più grandi
+serpenti al mondo. Il suo morso
+può uccidere persino un elefante.
+Originario dell'Asia sudorientale.
+Assaggiato. Non cattivo.
+","Cobra reale. Uno dei più grandi
+serpenti al mondo. Il suo morso
+può uccidere persino un elefante.
+Originario dell'Asia sudorientale.
+Assaggiato. Non cattivo.
+"
+0x8443,"Cobra di Taiwan. Serpente caratterizzato
+da un motivo a forma di occhiali.
+Non ancora mangiato. Sapore sconosciuto.
+","Cobra di Taiwan. Serpente caratterizzato
+da un motivo a forma di occhiali.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x84b8,"Cobra di Taiwan. Serpente che vive
+a Taiwan e in Cina meridionale.
+Contiene una potente neurotossina.
+Molto aggressivo.
+Pare che il sapore sia sconosciuto.
+","Cobra di Taiwan. Serpente che vive
+a Taiwan e in Cina meridionale.
+Contiene una potente neurotossina.
+Molto aggressivo.
+Pare che il sapore sia sconosciuto.
+"
+0x8555,"Cobra di Taiwan. Serpente caratterizzato
+da un motivo a forma di occhiali.
+Assaggiato. Ottimo.
+","Cobra di Taiwan. Serpente caratterizzato
+da un motivo a forma di occhiali.
+Assaggiato. Ottimo.
+"
+0x85b5,"Cobra di Taiwan. Serpente che vive
+a Taiwan e in Cina meridionale.
+Contiene una potente neurotossina.
+Molto aggressivo.
+Assaggiato. Ottimo.
+","Cobra di Taiwan. Serpente che vive
+a Taiwan e in Cina meridionale.
+Contiene una potente neurotossina.
+Molto aggressivo.
+Assaggiato. Ottimo.
+"
+0x8642,"Cobra thai. Serpente marrone.
+Non ancora mangiato. Sapore sconosciuto.
+","Cobra thai. Serpente marrone.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x868a,"Cobra thai. Serpente velenoso originario
+della Tailandia, dell'Indocina e della
+Cina meridionale.
+Contiene una potente neurotossina.
+Mi hanno detto di assaggiarlo.
+","Cobra thai. Serpente velenoso originario
+della Tailandia, dell'Indocina e della
+Cina meridionale.
+Contiene una potente neurotossina.
+Mi hanno detto di assaggiarlo.
+"
+0x872f,"Cobra thai. Serpente marrone.
+Assaggiato. Ottimo.
+","Cobra thai. Serpente marrone.
+Assaggiato. Ottimo.
+"
+0x8762,"Cobra thai. Serpente velenoso originario
+della Tailandia, dell'Indocina e della
+Cina meridionale.
+Contiene una potente neurotossina.
+Assaggiato. Ottimo.
+","Cobra thai. Serpente velenoso originario
+della Tailandia, dell'Indocina e della
+Cina meridionale.
+Contiene una potente neurotossina.
+Assaggiato. Ottimo.
+"
+0x87fc,"Serpente corallo. Serpente dai colori vivaci.
+Non ancora mangiato. Sapore sconosciuto.
+","Serpente corallo. Serpente dai colori vivaci.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x8854,"Serpente corallo. Serpente velenoso
+originario delle Americhe.
+Contiene una potentissima neurotossina.
+Non ancora mangiato. Pare non sia cattivo.
+","Serpente corallo. Serpente velenoso
+originario delle Americhe.
+Contiene una potentissima neurotossina.
+Non ancora mangiato. Pare non sia cattivo.
+"
+0x88e7,"Serpente corallo. Serpente dai colori vivaci.
+Assaggiato. Non cattivo.
+","Serpente corallo. Serpente dai colori vivaci.
+Assaggiato. Non cattivo.
+"
+0x892f,"Serpente corallo. Serpente velenoso
+originario delle Americhe.
+Contiene una potentissima neurotossina.
+Assaggiato. Non cattivo.
+","Serpente corallo. Serpente velenoso
+originario delle Americhe.
+Contiene una potentissima neurotossina.
+Assaggiato. Non cattivo.
+"
+0x89b0,"Serpente del latte. Serpente dai colori vivaci.
+Non ancora mangiato. Sapore sconosciuto.
+","Serpente del latte. Serpente dai colori vivaci.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x8a0a,"Serpente del latte. Originario delle
+Americhe. Somiglia molto al
+serpente corallo, ma non è velenoso.
+Non ancora mangiato. Pare non sia granché.
+","Serpente del latte. Originario delle
+Americhe. Somiglia molto al
+serpente corallo, ma non è velenoso.
+Non ancora mangiato. Pare non sia granché.
+"
+0x8a9e,"Serpente del latte. Serpente dai colori vivaci.
+Assaggiato. Sapore schifoso.
+","Serpente del latte. Serpente dai colori vivaci.
+Assaggiato. Sapore schifoso.
+"
+0x8aec,"Serpente del latte. Originario delle
+Americhe. Somiglia molto al
+serpente corallo, ma non è velenoso.
+Assaggiato. Sapore schifoso.
+","Serpente del latte. Originario delle
+Americhe. Somiglia molto al
+serpente corallo, ma non è velenoso.
+Assaggiato. Sapore schifoso.
+"
+0x8b71,"Pitone verde arboricolo. Grande serpente verde.
+Non ancora mangiato. Sapore sconosciuto.
+","Pitone verde arboricolo. Grande serpente verde.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x8bcb,"Pitone verde arboricolo. Grande serpente
+originario dell'Australia e della Nuova
+Zelanda. Non velenoso.
+Non mi hanno detto che sapore ha.
+","Pitone verde arboricolo. Grande serpente
+originario dell'Australia e della Nuova
+Zelanda. Non velenoso.
+Non mi hanno detto che sapore ha.
+"
+0x8c56,"Pitone verde arboricolo. Grande serpente verde.
+Assaggiato. Abbastanza saporito.
+","Pitone verde arboricolo. Grande serpente verde.
+Assaggiato. Abbastanza saporito.
+"
+0x8ca8,"Pitone verde arboricolo. Grande serpente
+originario dell'Australia e della Nuova
+Zelanda.
+Non velenoso.
+Assaggiato. Abbastanza saporito.
+","Pitone verde arboricolo. Grande serpente
+originario dell'Australia e della Nuova
+Zelanda.
+Non velenoso.
+Assaggiato. Abbastanza saporito.
+"
+0x8d32,"Rana subaspera. Rana grande.
+Non ancora mangiata. Sapore sconosciuto.
+","Rana subaspera. Rana grande.
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x8d79,"Rana subaspera. Rana rara, si trova solo
+sull'isola di Amami Oshima. Si distingue
+per le zampe a cinque dita. Si sa che è
+commestibile.
+Non ancora mangiata.
+Pare sia abbastanza saporita.
+","Rana subaspera. Rana rara, si trova solo
+sull'isola di Amami Oshima. Si distingue
+per le zampe a cinque dita. Si sa che è
+commestibile.
+Non ancora mangiata.
+Pare sia abbastanza saporita.
+"
+0x8e36,"Rana subaspera. Rana grande.
+Assaggiata. Abbastanza saporita.
+","Rana subaspera. Rana grande.
+Assaggiata. Abbastanza saporita.
+"
+0x8e75,"Rana subaspera. Rana rara, si trova solo
+sull'isola di Amami Oshima. Si distingue
+dalle zampe con cinque dita. Si sa che è
+commestibile.
+Assaggiata. Abbastanza saporita.
+","Rana subaspera. Rana rara, si trova solo
+sull'isola di Amami Oshima. Si distingue
+dalle zampe con cinque dita. Si sa che è
+commestibile.
+Assaggiata. Abbastanza saporita.
+"
+0x8f21,"Rana freccia. Rana dai colori vivaci.
+Non ancora mangiata. Sapore sconosciuto.
+","Rana freccia. Rana dai colori vivaci.
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x8f71,"Rana freccia. Rana originaria dell'America
+centrale e meridionale.
+Contiene una potente neurotossina.
+Non ancora mangiata. Pare sia velenosa.
+","Rana freccia. Rana originaria dell'America
+centrale e meridionale.
+Contiene una potente neurotossina.
+Non ancora mangiata. Pare sia velenosa.
+"
+0x9000,"Rana freccia. Rana dai colori vivaci.
+Assaggiata. Ha provocato intossicazione.
+","Rana freccia. Rana dai colori vivaci.
+Assaggiata. Ha provocato intossicazione.
+"
+0x9050,"Rana freccia. Rana originaria dell'America
+centrale e meridionale.
+Contiene una potente neurotossina.
+Assaggiata. Ha provocato intossicazione.
+","Rana freccia. Rana originaria dell'America
+centrale e meridionale.
+Contiene una potente neurotossina.
+Assaggiata. Ha provocato intossicazione.
+"
+0x90e0,"Coniglio europeo. Un comune coniglio.
+Non ancora mangiato. Sapore sconosciuto.
+","Coniglio europeo. Un comune coniglio.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x9130,"Coniglio europeo. Originario della regione del
+Mediterraneo, ma ora diffuso in tutto il mondo.
+I conigli europei presenti in questa zona
+hanno nel sangue speciali agenti anti-veleno.
+Catturandone uno, compare il Siero.
+Non ancora mangiato. Si sa che è commestibile.
+","Coniglio europeo. Originario della regione del
+Mediterraneo, ma ora diffuso in tutto il mondo.
+I conigli europei presenti in questa zona
+hanno nel sangue speciali agenti anti-veleno.
+Catturandone uno, compare il Siero.
+Non ancora mangiato. Si sa che è commestibile.
+"
+0x923c,"Coniglio europeo. Un comune coniglio.
+Assaggiato. Abbastanza buono.
+","Coniglio europeo. Un comune coniglio.
+Assaggiato. Abbastanza buono.
+"
+0x9281,"Coniglio europeo. Originario della regione del
+Mediterraneo, ma ora diffuso in tutto il mondo.
+I conigli europei presenti in questa zona
+hanno nel sangue speciali agenti anti-veleno.
+Catturandone uno, compare il Siero.
+Assaggiato. Abbastanza buono.
+","Coniglio europeo. Originario della regione del
+Mediterraneo, ma ora diffuso in tutto il mondo.
+I conigli europei presenti in questa zona
+hanno nel sangue speciali agenti anti-veleno.
+Catturandone uno, compare il Siero.
+Assaggiato. Abbastanza buono.
+"
+0x937b,"Scoiattolo volante giapponese.
+Grande scoiattolo volante.
+Non ancora mangiato. Sapore sconosciuto.
+","Scoiattolo volante giapponese.
+Grande scoiattolo volante.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x93df,"Scoiattolo volante giapponese. Appartiene
+alla famiglia degli scoiattoli. Il collo, le zampe
+anteriori, le zampe posteriori e la coda sono
+uniti da una membrana che gli consente di
+planare da un albero all'altro.
+Mi hanno detto che il sapore è sconosciuto.
+","Scoiattolo volante giapponese. Appartiene
+alla famiglia degli scoiattoli. Il collo, le zampe
+anteriori, le zampe posteriori e la coda sono
+uniti da una membrana che gli consente di
+planare da un albero all'altro.
+Mi hanno detto che il sapore è sconosciuto.
+"
+0x94e2,"Scoiattolo volante giapponese.
+Grande scoiattolo volante.
+Assaggiato. Sapore schifoso.
+","Scoiattolo volante giapponese.
+Grande scoiattolo volante.
+Assaggiato. Sapore schifoso.
+"
+0x953a,"Scoiattolo volante giapponese. Appartiene
+alla famiglia degli scoiattoli. Il collo, le zampe
+anteriori, le zampe posteriori e la coda sono
+uniti da una membrana che gli consente di
+planare da un albero all'altro.
+Assaggiato. Sapore schifoso.
+","Scoiattolo volante giapponese. Appartiene
+alla famiglia degli scoiattoli. Il collo, le zampe
+anteriori, le zampe posteriori e la coda sono
+uniti da una membrana che gli consente di
+planare da un albero all'altro.
+Assaggiato. Sapore schifoso.
+"
+0x962d,"Markhor. Capra di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+","Markhor. Capra di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x967c,"Markhor. Capra selvatica che vive nelle
+regioni montuose, tra cui l'Himalaya.
+Sembra che il nome ""markhor"" significhi
+""mangiatore di serpenti"". Non può essere
+catturato vivo.
+Non ancora mangiato. Dovrebbe essere squisito.
+","Markhor. Capra selvatica che vive nelle
+regioni montuose, tra cui l'Himalaya.
+Sembra che il nome ""markhor"" significhi
+""mangiatore di serpenti"". Non può essere
+catturato vivo.
+Non ancora mangiato. Dovrebbe essere squisito.
+"
+0x975c,"Markhor. Capra di grandi dimensioni.
+Assaggiato. Squisito.
+","Markhor. Capra di grandi dimensioni.
+Assaggiato. Squisito.
+"
+0x9798,"Markhor. Capra selvatica che vive nelle
+regioni montuose, tra cui l'Himalaya.
+Sembra che il nome ""markhor"" significhi
+""mangiatore di serpenti"". Non può essere
+catturato vivo.
+Assaggiato. Squisito.
+","Markhor. Capra selvatica che vive nelle
+regioni montuose, tra cui l'Himalaya.
+Sembra che il nome ""markhor"" significhi
+""mangiatore di serpenti"". Non può essere
+catturato vivo.
+Assaggiato. Squisito.
+"
+0x985f,"Pipistrello vampiro. Pipistrello di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+","Pipistrello vampiro. Pipistrello di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x98c0,"Pipistrello vampiro. Pipistrello che succhia il
+sangue. Fa calare il vigore mentre succhia il
+sangue. Non ancora mangiato, ma pare che
+sia commestibile, all'occorrenza.
+","Pipistrello vampiro. Pipistrello che succhia il
+sangue. Fa calare il vigore mentre succhia il
+sangue. Non ancora mangiato, ma pare che
+sia commestibile, all'occorrenza.
+"
+0x996a,"Pipistrello vampiro. Pipistrello di grandi dimensioni.
+Assaggiato. Sapore schifoso.
+","Pipistrello vampiro. Pipistrello di grandi dimensioni.
+Assaggiato. Sapore schifoso.
+"
+0x99bf,"Pipistrello vampiro. Pipistrello che succhia
+il sangue.
+Fa calare il vigore mentre succhia il sangue.
+Assaggiato. Sapore schifoso.
+","Pipistrello vampiro. Pipistrello che succhia
+il sangue.
+Fa calare il vigore mentre succhia il sangue.
+Assaggiato. Sapore schifoso.
+"
+0x9a43,"Tarantola blu cobalto. Ragno di grandi dimensioni.
+Non ancora mangiata. Sapore sconosciuto.
+","Tarantola blu cobalto. Ragno di grandi dimensioni.
+Non ancora mangiata. Sapore sconosciuto.
+"
+0x9aa0,"Tarantola blu cobalto. Ragno dotato
+di un potente veleno.
+Abita soprattutto in nidi sotterranei.
+Molto aggressiva e capace di catturare
+prede grandi come topi e serpenti.
+Non ancora mangiata. Pare non sia granché.
+","Tarantola blu cobalto. Ragno dotato
+di un potente veleno.
+Abita soprattutto in nidi sotterranei.
+Molto aggressiva e capace di catturare
+prede grandi come topi e serpenti.
+Non ancora mangiata. Pare non sia granché.
+"
+0x9b78,"Tarantola blu cobalto. Ragno di grandi dimensioni.
+Assaggiata. Sapore schifoso.
+","Tarantola blu cobalto. Ragno di grandi dimensioni.
+Assaggiata. Sapore schifoso.
+"
+0x9bc9,"Tarantola blu cobalto.
+Ragno dotato di un potente veleno.
+Abita soprattutto in nidi sotterranei.
+Molto aggressiva e capace di catturare
+prede grandi come topi e serpenti.
+Assaggiata. Sapore schifoso.
+","Tarantola blu cobalto.
+Ragno dotato di un potente veleno.
+Abita soprattutto in nidi sotterranei.
+Molto aggressiva e capace di catturare
+prede grandi come topi e serpenti.
+Assaggiata. Sapore schifoso.
+"
+0x9c92,"Scorpione imperatore.
+Scorpione di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+","Scorpione imperatore.
+Scorpione di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x9cf2,"Scorpione imperatore. Il più grande
+scorpione del mondo.
+Dotato di una potente neurotossina.
+Non ancora mangiato. Pare sia cattivo.
+","Scorpione imperatore. Il più grande
+scorpione del mondo.
+Dotato di una potente neurotossina.
+Non ancora mangiato. Pare sia cattivo.
+"
+0x9d78,"Scorpione imperatore.
+Scorpione di grandi dimensioni.
+Assaggiato. Sapore cattivo.
+","Scorpione imperatore.
+Scorpione di grandi dimensioni.
+Assaggiato. Sapore cattivo.
+"
+0x9dcb,"Scorpione imperatore. Il più grande
+scorpione del mondo.
+Dotato di una potente neurotossina.
+Assaggiato. Sapore schifoso.
+","Scorpione imperatore. Il più grande
+scorpione del mondo.
+Dotato di una potente neurotossina.
+Assaggiato. Sapore schifoso.
+"
+0x9e47,"Pappagallo. Questo uccello ha un'aria familiare.
+Non ancora mangiato. Sapore sconosciuto.
+","Pappagallo. Questo uccello ha un'aria familiare.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0x9ea2,"Pappagallo. Pappagallo molto loquace
+originario dell'Indocina.
+Sembra che sia stato l'animale da compagnia
+di qualcuno. Mi è stato detto di non mangiarlo.
+","Pappagallo. Pappagallo molto loquace
+originario dell'Indocina.
+Sembra che sia stato l'animale da compagnia
+di qualcuno. Mi è stato detto di non mangiarlo.
+"
+0x9f3f,"Pappagallo. Questo uccello ha un'aria familiare.
+Assaggiato. Sapore schifoso.
+","Pappagallo. Questo uccello ha un'aria familiare.
+Assaggiato. Sapore schifoso.
+"
+0x9f8e,"Pappagallo. Pappagallo molto loquace
+originario dell'Indocina.
+Sembra che sia stato l'animale da compagnia
+di qualcuno.
+Assaggiato. Sapore schifoso.
+","Pappagallo. Pappagallo molto loquace
+originario dell'Indocina.
+Sembra che sia stato l'animale da compagnia
+di qualcuno.
+Assaggiato. Sapore schifoso.
+"
+0xa024,"Avvoltoio groppabianca.
+Avvoltoio di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+","Avvoltoio groppabianca.
+Avvoltoio di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xa086,"Avvoltoio groppabianca. Grande uccello
+rapace diffuso in India.
+Si nutre principalmente di carne morta.
+Non può essere catturato vivo.
+Non ancora mangiato. Sapore sconosciuto.
+","Avvoltoio groppabianca. Grande uccello
+rapace diffuso in India.
+Si nutre principalmente di carne morta.
+Non può essere catturato vivo.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xa138,"Avvoltoio groppabianca.
+Avvoltoio di grandi dimensioni.
+Assaggiato. Abbastanza saporito.
+","Avvoltoio groppabianca.
+Avvoltoio di grandi dimensioni.
+Assaggiato. Abbastanza saporito.
+"
+0xa192,"Avvoltoio groppabianca. Grande uccello
+rapace diffuso in India.
+Si nutre principalmente di carne morta.
+Non può essere catturato vivo.
+Assaggiato. Abbastanza saporito.
+","Avvoltoio groppabianca. Grande uccello
+rapace diffuso in India.
+Si nutre principalmente di carne morta.
+Non può essere catturato vivo.
+Assaggiato. Abbastanza saporito.
+"
+0xa23c,"Carangide. Pesce dagli occhi color argento.
+Non ancora mangiato. Sapore sconosciuto.
+","Carangide. Pesce dagli occhi color argento.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xa292,"Carangide. Appartiene alla famiglia
+dei maccarelli. Vive nelle acque
+costiere e salmastre delle regioni
+tropicali e subtropicali. Gli esemplari
+adulti vivono nei pressi delle barriere
+coralline.
+Non ancora mangiato. Pare possa
+causare intossicazione.
+","Carangide. Appartiene alla famiglia
+dei maccarelli. Vive nelle acque
+costiere e salmastre delle regioni
+tropicali e subtropicali. Gli esemplari
+adulti vivono nei pressi delle barriere
+coralline.
+Non ancora mangiato. Pare possa
+causare intossicazione.
+"
+0xa38e,"Carangide. Pesce dagli occhi color argento.
+Assaggiato. Sapore schifoso.
+","Carangide. Pesce dagli occhi color argento.
+Assaggiato. Sapore schifoso.
+"
+0xa3d8,"Carangide. Appartiene alla famiglia
+dei maccarelli. Vive nelle acque
+costiere e salmastre delle regioni
+tropicali e subtropicali. Gli esemplari
+adulti vivono nei pressi delle barriere
+coralline.
+Assaggiato. Sapore schifoso.
+","Carangide. Appartiene alla famiglia
+dei maccarelli. Vive nelle acque
+costiere e salmastre delle regioni
+tropicali e subtropicali. Gli esemplari
+adulti vivono nei pressi delle barriere
+coralline.
+Assaggiato. Sapore schifoso.
+"
+0xa4b9,"Leptobarbus hoeveni. Pesce simile
+alla carpa.
+Non ancora mangiato. Sapore sconosciuto.
+","Leptobarbus hoeveni. Pesce simile
+alla carpa.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xa511,"Leptobarbus hoeveni. Appartiene
+alla famiglia delle carpe, originario
+dell'Asia sudorientale.
+Carne saporita, ma un po' oleosa.
+","Leptobarbus hoeveni. Appartiene
+alla famiglia delle carpe, originario
+dell'Asia sudorientale.
+Carne saporita, ma un po' oleosa.
+"
+0xa592,"Leptobarbus hoeveni. Pesce simile
+alla carpa.
+Assaggiato. Ottimo.
+","Leptobarbus hoeveni. Pesce simile
+alla carpa.
+Assaggiato. Ottimo.
+"
+0xa5d5,"Leptobarbus hoeveni. Appartiene
+alla famiglia delle carpe, originario
+dell'Asia sudorientale.
+Assaggiato. Ottimo.
+","Leptobarbus hoeveni. Appartiene
+alla famiglia delle carpe, originario
+dell'Asia sudorientale.
+Assaggiato. Ottimo.
+"
+0xa648,"Arowana. Pesce di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+","Arowana. Pesce di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xa697,"Arowana. Pesce antico che vive
+nelle acque dolci tropicali.
+Troppo grande da catturare vivo.
+Non ancora mangiato. Pare non
+sia cattivo.
+","Arowana. Pesce antico che vive
+nelle acque dolci tropicali.
+Troppo grande da catturare vivo.
+Non ancora mangiato. Pare non
+sia cattivo.
+"
+0xa720,"Arowana. Pesce di grandi dimensioni.
+Assaggiato. Abbastanza saporito.
+","Arowana. Pesce di grandi dimensioni.
+Assaggiato. Abbastanza saporito.
+"
+0xa767,"Arowana. Pesce antico che vive
+nelle acque dolci tropicali.
+Troppo grande da catturare vivo.
+Assaggiato. Abbastanza saporito.
+","Arowana. Pesce antico che vive
+nelle acque dolci tropicali.
+Troppo grande da catturare vivo.
+Assaggiato. Abbastanza saporito.
+"
+0xa7e6,"Granchio delle mangrovie del Kenya.
+Granchio di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+","Granchio delle mangrovie del Kenya.
+Granchio di grandi dimensioni.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xa853,"Granchio delle mangrovie del Kenya.
+Granchio che vive sulla terraferma
+diffuso in Sudafrica, India, Polinesia
+e altri posti.
+Non ancora mangiato. Pare sia
+saporito.
+","Granchio delle mangrovie del Kenya.
+Granchio che vive sulla terraferma
+diffuso in Sudafrica, India, Polinesia
+e altri posti.
+Non ancora mangiato. Pare sia
+saporito.
+"
+0xa8f9,"Granchio delle mangrovie del Kenya.
+Granchio di grandi dimensioni.
+Assaggiato. Abbastanza saporito.
+","Granchio delle mangrovie del Kenya.
+Granchio di grandi dimensioni.
+Assaggiato. Abbastanza saporito.
+"
+0xa95e,"Granchio delle mangrovie del Kenya.
+Granchio che vive sulla terraferma
+diffuso in Sudafrica, India, Polinesia
+e altri posti.
+Assaggiato. Abbastanza saporito.
+","Granchio delle mangrovie del Kenya.
+Granchio che vive sulla terraferma
+diffuso in Sudafrica, India, Polinesia
+e altri posti.
+Assaggiato. Abbastanza saporito.
+"
+0xa9fd,"Tsuchinoko. Mai visto prima un
+serpente del genere.
+Non ancora mangiato. Sapore sconosciuto.
+","Tsuchinoko. Mai visto prima un
+serpente del genere.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xaa5b,"Tsuchinoko. Misterioso animale non
+identificato, avvistato spesso in Giappone.
+Conosciuto come ""serpente fantasma"".
+Non ancora mangiato. Sapore sconosciuto.
+","Tsuchinoko. Misterioso animale non
+identificato, avvistato spesso in Giappone.
+Conosciuto come ""serpente fantasma"".
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xaaf9,"Tsuchinoko. Mai visto prima un
+serpente del genere.
+Incredibilmente buono!
+","Tsuchinoko. Mai visto prima un
+serpente del genere.
+Incredibilmente buono!
+"
+0xab45,"Tsuchinoko. Misterioso animale non
+identificato, avvistato spesso in Giappone.
+Conosciuto come ""serpente fantasma"".
+Incredibilmente buono!
+","Tsuchinoko. Misterioso animale non
+identificato, avvistato spesso in Giappone.
+Conosciuto come ""serpente fantasma"".
+Incredibilmente buono!
+"
+0xabd1,"Fungo luminescente degli Urali.
+Fungo somigliante allo shiitake.
+Non ancora mangiato. Sapore sconosciuto.
+","Fungo luminescente degli Urali.
+Fungo somigliante allo shiitake.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xac3c,"Fungo luminescente degli Urali.
+Fungo della famiglia shimeji,
+si trova solo in questa regione.
+A prima vista, sembra un fungo
+shiitake.
+Non ancora mangiato, ma pare
+sia commestibile.
+","Fungo luminescente degli Urali.
+Fungo della famiglia shimeji,
+si trova solo in questa regione.
+A prima vista, sembra un fungo
+shiitake.
+Non ancora mangiato, ma pare
+sia commestibile.
+"
+0xacf4,"Fungo luminescente degli Urali.
+Fungo somigliante allo shiitake.
+Una volta mangiato, ha provocato
+intossicazione.
+","Fungo luminescente degli Urali.
+Fungo somigliante allo shiitake.
+Una volta mangiato, ha provocato
+intossicazione.
+"
+0xad67,"Fungo luminescente degli Urali.
+Fungo della famiglia shimeji,
+si trova solo in questa regione.
+A prima vista, sembra un fungo
+shiitake.
+Pareva che fosse commestibile,
+ma una volta mangiato ha
+provocato intossicazione.
+","Fungo luminescente degli Urali.
+Fungo della famiglia shimeji,
+si trova solo in questa regione.
+A prima vista, sembra un fungo
+shiitake.
+Pareva che fosse commestibile,
+ma una volta mangiato ha
+provocato intossicazione.
+"
+0xae42,"Fungo luminescente degli Urali.
+Fungo della famiglia shimeji,
+si trova solo in questa regione.
+A prima vista, sembra un fungo
+shiitake, ma è velenoso.
+Una volta mangiato, ha provocato
+intossicazione.
+","Fungo luminescente degli Urali.
+Fungo della famiglia shimeji,
+si trova solo in questa regione.
+A prima vista, sembra un fungo
+shiitake, ma è velenoso.
+Una volta mangiato, ha provocato
+intossicazione.
+"
+0xaf0c,"Ovolaccio. Fungo rosso.
+Non ancora mangiato. Sapore sconosciuto.
+","Ovolaccio. Fungo rosso.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xaf4e,"Ovolaccio. Tipo di fungo agarico,
+si trova solo a Tselinoyarsk.
+Non ancora mangiato. Pare sia
+estremamente velenoso.
+","Ovolaccio. Tipo di fungo agarico,
+si trova solo a Tselinoyarsk.
+Non ancora mangiato. Pare sia
+estremamente velenoso.
+"
+0xafc4,"Ovolaccio. Fungo rosso.
+Assaggiato. Ha provocato intossicazione.
+","Ovolaccio. Fungo rosso.
+Assaggiato. Ha provocato intossicazione.
+"
+0xb006,"Ovolaccio. Tipo di fungo agarico,
+si trova solo a Tselinoyarsk.
+Estremamente velenoso.
+Assaggiato. Ha provocato intossicazione.
+","Ovolaccio. Tipo di fungo agarico,
+si trova solo a Tselinoyarsk.
+Estremamente velenoso.
+Assaggiato. Ha provocato intossicazione.
+"
+0xb087,"Fungo luminescente russo. Fungo che
+riluce.
+Non ancora mangiato. Sapore sconosciuto.
+","Fungo luminescente russo. Fungo che
+riluce.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xb0dd,"Fungo luminescente russo. Fungo che
+riluce, si trova solo nei pressi di
+Tselinoyarsk.
+Essendo un fungo luminescente, si
+presuppone che, se mangiato,
+ricarichi le batterie.
+","Fungo luminescente russo. Fungo che
+riluce, si trova solo nei pressi di
+Tselinoyarsk.
+Essendo un fungo luminescente, si
+presuppone che, se mangiato,
+ricarichi le batterie.
+"
+0xb18a,"Fungo luminescente russo. Fungo
+che riluce. Una volta mangiato, ha
+ricaricato le batterie. Proprio quello
+che ci si aspetta da un fungo
+luminescente.
+","Fungo luminescente russo. Fungo
+che riluce. Una volta mangiato, ha
+ricaricato le batterie. Proprio quello
+che ci si aspetta da un fungo
+luminescente.
+"
+0xb221,"Fungo luminescente russo. Fungo che
+riluce, si trova solo nei pressi di
+Tselinoyarsk.
+Essendo un fungo luminescente, una
+volta mangiato, ha ricaricato le
+batterie.
+","Fungo luminescente russo. Fungo che
+riluce, si trova solo nei pressi di
+Tselinoyarsk.
+Essendo un fungo luminescente, una
+volta mangiato, ha ricaricato le
+batterie.
+"
+0xb2c6,"Spatsa. Fungo grigio.
+Non ancora mangiato. Sapore sconosciuto.
+","Spatsa. Fungo grigio.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xb306,"Spatsa. Fungo grigio.
+Sapore e dettagli sconosciuti.
+","Spatsa. Fungo grigio.
+Sapore e dettagli sconosciuti.
+"
+0xb33c,"Spatsa. Fungo grigio.
+Mi è venuto sonno dopo averlo mangiato.
+","Spatsa. Fungo grigio.
+Mi è venuto sonno dopo averlo mangiato.
+"
+0xb37c,"Spatsa. Fungo grigio.
+Non so bene perché, ma dopo averlo mangiato
+mi è venuto sonno.
+","Spatsa. Fungo grigio.
+Non so bene perché, ma dopo averlo mangiato
+mi è venuto sonno.
+"
+0xb3d4,"Spatsa. Fungo grigio.
+Mi è venuto sonno dopo averlo mangiato, forse
+per un alcaloide vegetativo con proprietà
+anestetiche.
+","Spatsa. Fungo grigio.
+Mi è venuto sonno dopo averlo mangiato, forse
+per un alcaloide vegetativo con proprietà
+anestetiche.
+"
+0xb452,"Steccherino bruno del Baikal.
+Fungo marrone.
+Non ancora mangiato. Sapore sconosciuto.
+","Steccherino bruno del Baikal.
+Fungo marrone.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xb4a9,"Steccherino bruno del Baikal.
+Contiene proprietà che neutralizzano
+il veleno. Raccogliendone uno,
+comparirà un Antidoto.
+Non ancora mangiato. Pare
+non sia granché.
+","Steccherino bruno del Baikal.
+Contiene proprietà che neutralizzano
+il veleno. Raccogliendone uno,
+comparirà un Antidoto.
+Non ancora mangiato. Pare
+non sia granché.
+"
+0xb551,"Steccherino bruno del Baikal.
+Fungo marrone.
+Assaggiato. Sapore schifoso.
+","Steccherino bruno del Baikal.
+Fungo marrone.
+Assaggiato. Sapore schifoso.
+"
+0xb59c,"Steccherino bruno del Baikal.
+Contiene proprietà che neutralizzano
+il veleno. Raccogliendone uno,
+comparirà un Antidoto.
+Assaggiato. Sapore schifoso.
+","Steccherino bruno del Baikal.
+Contiene proprietà che neutralizzano
+il veleno. Raccogliendone uno,
+comparirà un Antidoto.
+Assaggiato. Sapore schifoso.
+"
+0xb635,"Tagliolini istantanei. A quanto pare,
+dovrebbero trasformarsi in un
+piatto di tagliolini.
+Non ancora mangiati. Sapore sconosciuto.
+","Tagliolini istantanei. A quanto pare,
+dovrebbero trasformarsi in un
+piatto di tagliolini.
+Non ancora mangiati. Sapore sconosciuto.
+"
+0xb6b9,"Tagliolini istantanei. I primi tagliolini
+istantanei al mondo, inventati in Giappone.
+Basta aggiungere acqua calda
+e sono pronti da mangiare.
+Non ancora mangiati. Pare siano squisiti!
+","Tagliolini istantanei. I primi tagliolini
+istantanei al mondo, inventati in Giappone.
+Basta aggiungere acqua calda
+e sono pronti da mangiare.
+Non ancora mangiati. Pare siano squisiti!
+"
+0xb772,"Tagliolini istantanei. Si trasformano
+in un piatto di tagliolini.
+Incredibilmente buoni!
+","Tagliolini istantanei. Si trasformano
+in un piatto di tagliolini.
+Incredibilmente buoni!
+"
+0xb7cc,"Tagliolini istantanei. I primi tagliolini
+istantanei al mondo, inventati in Giappone.
+Basta aggiungere acqua calda
+e sono pronti da mangiare.
+Incredibilmente buoni!
+","Tagliolini istantanei. I primi tagliolini
+istantanei al mondo, inventati in Giappone.
+Basta aggiungere acqua calda
+e sono pronti da mangiare.
+Incredibilmente buoni!
+"
+0xb872,"Razione. Razione di cibo portatile
+distribuita dalle forze militari russe.
+Non ancora mangiata, ma non
+sembra granché.
+","Razione. Razione di cibo portatile
+distribuita dalle forze militari russe.
+Non ancora mangiata, ma non
+sembra granché.
+"
+0xb8eb,"Razione. Razione di cibo portatile
+distribuita dalle forze militari russe.
+Ricca di nutrienti, ideata per durare
+senza rovinarsi.
+Ma pare non sia granché.
+","Razione. Razione di cibo portatile
+distribuita dalle forze militari russe.
+Ricca di nutrienti, ideata per durare
+senza rovinarsi.
+Ma pare non sia granché.
+"
+0xb988,"Razione. Razione di cibo portatile
+distribuita dalle forze militari russe.
+Assaggiata. Non molto buona.
+","Razione. Razione di cibo portatile
+distribuita dalle forze militari russe.
+Assaggiata. Non molto buona.
+"
+0xb9f1,"Razione. Razione di cibo portatile
+distribuita dalle forze militari russe.
+Ricca di nutrienti, ideata per durare
+senza rovinarsi.
+Ma non è granché.
+","Razione. Razione di cibo portatile
+distribuita dalle forze militari russe.
+Ricca di nutrienti, ideata per durare
+senza rovinarsi.
+Ma non è granché.
+"
+0xba88,"Liquid. Misterioso serpente bianco.
+Non ancora mangiato. Sapore sconosciuto.
+","Liquid. Misterioso serpente bianco.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xbad6,"Liquid. Misterioso serpente bianco.
+Assaggiato. Incredibilmente buono!
+","Liquid. Misterioso serpente bianco.
+Assaggiato. Incredibilmente buono!
+"
+0xbb1e,"Solid. Misterioso serpente bianco.
+Non ancora mangiato. Sapore sconosciuto.
+","Solid. Misterioso serpente bianco.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xbb6b,"Solid. Misterioso serpente bianco.
+Assaggiato. Incredibilmente buono!
+","Solid. Misterioso serpente bianco.
+Assaggiato. Incredibilmente buono!
+"
+0xbbb2,"Solidus. Misterioso serpente bianco.
+Non ancora mangiato. Sapore sconosciuto.
+","Solidus. Misterioso serpente bianco.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xbc01,"Solidus. Misterioso serpente bianco.
+Assaggiato. Incredibilmente buono!
+","Solidus. Misterioso serpente bianco.
+Assaggiato. Incredibilmente buono!
+"
+0xbc4a,"Calorie Mate. Mai visto prima un
+cibo del genere.
+Non ancora mangiato. Sapore sconosciuto.
+","Calorie Mate. Mai visto prima un
+cibo del genere.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xbca6,"Calorie Mate. Cibo nutritivo bilanciato
+inventato in Giappone.
+Contiene una salutare dose bilanciata
+dei cinque nutrienti principali: proteine,
+grassi, carboidrati, vitamine e minerali.
+Non ancora mangiato. Pare sia
+squisito!
+","Calorie Mate. Cibo nutritivo bilanciato
+inventato in Giappone.
+Contiene una salutare dose bilanciata
+dei cinque nutrienti principali: proteine,
+grassi, carboidrati, vitamine e minerali.
+Non ancora mangiato. Pare sia
+squisito!
+"
+0xbd89,"Calorie Mate. Mai visto prima un
+cibo del genere.
+Incredibilmente buono!
+","Calorie Mate. Mai visto prima un
+cibo del genere.
+Incredibilmente buono!
+"
+0xbdd3,"Calorie Mate. Cibo nutritivo bilanciato
+inventato in Giappone.
+Contiene una salutare dose bilanciata
+dei cinque nutrienti principali: proteine,
+grassi, carboidrati, vitamine e minerali.
+Incredibilmente buono!
+","Calorie Mate. Cibo nutritivo bilanciato
+inventato in Giappone.
+Contiene una salutare dose bilanciata
+dei cinque nutrienti principali: proteine,
+grassi, carboidrati, vitamine e minerali.
+Incredibilmente buono!
+"
+0xbea5,"Nido di calabroni del Baltico. Contiene
+i calabroni controllati da The Pain.
+Non ancora mangiato. Sapore sconosciuto.
+","Nido di calabroni del Baltico. Contiene
+i calabroni controllati da The Pain.
+Non ancora mangiato. Sapore sconosciuto.
+"
+0xbf1c,"Nido di calabroni del Baltico. Nido di
+calabroni del Baltico, un tipo di
+calabroni presente solo in questa regione.
+Pieno di miele e calabroni controllati
+da The Pain.
+Non ancora mangiato. Pare
+sia squisito!
+","Nido di calabroni del Baltico. Nido di
+calabroni del Baltico, un tipo di
+calabroni presente solo in questa regione.
+Pieno di miele e calabroni controllati
+da The Pain.
+Non ancora mangiato. Pare
+sia squisito!
+"
+0xbfed,"Nido di calabroni del Baltico. Contiene
+i calabroni controllati da The Pain.
+Ottimo sapore!
+","Nido di calabroni del Baltico. Contiene
+i calabroni controllati da The Pain.
+Ottimo sapore!
+"
+0xc04a,"Nido di calabroni del Baltico. Nido di
+calabroni del Baltico, un tipo di
+calabroni presente solo in questa regione.
+Pieno di miele e calabroni controllati
+da The Pain.
+Ottimo sapore!
+","Nido di calabroni del Baltico. Nido di
+calabroni del Baltico, un tipo di
+calabroni presente solo in questa regione.
+Pieno di miele e calabroni controllati
+da The Pain.
+Ottimo sapore!
+"
+0xc102,Parla!,Parla!
+0xc109,Rispondimi!,Rispondimi!
+0xc115,Lo vedo!!,Lo vedo!!
+0xc11f,Lo vedo!!,Lo vedo!!
+0xc129,Lo vedo!!,Lo vedo!!
+0xc133,Lo vedo!!,Lo vedo!!
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xc13d,"Siero sanguigno: Efficace
+contro l'avvelenamento.
+Premi il tasto  per
+usare il siero.
+","Siero sanguigno: Efficace
+contro l'avvelenamento.
+Premi il tasto  per
+usare il siero.
+"
+0xc197,"Antidoto:
+Efficace contro le
+intossicazioni. Premi
+il tasto  per usarlo.
+","Antidoto:
+Efficace contro le
+intossicazioni. Premi
+il tasto  per usarlo.
+"
+0xc1e4,"Medicina per il raffreddore:
+Efficace per curare i
+raffreddori. Premi il tasto 
+per usarla.
+","Medicina per il raffreddore:
+Efficace per curare i
+raffreddori. Premi il tasto 
+per usarla.
+"
+0xc244,"Medicina digestiva:
+Efficace per curare il mal di
+stomaco. Premi il tasto 
+per usarla.
+","Medicina digestiva:
+Efficace per curare il mal di
+stomaco. Premi il tasto 
+per usarla.
+"
+0xc29f,"Unguento:
+Efficace per curare
+le ustioni. Premi il
+tasto  per applicarlo.
+","Unguento:
+Efficace per curare
+le ustioni. Premi il
+tasto  per applicarlo.
+"
+0xc2ed,"Stecca:
+Efficace per stimolare
+la guarigione delle
+ossa rotte. Premi il tasto 
+per fissarla in posizione.
+","Stecca:
+Efficace per stimolare
+la guarigione delle
+ossa rotte. Premi il tasto 
+per fissarla in posizione.
+"
+0xc35b,"Disinfettante: Efficace
+per curare tagli e ferite da
+arma da fuoco. Premi il tasto
+ per applicarlo.
+","Disinfettante: Efficace
+per curare tagli e ferite da
+arma da fuoco. Premi il tasto
+ per applicarlo.
+"
+0xc3c3,"Emostatico:
+Efficace per curare tagli
+e ferite da arma da fuoco.
+Premi il tasto  per applicarlo
+e arrestare l'emorragia.
+","Emostatico:
+Efficace per curare tagli
+e ferite da arma da fuoco.
+Premi il tasto  per applicarlo
+e arrestare l'emorragia.
+"
+0xc440,"Bende: Efficaci per curare
+tagli, ferite da arma da fuoco
+e ossa rotte. Premi il tasto
+ per avvolgerle attorno alla
+ferita.
+","Bende: Efficaci per curare
+tagli, ferite da arma da fuoco
+e ossa rotte. Premi il tasto
+ per avvolgerle attorno alla
+ferita.
+"
+0xc4c0,"Kit per suture:
+Efficace per curare i tagli.
+Premi il tasto  per
+ricucire la ferita.
+","Kit per suture:
+Efficace per curare i tagli.
+Premi il tasto  per
+ricucire la ferita.
+"
+0xc519,"Coltello di sopravvivenza:
+Utile per rimuovere proiettili
+e frecce. Premi il tasto  per
+estrarre l'oggetto.
+","Coltello di sopravvivenza:
+Utile per rimuovere proiettili
+e frecce. Premi il tasto  per
+estrarre l'oggetto.
+"
+0xc589,"Forchetta: Utile per
+rimuovere proiettili, frecce,
+calabroni o aghi con
+anestetico. Premi il tasto 
+per estrarre l'oggetto.
+","Forchetta: Utile per
+rimuovere proiettili, frecce,
+calabroni o aghi con
+anestetico. Premi il tasto 
+per estrarre l'oggetto.
+"
+0xc609,"Sigaro: Utile per rimuovere le
+sanguisughe attaccate al
+corpo. Premi il tasto  per
+premere il sigaro
+contro la sanguisuga.
+","Sigaro: Utile per rimuovere le
+sanguisughe attaccate al
+corpo. Premi il tasto  per
+premere il sigaro
+contro la sanguisuga.
+"
+0xc688,"Repellente:
+Spray per scacciare
+gli insetti.
+","Repellente:
+Spray per scacciare
+gli insetti.
+"
+0xc6b6,"おい、ちゃんとIDきてないぞ！
+","おい、ちゃんとIDきてないぞ！
+"
+0xc6ea,"Mimetica:
+Seleziona uniforme mimetica e pittura facciale.
+","Mimetica:
+Seleziona uniforme mimetica e pittura facciale.
+"
+0xc725,"Zaino:
+Scegli arma ed equipaggiamento da usare.
+","Zaino:
+Scegli arma ed equipaggiamento da usare.
+"
+0xc756,"Cibo:
+Mangia il cibo raccolto.
+","Cibo:
+Mangia il cibo raccolto.
+"
+0xc776,"Cura:
+Cura le ferite o le malattie.
+","Cura:
+Cura le ferite o le malattie.
+"
+0xc79b,"Opzioni:
+Imposta le opzioni.
+","Opzioni:
+Imposta le opzioni.
+"
+0xc7b9,"Speciale:
+","Speciale:
+"
+0xc7c4,"Mappa:
+Mostra la mappa della zona.
+","Mappa:
+Mostra la mappa della zona.
+"
+0xc7e8,"Pittura facciale:
+Seleziona la pittura facciale.
+","Pittura facciale:
+Seleziona la pittura facciale.
+"
+0xc81a,"Uniforme:
+Seleziona l'uniforme da indossare.
+","Uniforme:
+Seleziona l'uniforme da indossare.
+"
+0xc848,"Equipaggiamento:
+Seleziona l'equipaggiamento da portarsi dietro.
+","Equipaggiamento:
+Seleziona l'equipaggiamento da portarsi dietro.
+"
+0xc88a,"Arma:
+Seleziona l'arma da portarsi dietro.
+","Arma:
+Seleziona l'arma da portarsi dietro.
+"
+0xc8b6,"Mangia il cibo.
+","Mangia il cibo.
+"
+0xc8c7,"Elimina il cibo.
+","Elimina il cibo.
+"
+0xc8d9,"Cura Snake.
+","Cura Snake.
+"
+0xc8e6,"Cura Eva.
+","Cura Eva.
+"
+0xc8f1,"Niente nella gabbia.
+","Niente nella gabbia.
+"
+0xc907,"Nutri EVA.
+","Nutri EVA.
+"
+0xc913,"No pittura:
+Nessuna pittura facciale applicata.
+","No pittura:
+Nessuna pittura facciale applicata.
+"
+0xc944,"Bosco:
+Da usare in zone boscose.
+","Bosco:
+Da usare in zone boscose.
+"
+0xc966,"Nero:
+Pittura facciale nera.
+","Nero:
+Pittura facciale nera.
+"
+0xc984,"Acqua:
+Efficace sott'acqua.
+","Acqua:
+Efficace sott'acqua.
+"
+0xc9a1,"Deserto:
+Efficace in terreni montuosi.
+","Deserto:
+Efficace in terreni montuosi.
+"
+0xc9c9,"Spaccature:
+Per operazioni al chiuso.
+","Spaccature:
+Per operazioni al chiuso.
+"
+0xc9f0,"Neve:
+Per ambienti freddi.
+","Neve:
+Per ambienti freddi.
+"
+0xca0c,"Kabuki: Pittura facciale che
+riprende un personaggio Kabuki.
+","Kabuki: Pittura facciale che
+riprende un personaggio Kabuki.
+"
+0xca4a,"Zombie:
+Pittura facciale che riprende uno zombie.
+","Zombie:
+Pittura facciale che riprende uno zombie.
+"
+0xca7d,"Oyama: Pittura facciale del
+personaggio femminile Kabuki.
+","Oyama: Pittura facciale del
+personaggio femminile Kabuki.
+"
+0xcab8,"Maschera:
+Maschera usata per travestirsi.
+","Maschera:
+Maschera usata per travestirsi.
+"
+0xcae3,"Verde:
+Pittura facciale verde.
+","Verde:
+Pittura facciale verde.
+"
+0xcb03,"Marrone:
+Pittura facciale marrone.
+","Marrone:
+Pittura facciale marrone.
+"
+0xcb27,"Infinito:
+Pittura facciale con potere infinito.
+","Infinito:
+Pittura facciale con potere infinito.
+"
+0xcb58,"Sovietica: Pittura facciale che riprende
+la bandiera sovietica.
+","Sovietica: Pittura facciale che riprende
+la bandiera sovietica.
+"
+0xcb99,"Regno Unito: Pittura facciale che
+riprende la bandiera britannica.
+","Regno Unito: Pittura facciale che
+riprende la bandiera britannica.
+"
+0xcbdd,"Francia: Pittura facciale che riprende
+la bandiera francese.
+","Francia: Pittura facciale che riprende
+la bandiera francese.
+"
+0xcc1b,"Germania: Pittura facciale che riprende
+la bandiera tedesca.
+","Germania: Pittura facciale che riprende
+la bandiera tedesca.
+"
+0xcc59,"Italia: Pittura facciale che riprende
+la bandiera italiana.
+","Italia: Pittura facciale che riprende
+la bandiera italiana.
+"
+0xcc96,"Spagna: Pittura facciale che riprende
+la bandiera spagnola.
+","Spagna: Pittura facciale che riprende
+la bandiera spagnola.
+"
+0xccd3,"Svezia: Pittura facciale che riprende
+la bandiera svedese.
+","Svezia: Pittura facciale che riprende
+la bandiera svedese.
+"
+0xcd0f,"Giappone: Pittura facciale che riprende
+la bandiera giapponese.
+","Giappone: Pittura facciale che riprende
+la bandiera giapponese.
+"
+0xcd50,"USA: Pittura facciale che riprende
+la bandiera americana.
+","USA: Pittura facciale che riprende
+la bandiera americana.
+"
+0xcd8b,"Verde militare:
+Uniforme normale, senza motivi mimetici.
+","Verde militare:
+Uniforme normale, senza motivi mimetici.
+"
+0xcdc5,"Tigrata:
+Efficace tra gli alberi, l'erba o sul terreno.
+","Tigrata:
+Efficace tra gli alberi, l'erba o sul terreno.
+"
+0xcdfe,"Fogliare:
+Efficace nel sottobosco.
+","Fogliare:
+Efficace nel sottobosco.
+"
+0xce22,"Corteccia:
+Efficace appiattendosi contro gli alberi.
+","Corteccia:
+Efficace appiattendosi contro gli alberi.
+"
+0xce58,"Cioccolata:
+Efficace in ambienti desertici o montuosi.
+","Cioccolata:
+Efficace in ambienti desertici o montuosi.
+"
+0xce90,"Spaccature:
+Efficace in ambienti urbani.
+","Spaccature:
+Efficace in ambienti urbani.
+"
+0xceba,"Gocce:
+Efficace nella pioggia.
+","Gocce:
+Efficace nella pioggia.
+"
+0xceda,"Riquadri:
+Efficace su sfondi marroni.
+","Riquadri:
+Efficace su sfondi marroni.
+"
+0xcf01,"Acqua:
+Efficace sott'acqua.
+","Acqua:
+Efficace sott'acqua.
+"
+0xcf1e,"Nera:
+Efficace in zone scure o su terreni neri.
+","Nera:
+Efficace in zone scure o su terreni neri.
+"
+0xcf4f,"Neve:
+Efficace su sfondi bianchi.
+","Neve:
+Efficace su sfondi bianchi.
+"
+0xcf72,"Niente: Non indossi niente sulla
+parte superiore del corpo.
+","Niente: Non indossi niente sulla
+parte superiore del corpo.
+"
+0xcfaf,"Sneaking suit: Tuta da combattimento
+high-tech sviluppata dall'URSS.
+","Sneaking suit: Tuta da combattimento
+high-tech sviluppata dall'URSS.
+"
+0xcff5,"Uniforme da scienziato:
+L'uniforme indossata dagli scienziati.
+","Uniforme da scienziato:
+L'uniforme indossata dagli scienziati.
+"
+0xd035,"Uniforme di Raikov:
+L'uniforme indossata dal maggiore Raikov.
+","Uniforme di Raikov:
+L'uniforme indossata dal maggiore Raikov.
+"
+0xd074,"Uniforme da manutentore:
+L'uniforme indossata dai manutentori.
+","Uniforme da manutentore:
+L'uniforme indossata dai manutentori.
+"
+0xd0b4,"Smoking:
+Marsina formale.
+","Smoking:
+Marsina formale.
+"
+0xd0cf,"Chiazze:
+Uniforme mimetica di The Pain.
+","Chiazze:
+Uniforme mimetica di The Pain.
+"
+0xd0f8,"Ragno:
+Uniforme mimetica di The Fear.
+","Ragno:
+Uniforme mimetica di The Fear.
+"
+0xd11f,"Muschio:
+Uniforme mimetica di The End.
+","Muschio:
+Uniforme mimetica di The End.
+"
+0xd147,"Fuoco:
+Uniforme mimetica di The Fury.
+","Fuoco:
+Uniforme mimetica di The Fury.
+"
+0xd16e,"Spirito:
+Uniforme mimetica di The Sorrow.
+","Spirito:
+Uniforme mimetica di The Sorrow.
+"
+0xd199,"Guerra fredda:
+Uniforme mimetica di Volgin.
+","Guerra fredda:
+Uniforme mimetica di Volgin.
+"
+0xd1c6,"Serpente:
+Uniforme mimetica a pelle di serpente.
+","Serpente:
+Uniforme mimetica a pelle di serpente.
+"
+0xd1f8,"GA-KO:
+Uniforme mimetica con motivi GA-KO.
+","GA-KO:
+Uniforme mimetica con motivi GA-KO.
+"
+0xd224,"Tigre del deserto:
+Efficace soprattutto su sfondi marroni.
+","Tigre del deserto:
+Efficace soprattutto su sfondi marroni.
+"
+0xd260,"DPM:
+Efficace soprattutto in zone boschive.
+","DPM:
+Efficace soprattutto in zone boschive.
+"
+0xd28d,"Flecktarn:
+Efficace soprattutto in zone boschive.
+","Flecktarn:
+Efficace soprattutto in zone boschive.
+"
+0xd2c0,"AUSCAM deserto:
+Efficace soprattutto su sfondi bianchi.
+","AUSCAM deserto:
+Efficace soprattutto su sfondi bianchi.
+"
+0xd2f9,"Animale:
+Uniforme mimetica con motivi a pelliccia.
+","Animale:
+Uniforme mimetica con motivi a pelliccia.
+"
+0xd32d,"Mosca:
+Uniforme mimetica puzzolente.
+","Mosca:
+Uniforme mimetica puzzolente.
+"
+0xd353,"Banana:
+Uniforme mimetica con motivi a banane.
+","Banana:
+Uniforme mimetica con motivi a banane.
+"
+0xd383,"Scaricata:
+Uniforme mimetica scaricata.
+","Scaricata:
+Uniforme mimetica scaricata.
+"
+0xd3ac,,
+0xd3ad,,
+0xd3ae,,
+0xd3af,,
+0xd3b0,"Coltello a lama grande per operazioni
+sul campo. Può essere usato per
+sconfiggere i nemici senza fare rumore.
+","Coltello a lama grande per operazioni
+sul campo. Può essere usato per
+sconfiggere i nemici senza fare rumore.
+"
+0xd420,"Forchetta. Usata per mangiare. Può
+essere usata al posto del coltello
+di sopravvivenza. Piante e animali
+afferrati con la forchetta possono
+essere mangiati sul posto.
+","Forchetta. Usata per mangiare. Può
+essere usata al posto del coltello
+di sopravvivenza. Piante e animali
+afferrati con la forchetta possono
+essere mangiati sul posto.
+"
+0xd4c9,"Pistola narcotizzante a forma di sigaretta.
+Il gas che spruzza addormenta i nemici.
+","Pistola narcotizzante a forma di sigaretta.
+Il gas che spruzza addormenta i nemici.
+"
+0xd51e,"Fazzoletto imbevuto di
+anestetico. Può essere
+usato per addormentare i
+nemici dopo averli
+afferrati con le tecniche CQC.
+","Fazzoletto imbevuto di
+anestetico. Può essere
+usato per addormentare i
+nemici dopo averli
+afferrati con le tecniche CQC.
+"
+0xd599,"Versione modificata della Mk22 per operazioni
+speciali, un'arma ai tranquillanti munita di
+silenziatore sviluppata dalla Marina. Usa un
+meccanismo di arresto otturatore per fare meno
+rumore, quindi è possibile sparare un solo colpo
+prima di ricaricare. Apri la finestra e premi
+il tasto  per applicare/togliere il silenziatore.
+","Versione modificata della Mk22 per operazioni
+speciali, un'arma ai tranquillanti munita di
+silenziatore sviluppata dalla Marina. Usa un
+meccanismo di arresto otturatore per fare meno
+rumore, quindi è possibile sparare un solo colpo
+prima di ricaricare. Apri la finestra e premi
+il tasto  per applicare/togliere il silenziatore.
+"
+0xd6e6,"M1911A1. Pistola automatica
+calibro .45 altamente affidabile
+e con un forte potere di arresto.
+Il caricatore contiene 7 proiettili.
+Apri la finestra e premi il tasto 
+per applicare/togliere un silenziatore.
+","M1911A1. Pistola automatica
+calibro .45 altamente affidabile
+e con un forte potere di arresto.
+Il caricatore contiene 7 proiettili.
+Apri la finestra e premi il tasto 
+per applicare/togliere un silenziatore.
+"
+0xd7b9,"Pistola EZ. Arma ai tranquillanti
+silenziata prodotta appositamente
+per la FOX. La funzione di
+silenziamento è incorporata nella
+pistola stessa. Dotata anche di
+mirino interno al laser. Se equipaggiata,
+fa recuperare il vigore più in fretta e
+mantiene alto l'Indice di Mimetizzazione.
+Elimina anche il rumore dei passi.
+","Pistola EZ. Arma ai tranquillanti
+silenziata prodotta appositamente
+per la FOX. La funzione di
+silenziamento è incorporata nella
+pistola stessa. Dotata anche di
+mirino interno al laser. Se equipaggiata,
+fa recuperare il vigore più in fretta e
+mantiene alto l'Indice di Mimetizzazione.
+Elimina anche il rumore dei passi.
+"
+0xd8fc,"Single Action Army. Revolver
+calibro .45 a sei colpi.
+Equipaggialo in visuale Soggettiva
+e premi il tasto  per mirare
+con precisione. Puoi anche
+usare la levetta analogica
+destra per fare mosse speciali.
+","Single Action Army. Revolver
+calibro .45 a sei colpi.
+Equipaggialo in visuale Soggettiva
+e premi il tasto  per mirare
+con precisione. Puoi anche
+usare la levetta analogica
+destra per fare mosse speciali.
+"
+0xd9cc,"Patriot. Pistola d'assalto
+sviluppata per The Boss.
+Usa munizioni da 5,56 mm
+x 45. Il meccanismo di
+alimentazione dentro il
+caricatore del tamburo
+ha la forma di ""∞"".
+","Patriot. Pistola d'assalto
+sviluppata per The Boss.
+Usa munizioni da 5,56 mm
+x 45. Il meccanismo di
+alimentazione dentro il
+caricatore del tamburo
+ha la forma di ""∞"".
+"
+0xda76,"Scorpion. Pistola mitragliatrice
+fabbricata in Cecoslovacchia.
+Usa munizioni 32ACP. Il
+caricatore contiene 20 colpi.
+Dotata di puntatore laser. Apri
+la finestra e premi il tasto 
+per alternare la modalità
+semiautomatica e automatica.
+","Scorpion. Pistola mitragliatrice
+fabbricata in Cecoslovacchia.
+Usa munizioni 32ACP. Il
+caricatore contiene 20 colpi.
+Dotata di puntatore laser. Apri
+la finestra e premi il tasto 
+per alternare la modalità
+semiautomatica e automatica.
+"
+0xdb65,"XM16E1. Il più avanzato fucile d'assalto
+in fase di sperimentazione dall'esercito
+USA. Di piccolo calibro, usa munizioni
+da 5,56 x 45 ad elevata velocità iniziale. Il
+caricatore contiene 20 colpi. Dotato di varie
+modifiche per combattere nella giungla. Apri
+la finestra e premi il tasto  per applicare/
+togliere il silenziatore; premi il tasto  per
+alternare la modalità semiautomatica,
+automatica e raffiche di 3 colpi.
+","XM16E1. Il più avanzato fucile d'assalto
+in fase di sperimentazione dall'esercito
+USA. Di piccolo calibro, usa munizioni
+da 5,56 x 45 ad elevata velocità iniziale. Il
+caricatore contiene 20 colpi. Dotato di varie
+modifiche per combattere nella giungla. Apri
+la finestra e premi il tasto  per applicare/
+togliere il silenziatore; premi il tasto  per
+alternare la modalità semiautomatica,
+automatica e raffiche di 3 colpi.
+"
+0xdd14,"AK-47. Fucile d'assalto di fabbricazione
+sovietica. Affidabile, durevole e di gran
+precisione. Usa munizioni da 7,92 x 39. Il
+caricatore contiene 30 colpi. Equipaggialo
+in visuale Soggettiva e premi il tasto 
+per prendere la mira dalla spalla. Apri la
+finestra e premi il tasto  per alternare la
+modalità semiautomatica e automatica.
+","AK-47. Fucile d'assalto di fabbricazione
+sovietica. Affidabile, durevole e di gran
+precisione. Usa munizioni da 7,92 x 39. Il
+caricatore contiene 30 colpi. Equipaggialo
+in visuale Soggettiva e premi il tasto 
+per prendere la mira dalla spalla. Apri la
+finestra e premi il tasto  per alternare la
+modalità semiautomatica e automatica.
+"
+0xde6a,"M63. Arma di sistema di fabbricazione
+americana. Versione mitragliatrice
+leggera con alimentazione a nastro.
+Usa munizioni da 5,56 mm x 45.
+Il caricatore contiene 100 colpi.
+","M63. Arma di sistema di fabbricazione
+americana. Versione mitragliatrice
+leggera con alimentazione a nastro.
+Usa munizioni da 5,56 mm x 45.
+Il caricatore contiene 100 colpi.
+"
+0xdf19,"M37. Fucile a canna liscia di
+fabbricazione americana. La
+calciatura e la canna sono state
+segate per ridurne il peso. Porta
+quattro bossoli calibro 12.
+","M37. Fucile a canna liscia di
+fabbricazione americana. La
+calciatura e la canna sono state
+segate per ridurne il peso. Porta
+quattro bossoli calibro 12.
+"
+0xdfb3,"SVD. Fucile di precisione automatico
+di fabbricazione sovietica rinomato per
+la sua precisione. Usa cartucce rimmed
+da 7,62 mm x 54. Il caricatore contiene
+10 colpi. Premi il tasto  per usare
+il telescopio. Premi il tasto  per
+cambiare il livello d'ingrandimento
+sul telescopio.
+","SVD. Fucile di precisione automatico
+di fabbricazione sovietica rinomato per
+la sua precisione. Usa cartucce rimmed
+da 7,62 mm x 54. Il caricatore contiene
+10 colpi. Premi il tasto  per usare
+il telescopio. Premi il tasto  per
+cambiare il livello d'ingrandimento
+sul telescopio.
+"
+0xe0d1,"Mosin Nagant. Fucile di precisione ai
+tranquillanti e l'arma preferita da The
+End. Adattato da The End dall'M1891/30,
+un fucile di precisione con sistema di
+otturatore girevole scorrevole, usato
+dalle forze militari sovietiche durante
+la Seconda guerra mondiale. Usa
+speciali proiettili ai tranquillanti da
+7,62 mm x 54R. Il caricatore contiene
+5 colpi.
+","Mosin Nagant. Fucile di precisione ai
+tranquillanti e l'arma preferita da The
+End. Adattato da The End dall'M1891/30,
+un fucile di precisione con sistema di
+otturatore girevole scorrevole, usato
+dalle forze militari sovietiche durante
+la Seconda guerra mondiale. Usa
+speciali proiettili ai tranquillanti da
+7,62 mm x 54R. Il caricatore contiene
+5 colpi.
+"
+0xe234,"RPG-7. Lanciarazzi portatile anticarro
+d'avanguardia sovietico. Le testate di
+granate con propulsione a razzo sono
+cariche di HEAT, un esplosivo al plastico.
+Premi il tasto  per usare il telescopio.
+","RPG-7. Lanciarazzi portatile anticarro
+d'avanguardia sovietico. Le testate di
+granate con propulsione a razzo sono
+cariche di HEAT, un esplosivo al plastico.
+Premi il tasto  per usare il telescopio.
+"
+0xe2ff,"Torcia realizzata con betulla bianca
+immersa nella trementina. Premi il
+tasto  per agitarla a mo' di arma.
+Premi il tasto  per accendere/
+spegnere la torcia.
+","Torcia realizzata con betulla bianca
+immersa nella trementina. Premi il
+tasto  per agitarla a mo' di arma.
+Premi il tasto  per accendere/
+spegnere la torcia.
+"
+0xe3a4,"Granata dirompente di fabbricazione
+sovietica. Infligge danni ai nemici
+sia con l'esplosione che con la
+successiva pioggia di shrapnel.
+","Granata dirompente di fabbricazione
+sovietica. Infligge danni ai nemici
+sia con l'esplosione che con la
+successiva pioggia di shrapnel.
+"
+0xe42d,"Granata incendiaria di fabbricazione
+sovietica. Le intense fiamme che si
+sprigionano dal fosforo all'interno
+infliggono gravi ustioni a tutti gli
+esseri viventi presenti nell'area.
+","Granata incendiaria di fabbricazione
+sovietica. Le intense fiamme che si
+sprigionano dal fosforo all'interno
+infliggono gravi ustioni a tutti gli
+esseri viventi presenti nell'area.
+"
+0xe4e3,"Granata stordente sviluppata
+dall'Unione Sovietica. Quando
+scoppia, provoca un lampo di
+luce intenso e un forte rumore
+che disorientano e perfino
+stordiscono i bersagli umani
+presenti nella zona colpita.
+","Granata stordente sviluppata
+dall'Unione Sovietica. Quando
+scoppia, provoca un lampo di
+luce intenso e un forte rumore
+che disorientano e perfino
+stordiscono i bersagli umani
+presenti nella zona colpita.
+"
+0xe5b0,"Granata che provoca disturbi ai
+sistemi elettronici sviluppata
+dall'Unione Sovietica. Quando
+scoppia, dissemina una grande
+quantità di frammenti metallici
+nell'aria, disturbando i segnali
+radio e mettendo fuori uso le
+apparecchiature elettroniche.
+","Granata che provoca disturbi ai
+sistemi elettronici sviluppata
+dall'Unione Sovietica. Quando
+scoppia, dissemina una grande
+quantità di frammenti metallici
+nell'aria, disturbando i segnali
+radio e mettendo fuori uso le
+apparecchiature elettroniche.
+"
+0xe6aa,"Bomba fumogena di fabbricazione
+sovietica. Quando scoppia, rilascia
+una nube di fumo bianco, bloccando
+il campo visivo del nemico.
+","Bomba fumogena di fabbricazione
+sovietica. Quando scoppia, rilascia
+una nube di fumo bianco, bloccando
+il campo visivo del nemico.
+"
+0xe72e,"Caricatore di munizioni usato.
+Premi il tasto  per lanciarlo.
+","Caricatore di munizioni usato.
+Premi il tasto  per lanciarlo.
+"
+0xe770,"Trinitrotoluene (TNT). Esplosivo di tipo militare
+munito di detonatore con telecomando. Premi
+il tasto  per piazzare la bomba, poi premi il
+tasto  mentre equipaggi il TNT per fare
+scoppiare la bomba piazzata.
+","Trinitrotoluene (TNT). Esplosivo di tipo militare
+munito di detonatore con telecomando. Premi
+il tasto  per piazzare la bomba, poi premi il
+tasto  mentre equipaggi il TNT per fare
+scoppiare la bomba piazzata.
+"
+0xe848,"Esplosivo al plastico di tipo militare
+di fabbricazione occidentale
+recuperato da EVA. Composto al
+77% da RDX e al 23% da plastico.
+","Esplosivo al plastico di tipo militare
+di fabbricazione occidentale
+recuperato da EVA. Composto al
+77% da RDX e al 23% da plastico.
+"
+0xe8cd,"Mina direzionale antiuomo di
+fabbricazione americana.
+Modificata dai tecnici sovietici
+per scoppiare automaticamente
+una volta rilevato un oggetto in
+movimento che si trovi davanti
+o dietro, nel proprio raggio di azione.
+","Mina direzionale antiuomo di
+fabbricazione americana.
+Modificata dai tecnici sovietici
+per scoppiare automaticamente
+una volta rilevato un oggetto in
+movimento che si trovi davanti
+o dietro, nel proprio raggio di azione.
+"
+0xe9ab,"Libro di immagini per ""signori"".
+Pieno di fantastiche foto di
+giovani modelle.
+","Libro di immagini per ""signori"".
+Pieno di fantastiche foto di
+giovani modelle.
+"
+0xe9fb,"Trappola con esca per attirare
+piccoli animali e catturarli vivi.
+Premi il tasto  per piazzarla.
+Catturerà automaticamente gli
+animaletti vivi. Striscia sopra
+una trappola per raccoglierla.
+","Trappola con esca per attirare
+piccoli animali e catturarli vivi.
+Premi il tasto  per piazzarla.
+Catturerà automaticamente gli
+animaletti vivi. Striscia sopra
+una trappola per raccoglierla.
+"
+0xeabe,"Microfono direzionale ad alte
+prestazioni. Intercetta i suoni
+nella direzione in cui è puntato.
+Può essere usato per rilevare
+i passi di nemici distanti e
+altri suoni normalmente troppo
+deboli per essere uditi.
+","Microfono direzionale ad alte
+prestazioni. Intercetta i suoni
+nella direzione in cui è puntato.
+Può essere usato per rilevare
+i passi di nemici distanti e
+altri suoni normalmente troppo
+deboli per essere uditi.
+"
+0xeb94,,
+0xeb95,,
+0xeb96,,
+0xeb97,,
+0xeb98,,
+0xeb99,,
+0xeb9a,,
+0xeb9b,,
+0xeb9c,,
+0xeb9d,,
+0xeb9e,,
+0xeb9f,,
+0xeba0,,
+0xeba1,,
+0xeba2,,
+0xeba3,,
+0xeba4,,
+0xeba5,,
+0xeba6,,
+0xeba7,"Nessuna pittura facciale applicata.
+","Nessuna pittura facciale applicata.
+"
+0xebcc,"Da usare in zone boscose.
+","Da usare in zone boscose.
+"
+0xebe7,"Pittura facciale nera.
+","Pittura facciale nera.
+"
+0xebff,"Efficace sott'acqua.
+","Efficace sott'acqua.
+"
+0xec15,"Efficace in terreni montuosi.
+","Efficace in terreni montuosi.
+"
+0xec34,"Per operazioni al chiuso.
+","Per operazioni al chiuso.
+"
+0xec4f,"Per scenari freddi.
+","Per scenari freddi.
+"
+0xec64,"Pittura facciale che riprende un personaggio
+Kabuki.
+","Pittura facciale che riprende un personaggio
+Kabuki.
+"
+0xec9a,"Pittura facciale che riprende uno zombie.
+","Pittura facciale che riprende uno zombie.
+"
+0xecc5,"Pittura facciale del personaggio femminile Kabuki.
+","Pittura facciale del personaggio femminile Kabuki.
+"
+0xecf9,"Maschera usata per travestirsi.
+","Maschera usata per travestirsi.
+"
+0xed1a,"Pittura facciale verde. L'Indicatore della Presa
+non cala.
+","Pittura facciale verde. L'Indicatore della Presa
+non cala.
+"
+0xed56,"Pittura facciale marrone. L'Indicatore O2
+dell'ossigeno non cala.
+","Pittura facciale marrone. L'Indicatore O2
+dell'ossigeno non cala.
+"
+0xed99,"Pittura facciale con potere infinito.
+Le armi non resteranno a corto di munizioni.
+","Pittura facciale con potere infinito.
+Le armi non resteranno a corto di munizioni.
+"
+0xeded,"Pittura facciale che riprende la bandiera
+sovietica.
+","Pittura facciale che riprende la bandiera
+sovietica.
+"
+0xee23,"Pittura facciale che riprende la bandiera
+britannica.
+","Pittura facciale che riprende la bandiera
+britannica.
+"
+0xee5a,"Pittura facciale che riprende la bandiera
+francese.
+","Pittura facciale che riprende la bandiera
+francese.
+"
+0xee8f,"Pittura facciale che riprende la bandiera
+tedesca.
+","Pittura facciale che riprende la bandiera
+tedesca.
+"
+0xeec3,"Pittura facciale che riprende la bandiera
+italiana.
+","Pittura facciale che riprende la bandiera
+italiana.
+"
+0xeef8,"Pittura facciale che riprende la bandiera
+spagnola.
+","Pittura facciale che riprende la bandiera
+spagnola.
+"
+0xef2d,"Pittura facciale che riprende la bandiera
+svedese.
+","Pittura facciale che riprende la bandiera
+svedese.
+"
+0xef61,"Pittura facciale che riprende la bandiera
+giapponese.
+","Pittura facciale che riprende la bandiera
+giapponese.
+"
+0xef98,"Pittura facciale che riprende la bandiera
+americana.
+","Pittura facciale che riprende la bandiera
+americana.
+"
+0xefce,"Verde militare, tipica uniforme da battaglia
+a un solo colore, usata dalla fanteria
+per scopi generici. Non fornisce una
+elevata mimetizzazione.
+","Verde militare, tipica uniforme da battaglia
+a un solo colore, usata dalla fanteria
+per scopi generici. Non fornisce una
+elevata mimetizzazione.
+"
+0xf060,"Disegni tigrati, simili alla pelliccia
+della tigre. Efficace in zone
+boschive ed erbose, oltre che
+contro il terreno e il fango.
+","Disegni tigrati, simili alla pelliccia
+della tigre. Efficace in zone
+boschive ed erbose, oltre che
+contro il terreno e il fango.
+"
+0xf0e2,"Motivo mimetico sviluppato
+per fornire copertura nelle
+foreste. Efficace nel sottobosco.
+","Motivo mimetico sviluppato
+per fornire copertura nelle
+foreste. Efficace nel sottobosco.
+"
+0xf13c,"Motivo mimetico sviluppato
+per i cacciatori. Ha inserite
+foto di tronchi d'albero e
+rami con foglie. Efficace
+quando ti appiattisci contro
+gli alberi.
+","Motivo mimetico sviluppato
+per i cacciatori. Ha inserite
+foto di tronchi d'albero e
+rami con foglie. Efficace
+quando ti appiattisci contro
+gli alberi.
+"
+0xf1d4,"Motivo mimetico sviluppato
+per fornire copertura nel
+deserto. Deve il nome alla
+somiglianza con un dolcetto
+alla cioccolata. Efficace in
+ambienti desertici e montuosi.
+","Motivo mimetico sviluppato
+per fornire copertura nel
+deserto. Deve il nome alla
+somiglianza con un dolcetto
+alla cioccolata. Efficace in
+ambienti desertici e montuosi.
+"
+0xf27d,"Motivo mimetico usato spesso
+sugli aerei tedeschi durante la
+Seconda guerra mondiale.
+Efficace negli ambienti urbani.
+","Motivo mimetico usato spesso
+sugli aerei tedeschi durante la
+Seconda guerra mondiale.
+Efficace negli ambienti urbani.
+"
+0xf2f4,"Motivo mimetico ampiamente
+usato in Europa orientale.
+Efficace nella pioggia.
+","Motivo mimetico ampiamente
+usato in Europa orientale.
+Efficace nella pioggia.
+"
+0xf343,"Motivo mimetico consistente
+in un insieme di riquadri.
+Rende difficile distinguere la
+sagoma di chi l'indossa.
+Efficace su sfondi marroni.
+","Motivo mimetico consistente
+in un insieme di riquadri.
+Rende difficile distinguere la
+sagoma di chi l'indossa.
+Efficace su sfondi marroni.
+"
+0xf3cf,"Motivo mimetico ampiamente
+usato dalla vecchia Forza di
+difesa tedesca. Efficace sott'acqua.
+","Motivo mimetico ampiamente
+usato dalla vecchia Forza di
+difesa tedesca. Efficace sott'acqua.
+"
+0xf42d,"Uniforme nera da battaglia.
+Efficace al buio.
+","Uniforme nera da battaglia.
+Efficace al buio.
+"
+0xf45c,"Motivo mimetico ideato
+per fornire copertura in
+ambienti innevati. Efficace
+su sfondi bianchi.
+","Motivo mimetico ideato
+per fornire copertura in
+ambienti innevati. Efficace
+su sfondi bianchi.
+"
+0xf4bc,"Nessuna uniforme indossata sulla
+parte superiore del corpo. Non
+fornisce un'elevata mimetizzazione.
+","Nessuna uniforme indossata sulla
+parte superiore del corpo. Non
+fornisce un'elevata mimetizzazione.
+"
+0xf521,"La più recente uniforme da
+battaglia sviluppata dall'Unione
+Sovietica. Dimezza i danni e
+riduce il consumo di vigore.
+","La più recente uniforme da
+battaglia sviluppata dall'Unione
+Sovietica. Dimezza i danni e
+riduce il consumo di vigore.
+"
+0xf599,"Uniforme da scienziato.
+","Uniforme da scienziato.
+"
+0xf5b2,"Uniforme da ufficiale
+indossata da Raikov.
+","Uniforme da ufficiale
+indossata da Raikov.
+"
+0xf5de,"Uniforme indossata dai manutentori.
+","Uniforme indossata dai manutentori.
+"
+0xf603,"Abito elegante formale.
+","Abito elegante formale.
+"
+0xf61c,"Uniforme mimetica di The Pain.
+Respinge calabroni, ragni
+e sanguisughe e consente
+a chi l'indossa di domare
+i calabroni.
+","Uniforme mimetica di The Pain.
+Respinge calabroni, ragni
+e sanguisughe e consente
+a chi l'indossa di domare
+i calabroni.
+"
+0xf696,"Uniforme mimetica di The Fear.
+Rende invisibile chi l'indossa,
+in cambio del vigore.
+","Uniforme mimetica di The Fear.
+Rende invisibile chi l'indossa,
+in cambio del vigore.
+"
+0xf6ec,"Uniforme mimetica di The End.
+Conferisce a chi l'indossa
+capacità di fotosintesi.
+Estremamente efficace nelle
+aree di Svyatogornyj e Sokrovenno.
+","Uniforme mimetica di The End.
+Conferisce a chi l'indossa
+capacità di fotosintesi.
+Estremamente efficace nelle
+aree di Svyatogornyj e Sokrovenno.
+"
+0xf77f,"Uniforme mimetica di The Fury.
+Dimezza i danni causati da fiamme
+ed esplosioni.
+","Uniforme mimetica di The Fury.
+Dimezza i danni causati da fiamme
+ed esplosioni.
+"
+0xf7d0,"Uniforme mimetica di The Sorrow.
+Elimina il rumore dei passi e
+consente a chi l'indossa di
+prelevare il vigore soffocando
+i nemici in CQC.
+","Uniforme mimetica di The Sorrow.
+Elimina il rumore dei passi e
+consente a chi l'indossa di
+prelevare il vigore soffocando
+i nemici in CQC.
+"
+0xf85c,"Uniforme mimetica di Volgin.
+I nemici di parte sovietica
+esiteranno ad attaccare.
+","Uniforme mimetica di Volgin.
+I nemici di parte sovietica
+esiteranno ad attaccare.
+"
+0xf8af,"Uniforme mimetica con
+motivi a serpente. Fornisce
+un'ottima copertura in
+qualsiasi ambiente.
+","Uniforme mimetica con
+motivi a serpente. Fornisce
+un'ottima copertura in
+qualsiasi ambiente.
+"
+0xf90d,"Uniforme mimetica con motivi GA-KO.
+Indossandola, riuscirai a sentire il richiamo
+di Kerotan.
+","Uniforme mimetica con motivi GA-KO.
+Indossandola, riuscirai a sentire il richiamo
+di Kerotan.
+"
+0xf96c,"Uniforme a motivi tigrati ideata
+per gli ambienti desertici. È
+efficace soprattutto su sfondi
+marroni. Indossata, inoltre,
+impedisce che un silenziatore
+equipaggiato si esaurisca con l'uso.
+","Uniforme a motivi tigrati ideata
+per gli ambienti desertici. È
+efficace soprattutto su sfondi
+marroni. Indossata, inoltre,
+impedisce che un silenziatore
+equipaggiato si esaurisca con l'uso.
+"
+0xfa2c,"Uniforme mimetica forestale
+ideata nel Regno Unito che
+fornisce un'ottima copertura
+nelle zone boschive. Indossandola
+si raddoppia la velocità di
+recupero naturale dell'ENERGIA
+VITALE.
+","Uniforme mimetica forestale
+ideata nel Regno Unito che
+fornisce un'ottima copertura
+nelle zone boschive. Indossandola
+si raddoppia la velocità di
+recupero naturale dell'ENERGIA
+VITALE.
+"
+0xfae7,"Uniforme mimetica forestale
+ideata in Germania che
+fornisce un'ottima copertura
+nelle zone boschive.
+Indossandola, le batterie non
+si esauriscono.
+","Uniforme mimetica forestale
+ideata in Germania che
+fornisce un'ottima copertura
+nelle zone boschive.
+Indossandola, le batterie non
+si esauriscono.
+"
+0xfb7b,"Motivo mimetico desertico
+ideato in Australia che
+fornisce un'ottima copertura
+su sfondi bianchi. Indossandola,
+inoltre, i danni vengono ridotti
+di 2/3.
+","Motivo mimetico desertico
+ideato in Australia che
+fornisce un'ottima copertura
+su sfondi bianchi. Indossandola,
+inoltre, i danni vengono ridotti
+di 2/3.
+"
+0xfc15,"Uniforme mimetica a
+pelle di animale. Indossandola,
+le mani smettono di tremare
+mentre si punta un'arma.
+","Uniforme mimetica a
+pelle di animale. Indossandola,
+le mani smettono di tremare
+mentre si punta un'arma.
+"
+0xfc7f,"Uniforme mimetica che emette
+un odore talmente schifoso da
+attrarre le mosche, ma che
+induce i nemici a pensarci
+due volte prima di avvicinarsi
+per uno scontro ravvicinato.
+","Uniforme mimetica che emette
+un odore talmente schifoso da
+attrarre le mosche, ma che
+induce i nemici a pensarci
+due volte prima di avvicinarsi
+per uno scontro ravvicinato.
+"
+0xfd2d,"Uniforme mimetica a
+motivi con banane.
+Conferisce a tutti i cibi
+un ottimo sapore.
+","Uniforme mimetica a
+motivi con banane.
+Conferisce a tutti i cibi
+un ottimo sapore.
+"
+0xfd81,"Uniforme mimetica scaricata.
+","Uniforme mimetica scaricata.
+"
+0xfd9f,,
+0xfda0,,
+0xfda1,,
+0xfda2,,
+0xfda3,,
+0xfda4,,
+0xfda5,,
+0xfda6,,
+0xfda7,,
+0xfda8,,
+0xfda9,"Controllo memory card (PS2).
+","Controllo memory card (PS2).
+"
+0xfdc7,"Caricamento dati Mimetica da
+memory card (PS2).
+","Caricamento dati Mimetica da
+memory card (PS2).
+"
+0xfdf8,"Errore durante controllo memory card (PS2).
+","Errore durante controllo memory card (PS2).
+"
+0xfe25,"Errore durante caricamento dati Mimetica
+da memory card (PS2).
+","Errore durante caricamento dati Mimetica
+da memory card (PS2).
+"
+0xfe65,"Caricamento dati Mimetica da memory card
+(PS2) completato.
+","Caricamento dati Mimetica da memory card
+(PS2) completato.
+"
+0xfea1,"Dati di Mimetica su memory card (PS2)
+danneggiati.
+","Dati di Mimetica su memory card (PS2)
+danneggiati.
+"
+0xfed5,"Nessuna memory card (PS2) trovata.
+","Nessuna memory card (PS2) trovata.
+"
+0xfef9,"La memory card (PS2) non contiene dati di
+Mimetica.
+","La memory card (PS2) non contiene dati di
+Mimetica.
+"
+0xff2e,"Dremuchij sud
+","Dremuchij sud
+"
+0xff3d,"Dremuchij est
+","Dremuchij est
+"
+0xff4c,"Palude di Dremuchij
+","Palude di Dremuchij
+"
+0xff61,"Dremuchij nord
+","Dremuchij nord
+"
+0xff71,"Dolinovodno
+","Dolinovodno
+"
+0xff7e,"Rassvet - P1
+","Rassvet - P1
+"
+0xff8c,"Rassvet - P2
+","Rassvet - P2
+"
+0xff9a,"Rassvet - S1
+","Rassvet - S1
+"
+0xffa8,"Chyornyj Prud
+","Chyornyj Prud
+"
+0xffb7,"Bolshaya Past sud
+","Bolshaya Past sud
+"
+0xffca,"Base di Bolshaya Past
+","Base di Bolshaya Past
+"
+0xffe1,"Fenditura di Bolshaya Past
+","Fenditura di Bolshaya Past
+"
+0xfffd,"Ramo grotta Chyornaya Peschera
+","Ramo grotta Chyornaya Peschera
+"
+0x1001d,"Grotta Chyornaya Peschera
+","Grotta Chyornaya Peschera
+"
+0x10038,"Ingresso grotta Chyornaya Peschera
+","Ingresso grotta Chyornaya Peschera
+"
+0x1005c,"Ponizovje sud
+","Ponizovje sud
+"
+0x1006b,"Ponizovje ovest
+","Ponizovje ovest
+"
+0x1007c,"Magazzino di Ponizovje: esterno
+","Magazzino di Ponizovje: esterno
+"
+0x1009d,"Magazzino di Ponizovje - P1
+","Magazzino di Ponizovje - P1
+"
+0x100ba,"Magazzino di Ponizovje - P2
+","Magazzino di Ponizovje - P2
+"
+0x100d7,"Magazzino di Ponizovje - P3
+","Magazzino di Ponizovje - P3
+"
+0x100f4,"Svyatogornyj sud
+","Svyatogornyj sud
+"
+0x10106,"Graniny Gorki sud
+","Graniny Gorki sud
+"
+0x10119,"Esterno laboratorio Graniny Gorki - P1
+","Esterno laboratorio Graniny Gorki - P1
+"
+0x10141,"Esterno laboratorio Graniny Gorki - P2
+","Esterno laboratorio Graniny Gorki - P2
+"
+0x10169,"Laboratorio Graniny Gorki - P1
+","Laboratorio Graniny Gorki - P1
+"
+0x10189,"Laboratorio Graniny Gorki - P2
+","Laboratorio Graniny Gorki - P2
+"
+0x101a9,"Laboratorio Graniny Gorki - S1
+","Laboratorio Graniny Gorki - S1
+"
+0x101c9,"Svyatogornyj ovest
+","Svyatogornyj ovest
+"
+0x101dd,"Svyatogornyj est - P1
+","Svyatogornyj est - P1
+"
+0x101f4,"Svyatogornyj est - P2
+","Svyatogornyj est - P2
+"
+0x1020b,"Svyatogornyj est - S1
+","Svyatogornyj est - S1
+"
+0x10222,"Sokrovenno sud
+","Sokrovenno sud
+"
+0x10232,"Sokrovenno ovest
+","Sokrovenno ovest
+"
+0x10244,"Sokrovenno nord
+","Sokrovenno nord
+"
+0x10255,"Tunnel di Krasnogorje
+","Tunnel di Krasnogorje
+"
+0x1026c,"Base montagna di Krasnogorje
+","Base montagna di Krasnogorje
+"
+0x1028a,"Montagna di Krasnogorje: fianco
+","Montagna di Krasnogorje: fianco
+"
+0x102ab,"Vetta di Krasnogorje
+","Vetta di Krasnogorje
+"
+0x102c1,"Ruderi vetta Krasnogorje
+","Ruderi vetta Krasnogorje
+"
+0x102db,"Vetta di Krasnogorje: dietro i ruderi
+","Vetta di Krasnogorje: dietro i ruderi
+"
+0x10302,"Tunnel sotterraneo di Groznyj Grad
+","Tunnel sotterraneo di Groznyj Grad
+"
+0x10326,"Fogne di Groznyj Grad
+","Fogne di Groznyj Grad
+"
+0x1033d,"Tikhogornyj
+","Tikhogornyj
+"
+0x1034a,"Tikhogornyj: dietro la cascata
+","Tikhogornyj: dietro la cascata
+"
+0x1036a,"Ponte ferroviario di Groznyj Grad
+","Ponte ferroviario di Groznyj Grad
+"
+0x1038d,"Zaozyorje ovest
+","Zaozyorje ovest
+"
+0x1039e,"Zaozyorje est
+","Zaozyorje est
+"
+0x103ad,"Rokovoj Bereg
+","Rokovoj Bereg
+"
+0x103bc,"Groznyj Grad P1
+","Groznyj Grad P1
+"
+0x103cd,"Groznyj Grad P2
+","Groznyj Grad P2
+"
+0x103de,"Groznyj Grad P3
+","Groznyj Grad P3
+"
+0x103ef,"Groznyj Grad S1
+","Groznyj Grad S1
+"
+0x10400,"Cobra reale
+","Cobra reale
+"
+0x1040d,"Cobra di Taiwan
+","Cobra di Taiwan
+"
+0x1041e,"Cobra thai
+","Cobra thai
+"
+0x1042a,"Serpente corallo
+","Serpente corallo
+"
+0x1043c,"Serpente del latte
+","Serpente del latte
+"
+0x10450,"Pitone verde arboricolo
+","Pitone verde arboricolo
+"
+0x10469,"Anaconda gigante
+","Anaconda gigante
+"
+0x1047b,"Pitone reticolato
+","Pitone reticolato
+"
+0x1048e,"Liquid
+","Liquid
+"
+0x10496,"Solid
+","Solid
+"
+0x1049d,"Solidus
+","Solidus
+"
+0x104a6,"Gaviale indiano
+","Gaviale indiano
+"
+0x104b7,"Rana subaspera
+","Rana subaspera
+"
+0x104c7,"Raganella
+","Raganella
+"
+0x104d2,"Rana freccia
+","Rana freccia
+"
+0x104e0,"Ratto
+","Ratto
+"
+0x104e7,"Coniglio europeo
+","Coniglio europeo
+"
+0x104f9,"Scoiattolo volante gpn.
+","Scoiattolo volante gpn.
+"
+0x10512,"Markhor
+","Markhor
+"
+0x1051b,"Pipistrello vampiro
+","Pipistrello vampiro
+"
+0x10530,"Nido calabroni Baltico
+","Nido calabroni Baltico
+"
+0x10548,"Scorpione imperatore
+","Scorpione imperatore
+"
+0x1055e,"Tarantola blu cobalto
+","Tarantola blu cobalto
+"
+0x10575,"Pappagallo
+","Pappagallo
+"
+0x10581,"Avvoltoio groppabianca
+","Avvoltoio groppabianca
+"
+0x10599,"Bengalino moscato
+","Bengalino moscato
+"
+0x105ac,"Gazza
+","Gazza
+"
+0x105b3,"Tordo zufolatore Sonda
+","Tordo zufolatore Sonda
+"
+0x105cb,"Carangide
+","Carangide
+"
+0x105d6,"Leptobarbus hoeveni
+","Leptobarbus hoeveni
+"
+0x105eb,"Arowana
+","Arowana
+"
+0x105f4,"Granchio mangr. Kenya
+","Granchio mangr. Kenya
+"
+0x1060b,"Fungo ostricone russo
+","Fungo ostricone russo
+"
+0x10622,"Fungo luminescente Urali
+","Fungo luminescente Urali
+"
+0x1063c,"Fungo inchiostro siberiano
+","Fungo inchiostro siberiano
+"
+0x10658,"Ovolaccio
+","Ovolaccio
+"
+0x10663,"Fungo luminescente russo
+","Fungo luminescente russo
+"
+0x1067d,"Spatsa
+","Spatsa
+"
+0x10685,"Steccherino bruno Baikal
+","Steccherino bruno Baikal
+"
+0x1069f,"Yabloko moloko
+","Yabloko moloko
+"
+0x106af,"Falso mango russo
+","Falso mango russo
+"
+0x106c2,"Golova
+","Golova
+"
+0x106ca,"Melone rampicante
+","Melone rampicante
+"
+0x106dd,"Tagliolini istantanei
+","Tagliolini istantanei
+"
+0x106f4,"Razione
+","Razione
+"
+0x106fd,"Calorie Mate
+","Calorie Mate
+"
+0x1070b,"Nido di calabroni The Pain
+","Nido di calabroni The Pain
+"
+0x10727,"Tsuchinoko
+","Tsuchinoko
+"
+0x10733,"Cobra reale
+","Cobra reale
+"
+0x10740,"Cobra di Taiwan
+","Cobra di Taiwan
+"
+0x10751,"Cobra thai
+","Cobra thai
+"
+0x1075d,"Serpente corallo
+","Serpente corallo
+"
+0x1076f,"Serpente del latte
+","Serpente del latte
+"
+0x10783,"Pitone verde arboricolo
+","Pitone verde arboricolo
+"
+0x1079c,"Anaconda gigante
+","Anaconda gigante
+"
+0x107ae,"Pitone reticolato
+","Pitone reticolato
+"
+0x107c1,"Liquid
+","Liquid
+"
+0x107c9,"Solid
+","Solid
+"
+0x107d0,"Solidus
+","Solidus
+"
+0x107d9,"Gaviale indiano
+","Gaviale indiano
+"
+0x107ea,"Rana subaspera
+","Rana subaspera
+"
+0x107fa,"Raganella
+","Raganella
+"
+0x10805,"Rana freccia
+","Rana freccia
+"
+0x10813,"Ratto
+","Ratto
+"
+0x1081a,"Coniglio europeo
+","Coniglio europeo
+"
+0x1082c,"Scoiattolo volante gpn.
+","Scoiattolo volante gpn.
+"
+0x10845,"Markhor
+","Markhor
+"
+0x1084e,"Pipistrello vampiro
+","Pipistrello vampiro
+"
+0x10863,"Nido calabroni Baltico
+","Nido calabroni Baltico
+"
+0x1087b,"Scorpione imperatore
+","Scorpione imperatore
+"
+0x10891,"Tarantola blu cobalto
+","Tarantola blu cobalto
+"
+0x108a8,"Pappagallo
+","Pappagallo
+"
+0x108b4,"Avvoltoio groppabianca
+","Avvoltoio groppabianca
+"
+0x108cc,"Bengalino moscato
+","Bengalino moscato
+"
+0x108df,"Gazza
+","Gazza
+"
+0x108e6,"Tordo zufolatore Sonda
+","Tordo zufolatore Sonda
+"
+0x108fe,"Carangide
+","Carangide
+"
+0x10909,"Leptobarbus hoeveni
+","Leptobarbus hoeveni
+"
+0x1091e,"Arowana
+","Arowana
+"
+0x10927,"Granchio mangr. Kenya
+","Granchio mangr. Kenya
+"
+0x1093e,"Tsuchinoko
+","Tsuchinoko
+"
+0x1094a,"???
+","???
+"
+0x1094f,"Nessuna ferita
+","Nessuna ferita
+"
+0x1095f,"Ustione
+","Ustione
+"
+0x10968,"Taglio
+","Taglio
+"
+0x10970,"Ferita da arma da fuoco
+","Ferita da arma da fuoco
+"
+0x10989,"Ferita da arma da fuoco
+","Ferita da arma da fuoco
+"
+0x109a2,"Osso rotto
+","Osso rotto
+"
+0x109ae,"Ape proiettile
+","Ape proiettile
+"
+0x109be,"Sanguisuga
+","Sanguisuga
+"
+0x109ca,"Ferita da freccia
+","Ferita da freccia
+"
+0x109dd,"Puntura di anestetico
+","Puntura di anestetico
+"
+0x109f4,"Avvelenamento
+","Avvelenamento
+"
+0x10a03,"Intossicazione
+","Intossicazione
+"
+0x10a13,"Raffreddore
+","Raffreddore
+"
+0x10a20,"Mal di stomaco
+","Mal di stomaco
+"
+0x10a30,"Trasmettitore
+","Trasmettitore
+"
+0x10a3f,"Ferita da arma da fuoco
+","Ferita da arma da fuoco
+"
+0x10a58,"???
+","???
+"
+0x10a5d,"???
+","???
+"
+0x10a62,,
+0x10a63,"Intossicazione dopo
+avere mangiato cibo
+velenoso di natura.
+L'ENERGIA VITALE
+continuerà a calare
+se non curata.
+Per curarla, usa
+l'antidoto.
+","Intossicazione dopo
+avere mangiato cibo
+velenoso di natura.
+L'ENERGIA VITALE
+continuerà a calare
+se non curata.
+Per curarla, usa
+l'antidoto.
+"
+0x10af2,"Avvelenamento.
+L'ENERGIA VITALE
+continuerà a calare
+se non
+neutralizzato.
+Per curarlo, inietta
+il siero.
+","Avvelenamento.
+L'ENERGIA VITALE
+continuerà a calare
+se non
+neutralizzato.
+Per curarlo, inietta
+il siero.
+"
+0x10b5d,"Raffreddore. Il
+vigore continuerà
+a calare se non
+curato. Per curarlo,
+prendi la medicina
+per il raffreddore.
+","Raffreddore. Il
+vigore continuerà
+a calare se non
+curato. Per curarlo,
+prendi la medicina
+per il raffreddore.
+"
+0x10bcd,"Intossicazione dopo
+avere mangiato cibo
+avariato. Il vigore
+continuerà a calare
+se non curata. Per
+curarla, prendi la
+medicina digestiva.
+","Intossicazione dopo
+avere mangiato cibo
+avariato. Il vigore
+continuerà a calare
+se non curata. Per
+curarla, prendi la
+medicina digestiva.
+"
+0x10c59,"Riportate
+ustioni gravi.
+","Riportate
+ustioni gravi.
+"
+0x10c73,"Riportato un
+taglio profondo.
+","Riportato un
+taglio profondo.
+"
+0x10c92,"Riportata una ferita
+da arma da fuoco.
+","Riportata una ferita
+da arma da fuoco.
+"
+0x10cba,"Osso fratturato.
+","Osso fratturato.
+"
+0x10ccc,"Riportata una ferita
+da ape proiettile.
+","Riportata una ferita
+da ape proiettile.
+"
+0x10cf5,"Sanguisughe
+attaccate al corpo.
+Il vigore cala se le
+sanguisughe
+rimangono
+attaccate.
+Toglile bruciandole
+con un sigaro
+acceso.
+","Sanguisughe
+attaccate al corpo.
+Il vigore cala se le
+sanguisughe
+rimangono
+attaccate.
+Toglile bruciandole
+con un sigaro
+acceso.
+"
+0x10d76,"Riportata una
+ferita da freccia.
+","Riportata una
+ferita da freccia.
+"
+0x10d98,"Colpo da ago con
+tranquillante. Il
+vigore cala se non
+lo curi. Se il vigore
+scende a zero perdi
+i sensi. Togli l'ago
+con un coltello.
+","Colpo da ago con
+tranquillante. Il
+vigore cala se non
+lo curi. Se il vigore
+scende a zero perdi
+i sensi. Togli l'ago
+con un coltello.
+"
+0x10e1f,"Colpo da ago con
+tranquillante.
+Togli l'ago con
+un coltello.
+","Colpo da ago con
+tranquillante.
+Togli l'ago con
+un coltello.
+"
+0x10e5d,"Ferita da arma da
+fuoco inferta dal
+Boss.
+Il proiettile è
+rimasto
+conficcato
+nel corpo.
+","Ferita da arma da
+fuoco inferta dal
+Boss.
+Il proiettile è
+rimasto
+conficcato
+nel corpo.
+"
+0x10eb7,"Piccolo
+trasmettitore
+trovato conficcato
+","Piccolo
+trasmettitore
+trovato conficcato
+"
+0x10ee1,"Addome perforato
+da un ramo d'albero.
+Riportato un taglio
+profondo.
+","Addome perforato
+da un ramo d'albero.
+Riportato un taglio
+profondo.
+"
+0x10f26,"Proiettile estratto.
+","Proiettile estratto.
+"
+0x10f3c,"Dardo estratto.
+","Dardo estratto.
+"
+0x10f4d,"Area sofferente
+fasciata con stecca.
+","Area sofferente
+fasciata con stecca.
+"
+0x10f73,"L'ape proiettile
+corrode all'interno
+del corpo.
+","L'ape proiettile
+corrode all'interno
+del corpo.
+"
+0x10fa4,"Emorragia.
+","Emorragia.
+"
+0x10fb0,"Nessuna benda
+applicata.
+","Nessuna benda
+applicata.
+"
+0x10fca,"Disinfezione non
+ancora eseguita.
+","Disinfezione non
+ancora eseguita.
+"
+0x10fed,"Unguento non
+applicato.
+","Unguento non
+applicato.
+"
+0x11006,"Guarigione non
+avvenuta.
+","Guarigione non
+avvenuta.
+"
+0x11020,"Inizia a guarire
+un po'.
+","Inizia a guarire
+un po'.
+"
+0x1103a,"La guarigione
+prosegue bene.
+","La guarigione
+prosegue bene.
+"
+0x11058,"Guarigione
+quasi completata.
+","Guarigione
+quasi completata.
+"
+0x11076,"Guarigione
+quasi completata.
+Presto dovrebbe
+guarire
+completamente.
+","Guarigione
+quasi completata.
+Presto dovrebbe
+guarire
+completamente.
+"
+0x110bb,"IMPOSSIBILE EQUIPAGGIARE.
+","IMPOSSIBILE EQUIPAGGIARE.
+"
+0x110d6,"RIMUOVI QUALCOSA E SELEZIONA.
+","RIMUOVI QUALCOSA E SELEZIONA.
+"
+0x110f5,"Sto giocando con la serie MGS per la prima volta!
+","Sto giocando con la serie MGS per la prima volta!
+"
+0x11128,"Mi piace MGS1!
+","Mi piace MGS1!
+"
+0x11138,"Mi piace MGS2!
+","Mi piace MGS2!
+"
+0x11148,"Mi piace MGS3!
+","Mi piace MGS3!
+"
+0x11158,"NUOVO GIOCO
+","NUOVO GIOCO
+"
+0x11165,"CARICA GIOCO
+","CARICA GIOCO
+"
+0x11173,"SCHEDE ISTRUZIONI
+","SCHEDE ISTRUZIONI
+"
+0x11186,"SERPENTE CONTRO SCIMMIA
+","SERPENTE CONTRO SCIMMIA
+"
+0x1119f,"MODALITÀ OPZIONI
+","MODALITÀ OPZIONI
+"
+0x111b2,"MODALITÀ SPECIALE
+","MODALITÀ SPECIALE
+"
+0x111c6,"Per principianti.
+","Per principianti.
+"
+0x111d9,"Per non esperti di giochi d'azione.
+","Per non esperti di giochi d'azione.
+"
+0x111fe,"Grado di difficoltà standard.
+","Grado di difficoltà standard.
+"
+0x1121e,"Per giocatori abili.
+","Per giocatori abili.
+"
+0x11234,"Per esperti di giochi d'azione.
+","Per esperti di giochi d'azione.
+"
+0x11255,"MISSIONE VIRTUOSA
+","MISSIONE VIRTUOSA
+"
+0x11268,"OPERAZIONE SNAKE EATER
+","OPERAZIONE SNAKE EATER
+"
+0x11280,"Torna alla schermata precedente.
+","Torna alla schermata precedente.
+"
+0x112a2,"DUELLO
+","DUELLO
+"
+0x112aa,"DIMOSTRAZIONE
+","DIMOSTRAZIONE
+"
+0x112b9,"Il gioco terminerà nel caso il nemico ti avvisti.
+","Il gioco terminerà nel caso il nemico ti avvisti.
+"
+0x112ed,"Tagliolini istantanei
+","Tagliolini istantanei
+"
+0x11304,"Tagliolini istantanei
+","Tagliolini istantanei
+"
+0x1131b,"Grappa
+","Grappa
+"
+0x11323,"Espresso
+","Espresso
+"
+0x1132d,"Gelato di
+","Gelato di
+"
+0x11338,"　　　falso mango russo
+","　　　falso mango russo
+"
+0x11354,"Petto d'anatra grigliato
+","Petto d'anatra grigliato
+"
+0x1136e,"　　　　　　　　alle erbe
+","　　　　　　　　alle erbe
+"
+0x11391,"Fettuccine alla crema
+","Fettuccine alla crema
+"
+0x113a8,"　　　　　　di gorgonzola
+","　　　　　　di gorgonzola
+"
+0x113c9,"Carpaccio di polpo
+","Carpaccio di polpo
+"
+0x113dd,"Focaccia
+","Focaccia
+"
+0x113e7,"Vino
+","Vino
+"
+0x113ed,"Marinata di pettini
+","Marinata di pettini
+"
+0x11402,"Cocktail Bellini
+","Cocktail Bellini
+"
+0x11414,"Tagliolini istantanei
+","Tagliolini istantanei
+"
+0x1142b,"Tè
+","Tè
+"
+0x11430,"Gelatina
+","Gelatina
+"
+0x1143a,"　　　di mandorle cinese
+","　　　di mandorle cinese
+"
+0x11457,"Riso fritto ai frutti di mare
+","Riso fritto ai frutti di mare
+"
+0x11476,"Zuppa di pinna di squalo
+","Zuppa di pinna di squalo
+"
+0x11490,"　　　　　　e tsuchinoko
+","　　　　　　e tsuchinoko
+"
+0x114b0,"Anatra di Pechino grigliata
+","Anatra di Pechino grigliata
+"
+0x114cd,"Orecchia di mare
+","Orecchia di mare
+"
+0x114df,"　　　in salsa d'ostriche
+","　　　in salsa d'ostriche
+"
+0x114fd,"Zuppa
+","Zuppa
+"
+0x11504,"　　di gnocchi al vapore
+","　　di gnocchi al vapore
+"
+0x11520,"Gyoza di gamberetti
+","Gyoza di gamberetti
+"
+0x11535,"　　　　　　　　al vapore
+","　　　　　　　　al vapore
+"
+0x11558,"Involtino primavera
+","Involtino primavera
+"
+0x1156d,"　　al melone rampicante
+","　　al melone rampicante
+"
+0x11589,"Verdure fredde
+","Verdure fredde
+"
+0x11599,"Mela
+","Mela
+"
+0x1159f,"Tagliolini istantanei
+","Tagliolini istantanei
+"
+0x115b6,"Cointreau
+","Cointreau
+"
+0x115c1,"Caffè
+","Caffè
+"
+0x115c9,"Crème brûlée di golova
+","Crème brûlée di golova
+"
+0x115e4,"　　　con sorbetto al latte
+","　　　con sorbetto al latte
+"
+0x11604,"Filetto rosolato
+","Filetto rosolato
+"
+0x11616,"　　　　　　di Bordeaux
+","　　　　　　di Bordeaux
+"
+0x11635,"Sorbetto
+","Sorbetto
+"
+0x1163f,"　　　di yabloko moloko
+","　　　di yabloko moloko
+"
+0x1165b,"Sogliola alla mugnaia
+","Sogliola alla mugnaia
+"
+0x11672,"　　　con patata al burro
+","　　　con patata al burro
+"
+0x11690,"Cozze con zuppa
+","Cozze con zuppa
+"
+0x116a1,"　　　　　　allo zafferano
+","　　　　　　allo zafferano
+"
+0x116c3,"Foie gras di anatra
+","Foie gras di anatra
+"
+0x116d8,"rosolato in salsa di mele
+","rosolato in salsa di mele
+"
+0x116f3,"Vino
+","Vino
+"
+0x116f9,"Baguette
+","Baguette
+"
+0x11703,"Marinata di salmone
+","Marinata di salmone
+"
+0x11718,"　　　　　　　　e verdure
+","　　　　　　　　e verdure
+"
+0x1173b,"Ratatouille ghiacciata
+","Ratatouille ghiacciata
+"
+0x11753,"Kir royal
+","Kir royal
+"
+0x1175e,"Funghi luminescenti
+","Funghi luminescenti
+"
+0x11773,"　　　　　　　degli Urali
+","　　　　　　　degli Urali
+"
+0x11795,"Tè verde
+","Tè verde
+"
+0x117a0,"Fagioli rossi ghiacciati
+","Fagioli rossi ghiacciati
+"
+0x117ba,"　　　con gnocchetti
+","　　　con gnocchetti
+"
+0x117d3,"　　　　　　di farina dolci
+","　　　　　　di farina dolci
+"
+0x117f6,"Riso con
+","Riso con
+"
+0x11800,"　　　　sardine essiccate
+","　　　　sardine essiccate
+"
+0x1181f,"Tonno, pagello e ricciola
+","Tonno, pagello e ricciola
+"
+0x1183a,"　　　guarniti con prugne
+","　　　guarniti con prugne
+"
+0x11858,"Ferita da arma da taglio
+","Ferita da arma da taglio
+"
+0x11872,"Ferita da arma da fuoco
+","Ferita da arma da fuoco
+"
+0x1188b,"Ferita da arma da fuoco
+","Ferita da arma da fuoco
+"
+0x118a4,"Ferita da arma da fuoco
+","Ferita da arma da fuoco
+"
+0x118bd,"Ferita da arma da fuoco
+","Ferita da arma da fuoco
+"
+0x118d6,"Ferita da arma da fuoco
+","Ferita da arma da fuoco
+"
+0x118ef,"Colpo subito
+","Colpo subito
+"
+0x118fd,"Ustione
+","Ustione
+"
+0x11906,"Ustione elettrica
+","Ustione elettrica
+"
+0x11919,"Colpo subito
+","Colpo subito
+"
+0x11927,"Ustione elettrica
+","Ustione elettrica
+"
+0x1193a,"Ustione elettrica
+","Ustione elettrica
+"
+0x1194d,"Colpo subito
+","Colpo subito
+"
+0x1195b,"Colpo subito
+","Colpo subito
+"
+0x11969,"Colpo subito
+","Colpo subito
+"
+0x11977,"Colpo subito
+","Colpo subito
+"
+0x11985,"Proctite
+","Proctite
+"
+0x1198f,"Dolore alla schiena
+","Dolore alla schiena
+"
+0x119a4,"Ustione elettrica
+","Ustione elettrica
+"
+0x119b7,"Mal di stomaco
+","Mal di stomaco
+"
+0x119c7,"Distorsione del dito
+","Distorsione del dito
+"
+0x119dd,"Mal di stomaco
+","Mal di stomaco
+"
+0x119ed,"Intossicazione
+","Intossicazione
+"
+0x119fd,"Sanguisuga
+","Sanguisuga
+"
+0x11a09,"Veleno
+","Veleno
+"
+0x11a11,"Unghia rotta
+","Unghia rotta
+"
+0x11a1f,"Dolore alla schiena
+","Dolore alla schiena
+"
+0x11a34,"Colpo subito
+","Colpo subito
+"
+0x11a42,"Mal di stomaco
+","Mal di stomaco
+"
+0x11a52,"Dolore alla schiena
+","Dolore alla schiena
+"
+0x11a67,"Ustione elettrica
+","Ustione elettrica
+"
+0x11a7a,"Colpo subito
+","Colpo subito
+"
+0x11a88,"Ipossia
+","Ipossia
+"
+0x11a91,"Colpo subito
+","Colpo subito
+"
+0x11a9f,"Colpo subito
+","Colpo subito
+"
+0x11aad,"Raffreddore
+","Raffreddore
+"
+0x11aba,"Distorsione
+","Distorsione
+"
+0x11ac7,"Mal di stomaco
+","Mal di stomaco
+"
+0x11ad7,"Unghia rotta
+","Unghia rotta
+"
+0x11ae5,"Raffreddore
+","Raffreddore
+"
+0x11af2,"Mal di stomaco
+","Mal di stomaco
+"
+0x11b02,"Infezione orecchio interno
+","Infezione orecchio interno
+"
+0x11b1e,"Mal di stomaco
+","Mal di stomaco
+"
+0x11b2e,"Carie
+","Carie
+"
+0x11b35,"Raffreddore
+","Raffreddore
+"
+0x11b42,"Terrore notturno
+","Terrore notturno
+"
+0x11b54,"Gastrite
+","Gastrite
+"
+0x11b5e,"Mal di stomaco
+","Mal di stomaco
+"
+0x11b6e,"Aumento del seno
+","Aumento del seno
+"
+0x11b80,"Bronchite
+","Bronchite
+"
+0x11b8b,"Raffreddore
+","Raffreddore
+"
+0x11b98,"Colpo subito
+","Colpo subito
+"
+0x11ba6,"Encefalite da zecca
+","Encefalite da zecca
+"
+0x11bbb,"Taglio
+","Taglio
+"
+0x11bc3,"Colpo subito
+","Colpo subito
+"
+0x11bd1,"Congelamento
+","Congelamento
+"
+0x11bdf,"Taglio
+","Taglio
+"
+0x11be7,"Ferita da arma da taglio
+","Ferita da arma da taglio
+"
+0x11c01,"Distorsione
+","Distorsione
+"
+0x11c0e,"Ferita da arma da fuoco
+","Ferita da arma da fuoco
+"
+0x11c27,"Ustione
+","Ustione
+"
+0x11c30,"Colpo subito
+","Colpo subito
+"
+0x11c3e,"Ferita da arma da fuoco
+","Ferita da arma da fuoco
+"
+0x11c57,"Intervento plastico
+","Intervento plastico
+"
+0x11c6c,"Attiva/disattiva la vibrazione.
+","Attiva/disattiva la vibrazione.
+"
+0x11c8d,"Attiva/disattiva la visualizzazione del sangue.
+","Attiva/disattiva la visualizzazione del sangue.
+"
+0x11cbe,"Attiva/disattiva Dolby Pro Logic II.
+","Attiva/disattiva Dolby Pro Logic II.
+"
+0x11ce4,"Attiva/disattiva le didascalie.
+","Attiva/disattiva le didascalie.
+"
+0x11d05,"Seleziona tipo di controllo in Visuale Sogg.
+","Seleziona tipo di controllo in Visuale Sogg.
+"
+0x11d33,"Seleziona lingua.
+","Seleziona lingua.
+"
+0x11d46,"Regola posizione schermata.
+","Regola posizione schermata.
+"
+0x11d63,"Regola luminosità schermata.
+","Regola luminosità schermata.
+"
+0x11d82,"Torna alla schermata precedente.
+","Torna alla schermata precedente.
+"
+0x11da4,"Regola luminosità monitor per rendere
+invisibile scala grigi sotto linea arancione
+e avere luminosità ottimale per il gioco.
+","Regola luminosità monitor per rendere
+invisibile scala grigi sotto linea arancione
+e avere luminosità ottimale per il gioco.
+"
+0x11e24,"Seleziona la modalità Telecamera
+","Seleziona la modalità Telecamera
+"
+0x11e47,"Comandi alto/basso per la Telecamera 3D.
+","Comandi alto/basso per la Telecamera 3D.
+"
+0x11e71,"Comandi sinistra/destra per la Telecamera 3D.
+","Comandi sinistra/destra per la Telecamera 3D.
+"
+0x11ea0,"AZIONI PRINCIPALI
+","AZIONI PRINCIPALI
+"
+0x11eb3,"ALBUM FOTOGRAFICO
+","ALBUM FOTOGRAFICO
+"
+0x11ec6,"OMAGGIO
+","OMAGGIO
+"
+0x11ecf,"SCARICA MIMETICA
+","SCARICA MIMETICA
+"
+0x11ee1,"COLLEGAMENTO METAL GEAR ACID
+","COLLEGAMENTO METAL GEAR ACID
+"
+0x11eff,"TORNA ALLA SCHERMATA PRECEDENTE.
+","TORNA ALLA SCHERMATA PRECEDENTE.
+"
+0x11f21,日本語,日本語
+0x11f2b,English,English
+0x11f33,French,French
+0x11f3a,German,German
+0x11f41,Italian,Italian
+0x11f49,Spanish,Spanish
+0x11f51,"Seleziona destinazione salvataggio.
+","Seleziona destinazione salvataggio.
+"
+0x11f76,"Seleziona destinazione caricamento.
+","Seleziona destinazione caricamento.
+"
+0x11f9b,"Nessuna memory card (PS2) trovata.
+","Nessuna memory card (PS2) trovata.
+"
+0x11fbf,"Nessuna memory card (PS2) trovata.
+Continuare con il gioco?
+","Nessuna memory card (PS2) trovata.
+Continuare con il gioco?
+"
+0x11ffc,"Nessuna memory card (PS2) trovata.
+Continuare senza salvare?
+","Nessuna memory card (PS2) trovata.
+Continuare senza salvare?
+"
+0x1203a,"Spazio libero insufficiente sulla memory
+card (PS2). Sono richiesti almeno %dKB
+di spazio libero per salvare i dati.
+","Spazio libero insufficiente sulla memory
+card (PS2). Sono richiesti almeno %dKB
+di spazio libero per salvare i dati.
+"
+0x120b0,"Creare nuovi dati salvati sulla memory
+card (PS2)?
+Sì o No
+","Creare nuovi dati salvati sulla memory
+card (PS2)?
+Sì o No
+"
+0x120ed,"Sovrascrivere questi dati salvati?
+Sì o No
+","Sovrascrivere questi dati salvati?
+Sì o No
+"
+0x1211a,"La memory card (PS2) non è formattata.
+Formattare la memory card (PS2) e
+salvare?
+","La memory card (PS2) non è formattata.
+Formattare la memory card (PS2) e
+salvare?
+"
+0x1216e,"Salvataggio dati. Non rimuovere la
+memory card (PS2) né il controller
+e non resettare/spegnere la console.
+","Salvataggio dati. Non rimuovere la
+memory card (PS2) né il controller
+e non resettare/spegnere la console.
+"
+0x121db,"Formattazione memory card (PS2). Non
+rimuovere memory card (PS2) e controller.
+Non resettare/spegnere console.
+","Formattazione memory card (PS2). Non
+rimuovere memory card (PS2) e controller.
+Non resettare/spegnere console.
+"
+0x1224b,"Salvataggio completato.
+","Salvataggio completato.
+"
+0x12264,"Salvataggio fallito! Controllare la
+memory card (PS2) e riprovare.
+","Salvataggio fallito! Controllare la
+memory card (PS2) e riprovare.
+"
+0x122a8,"Formattazione fallita! Controllare
+la memory card (PS2) e riprovare.
+","Formattazione fallita! Controllare
+la memory card (PS2) e riprovare.
+"
+0x122ee,"Nessun dato presente sulla
+memory card (PS2).
+","Nessun dato presente sulla
+memory card (PS2).
+"
+0x1231d,"Nessun dato presente sulla memory
+card (PS2). Continuare con il gioco?
+","Nessun dato presente sulla memory
+card (PS2). Continuare con il gioco?
+"
+0x12365,"Nessun dato presente sulla memory
+card (PS2). Continuare senza salvare?
+","Nessun dato presente sulla memory
+card (PS2). Continuare senza salvare?
+"
+0x123ae,"Sì o No
+","Sì o No
+"
+0x123b8,"Caricamento dati.
+","Caricamento dati.
+"
+0x123cb,"Caricamento completato.
+","Caricamento completato.
+"
+0x123e4,"Caricamento fallito! Controllare la
+memory card (PS2) e riprovare.
+","Caricamento fallito! Controllare la
+memory card (PS2) e riprovare.
+"
+0x12428,"Annullare il caricamento?
+","Annullare il caricamento?
+"
+0x12443,"Annullare il salvataggio?
+","Annullare il salvataggio?
+"
+0x1245e,"Spazio insufficiente su memory card (PS2).
+Servono almeno %dKB per salvare i dati.
+Continuare con il gioco?
+","Spazio insufficiente su memory card (PS2).
+Servono almeno %dKB per salvare i dati.
+Continuare con il gioco?
+"
+0x124cb,"Memory card (PS2) non trovata.
+Servono almeno %dKB per salvare
+i dati. Continuare con il gioco?
+","Memory card (PS2) non trovata.
+Servono almeno %dKB per salvare
+i dati. Continuare con il gioco?
+"
+0x1252c,"Controllo memory card (PS2) fallito!
+Servono almeno %dKB per salvare
+i dati. Continuare con il gioco?
+","Controllo memory card (PS2) fallito!
+Servono almeno %dKB per salvare
+i dati. Continuare con il gioco?
+"
+0x12593,"Inserire una memory
+card (PS2) diversa.
+","Inserire una memory
+card (PS2) diversa.
+"
+0x125bc,"Sì
+","Sì
+"
+0x125c1,"No
+","No
+"
+0x125c5,"Avviso
+","Avviso
+"
+0x125cd,"Continuare con il gioco?
+","Continuare con il gioco?
+"
+0x125e7,"I dati sulla memory card (PS2)
+sono danneggiati.
+","I dati sulla memory card (PS2)
+sono danneggiati.
+"
+0x12619,"Controllo memory card (PS2).
+","Controllo memory card (PS2).
+"
+0x12637,"Inserire una memory card (PS2).
+","Inserire una memory card (PS2).
+"
+0x12658,"Nessuna memory card (PS2) trovata.
+Inserire la memory card (PS2) usata
+per caricare i dati salvati.
+","Nessuna memory card (PS2) trovata.
+Inserire la memory card (PS2) usata
+per caricare i dati salvati.
+"
+0x126bd,"Nessun dato caricato trovato.
+Inserire la memory card (PS2)
+usata per caricare i dati salvati.
+","Nessun dato caricato trovato.
+Inserire la memory card (PS2)
+usata per caricare i dati salvati.
+"
+0x1271d,"Caricamento fallito! Inserire la
+memory card (PS2) usata per
+caricare i dati salvati.
+","Caricamento fallito! Inserire la
+memory card (PS2) usata per
+caricare i dati salvati.
+"
+0x12774,"I dati salvati sono danneggiati.
+Inserire la memory card (PS2)
+usata per caricare i dati salvati.
+","I dati salvati sono danneggiati.
+Inserire la memory card (PS2)
+usata per caricare i dati salvati.
+"
+0x127d7,"Tornare al menu principale?
+","Tornare al menu principale?
+"
+0x127f4,"Memory card (PS2) rimossa durante
+il salvataggio. Reinserire la memory
+card (PS2). Annullare la sovrascrittura?
+","Memory card (PS2) rimossa durante
+il salvataggio. Reinserire la memory
+card (PS2). Annullare la sovrascrittura?
+"
+0x12865,"I dati salvati e caricati non sono stati
+trovati. Sovrascrivere i dati salvati
+attuali su memory card (PS2)?
+","I dati salvati e caricati non sono stati
+trovati. Sovrascrivere i dati salvati
+attuali su memory card (PS2)?
+"
+0x128d3,"Trasferimento completato.
+","Trasferimento completato.
+"
+0x128ee,"Trasferimento fallito.
+","Trasferimento fallito.
+"
+0x12906,"Controllo ingresso MEMORY CARD 1.
+","Controllo ingresso MEMORY CARD 1.
+"
+0x12929,"Controllo ingresso MEMORY CARD 2.
+","Controllo ingresso MEMORY CARD 2.
+"
+0x1294c,Salvare?,Salvare?
+0x12955,"?
+","?
+"
+0x12958,"Dremuchij sud
+","Dremuchij sud
+"
+0x12967,"Dremuchij est
+","Dremuchij est
+"
+0x12976,"Palude di Dremuchij
+","Palude di Dremuchij
+"
+0x1298b,"Dremuchij nord
+","Dremuchij nord
+"
+0x1299b,"Dolinovodno
+","Dolinovodno
+"
+0x129a8,"Rassvet
+","Rassvet
+"
+0x129b1,"Riva di fiume di Dolinovodno
+","Riva di fiume di Dolinovodno
+"
+0x129cf,"Chyornyj Prud
+","Chyornyj Prud
+"
+0x129de,"Bolshaya Past sud
+","Bolshaya Past sud
+"
+0x129f1,"Base di Bolshaya Past
+","Base di Bolshaya Past
+"
+0x12a08,"Fenditura di Bolshaya Past
+","Fenditura di Bolshaya Past
+"
+0x12a24,"Ramo grotta Chyornaya Peschera
+","Ramo grotta Chyornaya Peschera
+"
+0x12a44,"Grotta Chyornaya Peschera
+","Grotta Chyornaya Peschera
+"
+0x12a5f,"Ingresso grotta Chyornaya Peschera
+","Ingresso grotta Chyornaya Peschera
+"
+0x12a83,"Ponizovje sud
+","Ponizovje sud
+"
+0x12a92,"Ponizovje ovest
+","Ponizovje ovest
+"
+0x12aa3,"Magazzino di Ponizovje: esterno
+","Magazzino di Ponizovje: esterno
+"
+0x12ac4,"Magazzino di Ponizovje
+","Magazzino di Ponizovje
+"
+0x12adc,"Graniny Gorki sud
+","Graniny Gorki sud
+"
+0x12aef,"Esterno laboratorio Graniny Gorki:
+fuori le mura
+","Esterno laboratorio Graniny Gorki:
+fuori le mura
+"
+0x12b21,"Esterno laboratorio Graniny Gorki:
+mura interne
+","Esterno laboratorio Graniny Gorki:
+mura interne
+"
+0x12b52,"Laboratorio Graniny Gorki - P1/P2
+","Laboratorio Graniny Gorki - P1/P2
+"
+0x12b75,"Laboratorio Graniny Gorki - S1 est
+","Laboratorio Graniny Gorki - S1 est
+"
+0x12b99,"Laboratorio Graniny Gorki - S1 ovest
+","Laboratorio Graniny Gorki - S1 ovest
+"
+0x12bbf,"Svyatogornyj sud
+","Svyatogornyj sud
+"
+0x12bd1,"Svyatogornyj ovest
+","Svyatogornyj ovest
+"
+0x12be5,"Svyatogornyj est
+","Svyatogornyj est
+"
+0x12bf7,"Sokrovenno sud
+","Sokrovenno sud
+"
+0x12c07,"Sokrovenno ovest
+","Sokrovenno ovest
+"
+0x12c19,"Sokrovenno nord
+","Sokrovenno nord
+"
+0x12c2a,"Tunnel di Krasnogorje
+","Tunnel di Krasnogorje
+"
+0x12c41,"Base montagna di Krasnogorje
+","Base montagna di Krasnogorje
+"
+0x12c5f,"Montagna di Krasnogorje: fianco
+","Montagna di Krasnogorje: fianco
+"
+0x12c80,"Vetta di Krasnogorje
+","Vetta di Krasnogorje
+"
+0x12c96,"Ruderi vetta Krasnogorje
+","Ruderi vetta Krasnogorje
+"
+0x12cb0,"Ruderi vetta Krasnogorje: retro
+","Ruderi vetta Krasnogorje: retro
+"
+0x12cd1,"Tunnel sotterraneo di Groznyj Grad
+","Tunnel sotterraneo di Groznyj Grad
+"
+0x12cf5,"Groznyj Grad sud-ovest
+","Groznyj Grad sud-ovest
+"
+0x12d0d,"Groznyj Grad nord-ovest
+","Groznyj Grad nord-ovest
+"
+0x12d26,"Groznyj Grad nord-est
+","Groznyj Grad nord-est
+"
+0x12d3d,"Groznyj Grad sud-est
+","Groznyj Grad sud-est
+"
+0x12d53,"Laboratorio armi di Groznyj Grad: ala est
+","Laboratorio armi di Groznyj Grad: ala est
+"
+0x12d7e,"Laboratorio armi di Groznyj Grad:
+corridoio ala ovest
+","Laboratorio armi di Groznyj Grad:
+corridoio ala ovest
+"
+0x12db5,"Sala delle torture di Groznyj Grad
+","Sala delle torture di Groznyj Grad
+"
+0x12dd9,"Fogne di Groznyj Grad
+","Fogne di Groznyj Grad
+"
+0x12df0,"Laboratorio armi di Groznyj Grad:
+ala principale
+","Laboratorio armi di Groznyj Grad:
+ala principale
+"
+0x12e22,"Laboratorio armi Groznyj Grad:
+ala principale - S1
+","Laboratorio armi Groznyj Grad:
+ala principale - S1
+"
+0x12e56,"?
+","?
+"
+0x12e59,"Tikhogornyj
+","Tikhogornyj
+"
+0x12e66,"Tikhogornyj: dietro la cascata
+","Tikhogornyj: dietro la cascata
+"
+0x12e86,"Groznyj Grad
+","Groznyj Grad
+"
+0x12e94,"Pista di Groznyj Grad sud
+","Pista di Groznyj Grad sud
+"
+0x12eaf,"Pista di Groznyj Grad
+","Pista di Groznyj Grad
+"
+0x12ec6,"Ponte ferroviario di Groznyj Grad
+","Ponte ferroviario di Groznyj Grad
+"
+0x12ee9,"Ponte ferroviario di Groznyj Grad nord
+","Ponte ferroviario di Groznyj Grad nord
+"
+0x12f11,"Lazorevo sud
+","Lazorevo sud
+"
+0x12f1f,"Lazorevo nord
+","Lazorevo nord
+"
+0x12f2e,"Zaozyorje ovest
+","Zaozyorje ovest
+"
+0x12f3f,"Zaozyorje est
+","Zaozyorje est
+"
+0x12f4e,"Rokovoj Bereg
+","Rokovoj Bereg
+"
+0x12f5d,"WIG: interno
+","WIG: interno
+"
+0x12f6b,"Missione virtuosa completata.
+","Missione virtuosa completata.
+"
+0x12f8a,"Rassvet
+","Rassvet
+"
+0x12f93,"Laboratorio armi di Groznyj Grad:
+ala ovest
+","Laboratorio armi di Groznyj Grad:
+ala ovest
+"
+0x12fc0,"Laboratorio armi di Groznyj Grad:
+ala principale
+","Laboratorio armi di Groznyj Grad:
+ala principale
+"
+0x12ff2,"Oltre il confine sovietico.
+","Oltre il confine sovietico.
+"
+0x1300f,"Operation Snake Eater (Operazione
+mangiaserpenti) completata.
+","Operation Snake Eater (Operazione
+mangiaserpenti) completata.
+"
+0x1304e,----------,----------
+0x13059,SURFING GUITAR / 66 BOYS,SURFING GUITAR / 66 BOYS
+0x13072,ROCK ME BABY / 66 BOYS,ROCK ME BABY / 66 BOYS
+0x13089,PILLOW TALK / STARRY.K,PILLOW TALK / STARRY.K
+0x130a0,JUMPIN' JOHNNY / CHUNK RASPBERRY,JUMPIN' JOHNNY / CHUNK RASPBERRY
+0x130c1,SAILOR / STARRY.K,SAILOR / STARRY.K
+0x130d3,SALTY CATFISH / 66 BOYS,SALTY CATFISH / 66 BOYS
+0x130eb,SEA BREEZE / SERGEI MANTIS,SEA BREEZE / SERGEI MANTIS
+0x13106,DON'T BE AFRAID / RIKA MURANAKA,DON'T BE AFRAID / RIKA MURANAKA
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,

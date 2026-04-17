@@ -1,0 +1,2992 @@
+0x2374,SINGLE ACTION ARMY,SINGLE ACTION ARMY
+0x2387,PATRIOT,PATRIOT
+0x238f,EZ GUN,EZ GUN
+0x2396,CAMERA,CAMERA
+0x239d,MONKEY MASK,MONKEY MASK
+0x23a9,STEALTH,STEALTH
+0x23b1,GREEN FACE PAINT,GREEN FACE PAINT
+0x23c2,BROWN FACE PAINT,BROWN FACE PAINT
+0x23d3,INFINITY FACE PAINT,INFINITY FACE PAINT
+0x23e7,TUXEDO,TUXEDO
+0x23ee,BANANA CAMO,BANANA CAMO
+0x23fa,DPM CAMO,DPM CAMO
+0x2403,AUSCAM DESERT CAMO,AUSCAM DESERT CAMO
+0x2416,DESERT TIGER CAMO,DESERT TIGER CAMO
+0x2428,FLECKTARN CAMO,FLECKTARN CAMO
+0x2437,NATIONAL FLAG FACE PAINTS,NATIONAL FLAG FACE PAINTS
+0x2451,"You got a Single Action Army.|
+","You got a Single Action Army.|
+"
+0x2471,"You got a Patriot.|
+","You got a Patriot.|
+"
+0x2486,"You got an EZ GUN.|
+","You got an EZ GUN.|
+"
+0x249b,"You got a Camera.|
+","You got a Camera.|
+"
+0x24af,"You got a Monkey Mask.|
+You can use it in MGS3.","You got a Monkey Mask.|
+You can use it in MGS3."
+0x24df,"You got Stealth camo.|
+","You got Stealth camo.|
+"
+0x24f7,"You got Green face paint.|
+You can use it in MGS3.","You got Green face paint.|
+You can use it in MGS3."
+0x252a,"You got Brown face paint.|
+","You got Brown face paint.|
+"
+0x2546,"You got Infinity face paint.|
+","You got Infinity face paint.|
+"
+0x2565,"You got a Tuxedo.|
+","You got a Tuxedo.|
+"
+0x2579,"You got Banana pattern camo.|
+You can use it in MGS3.","You got Banana pattern camo.|
+You can use it in MGS3."
+0x25af,"You got DPM pattern camo.|
+You can use it in MGS3.","You got DPM pattern camo.|
+You can use it in MGS3."
+0x25e2,"You got AUSCAM desert pattern|
+camo.","You got AUSCAM desert pattern|
+camo."
+0x2607,"You got Desert Tiger pattern camo.|
+","You got Desert Tiger pattern camo.|
+"
+0x262c,"You got Flecktarn pattern camo.|
+","You got Flecktarn pattern camo.|
+"
+0x264e,"You got National Flags face|
+paints.","You got National Flags face|
+paints."
+0x2673,SINGLE ACTION ARMY,SINGLE ACTION ARMY
+0x2686,PATRIOT,PATRIOT
+0x268e,EZ GUN,EZ GUN
+0x2695,FOTOCAMERA,FOTOCAMERA
+0x26a0,MASQUE DE SINGE,MASQUE DE SINGE
+0x26b0,CAMOUFLAGE OPTIQUE,CAMOUFLAGE OPTIQUE
+0x26c3,VERT,VERT
+0x26c8,MARRON,MARRON
+0x26cf,INFINI,INFINI
+0x26d6,SMOKING,SMOKING
+0x26de,BANANE,BANANE
+0x26e5,DPM,DPM
+0x26e9,DESERT AUSTRALIEN,DESERT AUSTRALIEN
+0x26fb,TIGRE DU DESERT,TIGRE DU DESERT
+0x270b,FLECKTARN,FLECKTARN
+0x2715,PEINTURES DRAPEAUX VISAGE,PEINTURES DRAPEAUX VISAGE
+0x272f,"Vous avez obtenu un Single Action Army.|
+","Vous avez obtenu un Single Action Army.|
+"
+0x2759,"Vous avez obtenu un Patriot.|
+","Vous avez obtenu un Patriot.|
+"
+0x2778,"Vous avez obtenu un EZ GUN.|
+","Vous avez obtenu un EZ GUN.|
+"
+0x2796,"Vous avez obtenu un Appareil photo.|
+","Vous avez obtenu un Appareil photo.|
+"
+0x27bc,"Vous avez obtenu un Masque de singe.|
+Vous pouvez l'utiliser dans MGS3.","Vous avez obtenu un Masque de singe.|
+Vous pouvez l'utiliser dans MGS3."
+0x2804,"Vous avez obtenu un Camouflage optique.|
+","Vous avez obtenu un Camouflage optique.|
+"
+0x282e,"Vous avez obtenu une peinture verte pour le|
+visage. Vous pouvez l'utiliser dans MGS3.","Vous avez obtenu une peinture verte pour le|
+visage. Vous pouvez l'utiliser dans MGS3."
+0x2885,"Vous avez obtenu une peinture marron|
+pour le visage.","Vous avez obtenu une peinture marron|
+pour le visage."
+0x28bb,"Vous avez obtenu une peinture|
+pour le visage Infinity.","Vous avez obtenu une peinture|
+pour le visage Infinity."
+0x28f3,"Vous avez obtenu un Smoking.|
+","Vous avez obtenu un Smoking.|
+"
+0x2912,"Vous avez obtenu un Camouflage au motif|
+Banane. Vous pouvez l'utiliser dans MGS3.","Vous avez obtenu un Camouflage au motif|
+Banane. Vous pouvez l'utiliser dans MGS3."
+0x2965,"Vous avez obtenu un Camouflage au motif|
+DPM. Vous pouvez l'utiliser dans MGS3.","Vous avez obtenu un Camouflage au motif|
+DPM. Vous pouvez l'utiliser dans MGS3."
+0x29b5,"Vous avez obtenu un Camouflage au motif|
+Désert.","Vous avez obtenu un Camouflage au motif|
+Désert."
+0x29e7,"Vous avez obtenu un Camouflage Tigre du|
+désert.","Vous avez obtenu un Camouflage Tigre du|
+désert."
+0x2a19,"Vous avez obtenu un Camouflage au|
+motif Flecktarn.","Vous avez obtenu un Camouflage au|
+motif Flecktarn."
+0x2a4d,"Vous avez obtenu des peintures|
+de drapeaux nationaux pour le visage.","Vous avez obtenu des peintures|
+de drapeaux nationaux pour le visage."
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0xffffffff,,
+0x2a93,"Sélectionner l'emplacement
+de sauvegarde.
+","Sélectionner l'emplacement
+de sauvegarde.
+"
+0x2abf,"Sélectionner l'emplacement
+de chargement.
+","Sélectionner l'emplacement
+de chargement.
+"
+0x2aeb,"Aucune Memory Card (PS2)
+n'a été détectée.
+","Aucune Memory Card (PS2)
+n'a été détectée.
+"
+0x2b1b,"Aucune Memory Card (PS2)
+n'a été détectée.
+Continuer avec la partie?
+","Aucune Memory Card (PS2)
+n'a été détectée.
+Continuer avec la partie?
+"
+0x2b65,"Aucune Memory Card (PS2)
+n'a été détectée.
+Continuer sans sauvegarder?
+","Aucune Memory Card (PS2)
+n'a été détectée.
+Continuer sans sauvegarder?
+"
+0x2bb1,"Espace libre insuffisant sur la Memory
+Card (PS2). Un minimum de %dKB est
+nécessaire pour sauvegarder les données.
+","Espace libre insuffisant sur la Memory
+Card (PS2). Un minimum de %dKB est
+nécessaire pour sauvegarder les données.
+"
+0x2c27,"Créer de nouvelles données de
+sauvegarde sur la Memory Card (PS2)?
+Oui ou Non
+","Créer de nouvelles données de
+sauvegarde sur la Memory Card (PS2)?
+Oui ou Non
+"
+0x2c78,"Etes-vous sûr(e) de vouloir écraser
+ces données de sauvegarde?
+Oui ou Non
+","Etes-vous sûr(e) de vouloir écraser
+ces données de sauvegarde?
+Oui ou Non
+"
+0x2cc6,"La Memory Card (PS2) n'est pas
+formatée. Formater la Memory Card
+(PS2) et sauvegarder?
+","La Memory Card (PS2) n'est pas
+formatée. Formater la Memory Card
+(PS2) et sauvegarder?
+"
+0x2d1f,"Sauvegarde des données. Ne pas retirer la
+Memory Card (PS2) ou la manette, ni
+redémarrer ou éteindre la console.
+","Sauvegarde des données. Ne pas retirer la
+Memory Card (PS2) ou la manette, ni
+redémarrer ou éteindre la console.
+"
+0x2d94,"Formatage en cours. Ne pas retirer la
+Memory Card (PS2) ou la manette, ni
+redémarrer ou éteindre la console.
+","Formatage en cours. Ne pas retirer la
+Memory Card (PS2) ou la manette, ni
+redémarrer ou éteindre la console.
+"
+0x2e04,"Sauvegarde réussie.
+","Sauvegarde réussie.
+"
+0x2e1a,"Echec de la sauvegarde! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+","Echec de la sauvegarde! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+"
+0x2e6b,"Echec du formatage! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+","Echec du formatage! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+"
+0x2eb8,"Pas de données présentes sur
+la Memory Card (PS2).
+","Pas de données présentes sur
+la Memory Card (PS2).
+"
+0x2eee,"Pas de données présentes sur la Memory
+Card (PS2). Continuer avec la partie?
+","Pas de données présentes sur la Memory
+Card (PS2). Continuer avec la partie?
+"
+0x2f3e,"Pas de données présentes sur la Memory
+Card (PS2). Continuer sans sauvegarder?
+","Pas de données présentes sur la Memory
+Card (PS2). Continuer sans sauvegarder?
+"
+0x2f90,"Oui ou Non
+","Oui ou Non
+"
+0x2f9c,"Chargement en cours.
+","Chargement en cours.
+"
+0x2fb2,"Chargement réussi
+","Chargement réussi
+"
+0x2fc6,"Echec du chargement! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+","Echec du chargement! Veuillez vérifier
+la Memory Card (PS2) et ré-essayer.
+"
+0x3014,"Annuler le chargement?
+","Annuler le chargement?
+"
+0x302c,"Annuler la sauvegarde?
+","Annuler la sauvegarde?
+"
+0x3044,"Espace insuf. sur la Memory Card (PS2).
+Un minimum de %dKB est nécessaire pour
+sauvegarder les données. Continuer?
+","Espace insuf. sur la Memory Card (PS2).
+Un minimum de %dKB est nécessaire pour
+sauvegarder les données. Continuer?
+"
+0x30ba,"Aucune Memory Card (PS2) détectée. Un
+minimum de %dKB est nécessaire pour
+sauvegarder les données. Continuer?
+","Aucune Memory Card (PS2) détectée. Un
+minimum de %dKB est nécessaire pour
+sauvegarder les données. Continuer?
+"
+0x312d,"Echec de la vérification de la Memory
+Card (PS2)! Un minimum de %dKB est
+nécessaire pour sauvegarder. Continuer?
+","Echec de la vérification de la Memory
+Card (PS2)! Un minimum de %dKB est
+nécessaire pour sauvegarder. Continuer?
+"
+0x31a1,"Veuillez insérer une autre
+Memory Card (PS2).
+","Veuillez insérer une autre
+Memory Card (PS2).
+"
+0x31d1,"Oui
+","Oui
+"
+0x31d6,"Non
+","Non
+"
+0x31db,"Avertissement
+","Avertissement
+"
+0x31ea,"Continuer avec la partie?
+","Continuer avec la partie?
+"
+0x3205,"Les données sur la Memory Card (PS2)
+sont corrompues.
+","Les données sur la Memory Card (PS2)
+sont corrompues.
+"
+0x323d,"Vérification de la Memory Card (PS2).
+","Vérification de la Memory Card (PS2).
+"
+0x3265,"Veuillez insérer une Memory Card (PS2).
+","Veuillez insérer une Memory Card (PS2).
+"
+0x328f,"Aucune Memory Card (PS2) n'a été
+détectée. Insérez la Memory Card (PS2)
+utilisée pour charger les données.
+","Aucune Memory Card (PS2) n'a été
+détectée. Insérez la Memory Card (PS2)
+utilisée pour charger les données.
+"
+0x3302,"Aucune donnée de chargement n'a été
+détectée. Insérez la Memory Card (PS2)
+utilisée pour charger les données.
+","Aucune donnée de chargement n'a été
+détectée. Insérez la Memory Card (PS2)
+utilisée pour charger les données.
+"
+0x3379,"Echec du chargement! Insérez la Memory
+Card (PS2) utilisée pour charger les
+données.
+","Echec du chargement! Insérez la Memory
+Card (PS2) utilisée pour charger les
+données.
+"
+0x33d2,"Les données sauvegardées sont
+corrompues. Insérez la Memory Card
+(PS2) utilisée pour charger les données.
+","Les données sauvegardées sont
+corrompues. Insérez la Memory Card
+(PS2) utilisée pour charger les données.
+"
+0x3442,"Retourner au menu principal?
+","Retourner au menu principal?
+"
+0x3460,"La Memory Card (PS2) a été retirée lors
+de la sauvegarde. Ré-insérez la Memory
+Card (PS2). Annuler l'écrasement?
+","La Memory Card (PS2) a été retirée lors
+de la sauvegarde. Ré-insérez la Memory
+Card (PS2). Annuler l'écrasement?
+"
+0x34d8,"Les données sauvegardées chargées n'ont
+pas été trouvées. Ecraser sur la Memory
+Card (PS2) les données sauv. présentes?
+","Les données sauvegardées chargées n'ont
+pas été trouvées. Ecraser sur la Memory
+Card (PS2) les données sauv. présentes?
+"
+0x3559,"Le transfert a réussi.
+","Le transfert a réussi.
+"
+0x3572,"Le transfert a échoué.
+","Le transfert a échoué.
+"
+0x358c,"Vérification de la fente pour
+MEMORY CARD(carte mémoire) Nº1.
+","Vérification de la fente pour
+MEMORY CARD(carte mémoire) Nº1.
+"
+0x35ce,"Vérification de la fente pour
+MEMORY CARD(carte mémoire) Nº2.
+","Vérification de la fente pour
+MEMORY CARD(carte mémoire) Nº2.
+"
+0x3610,Sauvegarder ?,Sauvegarder ?
+0x361e,"Select save location.
+","Select save location.
+"
+0x3635,"Select load location.
+","Select load location.
+"
+0x364c,"No memory card (PS2) found.
+","No memory card (PS2) found.
+"
+0x3669,"No memory card (PS2) found.
+Continue with the game?
+","No memory card (PS2) found.
+Continue with the game?
+"
+0x369e,"No memory card (PS2) found.
+Continue without saving?
+","No memory card (PS2) found.
+Continue without saving?
+"
+0x36d4,"Insufficient free space on memory card
+(PS2). At least %dKB of free space is
+required to save data.
+","Insufficient free space on memory card
+(PS2). At least %dKB of free space is
+required to save data.
+"
+0x3739,"Create new save data on
+memory card (PS2)?
+Yes or No
+","Create new save data on
+memory card (PS2)?
+Yes or No
+"
+0x376f,"Are you sure you wish to overwrite this
+save data?
+Yes or No
+","Are you sure you wish to overwrite this
+save data?
+Yes or No
+"
+0x37ad,"Memory card (PS2) is not formatted.
+Format memory card (PS2) and save?
+","Memory card (PS2) is not formatted.
+Format memory card (PS2) and save?
+"
+0x37f5,"Saving data.
+Do not remove memory card (PS2),
+controller, or reset/switch off the console.
+","Saving data.
+Do not remove memory card (PS2),
+controller, or reset/switch off the console.
+"
+0x3851,"Formatting memory card (PS2).
+Do not remove memory card (PS2),
+controller, or reset/switch off the console.
+","Formatting memory card (PS2).
+Do not remove memory card (PS2),
+controller, or reset/switch off the console.
+"
+0x38be,"Save Successful
+","Save Successful
+"
+0x38cf,"Save failed! Check memory card (PS2)
+and please try again.
+","Save failed! Check memory card (PS2)
+and please try again.
+"
+0x390b,"Format failed! Please check memory
+card (PS2) and try again.
+","Format failed! Please check memory
+card (PS2) and try again.
+"
+0x3949,"No data present on memory card (PS2).
+","No data present on memory card (PS2).
+"
+0x3970,"No data present on memory card (PS2).
+Continue with the game?
+","No data present on memory card (PS2).
+Continue with the game?
+"
+0x39af,"No data present on memory card (PS2).
+Continue without saving?
+","No data present on memory card (PS2).
+Continue without saving?
+"
+0x39ef,"Yes or No
+","Yes or No
+"
+0x39fa,"Loading data.
+","Loading data.
+"
+0x3a09,"Load Successful
+","Load Successful
+"
+0x3a1a,"Load failed! Check memory card (PS2)
+and please try again.
+","Load failed! Check memory card (PS2)
+and please try again.
+"
+0x3a56,"Cancel load?
+","Cancel load?
+"
+0x3a64,"Cancel save?
+","Cancel save?
+"
+0x3a72,"Insufficient free space on memory card (PS2).
+At least %dKB of free space is required to
+save data. Contiune with the game?
+","Insufficient free space on memory card (PS2).
+At least %dKB of free space is required to
+save data. Contiune with the game?
+"
+0x3aef,"No memory card (PS2) found. At least %dKB
+of free space is required to save data.
+Continue with the game?
+","No memory card (PS2) found. At least %dKB
+of free space is required to save data.
+Continue with the game?
+"
+0x3b5a,"Memory card (PS2) check failed! At least
+%dKB of free space is required to save data.
+Continue with the game?
+","Memory card (PS2) check failed! At least
+%dKB of free space is required to save data.
+Continue with the game?
+"
+0x3bc9,"Please insert a different
+memory card (PS2).
+","Please insert a different
+memory card (PS2).
+"
+0x3bf7,"Yes
+","Yes
+"
+0x3bfc,"No
+","No
+"
+0x3c00,"Warning
+","Warning
+"
+0x3c09,"Continue with the game?
+","Continue with the game?
+"
+0x3c22,"Data on memory card (PS2) is broken.
+","Data on memory card (PS2) is broken.
+"
+0x3c48,"Checking memory card (PS2).
+","Checking memory card (PS2).
+"
+0x3c65,"Please insert a memory card (PS2).
+","Please insert a memory card (PS2).
+"
+0x3c89,"No memory card (PS2) found. Insert
+the memory card (PS2) that was used
+to load the saved data.
+","No memory card (PS2) found. Insert
+the memory card (PS2) that was used
+to load the saved data.
+"
+0x3ce9,"No loaded data found. Insert the
+memory card (PS2) that was used
+to load the saved data.
+","No loaded data found. Insert the
+memory card (PS2) that was used
+to load the saved data.
+"
+0x3d43,"Load failed! Insert the memory card
+(PS2) that was used to load the saved
+data.
+","Load failed! Insert the memory card
+(PS2) that was used to load the saved
+data.
+"
+0x3d94,"Saved data is broken. Insert the
+memory card (PS2) that was used
+to load the saved data.
+","Saved data is broken. Insert the
+memory card (PS2) that was used
+to load the saved data.
+"
+0x3dee,"Return to the main menu?
+","Return to the main menu?
+"
+0x3e08,"Memory card (PS2) was removed during
+saving. Re-insert the memory card (PS2).
+Cancel overwriting?
+","Memory card (PS2) was removed during
+saving. Re-insert the memory card (PS2).
+Cancel overwriting?
+"
+0x3e6b,"Saved data that was loaded is not found.
+Overwrite the present saved data on
+memory card (PS2)?
+","Saved data that was loaded is not found.
+Overwrite the present saved data on
+memory card (PS2)?
+"
+0x3ecc,"Transfer succeeded.
+","Transfer succeeded.
+"
+0x3ee1,"Transfer failed.
+","Transfer failed.
+"
+0x3ef3,"Checking MEMORY CARD slot1.
+","Checking MEMORY CARD slot1.
+"
+0x3f10,"Checking MEMORY CARD slot2.
+","Checking MEMORY CARD slot2.
+"
+0x3f2d,Save?,Save?
+0x3f33,"?
+","?
+"
+0x3f36,"Dremuchij Sud
+","Dremuchij Sud
+"
+0x3f45,"Dremuchij Est
+","Dremuchij Est
+"
+0x3f54,"Marais de Dremuchij
+","Marais de Dremuchij
+"
+0x3f69,"Dremuchij Nord
+","Dremuchij Nord
+"
+0x3f79,"Dolinovodno
+","Dolinovodno
+"
+0x3f86,"Rassvet
+","Rassvet
+"
+0x3f8f,"Rivages de Dolinovodno
+","Rivages de Dolinovodno
+"
+0x3fa7,"Chyornyj Prud
+","Chyornyj Prud
+"
+0x3fb6,"Bolshaya Past Sud
+","Bolshaya Past Sud
+"
+0x3fc9,"Base de Bolshaya Past
+","Base de Bolshaya Past
+"
+0x3fe0,"Crevasse de Bolshaya Past
+","Crevasse de Bolshaya Past
+"
+0x3ffb,"Branche de la grotte
+de Chyornaya Peschera
+","Branche de la grotte
+de Chyornaya Peschera
+"
+0x4027,"Grotte de Chyornaya Peschera
+","Grotte de Chyornaya Peschera
+"
+0x4045,"Entrée de la grotte
+de Chyornaya Peschera
+","Entrée de la grotte
+de Chyornaya Peschera
+"
+0x4071,"Ponizovje Sud
+","Ponizovje Sud
+"
+0x4080,"Ponizovje Ouest
+","Ponizovje Ouest
+"
+0x4091,"Entrepôt de Ponizovje: Extérieur
+","Entrepôt de Ponizovje: Extérieur
+"
+0x40b5,"Entrepôt de Ponizovje
+","Entrepôt de Ponizovje
+"
+0x40cd,"Graniny Gorki Sud
+","Graniny Gorki Sud
+"
+0x40e0,"Extérieur du labo de Graniny Gorki:
+A l'extérieur des murs
+","Extérieur du labo de Graniny Gorki:
+A l'extérieur des murs
+"
+0x411e,"Extérieur du labo de Graniny Gorki:
+A l'intérieur des murs
+","Extérieur du labo de Graniny Gorki:
+A l'intérieur des murs
+"
+0x415c,"Labo de Graniny Gorki +1/+2:
+","Labo de Graniny Gorki +1/+2:
+"
+0x417a,"Labo de Graniny Gorki -1 Est
+","Labo de Graniny Gorki -1 Est
+"
+0x4198,"Labo de Graniny Gorki -1 Ouest
+","Labo de Graniny Gorki -1 Ouest
+"
+0x41b8,"Svyatogornyj Sud
+","Svyatogornyj Sud
+"
+0x41ca,"Svyatogornyj Ouest
+","Svyatogornyj Ouest
+"
+0x41de,"Svyatogornyj Est
+","Svyatogornyj Est
+"
+0x41f0,"Sokrovenno Sud
+","Sokrovenno Sud
+"
+0x4200,"cSokrovenno Ouest
+","cSokrovenno Ouest
+"
+0x4213,"Sokrovenno Nord
+","Sokrovenno Nord
+"
+0x4224,"Tunnel de Krasnogorje
+","Tunnel de Krasnogorje
+"
+0x423b,"Refuge de montagne de Krasnogorje
+","Refuge de montagne de Krasnogorje
+"
+0x425e,"Montagne de Krasnogorje: Côté
+","Montagne de Krasnogorje: Côté
+"
+0x427f,"Sommet de la montagne de Krasnogorje
+","Sommet de la montagne de Krasnogorje
+"
+0x42a5,"Ruines au sommet de la montagne
+de Krasnogorje
+","Ruines au sommet de la montagne
+de Krasnogorje
+"
+0x42d5,"Ruines au sommet de la montagne
+de Krasnogorje: Arrière
+","Ruines au sommet de la montagne
+de Krasnogorje: Arrière
+"
+0x430f,"Tunnel souterrain de Groznyj Grad
+","Tunnel souterrain de Groznyj Grad
+"
+0x4332,"Groznyj Grad Sud-Ouest
+","Groznyj Grad Sud-Ouest
+"
+0x434a,"Groznyj Grad Nord-Ouest
+","Groznyj Grad Nord-Ouest
+"
+0x4363,"Groznyj Grad Nord-Est
+","Groznyj Grad Nord-Est
+"
+0x437a,"Groznyj Grad Sud-Est
+","Groznyj Grad Sud-Est
+"
+0x4390,"Laboratoire d'armes de Groznyj Grad:
+Aile Est
+","Laboratoire d'armes de Groznyj Grad:
+Aile Est
+"
+0x43bf,"Laboratoire d'armes de Groznyj Grad:
+Couloir de l'Aile Ouest
+","Laboratoire d'armes de Groznyj Grad:
+Couloir de l'Aile Ouest
+"
+0x43fd,"Salle de torture de Groznyj Grad
+","Salle de torture de Groznyj Grad
+"
+0x441f,"Egouts de Groznyj Grad
+","Egouts de Groznyj Grad
+"
+0x4437,"Laboratoire d'armes de Groznyj Grad:
+Aile principale
+","Laboratoire d'armes de Groznyj Grad:
+Aile principale
+"
+0x446d,"Laboratoire d'armes de Groznyj Grad:
+Aile principale -1
+","Laboratoire d'armes de Groznyj Grad:
+Aile principale -1
+"
+0x44a6,"?
+","?
+"
+0x44a9,"Tikhogornyj
+","Tikhogornyj
+"
+0x44b6,"Tikhogornyj: Derrière la cascade
+","Tikhogornyj: Derrière la cascade
+"
+0x44d9,"Groznyj Grad
+","Groznyj Grad
+"
+0x44e7,"Piste de décollage sud de Groznyj Grad
+","Piste de décollage sud de Groznyj Grad
+"
+0x4510,"Piste de décollage de Groznyj Grad
+","Piste de décollage de Groznyj Grad
+"
+0x4535,"Pont ferroviaire de Groznyj Grad
+","Pont ferroviaire de Groznyj Grad
+"
+0x4557,"Pont ferroviaire de Groznyj Grad Nord
+","Pont ferroviaire de Groznyj Grad Nord
+"
+0x457e,"Lazorevo Sud
+","Lazorevo Sud
+"
+0x458c,"Lazorevo Nord
+","Lazorevo Nord
+"
+0x459b,"Zaozyorje Ouest
+","Zaozyorje Ouest
+"
+0x45ac,"Zaozyorje Est
+","Zaozyorje Est
+"
+0x45bb,"Rokovoj Bereg
+","Rokovoj Bereg
+"
+0x45ca,"WIG: Intérieur
+","WIG: Intérieur
+"
+0x45db,"Mission vertueuse accomplie.
+","Mission vertueuse accomplie.
+"
+0x45f9,"Rassvet
+","Rassvet
+"
+0x4602,"Laboratoire d'armes de Groznyj Grad:
+Aile Ouest
+","Laboratoire d'armes de Groznyj Grad:
+Aile Ouest
+"
+0x4633,"Laboratoire d'armes de Groznyj Grad:
+Aile principale
+","Laboratoire d'armes de Groznyj Grad:
+Aile principale
+"
+0x4669,"De l'autre côté de la frontière soviétique.
+","De l'autre côté de la frontière soviétique.
+"
+0x469a,"Opération Snake Eater accomplie.
+","Opération Snake Eater accomplie.
+"
+0x46bd,"?
+","?
+"
+0x46c0,"Dremuchij South
+","Dremuchij South
+"
+0x46d1,"Dremuchij East
+","Dremuchij East
+"
+0x46e1,"Dremuchij Swampland
+","Dremuchij Swampland
+"
+0x46f6,"Dremuchij North
+","Dremuchij North
+"
+0x4707,"Dolinovodno
+","Dolinovodno
+"
+0x4714,"Rassvet
+","Rassvet
+"
+0x471d,"Dolinovodno Riverbank
+","Dolinovodno Riverbank
+"
+0x4734,"Chyornyj Prud
+","Chyornyj Prud
+"
+0x4743,"Bolshaya Past South
+","Bolshaya Past South
+"
+0x4758,"Bolshaya Past Base
+","Bolshaya Past Base
+"
+0x476c,"Bolshaya Past Crevice
+","Bolshaya Past Crevice
+"
+0x4783,"Chyornaya Peschera Cave Branch
+","Chyornaya Peschera Cave Branch
+"
+0x47a3,"Chyornaya Peschera Cave
+","Chyornaya Peschera Cave
+"
+0x47bc,"Chyornaya Peschera Cave Entrance
+","Chyornaya Peschera Cave Entrance
+"
+0x47de,"Ponizovje South
+","Ponizovje South
+"
+0x47ef,"Ponizovje West
+","Ponizovje West
+"
+0x47ff,"Ponizovje Warehouse: Exterior
+","Ponizovje Warehouse: Exterior
+"
+0x481e,"Ponizovje Warehouse
+","Ponizovje Warehouse
+"
+0x4833,"Graniny Gorki South
+","Graniny Gorki South
+"
+0x4848,"Graniny Gorki Lab Exterior:
+Outside Walls
+","Graniny Gorki Lab Exterior:
+Outside Walls
+"
+0x4873,"Graniny Gorki Lab Exterior:
+Inside Walls
+","Graniny Gorki Lab Exterior:
+Inside Walls
+"
+0x489d,"Graniny Gorki Lab 1F/2F
+","Graniny Gorki Lab 1F/2F
+"
+0x48b6,"Graniny Gorki Lab B1 East
+","Graniny Gorki Lab B1 East
+"
+0x48d1,"Graniny Gorki Lab B1 West
+","Graniny Gorki Lab B1 West
+"
+0x48ec,"Svyatogornyj South
+","Svyatogornyj South
+"
+0x4900,"Svyatogornyj West
+","Svyatogornyj West
+"
+0x4913,"Svyatogornyj East
+","Svyatogornyj East
+"
+0x4926,"Sokrovenno South
+","Sokrovenno South
+"
+0x4938,"Sokrovenno West
+","Sokrovenno West
+"
+0x4949,"Sokrovenno North
+","Sokrovenno North
+"
+0x495b,"Krasnogorje Tunnel
+","Krasnogorje Tunnel
+"
+0x496f,"Krasnogorje Mountain Base
+","Krasnogorje Mountain Base
+"
+0x498a,"Krasnogorje Mountain: Side
+","Krasnogorje Mountain: Side
+"
+0x49a6,"Krasnogorje Mountaintop
+","Krasnogorje Mountaintop
+"
+0x49bf,"Krasnogorje Mountaintop Ruins
+","Krasnogorje Mountaintop Ruins
+"
+0x49de,"Krasnogorje Mountaintop Ruins: Back
+","Krasnogorje Mountaintop Ruins: Back
+"
+0x4a03,"Groznyj Grad Underground Tunnel
+","Groznyj Grad Underground Tunnel
+"
+0x4a24,"Groznyj Grad Southwest
+","Groznyj Grad Southwest
+"
+0x4a3c,"Groznyj Grad Northwest
+","Groznyj Grad Northwest
+"
+0x4a54,"Groznyj Grad Northeast
+","Groznyj Grad Northeast
+"
+0x4a6c,"Groznyj Grad Southeast
+","Groznyj Grad Southeast
+"
+0x4a84,"Groznyj Grad Weapons Lab:
+East Wing
+","Groznyj Grad Weapons Lab:
+East Wing
+"
+0x4aa9,"Groznyj Grad Weapons Lab:
+West Wing Corridor
+","Groznyj Grad Weapons Lab:
+West Wing Corridor
+"
+0x4ad7,"Groznyj Grad Torture Room
+","Groznyj Grad Torture Room
+"
+0x4af2,"Groznyj Grad Sewers
+","Groznyj Grad Sewers
+"
+0x4b07,"Groznyj Grad Weapons Lab:
+Main Wing
+","Groznyj Grad Weapons Lab:
+Main Wing
+"
+0x4b2c,"Groznyj Grad Weapons Lab:
+Main Wing B1
+","Groznyj Grad Weapons Lab:
+Main Wing B1
+"
+0x4b54,"?
+","?
+"
+0x4b57,"Tikhogornyj
+","Tikhogornyj
+"
+0x4b64,"Tikhogornyj: Behind Waterfall
+","Tikhogornyj: Behind Waterfall
+"
+0x4b83,"Groznyj Grad
+","Groznyj Grad
+"
+0x4b91,"Groznyj Grad Runway South
+","Groznyj Grad Runway South
+"
+0x4bac,"Groznyj Grad Runway
+","Groznyj Grad Runway
+"
+0x4bc1,"Groznyj Grad Rail Bridge
+","Groznyj Grad Rail Bridge
+"
+0x4bdb,"Groznyj Grad Rail Bridge North
+","Groznyj Grad Rail Bridge North
+"
+0x4bfb,"Lazorevo South
+","Lazorevo South
+"
+0x4c0b,"Lazorevo North
+","Lazorevo North
+"
+0x4c1b,"Zaozyorje West
+","Zaozyorje West
+"
+0x4c2b,"Zaozyorje East
+","Zaozyorje East
+"
+0x4c3b,"Rokovoj Bereg
+","Rokovoj Bereg
+"
+0x4c4a,"WIG: Interior
+","WIG: Interior
+"
+0x4c59,"Virtuous Mission completed.
+","Virtuous Mission completed.
+"
+0x4c76,"Rassvet
+","Rassvet
+"
+0x4c7f,"Groznyj Grad Weapons Lab:
+West Wing
+","Groznyj Grad Weapons Lab:
+West Wing
+"
+0x4ca4,"Groznyj Grad Weapons Lab:
+Main Wing
+","Groznyj Grad Weapons Lab:
+Main Wing
+"
+0x4cc9,"Over the Soviet border.
+","Over the Soviet border.
+"
+0x4ce2,"Operation Snake Eater completed.
+","Operation Snake Eater completed.
+"
