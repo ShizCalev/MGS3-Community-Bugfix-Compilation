@@ -153,6 +153,8 @@ Partial Coverage:
 
 - Fixed black seams (dilation padding) on Eva's neck in multiple cutscenes. [2004 SE]
 
+- Fixed broken wall damage decals in torture chamber. [2011 HDC]
+
 <br>
 
 ------------
@@ -168,6 +170,20 @@ Partial Coverage:
 
 - Restored 3 developer ghosts pictures, which were changed to different people / backs of heads. [2023 MC]
 
+<br>
+
+
+------------
+
+### Remastered Assests:
+
+- Remade multiple textures which were still using the original PS2 texture: [2011 HDC]
+
+    - Snake's face during ending cutscenes. 
+	- Snake's bloody face during capture cutscenes.
+	- Snake's tiger-stripe uniform (both with and without shirt) during ending cutscenes.
+	- Snake's naked / shirtless uniform during gameplay.
+	
 
 <br>
 <br> 
