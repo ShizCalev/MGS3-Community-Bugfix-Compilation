@@ -6,7 +6,14 @@ import shutil
 import sys
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
+import subprocess
+from threading import Lock
 
+print_lock = Lock()
+
+def log(message):
+    with print_lock:
+        print(message)
 
 PS2_SOURCE_ROOT = Path(
     r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures"
@@ -25,6 +32,8 @@ MC_TARGET_ROOT = Path(
 FILENAME_LIST_PATH = Path(
     r"C:\Development\Git\MGS3-PS2-Textures\Tri-Dumped\Master Collection\Metadata\mgs3_hires_same_as_standard_textures.txt"
 )
+
+FOLLOWUP_SCRIPT = r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\0012 - update demaster and ui repos.py"
 
 MAX_WORKERS = max(4, os.cpu_count() or 4)
 HASH_CHUNK_SIZE = 8 * 1024 * 1024
@@ -249,6 +258,22 @@ def sync_tree(
     print(f"Empty folders removed: {removed_dirs}")
 
 
+def run_followup_script():
+    log(f"\n[+] Running follow-up script:\n    {FOLLOWUP_SCRIPT}")
+
+    if not os.path.isfile(FOLLOWUP_SCRIPT):
+        raise RuntimeError(f"Follow-up script not found: {FOLLOWUP_SCRIPT}")
+
+    try:
+        subprocess.run(
+            [sys.executable, FOLLOWUP_SCRIPT],
+            check=True,
+        )
+    except subprocess.CalledProcessError as e:
+        raise RuntimeError(
+            f"Follow-up script failed with exit code {e.returncode}"
+        ) from e
+
 def main() -> None:
     try:
         allowed_names = load_allowed_names(FILENAME_LIST_PATH)
@@ -270,8 +295,15 @@ def main() -> None:
             label="MC -> hires mc",
         )
 
-        print("\nDone.")
-        pause_and_exit(0)
+        print("\nDone mirroring hires.")
+        
+        
+        try:
+            run_followup_script()
+        except Exception as e:
+            log(f"[!] Follow-up script error: {e}")
+            input("Press ENTER to exit...")
+            sys.exit(1)
 
     except Exception as exc:
         print(f"\nERROR: {exc}")
