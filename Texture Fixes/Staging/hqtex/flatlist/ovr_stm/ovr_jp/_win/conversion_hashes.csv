@@ -1,13 +1,13 @@
 filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,upscaler_version,upscaler_type,ctxr3_converted,non_upscaled_version
 00040da5,be5d69c46afbb5919dbdd3d409b6c4223235f05e,ff165a5d014cb8a033de1d9fbf6756e3cbcf8171,false,Self Remade\Finalized - HighRes\UI\Shared,true,false,0,none,true,2
 00393ebb,0b9c97f4525a208e6e10e4aa90631f8b2b7093d7,d54f19ceed829488edc618d2e057095f9af9b30f,false,Self Remade\Finalized\Self Remastered\UI\Shared\Dont Demaster\4K,false,false,0,none,true,2
-00454202,a5abb50baf5f5006765479f3a8f366b3124c4aeb,7b2c89b0fc287ea128c986ddb096a05333e74281,false,Self Remade\Finalized - HighRes\Dont Upscale\UI\Shared,false,false,0,none,true,2
+00454202,a5abb50baf5f5006765479f3a8f366b3124c4aeb,7b2c89b0fc287ea128c986ddb096a05333e74281,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4K,false,false,0,none,true,2
 004f0fb2,ad70fcdd19f9934a49e3d4e7e79c04505f565106,2c8cc8578e455e64b80e56ff16697181d2810896,false,Self Remade\Finalized - HighRes\UI\Shared,true,false,0,none,true,2
 00bd89a1.img,596fd574590df6be9b8af5989563986e8d6c1e86,304ba3b90eb3d1efbc8fac4d6e1863f95962c767,false,Self Remade\Finalized - HighRes\UI\Shared,false,false,0,none,true,2
 00c8c0af,779ab38fc37dca84e81866d5f5125c805cd86e92,b76ea09b5903b2ca23666a0e783aedec3566d218,false,Self Remade\Finalized - HighRes\UI\Shared,true,false,0,none,true,2
-00e11a3e,d81d0a92284eaae6bbc849b519909ee725e81631,9e6f440f80b5303f195c0d1ee8cee0a36b313152,false,Self Remade\Finalized - HighRes\Dont Upscale\UI\Shared,false,false,0,none,true,2
+00e11a3e,4d828135cb28fdeb173df872317aa6e0dd8c7581,a58e7c3f62d2b5a34859ebca0f5bbd9c23070dde,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4K,false,false,0,none,true,2
 00f1c0b1,bf8d61c294db1017447065024c5d9509728a1d89,ee3e55ead406bde00c42e6d1b9112192dc678cbe,false,Self Remade\Finalized - HighRes\UI\Shared,true,false,0,none,true,2
-00fc60e2,a5abb50baf5f5006765479f3a8f366b3124c4aeb,7b2c89b0fc287ea128c986ddb096a05333e74281,false,Self Remade\Finalized - HighRes\Dont Upscale\UI\Shared,false,false,0,none,true,2
+00fc60e2,a5abb50baf5f5006765479f3a8f366b3124c4aeb,7b2c89b0fc287ea128c986ddb096a05333e74281,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\4K,false,false,0,none,true,2
 ibox_a.bmp,a030a8d765937ca75c7120b06791e53310e4c14d,cf3ba6b253bfecdfcf0dae119fba3ed12ea4dba3,true,Self Remade\Finalized - HighRes\Dont Upscale,true,false,0,none,false,2
 item_a.bmp,221534374170ac1c3c7a3502cf4e85cebeff69c6,d3cc4d5d6dea827a141938f78f961a8d5901b0ee,true,Self Remade\Finalized - HighRes\Dont Upscale,true,false,0,none,false,2
 s112a_cell_floor_01_alp_ovl.bmp,23e7b51fc25ce5845a3ad3ff8f893bfb85a31103,c14a4d3f851fb594a605505f829db2a2554b87bd,true,Self Remade\Finalized - HighRes\Dont Upscale,false,false,0,none,false,2

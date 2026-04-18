@@ -46,6 +46,9 @@ https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/issues
 - It is HIGHLY recommended to use a mod manager, such as [Vortex Mod Manager](https://www.nexusmods.com/about/vortex) or the [MGS Mod Manager](https://www.nexusmods.com/metalgearsolid3mc/mods/174) to handle installation for ease of updating and managing file load order (which IS important.)
 
 ### Base Installation Steps:
+
+Contains all fixes/corrections for both of the game's standard & high resolution texture settings.
+
 1. Download the latest "Base" zip from: [here](https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/releases)
 2. Extract the contents of the release zip into your game folder.
    - (e.g., `steamapps\common\MGS3`.)
