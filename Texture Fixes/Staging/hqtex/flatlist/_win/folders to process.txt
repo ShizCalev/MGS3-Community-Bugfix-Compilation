@@ -29,3 +29,4 @@ C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\hires textures\m
 
 
 
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\DXT5\BP Remade fixes\hqtex

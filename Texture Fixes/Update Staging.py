@@ -904,6 +904,33 @@ def run_update_local_vortex_folders() -> None:
     print("[INFO] Update All Local Vortex Folders.py completed successfully.")
 
 
+def _transform_4x_folders_txt_for_2x(data_4x: bytes, source_path: Path) -> bytes:
+    try:
+        text_4x = data_4x.decode("utf-8")
+    except UnicodeDecodeError as e:
+        print(f"[ERROR] Failed to decode {source_path} as UTF-8: {e}")
+        raise
+
+    target_prefix = (
+        r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\DXT5"
+    )
+    target_prefix_lower = target_prefix.lower()
+
+    transformed_lines: list[str] = []
+
+    for line in text_4x.splitlines(keepends=True):
+        stripped = line.rstrip("\r\n")
+        newline = line[len(stripped):]
+        stripped_lower = stripped.lower()
+
+        if stripped_lower.startswith(target_prefix_lower) and stripped_lower.endswith(r"\4x"):
+            stripped = stripped[:-3] + r"\2x"
+
+        transformed_lines.append(stripped + newline)
+
+    return "".join(transformed_lines).encode("utf-8")
+
+
 def _sync_2x_4x_pair(root_2x: Path, root_4x: Path) -> None:
     if not root_2x.is_dir():
         print(f"[INFO] 2x staging root does not exist, skipping 2x sync: {root_2x}")
@@ -951,12 +978,17 @@ def _sync_2x_4x_pair(root_2x: Path, root_4x: Path) -> None:
             print(f"[ERROR] Failed to read one of the paired files {txt_2x} / {txt_4x}: {e}")
             continue
 
-        if data_2x != data_4x:
-            print(f"[INFO] Updating 2x '{FOLDERS_TXT_NAME}' to match 4x: {txt_2x}")
+        try:
+            transformed_4x_bytes = _transform_4x_folders_txt_for_2x(data_4x, txt_4x)
+        except UnicodeDecodeError:
+            continue
+
+        if data_2x != transformed_4x_bytes:
+            print(f"[INFO] Updating 2x '{FOLDERS_TXT_NAME}' from transformed 4x data: {txt_2x}")
             try:
-                txt_2x.write_bytes(data_4x)
+                txt_2x.write_bytes(transformed_4x_bytes)
             except OSError as e:
-                print(f"[ERROR] Failed to overwrite {txt_2x} with {txt_4x}: {e}")
+                print(f"[ERROR] Failed to overwrite {txt_2x} with transformed 4x data: {e}")
 
     for rel in rel_paths_4x:
         if rel in seen_rel_2x:
@@ -966,9 +998,20 @@ def _sync_2x_4x_pair(root_2x: Path, root_4x: Path) -> None:
         dst = root_2x / rel
 
         try:
+            data_4x = src.read_bytes()
+        except OSError as e:
+            print(f"[ERROR] Failed to read missing 4x file {src}: {e}")
+            continue
+
+        try:
+            transformed_4x_bytes = _transform_4x_folders_txt_for_2x(data_4x, src)
+        except UnicodeDecodeError:
+            continue
+
+        try:
             dst.parent.mkdir(parents=True, exist_ok=True)
-            dst.write_bytes(src.read_bytes())
-            print(f"[INFO] Added missing 2x '{FOLDERS_TXT_NAME}': {dst}")
+            dst.write_bytes(transformed_4x_bytes)
+            print(f"[INFO] Added missing 2x '{FOLDERS_TXT_NAME}' from transformed 4x data: {dst}")
         except OSError as e:
             print(f"[ERROR] Failed to copy missing 4x file to 2x: {src} -> {dst}: {e}")
 
@@ -1122,7 +1165,7 @@ def write_self_remade_modified_dates() -> None:
                     continue
 
                 suffix = path.suffix.lower()
-                if suffix not in {".png", ".tga"}:
+                if suffix not in {".png", ".tga", ".ctxr"}:
                     continue
 
                 candidate_files.append(path)

@@ -191,6 +191,9 @@ def stem_forced_nonupscaled_by_origin(
 ) -> bool:
     origin = (image_origin_by_name.get(stem_lower) or "").strip().lower().replace("/", "\\")
 
+    if origin.startswith(r"self remade\finalized\dxt5"):
+        return True
+
     if "hires backports" in origin:
         return True
 
@@ -479,6 +482,234 @@ def gather_image_files_non_recursive(folders: list[Path]) -> list[Path]:
         image_files.extend(list_image_files_non_recursive(folder))
     image_files.sort(key=lambda p: p.name.lower())
     return image_files
+
+
+# ==========================================================
+# PREMADE DXT5 CTXR HELPERS
+# ==========================================================
+PREMADE_DXT5_PREFIX = r"self remade\finalized\dxt5"
+
+
+def _normalize_rel_folder_str(path_str: str) -> str:
+    return (path_str or "").strip().replace("/", "\\").strip("\\").lower()
+
+
+def is_premade_dxt5_origin_folder(origin_folder: str) -> bool:
+    norm = _normalize_rel_folder_str(origin_folder)
+    return norm == PREMADE_DXT5_PREFIX or norm.startswith(PREMADE_DXT5_PREFIX + "\\")
+
+
+def list_premade_dxt5_ctxr_files_non_recursive(folder: Path) -> list[Path]:
+    if not folder.is_dir():
+        log(f"[WARN] Not a directory: {folder}")
+        return []
+
+    folder_origin = origin_relative_to_required_subpath_or_die(folder / "__folder_probe__.ctxr")
+    if not is_premade_dxt5_origin_folder(folder_origin):
+        return []
+
+    out: list[Path] = []
+    bad_inputs: list[Path] = []
+
+    try:
+        for p in folder.iterdir():
+            if not p.is_file():
+                continue
+
+            suf = p.suffix.lower()
+            if suf == ".ctxr":
+                out.append(p)
+            elif suf == ".png" or suf == ".tga":
+                bad_inputs.append(p)
+    except Exception as e:
+        raise RuntimeError(f"Failed scanning premade DXT5 folder {folder}: {e}")
+
+    if bad_inputs:
+        log("[FATAL] Premade DXT5 folders must contain only final .ctxr files.")
+        for p in sorted(bad_inputs, key=lambda x: x.name.lower()):
+            log(f"  INVALID INPUT: {p}")
+        raise RuntimeError("Premade DXT5 folders contained png/tga inputs")
+
+    out.sort(key=lambda x: x.name.lower())
+    return out
+
+
+def gather_premade_dxt5_ctxr_files_non_recursive(folders: list[Path]) -> list[Path]:
+    out: list[Path] = []
+    for folder in folders:
+        out.extend(list_premade_dxt5_ctxr_files_non_recursive(folder))
+    out.sort(key=lambda p: p.name.lower())
+    return out
+
+
+def hash_premade_dxt5_ctxr_unique_or_die(
+    ctxr_files: list[Path],
+    workers: int,
+) -> tuple[dict[str, str], dict[str, str], dict[str, bool]]:
+    if not ctxr_files:
+        return {}, {}, {}
+
+    log(f"[INFO] Hashing {len(ctxr_files)} premade DXT5 ctxr files\n")
+
+    hashes_by_name: dict[str, set[str]] = {}
+    origin_by_name: dict[str, set[str]] = {}
+    opacity_by_name: dict[str, set[bool]] = {}
+
+    def worker(path: Path) -> tuple[str, str, str, bool]:
+        stem = path.stem.lower()
+        digest = sha1_file(path)
+        origin = origin_relative_to_required_subpath_or_die(path)
+        opacity_expected = should_opacity_be_stripped_from_path(origin)
+        return (stem, digest, origin, opacity_expected)
+
+    progress = ProgressTracker(len(ctxr_files), "Hash premade dxt5 ctxr")
+
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        futures = [ex.submit(worker, p) for p in ctxr_files]
+        for fut in as_completed(futures):
+            stem, digest, origin, opacity_expected = fut.result()
+
+            hashes_by_name.setdefault(stem, set()).add(digest)
+            origin_by_name.setdefault(stem, set()).add(origin)
+            opacity_by_name.setdefault(stem, set()).add(opacity_expected)
+
+            progress.update()
+
+    progress.finish()
+
+    out_hash: dict[str, str] = {}
+    out_origin: dict[str, str] = {}
+    out_opacity: dict[str, bool] = {}
+
+    bad_hash: list[str] = []
+    bad_origin: list[str] = []
+    bad_opacity: list[str] = []
+
+    for stem, vals in hashes_by_name.items():
+        if len(vals) != 1:
+            bad_hash.append(stem)
+        else:
+            out_hash[stem] = next(iter(vals))
+
+    for stem, vals in origin_by_name.items():
+        if len(vals) != 1:
+            bad_origin.append(stem)
+        else:
+            out_origin[stem] = next(iter(vals))
+
+    for stem, vals in opacity_by_name.items():
+        if len(vals) != 1:
+            bad_opacity.append(stem)
+        else:
+            out_opacity[stem] = next(iter(vals))
+
+    if bad_hash:
+        raise RuntimeError("Duplicate premade DXT5 stems with conflicting ctxr hashes: " + ", ".join(sorted(bad_hash)))
+    if bad_origin:
+        raise RuntimeError("Duplicate premade DXT5 stems with conflicting origins: " + ", ".join(sorted(bad_origin)))
+    if bad_opacity:
+        raise RuntimeError("Duplicate premade DXT5 stems with conflicting opacity flags: " + ", ".join(sorted(bad_opacity)))
+
+    return out_hash, out_origin, out_opacity
+
+
+def sync_premade_dxt5_ctxr_to_staging_or_die(
+    ctxr_files: list[Path],
+    workers: int,
+) -> dict[str, str]:
+    if not ctxr_files:
+        return {}
+
+    log(f"[PREMADE DXT5] Syncing {len(ctxr_files)} premade ctxr file(s) directly to staging\n")
+
+    synced_hash_by_name: dict[str, str] = {}
+
+    def worker(src: Path) -> tuple[str, str]:
+        stem = src.stem.lower()
+        dst = STAGING_FOLDER / f"{stem}.ctxr"
+
+        shutil.copy2(src, dst)
+
+        src_hash = sha1_file(src)
+        dst_hash = sha1_file(dst)
+
+        if src_hash != dst_hash:
+            raise RuntimeError(
+                "Premade DXT5 sync hash mismatch:\n"
+                f"  src={src}\n"
+                f"  dst={dst}\n"
+                f"  src_hash={src_hash}\n"
+                f"  dst_hash={dst_hash}"
+            )
+
+        return (stem, dst_hash)
+
+    progress = ProgressTracker(len(ctxr_files), "Sync premade dxt5 ctxr")
+
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        futures = [ex.submit(worker, p) for p in ctxr_files]
+        for fut in as_completed(futures):
+            stem, digest = fut.result()
+            synced_hash_by_name[stem] = digest
+            progress.update()
+
+    progress.finish()
+    return synced_hash_by_name
+
+
+def upsert_premade_dxt5_rows(
+    conversion_rows: list[dict[str, str]],
+    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool]],
+    conversion_header: list[str],
+    premade_ctxr_hash_by_name: dict[str, str],
+    premade_origin_by_name: dict[str, str],
+    premade_opacity_by_name: dict[str, bool],
+) -> None:
+    if not premade_ctxr_hash_by_name:
+        return
+
+    rows_by_name: dict[str, dict[str, str]] = {}
+    for row in conversion_rows:
+        filename = (row.get("filename") or row.get("Filename") or row.get("FILENAME") or "").strip().lower()
+        if filename:
+            rows_by_name[filename] = row
+
+    for stem, ctxr_hash in premade_ctxr_hash_by_name.items():
+        origin_folder = premade_origin_by_name[stem]
+        opacity_stripped = premade_opacity_by_name[stem]
+
+        row = rows_by_name.get(stem)
+        if row is None:
+            row = {}
+            conversion_rows.append(row)
+            rows_by_name[stem] = row
+
+        row["filename"] = stem
+        row["before_hash"] = ctxr_hash
+        row["ctxr_hash"] = ctxr_hash
+        row["mipmaps"] = "true"
+        row["origin_folder"] = origin_folder
+        row["opacity_stripped"] = bool_to_csv(opacity_stripped)
+        row["upscaled"] = "false"
+        row["upscaler_version"] = "0"
+        row["upscaler_type"] = "none"
+        row["non_upscaled_version"] = NON_UPSCALED_PROCESS_VERSION
+        row["ctxr3_converted"] = "false"
+
+        conversion_map[stem] = (
+            ctxr_hash,
+            ctxr_hash,
+            False,
+            origin_folder,
+            opacity_stripped,
+            False,
+            "0",
+            "none",
+            NON_UPSCALED_PROCESS_VERSION,
+            True,
+            False,
+            False,
+        )
 
 
 # ==========================================================
@@ -3027,6 +3258,9 @@ def main() -> int:
                 )
 
         original_image_files = gather_image_files_non_recursive(folders)
+        premade_dxt5_ctxr_files = gather_premade_dxt5_ctxr_files_non_recursive(folders)
+        if premade_dxt5_ctxr_files:
+            log(f"[PREMADE DXT5] Found {len(premade_dxt5_ctxr_files)} premade final ctxr file(s)")
 
         skipped_bp_remade_meta_mismatch_stems: set[str] = set()
 
@@ -3111,6 +3345,18 @@ def main() -> int:
             manual_opaque_textures,
         )
 
+        premade_ctxr_hash_by_name, premade_origin_by_name, premade_opacity_by_name = hash_premade_dxt5_ctxr_unique_or_die(
+            premade_dxt5_ctxr_files,
+            workers,
+        )
+
+        for stem, digest in premade_ctxr_hash_by_name.items():
+            if stem in image_hash_by_name:
+                raise RuntimeError(f"Premade DXT5 stem conflicts with image-input stem: {stem}")
+            image_hash_by_name[stem] = digest
+            image_origin_by_name[stem] = premade_origin_by_name[stem]
+            image_opacity_expected_by_name[stem] = premade_opacity_by_name[stem]
+
         ctxr3_required_stems: set[str] = set()
         if not is_upscaled_run:
             ctxr3_required_stems = build_nonupscaled_ctxr3_required_stems(
@@ -3159,6 +3405,9 @@ def main() -> int:
                     manual_ui_textures,
                 )
                 image_used_nomips_by_name[stem_lower] = used_nomips
+
+        for stem in premade_ctxr_hash_by_name.keys():
+            image_used_nomips_by_name[stem] = False
 
         conversion_map, conversion_rows, conversion_header, header_has_upscaler_cols = load_conversion_csv_unique_or_die(conversion_csv)
 
@@ -3291,6 +3540,23 @@ def main() -> int:
             write_conversion_csv_atomic(conversion_csv, conversion_header, conversion_rows)
             log(f"[CSV] Rewrote {CONVERSION_CSV} to add missing columns")
 
+            conversion_map, conversion_rows, conversion_header, header_has_upscaler_cols = load_conversion_csv_unique_or_die(conversion_csv)
+
+        if premade_dxt5_ctxr_files:
+            sync_premade_dxt5_ctxr_to_staging_or_die(
+                premade_dxt5_ctxr_files,
+                workers,
+            )
+            upsert_premade_dxt5_rows(
+                conversion_rows,
+                conversion_map,
+                conversion_header,
+                premade_ctxr_hash_by_name,
+                premade_origin_by_name,
+                premade_opacity_by_name,
+            )
+            write_conversion_csv_atomic(conversion_csv, conversion_header, conversion_rows)
+            log(f"[PREMADE DXT5] Upserted {len(premade_ctxr_hash_by_name)} row(s) into {CONVERSION_CSV}")
             conversion_map, conversion_rows, conversion_header, header_has_upscaler_cols = load_conversion_csv_unique_or_die(conversion_csv)
 
         case_mismatch_names: set[str] = set()
