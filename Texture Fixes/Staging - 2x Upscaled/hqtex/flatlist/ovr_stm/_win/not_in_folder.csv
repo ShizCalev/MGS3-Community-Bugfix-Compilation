@@ -3316,9 +3316,6 @@ m_rocksfc_a08_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture 
 m_rocksfc_a09_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\m_rocksfc_a09_rep.bmp.png
 m_rocksukima_a01_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\m_rocksukima_a01_alp_ovl_rep.bmp.png
 m_s071a_enkei01_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\m_s071a_enkei01_alp_ovl_rep.bmp.png
-m_s073a_sky_04_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\m_s073a_sky_04_rep.bmp.png
-m_s073a_sky_06_rep_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\m_s073a_sky_06_rep_alp_ovl.bmp.png
-m_s073a_sky_07_rep_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\m_s073a_sky_07_rep_alp_ovl.bmp.png
 madon.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\madon.bmp.png
 madon.bmp_bb8b46c866abc3c5ffd4b46e90edd2f6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\madon.bmp_bb8b46c866abc3c5ffd4b46e90edd2f6.png
 mafuler01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\mafuler01.bmp.png
@@ -3718,8 +3715,6 @@ mushrooms_under1_4.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture
 mushrooms_under1_r.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\mushrooms_under1_r.bmp.png
 n001a_hibi_2_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\n001a_hibi_2_alp_ovl_rep.bmp.png
 n001a_pipe.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\n001a_pipe.bmp.png
-n001a_sky_cone_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\n001a_sky_cone_rep.bmp.png
-n001a_sky_hem_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\n001a_sky_hem_alp_ovl_rep.bmp.png
 n003a_ductb_rep_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\n003a_ductb_rep_alp_ovl.bmp.png
 n003a_hibiware_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\n003a_hibiware_alp_ovl_rep.bmp.png
 n003a_light_add_alp_ovl_a.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\n003a_light_add_alp_ovl_a.bmp.png
@@ -4382,7 +4377,6 @@ rus_foot_s.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\p
 rus_hand_def.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\rus_hand_def.bmp.png
 s000a_aurora1_add_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s000a_aurora1_add_alp_ovl_rep.bmp.png
 s000a_aurora3_add_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s000a_aurora3_add_alp_ovl_rep.bmp.png
-s000a_cloud1_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s000a_cloud1_alp_ovl_rep.bmp.png
 s000a_enkei_a02_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s000a_enkei_a02_rep.bmp.png
 s000a_riverhikari_a01_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s000a_riverhikari_a01_rep.bmp.png
 s000a_star1_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s000a_star1_alp_ovl_rep.bmp.png
@@ -4592,8 +4586,6 @@ s021a_flr_soilc_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilatio
 s021a_fog_add_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s021a_fog_add_alp_ovl_rep.bmp.png
 s021a_moss1_rep_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s021a_moss1_rep_alp_ovl.bmp.png
 s021a_shd_fencepole_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s021a_shd_fencepole_alp_ovl.bmp.png
-s021a_sky_cone63_semi.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s021a_sky_cone63_semi.bmp.png
-s021a_sky_ref.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s021a_sky_ref.bmp.png
 s021a_soil00_hl_rep_mip8000.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s021a_soil00_hl_rep_mip8000.bmp.png
 s021a_stfance01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s021a_stfance01.bmp.png
 s021a_stfance01_side.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s021a_stfance01_side.bmp.png
@@ -4629,8 +4621,6 @@ s022a_sdw_alp_ovl_07.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Textu
 s022a_sdw_alp_ovl_08.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s022a_sdw_alp_ovl_08.bmp.png
 s022a_sdw_alp_ovl_09.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s022a_sdw_alp_ovl_09.bmp.png
 s022a_sdw_alp_ovl_ara.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s022a_sdw_alp_ovl_ara.bmp.png
-s022a_sky01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s022a_sky01.bmp.png
-s022a_sky02.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s022a_sky02.bmp.png
 s022a_stfance01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\s022a_stfance01.bmp.png
 s022a_stfance_rep_02.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s022a_stfance_rep_02.bmp.png
 s022a_wall_rep04.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s022a_wall_rep04.bmp.png
@@ -5010,10 +5000,6 @@ s052a_roof_01_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture 
 s052a_serch_light_01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\s052a_serch_light_01.bmp.png
 s052a_serch_light_02.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s052a_serch_light_02.bmp.png
 s052a_serch_light_03_decal.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\s052a_serch_light_03_decal.bmp.png
-s052a_sky_night_ue_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s052a_sky_night_ue_alp_ovl_rep.bmp.png
-s052a_sky_night_yoko_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s052a_sky_night_yoko_alp_ovl_rep.bmp.png
-s052a_sky_noon_ue_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s052a_sky_noon_ue_alp_ovl_rep.bmp.png
-s052a_sky_noon_yoko_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s052a_sky_noon_yoko_alp_ovl_rep.bmp.png
 s052a_streetlight_01_decal.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s052a_streetlight_01_decal.bmp.png
 s052a_streetlight_02_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s052a_streetlight_02_ovl.bmp.png
 s052a_streetlight_03.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s052a_streetlight_03.bmp.png
@@ -5141,9 +5127,6 @@ s053a_sdwa00_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Textu
 s053a_sdwa00_alp_ovl.bmp_48cb97b621dabb7c29d26755d7d97bf1,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\s053a_sdwa00_alp_ovl.bmp_48cb97b621dabb7c29d26755d7d97bf1.png
 s053a_sign_00_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\s053a_sign_00_alp_ovl.bmp.png
 s053a_sign_01_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\s053a_sign_01_alp_ovl.bmp.png
-s053a_sky_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s053a_sky_alp_ovl_rep.bmp.png
-s053a_sky_load_n.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s053a_sky_load_n.bmp.png
-s053a_sky_top_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s053a_sky_top_alp_ovl_rep.bmp.png
 s053a_sofa_a00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\s053a_sofa_a00.bmp.png
 s053a_sofa_a01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\s053a_sofa_a01.bmp.png
 s053a_step00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s053a_step00.bmp.png
@@ -5484,9 +5467,6 @@ s061a_happa02_alp_ovl_mip8000.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilat
 s061a_pitwall01_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s061a_pitwall01_rep.bmp.png
 s061a_rock01_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s061a_rock01_rep.bmp.png
 s061a_rock02_rep_blue.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s061a_rock02_rep_blue.bmp.png
-s061a_sky_bush8_alp_ovl_rep_mip16000.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s061a_sky_bush8_alp_ovl_rep_mip16000.bmp.png
-s061a_sky_bush_hide_alp_ovl_mod1022.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s061a_sky_bush_hide_alp_ovl_mod1022.bmp.png
-s061a_sky_cone63.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s061a_sky_cone63.bmp.png
 s061a_soil01_rep_mip8000.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s061a_soil01_rep_mip8000.bmp.png
 s061a_tree10_mid_rep_mip8000.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s061a_tree10_mid_rep_mip8000.bmp.png
 s061a_tree13_mid_dark_mip8000_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s061a_tree13_mid_dark_mip8000_rep.bmp.png
@@ -5616,17 +5596,9 @@ s066a_wall01b.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixe
 s066a_wall02a_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s066a_wall02a_rep.bmp.png
 s066a_wallrusty02a.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\s066a_wallrusty02a.bmp.png
 s066a_wallrusty03_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s066a_wallrusty03_alp_ovl.bmp.png
-s071a_cloud4_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s071a_cloud4_alp_ovl_rep.bmp.png
-s071a_cloud5_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s071a_cloud5_alp_ovl_rep.bmp.png
-s071a_cloud5_alp_ovl_rep.bmp_bcf64292d049d87da2846ec910387a4e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s071a_cloud5_alp_ovl_rep.bmp_bcf64292d049d87da2846ec910387a4e.png
-s071a_cloud7_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s071a_cloud7_alp_ovl_rep.bmp.png
-s071a_cloud8_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s071a_cloud8_alp_ovl_rep.bmp.png
 s071a_enkei_situkan_01_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s071a_enkei_situkan_01_alp_ovl_rep.bmp.png
 s071a_irigutijimen_a01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s071a_irigutijimen_a01.bmp.png
-s071a_sky_tex_a03_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s071a_sky_tex_a03_rep.bmp.png
-s071a_sky_tex_a03_rep.bmp_8ecdce7faa51dee47632ab2eabb056c3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s071a_sky_tex_a03_rep.bmp_8ecdce7faa51dee47632ab2eabb056c3.png
 s071a_snow_06_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\s071a_snow_06_alp_ovl_rep.bmp.png
-s071a_sun01_alp_add_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s071a_sun01_alp_add_ovl_rep.bmp.png
 s072a_door_mark01_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\s072a_door_mark01_alp_ovl.bmp.png
 s072a_hinata_a01_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s072a_hinata_a01_alp_ovl.bmp.png
 s072a_jimen_a01_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s072a_jimen_a01_rep.bmp.png
@@ -7367,8 +7339,6 @@ s164a_koya_kanban_01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Textu
 s164a_mark_01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s164a_mark_01.bmp.png
 s164a_yama_01_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s164a_yama_01_alp_ovl_rep.bmp.png
 s164a_yama_01_alp_ovl_rep.bmp_ed224dbad439ba6b8e4f455d14c1964f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s164a_yama_01_alp_ovl_rep.bmp_ed224dbad439ba6b8e4f455d14c1964f.png
-s171a_cloud7_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s171a_cloud7_alp_ovl_rep.bmp.png
-s171a_cloud8_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s171a_cloud8_alp_ovl_rep.bmp.png
 s171a_conc01_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s171a_conc01_rep.bmp.png
 s171a_entwall00_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s171a_entwall00_rep.bmp.png
 s171a_fence_alp_ovl_01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s171a_fence_alp_ovl_01.bmp.png
@@ -7442,9 +7412,6 @@ s171a_mo_sdw_alp_ovl_10.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Te
 s171a_mo_sdw_alp_ovl_12.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\s171a_mo_sdw_alp_ovl_12.bmp.png
 s171a_mo_sdw_alp_ovl_13.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s171a_mo_sdw_alp_ovl_13.bmp.png
 s171a_mo_sdw_alp_ovl_rep_11.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s171a_mo_sdw_alp_ovl_rep_11.bmp.png
-s171a_mo_sky_alp_ovl_rep_decal_01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s171a_mo_sky_alp_ovl_rep_decal_01.bmp.png
-s171a_mo_sky_alp_ovl_rep_decal_02.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s171a_mo_sky_alp_ovl_rep_decal_02.bmp.png
-s171a_mo_sky_decal_02.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s171a_mo_sky_decal_02.bmp.png
 s171a_mo_snow_add_rep_alp_ovl_05.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s171a_mo_snow_add_rep_alp_ovl_05.bmp.png
 s171a_mo_snow_rep_03.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s171a_mo_snow_rep_03.bmp.png
 s171a_mo_snow_rep_alp_ovl_01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s171a_mo_snow_rep_alp_ovl_01.bmp.png
@@ -7571,7 +7538,6 @@ s201a_soil1_rep_mip8000.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Te
 s201a_soila_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s201a_soila_rep.bmp.png
 s201a_thin_tree1_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s201a_thin_tree1_rep.bmp.png
 s201a_tree13_mid_mip8000_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s201a_tree13_mid_mip8000_rep.bmp.png
-s211_1_cloud_a01_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s211_1_cloud_a01_alp_ovl_rep.bmp.png
 s211_1_enkei_a01_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s211_1_enkei_a01_rep.bmp.png
 s211_1_enkei_a02_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s211_1_enkei_a02_alp_ovl_rep.bmp.png
 s221a_bin_00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s221a_bin_00.bmp.png
@@ -7620,7 +7586,6 @@ s221a_shelf_b00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fi
 s221a_shelf_book00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s221a_shelf_book00.bmp.png
 s221a_sirakaba_tree_ne_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s221a_sirakaba_tree_ne_rep.bmp.png
 s221a_sirakaba_tree_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s221a_sirakaba_tree_rep.bmp.png
-s221a_sky_a00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s221a_sky_a00.bmp.png
 s221a_soot_00_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s221a_soot_00_alp_ovl.bmp.png
 s221a_stove_01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s221a_stove_01.bmp.png
 s221a_towel_00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\s221a_towel_00.bmp.png
@@ -8020,17 +7985,6 @@ sir_def_body_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Comp
 sir_def_body_ovl_sub_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\sir_def_body_ovl_sub_alp.bmp.png
 sir_def_mouth.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\sir_def_mouth.bmp.png
 sir_def_tang_tex.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\sir_def_tang_tex.bmp.png
-sky_cone25_cloud_semi_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sky_cone25_cloud_semi_alp_ovl.bmp.png
-sky_cone53_cloud_semi_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sky_cone53_cloud_semi_alp_ovl.bmp.png
-sky_d1_cone64.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\sky_d1_cone64.bmp.png
-sky_d1_hem64_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\sky_d1_hem64_alp_ovl_rep.bmp.png
-sky_d_7_fade_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sky_d_7_fade_alp_ovl.bmp.png
-sky_d_sun_alp_ovl_decal.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sky_d_sun_alp_ovl_decal.bmp.png
-sky_d_sun_glow2_mod1001_alp_ovl_decal.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sky_d_sun_glow2_mod1001_alp_ovl_decal.bmp.png
-sky_d_sun_glow_mod1001_alp_ovl_decal.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sky_d_sun_glow_mod1001_alp_ovl_decal.bmp.png
-sky_hem25_cloud2_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sky_hem25_cloud2_alp_ovl_rep.bmp.png
-sky_hem53_cloud_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sky_hem53_cloud_alp_ovl_rep.bmp.png
-sky_hem63_semi_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\sky_hem63_semi_alp_ovl_rep.bmp.png
 slide_stop.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\slide_stop.bmp.png
 slight_back.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\slight_back.bmp.png
 slight_front.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\slight_front.bmp.png
@@ -8760,8 +8714,6 @@ v007a_roof_a01_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture
 v007a_roof_a02_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\v007a_roof_a02_rep.bmp.png
 v007a_roof_a04_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\v007a_roof_a04_rep.bmp.png
 v007a_situkan_a01_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\v007a_situkan_a01_alp_ovl_rep.bmp.png
-v007a_sky_b04_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\v007a_sky_b04_rep.bmp.png
-v007a_sky_b05_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\v007a_sky_b05_rep.bmp.png
 v007a_soro_render1_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\v007a_soro_render1_alp_ovl.bmp.png
 v007a_soro_render2_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\v007a_soro_render2_alp_ovl.bmp.png
 v007a_tettou_a01_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\v007a_tettou_a01_alp_ovl_rep.bmp.png
@@ -8783,25 +8735,8 @@ vip_def_body.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes
 vip_def_dmo_body.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\vip_def_dmo_body.bmp.png
 vip_def_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vip_def_ovl_mod1120_alp_emap.bmp.png
 vip_def_ovl_sub_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\vip_def_ovl_sub_alp_ovl.bmp.png
-vs000a_cloud10_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud10_alp_ovl_rep.bmp.png
-vs000a_cloud12_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud12_alp_ovl_rep.bmp.png
-vs000a_cloud13_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud13_alp_ovl_rep.bmp.png
-vs000a_cloud15_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud15_alp_ovl_rep.bmp.png
-vs000a_cloud16_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud16_alp_ovl_rep.bmp.png
-vs000a_cloud19_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud19_alp_ovl_rep.bmp.png
-vs000a_cloud20_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud20_alp_ovl_rep.bmp.png
-vs000a_cloud3_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud3_alp_ovl_rep.bmp.png
-vs000a_cloud4_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vs000a_cloud4_alp_ovl_rep.bmp.png
-vs000a_cloud5_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud5_alp_ovl_rep.bmp.png
-vs000a_cloud7_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud7_alp_ovl_rep.bmp.png
-vs000a_cloud8_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud8_alp_ovl_rep.bmp.png
-vs000a_cloud9_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_cloud9_alp_ovl_rep.bmp.png
 vs000a_hikari_01_alp_ovl_add_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_hikari_01_alp_ovl_add_rep.bmp.png
 vs000a_shadow_a02_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs000a_shadow_a02_alp_ovl_rep.bmp.png
-vs000a_sky_04_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vs000a_sky_04_rep.bmp.png
-vs000a_sky_05_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vs000a_sky_05_rep.bmp.png
-vs000a_sky_06_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vs000a_sky_06_rep.bmp.png
-vs007a_p1_cloud5_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vs007a_p1_cloud5_alp_ovl_rep.bmp.png
 vtol002.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vtol002.bmp.png
 vtol003.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vtol003.bmp.png
 vtol005.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vtol005.bmp.png

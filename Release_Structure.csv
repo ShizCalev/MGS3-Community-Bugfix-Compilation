@@ -2,7 +2,10 @@ origin_path,destination_path,prune_non_ctxr
 Texture Fixes\Staging\textures,dist\textures,true
 Texture Fixes\Staging\hqtex,dist\hqtex,true
 
+Texture Fixes\Staging - 2x Upscaled\hqtex,dist_2x\hqtex,true
 Texture Fixes\Staging - 2x Upscaled\textures,dist_2x\textures,true
+
+Texture Fixes\Staging - 4x Upscaled\hqtex,dist_4x\hqtex,true
 Texture Fixes\Staging - 4x Upscaled\textures,dist_4x\textures,true
 
 Texture Fixes\Staging - 4K Assets\textures,dist_4k_assets\textures,true
