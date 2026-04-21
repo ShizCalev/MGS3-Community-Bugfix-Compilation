@@ -58,15 +58,6 @@
     <ClInclude Include="src\cleanup_loose_outdated_files.hpp">
       <Filter>Version updates</Filter>
     </ClInclude>
-    <ClInclude Include="src\update_hashes_v2_0_2_to_v2_1_2.hpp">
-      <Filter>Version updates</Filter>
-    </ClInclude>
-    <ClInclude Include="src\update_hashes_v2_1_0_to_v2_1_1.hpp">
-      <Filter>Version updates</Filter>
-    </ClInclude>
-    <ClInclude Include="src\update_hashes_v2_1_1_to_v2_1_2.hpp">
-      <Filter>Version updates</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="README.md">

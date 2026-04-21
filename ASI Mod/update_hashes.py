@@ -16,25 +16,33 @@ CPP_REL_PATH = Path(r"ASI Mod\src\bugfix_mod_checks.cpp")
 TARGETS = [
     # (relative path from git root, constant name in cpp)
     (
-        Path(r"Texture Fixes\Staging\textures\flatlist\_win\col_orange2.bmp.ctxr"),
-        "CBFC_BASE_FLATLIST_WIN_COL_ORANGE2_CTXR_SHA1",
+        Path(r"Texture Fixes\Staging\hqtex\flatlist\_win\eve_item_sunglasses_sub_ovl_alp.bmp.ctxr"),
+        "CBFC_BASE_HQTEX_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1",
     ),
     (
-        Path(r"Texture Fixes\Staging - 2x Upscaled\textures\flatlist\ovr_stm\_win\col_orange2.bmp.ctxr"),
-        "CBFC_2x_OVRSTM_WIN_COL_ORANGE2_CTXR_SHA1",
+        Path(r"Texture Fixes\Staging\textures\flatlist\_win\eve_item_sunglasses_sub_ovl_alp.bmp.ctxr"),
+        "CBFC_BASE_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1",
     ),
     (
-        Path(r"Texture Fixes\Staging - 4x Upscaled\textures\flatlist\ovr_stm\_win\col_orange2.bmp.ctxr"),
-        "CBFC_4x_OVRSTM_WIN_COL_ORANGE2_CTXR_SHA1",
+        Path(r"Texture Fixes\Staging - 2x Upscaled\textures\flatlist\ovr_stm\_win\eve_item_sunglasses_sub_ovl_alp.bmp.ctxr"),
+        "CBFC_2x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1",
     ),
     (
-        Path(r"Texture Fixes\Staging - 2x Upscaled\textures\flatlist\ovr_stm\ovr_eu\_win\seculitycard_lv2_alp.bmp.ctxr"),
-        "CBFC_2x_BUGFIXED_seculitycard_lv2_alp_CTXR_SHA1",
+        Path(r"Texture Fixes\Staging - 4x Upscaled\textures\flatlist\ovr_stm\_win\eve_item_sunglasses_sub_ovl_alp.bmp.ctxr"),
+        "CBFC_4x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1",
     ),
-    (
-        Path(r"Texture Fixes\Staging - 4x Upscaled\textures\flatlist\ovr_stm\ovr_eu\_win\seculitycard_lv2_alp.bmp.ctxr"),
-        "CBFC_4x_BUGFIXED_seculitycard_lv2_alp_CTXR_SHA1",
-    ),
+
+
+#"CBFC_BASE_OVR_EU_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+#"CBFC_2x_BASE_OVR_EU_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+#"CBFC_4x_BASE_OVR_EU_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+#"CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+#"CBFC_2x_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+#"CBFC_4x_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+#"CBFC_BASE_OVR_JP_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+#"CBFC_2x_BASE_OVR_JP_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+#"CBFC_4x_BASE_OVR_JP_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+
 ]
 
 # ==========================================================

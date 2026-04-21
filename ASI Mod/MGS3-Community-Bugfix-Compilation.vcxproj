@@ -30,9 +30,6 @@
     <ClInclude Include="src\resources\version.h" />
     <ClInclude Include="src\resources\version_checking.hpp" />
     <ClInclude Include="src\cleanup_loose_outdated_files.hpp" />
-    <ClInclude Include="src\update_hashes_v2_0_2_to_v2_1_2.hpp" />
-    <ClInclude Include="src\update_hashes_v2_1_0_to_v2_1_1.hpp" />
-    <ClInclude Include="src\update_hashes_v2_1_1_to_v2_1_2.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="MGS3-Community-Bugfix-Compilation.ini" />
