@@ -62,10 +62,19 @@ namespace
     constexpr const char* CBFC_2x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1 = "b912a3b6cf4ebd45d4c5d289e1b8e4b641c837aa"; 
     constexpr const char* CBFC_4x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1 = "6c59ff02e6158672604410ca11fc81a017415809";
 
+
+
+    //Third party mods
     constexpr const char* LIQMIX_SLOP_4X_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "d31e950cbad76bdf333646e99980a8212f9caa08";
     constexpr const char* LIQMIX_SLOP_2X_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "1fa54a4b8b13915360dbb31bf43d820f85b7b1d7";
 
+    constexpr const char* LIQMIX_SLOP_2X_s053a_sky_load_n_CTXR_SHA1 = "6030eeb3ab7e28a28b1ea2a5d98d841d7d685b09";
+    constexpr const char* LIQMIX_SLOP_4X_s053a_sky_load_n_CTXR_SHA1 = "a2ea4280c0be2a30f1aa3b33be6a21b62695d6fd";
+
+
     constexpr const char* SPRINGAS_MEDKIT_RESTORATION_vaa_first_aid_kit_alp_ovl_CTXR_SHA1 = "d28087fec6a3d979ef9def837aa0b9db57e795b7";
+
+
 
 
     static_assert(IsValidSHA1(CBFC_BASE_HQTEX_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1));
@@ -79,6 +88,8 @@ namespace
     static_assert(IsValidSHA1(CBFC_4x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1));
     static_assert(IsValidSHA1(LIQMIX_SLOP_4X_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1));
     static_assert(IsValidSHA1(LIQMIX_SLOP_2X_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1));
+    static_assert(IsValidSHA1(LIQMIX_SLOP_2X_s053a_sky_load_n_CTXR_SHA1));
+    static_assert(IsValidSHA1(LIQMIX_SLOP_4X_s053a_sky_load_n_CTXR_SHA1));
     static_assert(IsValidSHA1(SPRINGAS_MEDKIT_RESTORATION_vaa_first_aid_kit_alp_ovl_CTXR_SHA1));
 
 }
@@ -148,6 +159,8 @@ void VerifyInstallation::Check()
     const std::filesystem::path CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_PATH =                     sExePath / "textures" / "flatlist" / "ovr_stm" / "_win" / "vva_first_aid_kit_alp_ovl.bmp.ctxr";
     const std::filesystem::path CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_PATH =                    sExePath / "textures" / "flatlist" / "_win" / "vva_first_aid_kit_alp_ovl.bmp.ctxr";
 
+    const std::filesystem::path LIQMIX_SLOP_s053a_sky_load_n_CTXR_PATH =                                    sExePath / "textures" / "flatlist" / "ovr_stm" / "_win" / "s053a_sky_load_n.bmp.ctxr";
+
 
 
 
@@ -165,6 +178,7 @@ void VerifyInstallation::Check()
     auto CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_FUTURE = startHashTask(CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_PATH);
     auto CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_FUTURE = startHashTask(CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_PATH);
     auto CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_FUTURE = startHashTask(CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_PATH);
+    auto LIQMIX_SLOP_s053a_sky_load_n_CTXR_FUTURE = startHashTask(LIQMIX_SLOP_s053a_sky_load_n_CTXR_PATH);
 
     const FileHashResult CBFC_BASE_HQTEX_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_Result = CBFC_BASE_HQTEX_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_FUTURE.get();   ///hqtex/flatlist/_win/eve_item_sunglasses_sub_ovl_alp.bmp
     const FileHashResult CBFC_BASE_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_Result = CBFC_BASE_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_FUTURE.get();               ///textures/flatlist/_win/eve_item_sunglasses_sub_ovl_alp.bmp
@@ -174,6 +188,7 @@ void VerifyInstallation::Check()
     const FileHashResult CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_Result = CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_FUTURE.get();                                     ///textures/flatlist/ovr_stm/_win/vva_first_aid_kit_alp_ovl.bmp
     const FileHashResult CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result = CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_FUTURE.get();                       ///textures/flatlist/ovr_stm/ovr_us/_win/vva_first_aid_kit_alp_ovl.bmp
     const FileHashResult CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_Result = CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_FUTURE.get();                                   ///textures/flatlist/_win/vva_first_aid_kit_alp_ovl.bmp
+    const FileHashResult LIQMIX_SLOP_s053a_sky_load_n_CTXR_Result = LIQMIX_SLOP_s053a_sky_load_n_CTXR_FUTURE.get();                                                             ///textures/flatlist/ovr_stm/_win/s053a_sky_load_n.bmp
 
     spdlog::info("File hash calculations completed, starting verification...");
 
@@ -202,7 +217,8 @@ void VerifyInstallation::Check()
             "Please install the Community Bugfix Compilation -> Base <- package to ensure proper game functionality.\n"
             "\n"
             "Would you like to open the Community Bugfix Nexus download page now to download the base package?\n"
-            "(You can also find a link to our GitHub releases on the Nexus page if preferred.)",
+            "\n"
+            "(GitHub releases link also available on the Nexus page.)",
             "Community Bugfix Compilation (Base) Missing",
             MB_ICONWARNING | MB_YESNO);
         result == IDYES)
@@ -241,7 +257,8 @@ void VerifyInstallation::Check()
             "Please reinstall the Community Bugfix Compilation -> Base <- package to ensure proper game functionality.\n"
             "\n"
             "Would you like to open the Community Bugfix Nexus download page now to download the base package?\n"
-            "(You can also find a link to our GitHub releases on the Nexus page if preferred.)",
+            "\n"
+            "(GitHub releases link also available on the Nexus page.)",
             "Community Bugfix Compilation (Base - HQTex) Missing",
             MB_ICONWARNING | MB_YESNO);
         result == IDYES)
@@ -252,8 +269,46 @@ void VerifyInstallation::Check()
         return;
     }
 
+    spdlog::info("Community Bugfix Compilation high resolution (hqtex) fixes verified, now checking for standard JPN DLC specific fixes...");
+    // ------------------------------------------------------
+    // MGS3: Verify Afevis Bugfix Collection (base - jp dlc)
+    // ------------------------------------------------------
+    if (!CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_Result.exists)
+    {
+        spdlog::info("Community Bugfix Compilation base installation JPN DLC not found, DLC was likely uninstalled after installation. Skipping hash check...");
+    }
+    else if (!hashEquals(CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_Result, CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_SHA1))
+    {
+        spdlog::warn("------------------- ! Community Bugfix Compilation (Base - JPN DLC) Missing ! -------------------");
+        spdlog::warn("Community Bugfix Compilation installation issue detected, base installation (JPN DLC) fixes are missing.");
+        spdlog::warn("This can occur if Steam has verified integrity and damaged your mod files, or if you have reinstalled the Japanese Language DLC after installing the Community Bugfix Compilation.");
+        spdlog::warn("Please reinstall the Community Bugfix Compilation -> Base <- package to ensure proper game functionality.");
+        spdlog::warn("Please visit our Nexus page at: https://www.nexusmods.com/metalgearsolid3mc/mods/189?tab=files to download the base package.");
+        spdlog::warn("Or our GitHub releases page at: https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/releases");
+        spdlog::warn("------------------- ! Community Bugfix Compilation (Base - JPN DLC) Missing ! -------------------");
 
-    spdlog::info("Community Bugfix Compilation high resolution DLC fixes verified, now checking for hqtex JPN DLC specific fixes...");
+        if (int result = MessageBoxA(
+            nullptr,
+            "Community Bugfix Compilation installation issue detected, base installation (JPN DLC) fixes are missing.\n"
+            "\n"
+            "This can occur if Steam has verified integrity and damaged your mod files, or if you have reinstalled the Japanese Language DLC after installing the Community Bugfix Compilation.\n"
+            "\n"
+            "Please reinstall the Community Bugfix Compilation -> Base <- package to ensure proper game functionality.\n"
+            "\n"
+            "Would you like to open the Community Bugfix Nexus download page now to download the base package?\n"
+            "\n"
+            "(GitHub releases link also available on the Nexus page.)",
+            "Community Bugfix Compilation (Base - JPN DLC) Missing",
+            MB_ICONWARNING | MB_YESNO);
+        result == IDYES)
+        {
+            openCommunityBugfixPage();
+        }
+
+        return;
+    }
+
+    spdlog::info("Community Bugfix Compilation Japan DLC fixes verified, now checking for high resolution (hqtex) JPN DLC specific fixes...");
     // ------------------------------------------------------
     // MGS3: Verify Afevis Bugfix Collection (base - hqtex - jp dlc)
     // ------------------------------------------------------
@@ -280,7 +335,8 @@ void VerifyInstallation::Check()
             "Please reinstall the Community Bugfix Compilation -> Base <- package to ensure proper game functionality.\n"
             "\n"
             "Would you like to open the Community Bugfix Nexus download page now to download the base package?\n"
-            "(You can also find a link to our GitHub releases on the Nexus page if preferred.)",
+            "\n"
+            "(GitHub releases link also available on the Nexus page.)",
             "Community Bugfix Compilation (Base - HQTex - JPN DLC) Missing",
             MB_ICONWARNING | MB_YESNO);
         result == IDYES)
@@ -291,52 +347,18 @@ void VerifyInstallation::Check()
         return;
     }
 
-    spdlog::info("Community Bugfix Compilation hqtex JPN DLC specific fixes verified, now checking for standard JPN DLC specific fixes...");
-    // ------------------------------------------------------
-    // MGS3: Verify Afevis Bugfix Collection (base - jp dlc)
-    // ------------------------------------------------------
-    if (!CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_Result.exists)
-    {
-        spdlog::info("Community Bugfix Compilation base installation JPN DLC not found, DLC was likely uninstalled after installation. Skipping hash check...");
-    }
-    else if (!hashEquals(CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_Result, CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_SHA1))
-    {
-        spdlog::warn("------------------- ! Community Bugfix Compilation (Base - JPN DLC) Missing ! -------------------");
-        spdlog::warn("Community Bugfix Compilation installation issue detected, base installation high resolution (JPN DLC) fixes are missing.");
-        spdlog::warn("This can occur if Steam has verified integrity and damaged your mod files, or if you have reinstalled the official high resolution DLC after installing the Community Bugfix Compilation.");
-        spdlog::warn("Please reinstall the Community Bugfix Compilation -> Base <- package to ensure proper game functionality.");
-        spdlog::warn("Please visit our Nexus page at: https://www.nexusmods.com/metalgearsolid3mc/mods/189?tab=files to download the base package.");
-        spdlog::warn("Or our GitHub releases page at: https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/releases");
-        spdlog::warn("------------------- ! Community Bugfix Compilation (Base - JPN DLC) Missing ! -------------------");
 
-        if (int result = MessageBoxA(
-            nullptr,
-            "Community Bugfix Compilation installation issue detected, base installation high resolution (JPN DLC) fixes are missing.\n"
-            "\n"
-            "This can occur if Steam has verified integrity and damaged your mod files, or if you have reinstalled the official high resolution DLC after installing the Community Bugfix Compilation.\n"
-            "\n"
-            "Please reinstall the Community Bugfix Compilation -> Base <- package to ensure proper game functionality.\n"
-            "\n"
-            "Would you like to open the Community Bugfix Nexus download page now to download the base package?\n"
-            "(You can also find a link to our GitHub releases on the Nexus page if preferred.)",
-            "Community Bugfix Compilation (Base - JPN DLC) Missing",
-            MB_ICONWARNING | MB_YESNO);
-        result == IDYES)
-        {
-            openCommunityBugfixPage();
-        }
-
-        return;
-    }
 
 
     spdlog::info("Community Bugfix Compilation JPN DLC specific fixes verified.");
 
     bool b_Detected_Upscaled_Textures = CBFC_UPSCALED_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_Result.exists;
+    bool b_Liqmix_s053a_sky_load_n_Found = LIQMIX_SLOP_s053a_sky_load_n_CTXR_Result.exists && (hashEquals(LIQMIX_SLOP_s053a_sky_load_n_CTXR_Result, LIQMIX_SLOP_2X_s053a_sky_load_n_CTXR_SHA1) 
+                                                                                            || hashEquals(LIQMIX_SLOP_s053a_sky_load_n_CTXR_Result, LIQMIX_SLOP_4X_s053a_sky_load_n_CTXR_SHA1));
     bool is_4x_pack = false;
     bool is_2x_pack = false;
 
-    if (!b_Detected_Upscaled_Textures)
+    if (!b_Detected_Upscaled_Textures && !b_Liqmix_s053a_sky_load_n_Found)
     {
         spdlog::info("No upscaled texture pack detected.");
     }
@@ -350,11 +372,12 @@ void VerifyInstallation::Check()
         // ------------------------------------------------------
         const bool isLiqMixPack = hashEquals(CBFC_UPSCALED_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_Result, LIQMIX_SLOP_4X_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1) ||
                                   hashEquals(CBFC_UPSCALED_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_Result, LIQMIX_SLOP_2X_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1);
-        if (isLiqMixPack)
+        if (b_Liqmix_s053a_sky_load_n_Found || isLiqMixPack)
         {
+            std::string LiqMix_Message = (b_Liqmix_s053a_sky_load_n_Found && !isLiqMixPack) ? "Leftover files from LiqMix's AI Slop Upscaled texture pack have been detected." : "LiqMix's AI Slop Upscaled texture pack has been detected.";
             spdlog::warn("------------------- ! Community Bugfix Compilation - Mod Compatibility Issue ! -------------------");
-            spdlog::warn("LiqMix's AI Slop AI Upscaled texture pack has been detected.");
-            spdlog::warn("LiqMix's AI Slop texture pack is VERY out of date and has been replaced by the MGS3 Community Bugfix Compilation's Upscaled texture packs, which includes all the texture fixes from the base version.");
+            spdlog::warn(LiqMix_Message);
+            spdlog::warn("LiqMix's AI Slop Upscaled texture pack is VERY out of date and has been replaced by the MGS3 Community Bugfix Compilation's Upscaled Texture Addon packs, which also includes all the texture fixes from the CBFC base.");
             spdlog::warn("Please uninstall LiqMix's AI Slop Upscaled texture pack to ensure proper game functionality.");
             spdlog::warn("Please visit our Nexus page at: https://www.nexusmods.com/metalgearsolid3mc/mods/189?tab=files to download our upscaled texture package.");
             spdlog::warn("Or our GitHub releases page at: https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/releases");
@@ -362,14 +385,16 @@ void VerifyInstallation::Check()
 
             if (int result = MessageBoxA(
                 nullptr,
-                "LiqMix's AI Slop AI Upscaled texture pack has been detected.\n"
+                (   LiqMix_Message + "\n"
                 "\n"
-                "LiqMix's AI Slop texture pack is VERY out of date and has been replaced by the Community Bugfix Compilation's upscaled packs, which includes all the texture fixes from the base version.\n"
-                "Please remove LiqMix's AI Slop Upscaled texture pack to ensure proper game functionality.\n"
+                "LiqMix's AI Slop texture pack is VERY out of date and has been replaced by the Community Bugfix Compilation's Upscaled Texture Addon packs, which also includes all the texture fixes from the CBFC base.\n"
                 "\n"
-                "Would you like to open the Community Bugfix Nexus download page now to download the correct package?\n"
-                "(You can also find a link to our GitHub releases on the Nexus page if preferred.)",
-                "Community Bugfix Compilation - Mod Compatibility Issue",
+                "Please uninstall LiqMix's AI Slop Upscaled texture pack to ensure proper game functionality.\n"
+                "\n"
+                "Would you like to open the Community Bugfix Nexus download page now to download the CBFC Upscaled Texture Addon pack?\n"
+                "\n"
+                "(GitHub releases link also available on the Nexus page.)").c_str(),
+                "Community Bugfix Compilation (CBFC) - Mod Compatibility Issue",
                 MB_ICONWARNING | MB_YESNO);
                 result == IDYES)
             {
@@ -378,33 +403,35 @@ void VerifyInstallation::Check()
 
             return;
         }
-        spdlog::info("Upscaled texture pack is confirmed to not be outdated LiqMix's AI Slop pack, checking for correct installation...");
+
+
+        spdlog::info("Upscaled texture pack is confirmed to not be outdated LiqMix's AI Slop pack, verifying upscaled addon version matches against base version...");
         is_4x_pack = hashEquals(CBFC_UPSCALED_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_Result, CBFC_4x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1);
         is_2x_pack = hashEquals(CBFC_UPSCALED_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_Result, CBFC_2x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1);
         if (!is_4x_pack && !is_2x_pack)
         {
-            spdlog::warn("------------------- ! Community Bugfix Compilation (Upscaled Pack) Installation Issue ! -------------------");
-            spdlog::warn("Community Bugfix Compilation Upscaled Texture Pack installation issue detected.");
-            spdlog::warn("Unable to get the expected SHA1 hash for ovr_stm/_win/eve_item_sunglasses_sub_ovl_alp.bmp.ctxr.");
-            spdlog::warn("Please reinstall the Upscaled pack to ensure correct behavior.");
-            spdlog::warn("If you are using a mod manager, make sure the Upscaled pack is loaded AFTER the base package.");
-            spdlog::warn("Please visit our Nexus page at: https://www.nexusmods.com/metalgearsolid3mc/mods/189?tab=files to redownload the Upscaled package.");
+            spdlog::warn("------------------- ! Community Bugfix Compilation (Upscaled Addon) Installation Issue ! -------------------");
+            spdlog::warn("Community Bugfix Compilation Upscaled Texture Addon installation issue detected.");
+            spdlog::warn("Unexpected SHA1 hash for ovr_stm/_win/eve_item_sunglasses_sub_ovl_alp.bmp.ctxr.");
+            spdlog::warn("This usually indicates that an outdated version of the Upscaled Texture Addon was installed after a newer base version.");
+            spdlog::warn("Please ensure that the Upscaled Texture Addon's zip file matches the same version number as your base download zip.");
+            spdlog::warn("Please visit our Nexus page at: https://www.nexusmods.com/metalgearsolid3mc/mods/189?tab=files to redownload the Upscaled Addon.");
             spdlog::warn("Or our GitHub releases page at: https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/releases");
-            spdlog::warn("------------------- ! Community Bugfix Compilation (Upscaled Pack) Installation Issue ! -------------------");
+            spdlog::warn("------------------- ! Community Bugfix Compilation (Upscaled Addon) Installation Issue ! -------------------");
 
             if (int result = MessageBoxA(
                 nullptr,
-                "Community Bugfix Compilation Upscaled Texture Pack installation issue detected.\n"
+                "Community Bugfix Compilation Upscaled Texture Addon installation issue detected.\n"
                 "\n"
-                "Unable to get the expected SHA1 hash for ovr_stm/_win/eve_item_sunglasses_sub_ovl_alp.bmp.ctxr. This usually means the base package was installed or loaded after the upscaled pack.\n"
-                "The upscaled pack must be installed or loaded AFTER the base package.\n"
+                "Unexpected SHA1 hash for ovr_stm/_win/eve_item_sunglasses_sub_ovl_alp.bmp.ctxr.\n"
+                "This usually indicates that an outdated version of the Upscaled Texture Addon was installed after a newer base version.\n"
                 "\n"
-                "Please reinstall the Upscaled pack to ensure correct behavior.\n"
-                "If you are using a mod manager, make sure the Upscaled pack is loaded AFTER the base package.\n"
+                "Please ensure that the Upscaled Texture Addon's zip file matches the same version number as your base download zip.\n"
                 "\n"
-                "Would you like to open the Community Bugfix Nexus download page now to redownload the Upscaled package?\n"
-                "(You can also find a link to our GitHub releases on the Nexus page if preferred.)",
-                "Community Bugfix Compilation (Upscaled Pack) Installation Issue",
+                "Would you like to open the Community Bugfix Nexus download page now to redownload the CBFC Upscaled Addon?\n"
+                "\n"
+                "(GitHub releases link also available on the Nexus page.)",
+                "Community Bugfix Compilation (Upscaled Addon) Installation Issue",
                 MB_ICONWARNING | MB_YESNO);
             result == IDYES)
             {
@@ -417,15 +444,15 @@ void VerifyInstallation::Check()
 
     }
 
-    spdlog::info("Checking for specific incompatible mod: Springas's Red Cross Restoration...");
+    spdlog::info("Checking for specific incompatible mod: Outdated Red Cross Restoration mod...");
     if ((CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result.exists && hashEquals(CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result, SPRINGAS_MEDKIT_RESTORATION_vaa_first_aid_kit_alp_ovl_CTXR_SHA1))
         || (CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_Result.exists && hashEquals(CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_Result, SPRINGAS_MEDKIT_RESTORATION_vaa_first_aid_kit_alp_ovl_CTXR_SHA1))
         || (CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_Result.exists && hashEquals(CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_Result, SPRINGAS_MEDKIT_RESTORATION_vaa_first_aid_kit_alp_ovl_CTXR_SHA1)))
     {
 
         spdlog::warn("------------------- ! Community Bugfix Compilation - Mod Compatibility Issue ! -------------------");
-        spdlog::warn("Springas's Red Cross Restoration mod has been detected.");
-        spdlog::warn("Springas's Red Cross Restoration mod has been replaced by the Community Bugfix Compilation's re-imported higher-quality PS2 NPOT textures.");
+        spdlog::warn("Outdated mod detected: Springas's Red Cross Restoration.");
+        spdlog::warn("Springas's Red Cross Restoration mod has been replaced by the Community Bugfix Compilation's re-imported higher-quality PS2 NPOT textures, which also restore the original red crosses.");
         spdlog::warn("Please uninstall Springas's Red Cross Restoration mod to ensure proper game functionality.");
         spdlog::warn("Please visit our Nexus page at: https://www.nexusmods.com/metalgearsolid3mc/mods/189?tab=files to redownload the base package.");
         spdlog::warn("Or our GitHub releases page at: https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/releases");
@@ -433,14 +460,16 @@ void VerifyInstallation::Check()
 
         if (int result = MessageBoxA(
             nullptr,
-            "Springas's Red Cross Restoration mod has been detected.\n"
+            "Outdated mod detected: Springas's Red Cross Restoration.\n"
             "\n"
-            "Springas's Red Cross Restoration mod has been replaced by the Community Bugfix Compilation's re-imported higher-quality PS2 NPOT textures.\n"
+            "Springas's Red Cross Restoration mod has been replaced by the Community Bugfix Compilation's re-imported higher-quality PS2 NPOT textures, which also restore the original red crosses.\n"
+            "\n"
             "Please uninstall Springas's Red Cross Restoration mod to ensure proper game functionality.\n"
             "\n"
-            "Would you like to open the Community Bugfix Nexus download page now to download the correct package?\n"
-            "(You can also find a link to our GitHub releases on the Nexus page if preferred.)",
-            "Community Bugfix Compilation - Mod Compatibility Issue",
+            "Would you like to open the Community Bugfix Nexus download page now to redownload the base package?\n"
+            "\n"
+            "(GitHub releases link also available on the Nexus page.)",
+            "Community Bugfix Compilation (CBFC) - Mod Compatibility Issue",
             MB_ICONWARNING | MB_YESNO);
             result == IDYES)
         {
@@ -459,34 +488,40 @@ void VerifyInstallation::Check()
         {
             if (hashEquals(CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result, CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1))
             {
-                spdlog::warn("------------------- ! Community Bugfix Compilation (Upscaled Pack) Installation Issue ! -------------------");
-                spdlog::warn("Community Bugfix Compilation Upscaled Texture Pack installation issue detected.");
-                spdlog::warn("vva_first_aid_kit_alp.ctxr hash matches base package, but upscaled texture pack is installed.");
-                spdlog::warn("This usually means the base package was installed or loaded after the Upscaled pack.");
-                spdlog::warn("The Upscaled pack must be installed or loaded AFTER the base package.");
-                spdlog::warn("Please reinstall the Upscaled pack to ensure correct behavior.");
-                spdlog::warn("If you are using a mod manager, make sure the Upscaled pack is loaded AFTER the base package.");
-                spdlog::warn("Please visit our Nexus page at: https://www.nexusmods.com/metalgearsolid3mc/mods/189?tab=files to redownload the Upscaled package.");
+                const char* pack = is_2x_pack ? "2x" : "4x";
+
+                spdlog::warn("------------------- ! Community Bugfix Compilation ({} Upscaled Addon) Installation Issue ! -------------------", pack);
+                spdlog::warn("Community Bugfix Compilation {} installation issue detected.", pack);
+                spdlog::warn("The base package was installed or loaded after the {} Upscaled Addon.", pack);
+                spdlog::warn("The {} Upscaled Addon must be installed or loaded AFTER the base package.", pack);
+                spdlog::warn("Please reinstall the {} Upscaled Addon to ensure correct behavior.", pack);
+                spdlog::warn("If you are using a mod manager, make sure the {} Upscaled Addon is loaded AFTER the base package.", pack);
+                spdlog::warn("Please visit our Nexus page at: https://www.nexusmods.com/metalgearsolid3mc/mods/189?tab=files to redownload the {} Upscaled Addon.", pack);
                 spdlog::warn("Or our GitHub releases page at: https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation/releases");
-                spdlog::warn("------------------- ! Community Bugfix Compilation (Upscaled Pack) Installation Issue ! -------------------");
-                if (int result = MessageBoxA(
-                    nullptr,
-                    "Community Bugfix Compilation Upscaled Texture Pack installation issue detected.\n"
+                spdlog::warn("------------------- ! Community Bugfix Compilation (Upscaled Addon) Installation Issue ! -------------------");
+                
+                std::string msg =
+                    "Community Bugfix Compilation installation issue detected.\n"
                     "\n"
-                    "Unable to get the expected texture hash for vva_first_aid_kit_alp.ctxr in the Upscaled pack. This usually means the base package was installed or loaded after the Upscaled pack.\n"
-                    "The Upscaled pack must be installed or loaded AFTER the base package.\n"
+                    "The base package was installed or loaded after the " + std::string(pack) + " Upscaled Addon.\n"
                     "\n"
-                    "Please reinstall the Upscaled pack to ensure correct behavior.\n"
-                    "If you are using a mod manager, make sure the Upscaled pack is loaded AFTER the base package.\n"
+                    "The " + std::string(pack) + " Upscaled Addon must be installed or loaded AFTER the base package.\n"
                     "\n"
-                    "Would you like to open the Community Bugfix Nexus download page now to redownload the upscaled package?\n"
-                    "(You can also find a link to our GitHub releases on the Nexus page if preferred.)",
-                    "Community Bugfix Compilation (Upscaled) Installation Issue",
-                    MB_ICONWARNING | MB_YESNO);
-                result == IDYES)
+                    "Please reinstall the " + std::string(pack) + " Upscaled Addon to ensure correct behavior.\n"
+                    "If using a mod manager, make sure the " + std::string(pack) + " Upscaled Addon is loaded AFTER the base package.\n"
+                    "\n"
+                    "Open the Nexus download page to redownload the " + std::string(pack) + " Upscaled Addon?\n"
+                                                                                            "\n"
+                    "(GitHub releases link also available on the Nexus page.)";
+                
+                std::string title = "Community Bugfix Compilation (" + std::string(pack) + " Upscaled) Installation Issue";
+                
+                if (int result = MessageBoxA(nullptr, msg.c_str(), title.c_str(), MB_ICONWARNING | MB_YESNO);
+                    result == IDYES)
                 {
                     openCommunityBugfixPage();
                 }
+                
                 return;
             }
 
@@ -499,30 +534,48 @@ void VerifyInstallation::Check()
             }
             else if ((vaa_matches_2x && is_4x_pack) || (vaa_matches_4x && is_2x_pack))
             {
-                spdlog::warn("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr hash mismatch with installed upscaled texture pack.");
+                spdlog::warn("------------------- ! Community Bugfix Compilation (Upscaled Addon) Installation Issue ! -------------------");
+                spdlog::warn("Community Bugfix Compilation {} installation issue detected.", is_4x_pack ? "4x" : "2x");
+                spdlog::warn("Leftover textures from a previous installation of the {} Upscaled Addon detected.", is_4x_pack ? "2x" : "4x");
+                spdlog::warn("Please reinstall the {} Upscaled Addon to ensure correct behavior.", is_4x_pack ? "4x" : "2x");
+
+                std::string msg =
+                    "Community Bugfix Compilation installation issue detected.\n"
+                    "\n"
+                    "Leftover textures from a previous installation of the " + std::string(is_4x_pack ? "2x" : "4x") + " Upscaled Addon detected.\n"
+                    "\n"
+                    "Please reinstall the " + std::string(is_4x_pack ? "4x" : "2x") + " Upscaled Addon to ensure correct behavior.\n"
+                    "\n"
+                    "Open the Nexus download page to redownload the " + std::string(is_4x_pack ? "4x" : "2x") + " Upscaled Addon?\n"
+                                                                                                                "\n"
+                    "(GitHub releases link also available on the Nexus page.)";
+                if (int result = MessageBoxA(nullptr, msg.c_str(), "Community Bugfix Compilation (Upscaled Addon) Installation Issue", MB_ICONWARNING | MB_YESNO);
+                    result == IDYES)
+                {
+                    openCommunityBugfixPage();
+                }
+                return;
             }
             else
             {
-                spdlog::info("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr matches expected hash for installed {} upscaled texture pack.", is_4x_pack ? "4x" : "2x");
+                spdlog::info("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr MATCHES expected hash for {} upscaled texture pack.", is_4x_pack ? "4x" : "2x");
             }
-
 
         }
         else if (!hashEquals(CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result, CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1))
         {
-            spdlog::warn("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr unknown hash.");
+            spdlog::warn("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr unknown hash. This may be caused by a conflicting mod that replaced the texture with an unknown version. Please check your installed mods for conflicts if you are experiencing issues.");
         }
         else
         {
-            spdlog::info("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr matches expected base package hash.");
+            spdlog::info("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr MATCHES expected base package hash.");
         }
-
 
 
     }
     else
     {
-        spdlog::warn("ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr not found, unable to perform installation verification check for this file.");
+        spdlog::warn("ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr not found, unable to perform installation verification check for CBFC fixes.");
     }
 
 
