@@ -6,9 +6,9 @@
 #define PRIMARY_REPO_URL "https://github.com/ShizCalev/MGS3-Community-Bugfix-Compilation"
 #define FALLBACK_REPO_URL "https://gitlab.com/ShizCalev/MGS3-Community-Bugfix-Compilation"
 
-#define VERSION_MAJOR 2
-#define VERSION_MINOR 1
-#define VERSION_PATCH 3
+#define VERSION_MAJOR 1
+#define VERSION_MINOR 0
+#define VERSION_PATCH 0
 
 #define STRINGIFY_HELPER(x) #x
 #define STRINGIFY(x) STRINGIFY_HELPER(x)
@@ -25,6 +25,6 @@ inline const std::string sFixName = FIX_NAME;
 #define ORIGINAL_FILENAME FIX_NAME ".asi"
 #define PRODUCT_VERSION   VERSION_STRING
 #define FILE_VERSION      VERSION_STRING
-#define LEGAL_COPYRIGHT   "© 2025 Afevis. Licensed under the MIT License."
+#define LEGAL_COPYRIGHT   "© 2026 Afevis. Licensed under the MIT License."
 #define LEGAL_TRADEMARKS  ""
 #define COMMENTS          ""
