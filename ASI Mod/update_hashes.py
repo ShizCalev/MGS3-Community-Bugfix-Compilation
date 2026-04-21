@@ -31,18 +31,31 @@ TARGETS = [
         Path(r"Texture Fixes\Staging - 4x Upscaled\textures\flatlist\ovr_stm\_win\eve_item_sunglasses_sub_ovl_alp.bmp.ctxr"),
         "CBFC_4x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1",
     ),
+    
+    (
+        Path(r"Texture Fixes\Staging\textures\flatlist\ovr_stm\ovr_us\_win\vva_first_aid_kit_alp_ovl.bmp.ctxr"),
+        "CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+    ),
+    (
+        Path(r"Texture Fixes\Staging - 2x Upscaled\textures\flatlist\ovr_stm\ovr_us\_win\vva_first_aid_kit_alp_ovl.bmp.ctxr"),
+        "CBFC_2x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+    ),
+    (
+        Path(r"Texture Fixes\Staging - 4x Upscaled\textures\flatlist\ovr_stm\ovr_us\_win\vva_first_aid_kit_alp_ovl.bmp.ctxr"),
+        "CBFC_4x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+    ),
+ 
+    (
+        Path(r"Texture Fixes\Staging\textures\flatlist\_win\n033a_irona_under.bmp.ctxr"),
+        "CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_SHA1",
+    ),
 
+    (
+        Path(r"Texture Fixes\Staging\hqtex\flatlist\_win\j01_1.bmp.ctxr"),
+        "CBFC_BASE_HQTEX_FLATLIST_WIN_j01_1_JPN_ONLY_CTXR_SHA1",
+    ),
 
-#"CBFC_BASE_OVR_EU_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
-#"CBFC_2x_BASE_OVR_EU_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
-#"CBFC_4x_BASE_OVR_EU_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
-#"CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
-#"CBFC_2x_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
-#"CBFC_4x_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
-#"CBFC_BASE_OVR_JP_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
-#"CBFC_2x_BASE_OVR_JP_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
-#"CBFC_4x_BASE_OVR_JP_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
-
+ 
 ]
 
 # ==========================================================

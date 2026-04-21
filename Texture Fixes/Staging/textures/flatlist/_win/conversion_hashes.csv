@@ -3736,7 +3736,7 @@ vva_break_hatch_a.bmp,24465ba486af6a847817f05195026ae28757f3e8,f78a8450b3ad1c2ca
 vva_break_hatch_b.bmp,a168b7757195fc2fe94ab8ddd20c38afd0bd488b,cc5b3cc18f9133333dccd9fbef46e0c0238544f5,true,ps2 textures\OPAQUE,true,false,0,none,false,2
 vva_break_jet_mount.bmp,cb3444614c2c58ed47f8f867aea35891467fe373,2630de09b6a2a60196803505fa3637373d95ba79,true,ps2 textures\OPAQUE,true,false,0,none,false,2
 vva_e.bmp,45bd0f0ef56ec628243791363d28eddff2494452,cb6c663f717e0e773f76569f0ac47f8ec29b1527,true,mc textures\opaque\bp_remade,true,false,0,none,false,2
-vva_first_aid_kit_alp_ovl.bmp,405b8d00a90b52a658b9c0901ea30729ab86a905,fe98f571b9e1583f47c73a41376ce8c0b23698e0,true,ps2 textures\HAS ALPHA,false,false,0,none,false,2
+vva_first_aid_kit_alp_ovl.bmp,405b8d00a90b52a658b9c0901ea30729ab86a905,1e7af256b98c389c2629eae5247d91019d598daa,true,ps2 textures\HAS ALPHA,false,false,0,none,false,2
 vva_shadow_f_alp_add_ovl.bmp,8b7a874a73cdfb9fb18814417416cb9f74a440dd,29b7df8e7702304f3ace714dba2d66eb9f6b87fa,true,ps2 textures\HAS ALPHA,false,false,0,none,false,2
 vva_taiya.bmp,30df3eebcd77db7cfd71299584a28805a2c3ee0c,541d958f23364e46a34f773ea26e4d81dd910507,true,ps2 textures\OPAQUE,true,false,0,none,false,2
 vz61_l_site.bmp,2860fd3ab417fd5c56269728300edf3150480774,c3019d0c2ed874e4f883d8e504fd4ddbc9b09a31,true,mc textures\opaque\bp_remade,true,false,0,none,false,2
