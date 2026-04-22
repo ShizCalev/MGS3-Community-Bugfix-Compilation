@@ -90,7 +90,7 @@ Optional 2x & 4x AI Upscaled versions of all the game's textures (for those that
 ### Recommended Mod Load Order (from first to last):
 
 1. [MGSHDFix](https://github.com/Lyall/MGSHDFix) (REQUIRED)
-2. [Knight_Killer](https://www.nexusmods.com/profile/KnightKiIIer)'s [MGS3 Better Audio Mod](www.nexusmods.com/metalgearsolid3mc/mods/4)
+2. [Knight_Killer](https://www.nexusmods.com/profile/KnightKiIIer)'s [MGS3 Better Audio Mod](https://www.nexusmods.com/metalgearsolid3mc/mods/4)
 3. MGS3 Community Bugfix Compilation - Base
 4. MGS3 Community Bugfix Compilation - 4K Asset Pack (if desired)
 4. MGS3 Community Bugfix Compilation - AI Upscaled Texture Addon (if desired)
