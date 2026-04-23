@@ -92,10 +92,10 @@ Optional 2x & 4x AI Upscaled versions of all the game's textures (for those that
 1. [MGSHDFix](https://github.com/Lyall/MGSHDFix) (REQUIRED)
 2. [Knight_Killer](https://www.nexusmods.com/profile/KnightKiIIer)'s [MGS3 Better Audio Mod](https://www.nexusmods.com/metalgearsolid3mc/mods/4)
 3. MGS3 Community Bugfix Compilation - Base
-4. MGS3 Community Bugfix Compilation - 4K Asset Pack (if desired)
 4. MGS3 Community Bugfix Compilation - AI Upscaled Texture Addon (if desired)
-5. [MGS3 Demastered Texture Pack](https://github.com/ShizCalev/MGS3-Demastered-Subsistence-Edition/) (if installed)
-6. All other mods
+5. MGS3 Community Bugfix Compilation - 4K Asset Pack (if desired)
+6. [MGS3 Demastered Texture Pack](https://github.com/ShizCalev/MGS3-Demastered-Subsistence-Edition/) (if installed)
+7. All other mods
 
 
 <br>
@@ -131,6 +131,27 @@ Partial Coverage:
 - [Bandanna Fixes](https://www.nexusmods.com/metalgearsolid3mc/mods/38) (By [GuyOnAChair](https://www.nexusmods.com/profile/GuyOnAChair/mods)) 
     - (OPACITY FIXES ONLY. Color changes made by the mod that deviate from the original game's textures are not present.) 
 
+<br>
+
+<br>
+
+
+
+## Examples
+![](Media/examples/Ending%20face.png)
+![](Media/examples/first%20person%20button%20indicator.png)
+![](Media/examples/flipped%20medkit%20fixes.png)
+![](Media/examples/boss%20namecards.png)
+![](Media/examples/cigar%20examples.png)
+![](Media/examples/npot%20example%201.png)
+
+| Vanilla MC / Bluepoint Remastered                                                |   MGS3 Community Bugfix Compilation                   |
+| --------------------------------------------------------- | ----------------------------------------------------- |
+| ![](Media/examples/npot%20example%202.png) | ![](Media/examples/npot%20example%203.png) |
+
+<br>
+
+
 
 ## List of Fixes:
 
@@ -154,6 +175,7 @@ Partial Coverage:
 - Fixed multiple English radio calls with Para-medic switching to French subtitles half-way into the conversation. [2004 SE]
 - Fixed black seams (dilation padding) on Eva's neck in multiple cutscenes. [2004 SE]
 - Fixed broken wall damage decals in torture chamber. [2011 HDC]
+- Fixed First Person View Button indicator not lighting up when held during cutscenes. [2011 HDC]
 
 <br>
 
