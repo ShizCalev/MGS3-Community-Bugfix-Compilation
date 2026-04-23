@@ -39,7 +39,7 @@ LOCAL_SYNC_PREFIXES: dict[str, str] = {
     "dist": "MGS3 Community Bugfix Compilation - Base",
     #"dist_2x": "MGS3 Community Bugfix Compilation - 2x Upscaled",
     "dist_4x": "MGS3 Community Bugfix Compilation - 4x Upscaled",
-    "dist_4k_assets" : "MGS3 Community Bugfix Compilation - 4K Assets",
+    "dist_4k_assets" : "MGS3 Community Bugfix Compilation - 4K Asset Pack",
 }
 
 IGNORED_TARGET_PATH_PREFIXES = {
