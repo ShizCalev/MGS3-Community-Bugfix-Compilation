@@ -123,9 +123,8 @@ Full Coverage:
 - [HD Eva Body](https://www.nexusmods.com/metalgearsolid3mc/mods/33) (By [TieuLink](https://www.nexusmods.com/profile/TieuLink/mods)) (original PS2 NPOT was higher quality / didn't have the pixelization issue.)
 - [Red Cross Restoration](https://www.nexusmods.com/metalgearsolid3mc/mods/41) (By [Spingas](https://www.nexusmods.com/profile/Spingas/mods))
     - (The original mod recolored the MC's corrupted NPOT textures. The higher quality PS2 textures were reimported. Also, restoration has been expanded to also cover the official high resolution texture pack's crosses.)
-- [Restore Full Cobra Boss Titles](https://www.nexusmods.com/metalgearsolid3mc/mods/181) (By [MechaMike](https://www.nexusmods.com/profile/MechaMike/mods))
+- [Restore Full Cobra Boss Titles](https://www.nexusmods.com/metalgearsolid3mc/mods/181) (By [MechaMike98](https://www.nexusmods.com/profile/MechaMike98/mods))
 - [Upscaled Textures (AI Slop Edition)](https://www.nexusmods.com/metalgearsolid3mc/mods/54) (By [LiqMix](https://www.nexusmods.com/profile/LiqMix/mods))
-
 
 Partial Coverage:
 - [Bandanna Fixes](https://www.nexusmods.com/metalgearsolid3mc/mods/38) (By [GuyOnAChair](https://www.nexusmods.com/profile/GuyOnAChair/mods)) 
