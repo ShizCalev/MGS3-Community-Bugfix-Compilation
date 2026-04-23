@@ -14,6 +14,11 @@
 
 #remade ui stuff
 
+#controller icons
+002a4e9e
+00425555
+#controller icons
+
 #end remade ui
 
 
