@@ -33,7 +33,7 @@ UNKNOWN_PREFIXES_SEEN: set[str] = set()
 
 # Local sync target prefixes when NOT running in CI.
 # These are PREFIXES, not full folder names.
-VORTEX_MODS_DIR = Path(r"C:\Users\cmkoo\OneDrive\Vortex\metalgearsolid3mc\mods")
+VORTEX_MODS_DIR = Path(r"C:\Vortex\metalgearsolid3mc\mods")
 
 LOCAL_SYNC_PREFIXES: dict[str, str] = {
     "dist": "MGS3 Community Bugfix Compilation - Base",

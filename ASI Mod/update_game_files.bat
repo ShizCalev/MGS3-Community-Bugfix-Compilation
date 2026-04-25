@@ -6,7 +6,7 @@ if defined CI (
 )
 
 set "SRC=C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\ASI Mod\x64\Release\MGS3-Community-Bugfix-Compilation.asi"
-set "VORTEX_MODS=C:\Users\cmkoo\OneDrive\Vortex\metalgearsolid3mc\mods"
+set "VORTEX_MODS=C:\Vortex\metalgearsolid3mc\mods"
 set "FOUND=0"
 
 for /d %%D in ("%VORTEX_MODS%\MGS3 Community Bugfix Compilation - Base*") do (

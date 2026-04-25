@@ -6,7 +6,7 @@
 
 #### MGS3 Community Bugfix: [Nexus Page](https://www.nexusmods.com/metalgearsolid3mc/mods/189) | **GitHub Repo (You're already here!)**
 
-Support / Development Progress Discord Channel: [MetalGear.net #mgs3mgs3-community-bugfix-dev](https://discord.gg/2DNuQamsMT)
+Support / Development Progress Discord Channel: [MetalGear.net #mgs2mgs3-community-bugfix-dev](https://discord.gg/2DNuQamsMT)
 
 
 --------------
