@@ -1,84 +1,86 @@
-filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,upscaler_version,upscaler_type,ctxr3_converted,non_upscaled_version
-00040da5,be5d69c46afbb5919dbdd3d409b6c4223235f05e,ff165a5d014cb8a033de1d9fbf6756e3cbcf8171,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,2
-00393ebb,024f8ebb22254eccd10089dff56477b8e60eca65,cd891326c5de5c36bd855e0f084cb1ee6ec7ea98,false,Self Remade\Finalized\Self Remastered\UI\Shared\Dont Demaster\1080p,false,false,0,none,true,2
-00454202,0b0095770b4457e2b03422cfc49f026a276f9b0e,d4b81f2973fe49cb5bb3ba6fd37b7fcb28ae1b06,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,2
-0049b9cb,aa384ac60ce0558d956ced2531035cb810093ba0,c1775364025e303f64f3a05d16c1cc59d38b4077,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,2
-004f0fb2,ad70fcdd19f9934a49e3d4e7e79c04505f565106,2c8cc8578e455e64b80e56ff16697181d2810896,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,2
-004f81ad,2c5ac3715aaf95586aa9e9baad02d373e9d93cce,87930a828cc7c68608f44b4068f8087b0e47858f,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-004fa1ad,1e70ef704bf3c8db2afa6bb0157423c2cd355a2e,b1309607113f97c51516c8cd1cc4b8aa39751570,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-0056594d,79628cd32dfbeef53cfdd3a405ee89746a17cdaf,ad1a2700a3dd04c321f7515aa44bcf156b49e4f9,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-0056694d,03a5ab43f8fc97d5aa764922d9dc2001b607ff42,cc4fe05087352faa01f6673b876d27e7c5ba3b10,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-0056794d,edde1aac4dd433f1c944398425c56906b2f899dc,a2a0c21b5a803c8eddc67723081cf4c0c281531a,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00581d5d,eb72c6adea2aa3a6ff0ed72ada676ad2c19ff8c6,b7fbd93b929c961a441e0644af99bd0aade7d7d9,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00582d5d,af8dbc6da7b36b15006922be54f39e5a28c3da50,3ef089aab1a235948017dad51b05f09381f8423b,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00583d5d,2442d569f3e60d8dbeaeb074790527f5ea918c92,e810f6d48d6434e1f8e363bec24ea3690f872e6f,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-005ce186,11cf53dd2471cbc3173b03cd51a370186ba74fd1,2b48a152ddd880634116749b448c2eab1586d5ed,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-005cf186,d13ff1048673f7b8347cd5c6decc6c9b7be56746,fd7cf3de99329deec13689b5f8388715890e6c4f,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-005d0186,ec052fb7c67f51c453e81604359936a25ba183de,e9e76367ff0d8aeb454667cefdba4f94bb3d36b0,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-005e568e,6fe808dc178d1cdb52923788654b7d547ea84492,3e701f042c20186fd3f7d4a8e43e36203f28348d,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-005e668e,b59ae6c31af17be5ebf5e3cae01c5f348210c41f,66c4bd65cb237d78f679d162e673797432120a5b,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-005e768e,ebd4feea50793f504203ade92ebdcc4bbbeb985c,19468a0975ae52106cfbb9217f5256020a0ccabc,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-005eb9cb,0ce60ca50a15b714ac0ca010d58a364d07bfca32,e86c135d16a389eb6e85c76b0f99e7a4f3430946,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,2
-0060a8e0,a9ccc4ee8b9e26f8bf836549f8ef88899f897d38,f117fca54e6236162ed5ee9f9fbfb46f7c5f6a5f,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,2
-0061b17c,c809076058e696ce5eb7efda0aad751cd3e53102,f1328df80371e1f91d982ce72419e5d22164ed43,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,2
-0063a8f6,3e07c9e0243f765ea5465523507a0fd60ed0de11,22ac4e6744de2ec655912d377fdc2c8d2c6286fd,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-0063b8f6,e96c94c68cf7d9a136b20f520be814c0057e3fae,8dc0f64b23cb802857e77b3b6e8bd295a181a567,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-006adf8b,10cd263ec8c5f680355a25f339f3698eca040303,9ff1c66200ac44dee28665d43b30341ff65ed40b,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-006aef8b,e509428362c36d49a75ac52ead18a275a0f8f376,df2b6d372a0bba061f25976edd88103b55351bc2,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-006aff8b,9bdbfbd71f209486f4e8bdbcd8c6ec037b279da9,e76fc2774e028126478c879919c13c83b4c73a99,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00746cd0,5c4180765e347a80aa02050b29910ab97cddbbda,60919acb02670db3aabceed0606eafdddaecb09b,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,2
-0075a8e0,431fb97131c97c0d3cb2dc8e4a35de6adf93f5d2,25e63308f89decdcb818c9beeb8e3e3f8fefa646,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,2
-0075dece,52f21daac17a5ec78ed284adc9bcf70f54c6008b,99275c4d1244edf3db2e0b62756d9b7e8333f6a6,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-0075eece,4487e65ee23bde7e42b752957917434c049428c5,2c74eb8b3f6fa4ac17818c8d6f8f0b0184cc3d6a,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-0075fece,f5d430db415475698c3ed8ba964fbcd4ecc2385c,33eddd0c6faac93143bdba88a637abae937b2e65,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-0076b17c,94cbc25199e39a52db1099c66d34c29a74b04d9f,271fa07c5cb08b402fc449252f5009cb015dbd19,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,2
-007b8516,6fce541fcb84dde033db47eb3f4dc6a8dd4bc07f,57494e0767c0bcb61cc01e23fbb2d648f6e2d3b5,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-007b9516,49d13c0b85ce8b76de529ceb9527ddce6d8e97ff,5b826f83c1b1624bfa7b8ec07828b3f4f7460716,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-007ba516,c354375cdbb9bf85e38742cbfb41a8092442abd6,b07e8dd526e18a556f5bb3a0ec9c988f318d9690,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-007cab39,b91f6340c45bc302cf0e6109bf9e6b9fd008c1c4,8237f857126d7c1c749a08c9704aa30c6b3d06f3,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,2
-00812743,b5516c99dc68e9b58f6aa65ae70f7f4333dd80b6,03128fa951e4090907537a4b3e79449f873854de,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00813743,8ba83662355324fa10006306ff2332af36370962,68f25dd01323fc1feff13369ff2f58c7b4419340,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00814743,6779c56fc842e517d8d77a3f9eb1ec8729b6c044,8d84a07053e7529c7931548eb20cc99180f8c133,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00896cd0,cf901a4ef97dadd981671414cf962dcacb3b5aea,a4c8381da8eef02abe3295442e3964cc3450fac3,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,2
-008a85bb,a015e5ddf9a23b9aa34a640c5cd62cff5c327290,153d12c71c032d4eeef1c700ec5394ecc25ab9e3,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-008aa5bb,4dc6e9869982587d319a8873b455e75556869ce3,b8b11352c9984af2f84e930317155841b7f937dd,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-0091ab39,11e6d44261fc41255570820f175dbcd935b56637,a77828f44eed23e2ebecb94a066d9a3f4812b8ca,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,2
-00bd89a1.img,dc3612697ed3c5e39681d887069957d1216a4001,6883bfed07925c1f57f42e1bab2be80571340bab,false,Self Remade\Finalized\Dont demaster\UI\Shared,false,false,0,none,true,2
-00c8c0af,779ab38fc37dca84e81866d5f5125c805cd86e92,b76ea09b5903b2ca23666a0e783aedec3566d218,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,2
-00e11a3e,1c0cb80e263942d0676e9f8e2c0e3a2f4cba7ef6,7813c27116e8b055ad544bee38efb87233e74584,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,2
-00ede1ab,9abccfbc50ab082ef4c9980ed712aeb4e5b231f7,d4a8204dd177eb2428bbb1709a30c7d7e9592b7b,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00edf1ab,3451f4ef734a257349355c612d5645d2006380fe,b6b34e9add22c7345ad11412655ea19f0685abe4,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00ee01ab,5c279a79376e6a5e565bf80a20545966c2371dc6,a1d1ae28e8f0f1592bd2e5f17b787a88943b3118,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00f1c0b1,bf8d61c294db1017447065024c5d9509728a1d89,ee3e55ead406bde00c42e6d1b9112192dc678cbe,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,2
-00fb98ac,2dfcd9950be245e440220f358b68b1cf63b52b35,43bde229cd331fb36033a2b8165fa1d3b0263954,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00fba8ac,13a852323342102be29d9af71917ea193d723d73,b4a2e8ed7f605be68e2f4f390c357765c7bf8267,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00fbb8ac,0ec13aca0a7294dbd1804ade75b783954d980944,0252c725c429d9edb6806b71715f970dfdd21fb8,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,2
-00fc60e2,0b0095770b4457e2b03422cfc49f026a276f9b0e,d4b81f2973fe49cb5bb3ba6fd37b7fcb28ae1b06,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,2
-eve_def_face_fix_new.bmp,072e80b0b641ea40ea5589011b318ac0de2db38f,50f1027b8b7f6e98fee7ad45c5789e567f3d894d,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
-eve_naked_face_fix.bmp,803830b8bec3f2f9c768fe4017859448ed584dc5,3dacefbb32ec0a233fc2e1c77844c51020ba1be4,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
-eve_tac_face_fix.bmp,374dece810a31c6136715362afa889c3d7960ef2,d8da8e12e1782e81edf80567c522d5194d547f28,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
-eve_tac_face_fix_new.bmp,57ad4bc90071d6e232b380b305106622902ddc1c,a5062940d9a3f9bd3a63edd9a4cd63f58240a2bf,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
-eve_tac_face_new.bmp,bbb89412b6eee5d4ca187b0fb2dac900d14ba12f,ecdcfd190fcf0f6862d2a79f1810c7b31fd341d4,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
-h_bottle_ovl_alp.bmp,9450c9c30e8fd3d39f5ed0d5217e4fc8cee1c578,18843fb7f6e9f651f0c83a310d1a927fcaa0990c,true,Self Remade\Finalized,false,false,0,none,false,2
-s112a_cell_floor_01_alp_ovl.bmp,542b302e6e51d3e3d326fdcaa068accc971355e0,d44bb70844590019324e7018da8a4e203b6fe2be,true,Self Remade\Finalized,false,false,0,none,false,2
-s112a_hibi_01_alp_ovl.bmp,3451f5d2345a9f71ba74b8d128ba97bc715fe9f4,7a2f3d5b13bbae699c66a6d908d31ea1d9106053,true,Self Remade\Finalized\Dont demaster,false,false,0,none,false,2
-s122a_fence_alp_ovl_01.bmp,6c0ff5d78be43e11a11fedba0b9d4ac3cfffd4b3,d724bce3acfff163890cb136e23e00a2c73e22df,true,Self Remade\Finalized,false,false,0,none,false,2
-s171a_mo_fence_alp_ovl_rep_01.bmp,a0c501b97e8241b000209da05d94a892177cb443,72beefd65fd57862bcb9a181c17ad6553be45484,true,Self Remade\Finalized,false,false,0,none,false,2
-s171a_mogi_fence_alp_ovl_rep_01.bmp,1b5aa35dca27b0fb0e89545e9f18a71d69871b69,083ee1ac0b43c0710a2918d800183b85a6733c93,true,Self Remade\Finalized,false,false,0,none,false,2
-sga_cigar01_brake.bmp,0aa6eb324390eb9ef0760b8c068de5c724ab122e,878b1aa627b360f7fcfbad9518dc3c3d4c346fa4,true,Self Remade\Finalized\Self Remastered,true,false,0,none,false,2
-sga_cigar_origin.bmp,912c8fd8d69cdf9f0338fa18f8ea4a27e54904ef,ff8965762eae2e9c36f29ad8845d6ad69c22bd68,true,Self Remade\Finalized\Self Remastered,true,false,0,none,false,2
-sna_def_hair_front_ovl_alp.bmp,78ff011a0b9505630ef0258b7316e99121a415f6,0d0e4d0707591dfc529da90691b1bcf67a6c0760,true,Self Remade\Finalized\Dont demaster,false,false,0,none,false,2
-sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310,2b1103fe94457be569cbb561277a30d0729b0fee,9699568e52e107b7be66df06ab831171d0a5fcdb,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,2
-sna_face_cell_hi.bmp,7530ef8ce7c9df3f07f3a6d0bedbd210a411161c,261fa7c4725925bc1f69273dcbb67881c0964e95,true,Self Remade\Finalized,true,false,0,none,false,2
-sna_face_dam_eye_ovl_alp.bmp,5f92318ff5553e2461499b67c9f132b49301bb8d,9a639ca2189cae94db8110a53b69ba4add457926,true,Self Remade\Finalized,false,false,0,none,false,2
-sna_face_ed_def.bmp,5c1643b300362f2207ecbb39624971083074d818,e8dd404431870fa6e13450e48e9d46520697e020,true,Self Remade\Finalized,true,false,0,none,false,2
-sna_face_vr_sta_ovl_alp.bmp,33c9ff540bcae94ab64fc0c79882490bd80b709d,85788743cb061b8d053b78c1409190c2fa19f208,true,Self Remade\Finalized,false,false,0,none,false,2
-sna_flirt_tiger.bmp,26bce004256f1b7f8fe42443763a4c5bacd941ca,6e5a82199ab7981c00e66f00d4a2e24ec004a99c,true,Self Remade\Finalized,true,false,0,none,false,2
-sna_foot_naked_flirt.bmp,f0cf58c6443f52b0efaade154a3b742081461af2,9b197c8ea3dec46047be68d0d4bc68a64ba531ff,true,Self Remade\Finalized,true,false,0,none,false,2
-sna_foot_naked_tor.bmp,bcf9840ced61604419e4ba409135e3442a927ede,90d1eb82c0da33ec7ae275e99611b2a94588f211,true,Self Remade\Finalized,true,false,0,none,false,2
-sna_foot_naked_tor.bmp_73f755c5eb2ba5efb9fbd155062db075,9639e3d0920a54b77927102fac23859f9eb116ba,3aadcb7378ac65eb3a513885c2895b74769050cd,true,Self Remade\Finalized,true,false,0,none,false,2
-sna_hair_back_ovl_alp.bmp,1466a9c24224b59ad4158b8b71ced69b76babfc1,37c9cfc7f295b4c5aee529af913fdd1881757d01,true,Self Remade\Finalized\Not Demaster Fixed,false,false,0,none,false,2
-sna_suit_tears.bmp,ed2e96ef7bb9c1bf8cc7a7d4838107d102d3512f,01bb4bec3684b5e2dd60b61bafb6d3680069abc7,true,Self Remade\Finalized,true,false,0,none,false,2
-sna_suit_tears_sub_ovl_alp.bmp,7c4112ddc408d4bd52b03f23f5199b5d9811182b,c8c348249085b70ab864b2f37756ad3bf01fb8ed,false,Self Remade\Finalized,false,false,0,none,true,2
-sna_tears_ovl_alp.bmp,7b6909e8e494f7c507f87c1031081bb96b2eeb10,0952b291f4c58c7e18521fffe9eec184fb8db639,true,Self Remade\Finalized,false,false,0,none,false,2
-vva_first_aid_kit_alp_ovl.bmp,2c9c88967add63a31121a29bea26003f9c99784f,9150a00497c35aa6b1df85491d9493361b566f04,true,Self Remade\Finalized\Dont demaster,false,false,0,none,false,2
+filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,upscaler_version,upscaler_type,ctxr3_converted,non_upscaled_version,npot_resized
+00040da5,be5d69c46afbb5919dbdd3d409b6c4223235f05e,ff165a5d014cb8a033de1d9fbf6756e3cbcf8171,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,4,false
+00393ebb,024f8ebb22254eccd10089dff56477b8e60eca65,cd891326c5de5c36bd855e0f084cb1ee6ec7ea98,false,Self Remade\Finalized\Self Remastered\UI\Shared\Dont Demaster\1080p,false,false,0,none,true,4,false
+00454202,0b0095770b4457e2b03422cfc49f026a276f9b0e,d4b81f2973fe49cb5bb3ba6fd37b7fcb28ae1b06,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,4,false
+0049b9cb,aa384ac60ce0558d956ced2531035cb810093ba0,c1775364025e303f64f3a05d16c1cc59d38b4077,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
+004f0fb2,ad70fcdd19f9934a49e3d4e7e79c04505f565106,2c8cc8578e455e64b80e56ff16697181d2810896,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,4,false
+004f81ad,2c5ac3715aaf95586aa9e9baad02d373e9d93cce,87930a828cc7c68608f44b4068f8087b0e47858f,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+004fa1ad,1e70ef704bf3c8db2afa6bb0157423c2cd355a2e,b1309607113f97c51516c8cd1cc4b8aa39751570,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+0056594d,79628cd32dfbeef53cfdd3a405ee89746a17cdaf,ad1a2700a3dd04c321f7515aa44bcf156b49e4f9,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+0056694d,03a5ab43f8fc97d5aa764922d9dc2001b607ff42,cc4fe05087352faa01f6673b876d27e7c5ba3b10,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+0056794d,edde1aac4dd433f1c944398425c56906b2f899dc,a2a0c21b5a803c8eddc67723081cf4c0c281531a,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00581d5d,eb72c6adea2aa3a6ff0ed72ada676ad2c19ff8c6,b7fbd93b929c961a441e0644af99bd0aade7d7d9,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00582d5d,af8dbc6da7b36b15006922be54f39e5a28c3da50,3ef089aab1a235948017dad51b05f09381f8423b,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00583d5d,2442d569f3e60d8dbeaeb074790527f5ea918c92,e810f6d48d6434e1f8e363bec24ea3690f872e6f,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+005ce186,11cf53dd2471cbc3173b03cd51a370186ba74fd1,2b48a152ddd880634116749b448c2eab1586d5ed,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+005cf186,d13ff1048673f7b8347cd5c6decc6c9b7be56746,fd7cf3de99329deec13689b5f8388715890e6c4f,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+005d0186,ec052fb7c67f51c453e81604359936a25ba183de,e9e76367ff0d8aeb454667cefdba4f94bb3d36b0,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+005e568e,6fe808dc178d1cdb52923788654b7d547ea84492,3e701f042c20186fd3f7d4a8e43e36203f28348d,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+005e668e,b59ae6c31af17be5ebf5e3cae01c5f348210c41f,66c4bd65cb237d78f679d162e673797432120a5b,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+005e768e,ebd4feea50793f504203ade92ebdcc4bbbeb985c,19468a0975ae52106cfbb9217f5256020a0ccabc,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+005eb9cb,0ce60ca50a15b714ac0ca010d58a364d07bfca32,e86c135d16a389eb6e85c76b0f99e7a4f3430946,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
+0060a8e0,a9ccc4ee8b9e26f8bf836549f8ef88899f897d38,f117fca54e6236162ed5ee9f9fbfb46f7c5f6a5f,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
+0061b17c,c809076058e696ce5eb7efda0aad751cd3e53102,f1328df80371e1f91d982ce72419e5d22164ed43,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
+0063a8f6,3e07c9e0243f765ea5465523507a0fd60ed0de11,22ac4e6744de2ec655912d377fdc2c8d2c6286fd,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+0063b8f6,e96c94c68cf7d9a136b20f520be814c0057e3fae,8dc0f64b23cb802857e77b3b6e8bd295a181a567,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+006adf8b,10cd263ec8c5f680355a25f339f3698eca040303,9ff1c66200ac44dee28665d43b30341ff65ed40b,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+006aef8b,e509428362c36d49a75ac52ead18a275a0f8f376,df2b6d372a0bba061f25976edd88103b55351bc2,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+006aff8b,9bdbfbd71f209486f4e8bdbcd8c6ec037b279da9,e76fc2774e028126478c879919c13c83b4c73a99,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00746cd0,5c4180765e347a80aa02050b29910ab97cddbbda,60919acb02670db3aabceed0606eafdddaecb09b,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
+0075a8e0,431fb97131c97c0d3cb2dc8e4a35de6adf93f5d2,25e63308f89decdcb818c9beeb8e3e3f8fefa646,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
+0075dece,52f21daac17a5ec78ed284adc9bcf70f54c6008b,99275c4d1244edf3db2e0b62756d9b7e8333f6a6,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+0075eece,4487e65ee23bde7e42b752957917434c049428c5,2c74eb8b3f6fa4ac17818c8d6f8f0b0184cc3d6a,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+0075fece,f5d430db415475698c3ed8ba964fbcd4ecc2385c,33eddd0c6faac93143bdba88a637abae937b2e65,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+0076b17c,94cbc25199e39a52db1099c66d34c29a74b04d9f,271fa07c5cb08b402fc449252f5009cb015dbd19,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
+007b8516,6fce541fcb84dde033db47eb3f4dc6a8dd4bc07f,57494e0767c0bcb61cc01e23fbb2d648f6e2d3b5,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+007b9516,49d13c0b85ce8b76de529ceb9527ddce6d8e97ff,5b826f83c1b1624bfa7b8ec07828b3f4f7460716,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+007ba516,c354375cdbb9bf85e38742cbfb41a8092442abd6,b07e8dd526e18a556f5bb3a0ec9c988f318d9690,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+007cab39,b91f6340c45bc302cf0e6109bf9e6b9fd008c1c4,8237f857126d7c1c749a08c9704aa30c6b3d06f3,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
+00812743,b5516c99dc68e9b58f6aa65ae70f7f4333dd80b6,03128fa951e4090907537a4b3e79449f873854de,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00813743,8ba83662355324fa10006306ff2332af36370962,68f25dd01323fc1feff13369ff2f58c7b4419340,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00814743,6779c56fc842e517d8d77a3f9eb1ec8729b6c044,8d84a07053e7529c7931548eb20cc99180f8c133,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00896cd0,cf901a4ef97dadd981671414cf962dcacb3b5aea,a4c8381da8eef02abe3295442e3964cc3450fac3,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
+008a85bb,a015e5ddf9a23b9aa34a640c5cd62cff5c327290,153d12c71c032d4eeef1c700ec5394ecc25ab9e3,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+008aa5bb,4dc6e9869982587d319a8873b455e75556869ce3,b8b11352c9984af2f84e930317155841b7f937dd,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+0091ab39,11e6d44261fc41255570820f175dbcd935b56637,a77828f44eed23e2ebecb94a066d9a3f4812b8ca,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
+00bd89a1.img,dc3612697ed3c5e39681d887069957d1216a4001,6883bfed07925c1f57f42e1bab2be80571340bab,false,Self Remade\Finalized\Dont demaster\UI\Shared,false,false,0,none,true,4,false
+00c8c0af,779ab38fc37dca84e81866d5f5125c805cd86e92,b76ea09b5903b2ca23666a0e783aedec3566d218,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,4,false
+00e11a3e,1c0cb80e263942d0676e9f8e2c0e3a2f4cba7ef6,7813c27116e8b055ad544bee38efb87233e74584,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,4,false
+00ede1ab,9abccfbc50ab082ef4c9980ed712aeb4e5b231f7,d4a8204dd177eb2428bbb1709a30c7d7e9592b7b,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00edf1ab,3451f4ef734a257349355c612d5645d2006380fe,b6b34e9add22c7345ad11412655ea19f0685abe4,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00ee01ab,5c279a79376e6a5e565bf80a20545966c2371dc6,a1d1ae28e8f0f1592bd2e5f17b787a88943b3118,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00f1c0b1,bf8d61c294db1017447065024c5d9509728a1d89,ee3e55ead406bde00c42e6d1b9112192dc678cbe,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,4,false
+00fb98ac,2dfcd9950be245e440220f358b68b1cf63b52b35,43bde229cd331fb36033a2b8165fa1d3b0263954,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00fba8ac,13a852323342102be29d9af71917ea193d723d73,b4a2e8ed7f605be68e2f4f390c357765c7bf8267,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00fbb8ac,0ec13aca0a7294dbd1804ade75b783954d980944,0252c725c429d9edb6806b71715f970dfdd21fb8,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
+00fc60e2,0b0095770b4457e2b03422cfc49f026a276f9b0e,d4b81f2973fe49cb5bb3ba6fd37b7fcb28ae1b06,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,4,false
+eve_def_face_fix_new.bmp,072e80b0b641ea40ea5589011b318ac0de2db38f,2d394acba65a4c6ebce253cf5a28e419713e71c9,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
+eve_naked_face_fix.bmp,803830b8bec3f2f9c768fe4017859448ed584dc5,9a0a415d050fd9aa02c867d6b5a0d87666bb1859,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
+eve_tac_face_fix.bmp,374dece810a31c6136715362afa889c3d7960ef2,6e113f26f7debbd6d61ec030467357347fff462b,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
+eve_tac_face_fix_new.bmp,57ad4bc90071d6e232b380b305106622902ddc1c,1604f94ff81e0bf1df601c157d8ee17b46ef06a4,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
+eve_tac_face_new.bmp,bbb89412b6eee5d4ca187b0fb2dac900d14ba12f,f1f3770db32cb81333f6b6040af198f28251175c,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
+h_bottle_ovl_alp.bmp,9450c9c30e8fd3d39f5ed0d5217e4fc8cee1c578,18843fb7f6e9f651f0c83a310d1a927fcaa0990c,true,Self Remade\Finalized,false,false,0,none,false,4,false
+oum_allbody_col00.bmp,f92a34ed6af35a63743d3f6b561b6d3522eb25fb,54ce35fbf58ab9924a9d9f38f053da5903c794f7,true,Self Remade\Finalized,true,false,0,none,false,4,true
+par_def_body.bmp,b01aa3065615116f2e36ee22d1fd6d84ef58cf67,f9b87f1833f7045afea047f5c1d4fcbdb76ffc69,true,Self Remade\Finalized,true,false,0,none,false,4,true
+s112a_cell_floor_01_alp_ovl.bmp,542b302e6e51d3e3d326fdcaa068accc971355e0,d44bb70844590019324e7018da8a4e203b6fe2be,true,Self Remade\Finalized,false,false,0,none,false,4,false
+s112a_hibi_01_alp_ovl.bmp,3451f5d2345a9f71ba74b8d128ba97bc715fe9f4,bea210b5936c628de9fbecb9a7e29e148aa18ddd,true,Self Remade\Finalized\Dont demaster,false,false,0,none,false,4,true
+s122a_fence_alp_ovl_01.bmp,6c0ff5d78be43e11a11fedba0b9d4ac3cfffd4b3,d724bce3acfff163890cb136e23e00a2c73e22df,true,Self Remade\Finalized,false,false,0,none,false,4,false
+s171a_mo_fence_alp_ovl_rep_01.bmp,a0c501b97e8241b000209da05d94a892177cb443,72beefd65fd57862bcb9a181c17ad6553be45484,true,Self Remade\Finalized,false,false,0,none,false,4,false
+s171a_mogi_fence_alp_ovl_rep_01.bmp,1b5aa35dca27b0fb0e89545e9f18a71d69871b69,083ee1ac0b43c0710a2918d800183b85a6733c93,true,Self Remade\Finalized,false,false,0,none,false,4,false
+sga_cigar01_brake.bmp,0aa6eb324390eb9ef0760b8c068de5c724ab122e,878b1aa627b360f7fcfbad9518dc3c3d4c346fa4,true,Self Remade\Finalized\Self Remastered,true,false,0,none,false,4,false
+sga_cigar_origin.bmp,912c8fd8d69cdf9f0338fa18f8ea4a27e54904ef,ff8965762eae2e9c36f29ad8845d6ad69c22bd68,true,Self Remade\Finalized\Self Remastered,true,false,0,none,false,4,false
+sna_def_hair_front_ovl_alp.bmp,78ff011a0b9505630ef0258b7316e99121a415f6,a046bfa378106a3b5ca6d9522aa50983fe0930a8,true,Self Remade\Finalized\Dont demaster,false,false,0,none,false,4,true
+sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310,2b1103fe94457be569cbb561277a30d0729b0fee,9699568e52e107b7be66df06ab831171d0a5fcdb,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,false
+sna_face_cell_hi.bmp,7530ef8ce7c9df3f07f3a6d0bedbd210a411161c,261fa7c4725925bc1f69273dcbb67881c0964e95,true,Self Remade\Finalized,true,false,0,none,false,4,false
+sna_face_dam_eye_ovl_alp.bmp,5f92318ff5553e2461499b67c9f132b49301bb8d,9a639ca2189cae94db8110a53b69ba4add457926,true,Self Remade\Finalized,false,false,0,none,false,4,false
+sna_face_ed_def.bmp,5c1643b300362f2207ecbb39624971083074d818,e8dd404431870fa6e13450e48e9d46520697e020,true,Self Remade\Finalized,true,false,0,none,false,4,false
+sna_face_vr_sta_ovl_alp.bmp,33c9ff540bcae94ab64fc0c79882490bd80b709d,85788743cb061b8d053b78c1409190c2fa19f208,true,Self Remade\Finalized,false,false,0,none,false,4,false
+sna_flirt_tiger.bmp,26bce004256f1b7f8fe42443763a4c5bacd941ca,6e5a82199ab7981c00e66f00d4a2e24ec004a99c,true,Self Remade\Finalized,true,false,0,none,false,4,false
+sna_foot_naked_flirt.bmp,f0cf58c6443f52b0efaade154a3b742081461af2,9b197c8ea3dec46047be68d0d4bc68a64ba531ff,true,Self Remade\Finalized,true,false,0,none,false,4,false
+sna_foot_naked_tor.bmp,bcf9840ced61604419e4ba409135e3442a927ede,90d1eb82c0da33ec7ae275e99611b2a94588f211,true,Self Remade\Finalized,true,false,0,none,false,4,false
+sna_foot_naked_tor.bmp_73f755c5eb2ba5efb9fbd155062db075,9639e3d0920a54b77927102fac23859f9eb116ba,3aadcb7378ac65eb3a513885c2895b74769050cd,true,Self Remade\Finalized,true,false,0,none,false,4,false
+sna_hair_back_ovl_alp.bmp,1466a9c24224b59ad4158b8b71ced69b76babfc1,1f335c6df25b82b859dbd0e2ff77892456d63703,true,Self Remade\Finalized\Not Demaster Fixed,false,false,0,none,false,4,true
+sna_suit_tears.bmp,ed2e96ef7bb9c1bf8cc7a7d4838107d102d3512f,01bb4bec3684b5e2dd60b61bafb6d3680069abc7,true,Self Remade\Finalized,true,false,0,none,false,4,false
+sna_suit_tears_sub_ovl_alp.bmp,7c4112ddc408d4bd52b03f23f5199b5d9811182b,c8c348249085b70ab864b2f37756ad3bf01fb8ed,false,Self Remade\Finalized,false,false,0,none,true,4,false
+sna_tears_ovl_alp.bmp,7b6909e8e494f7c507f87c1031081bb96b2eeb10,0952b291f4c58c7e18521fffe9eec184fb8db639,true,Self Remade\Finalized,false,false,0,none,false,4,false
+vva_first_aid_kit_alp_ovl.bmp,2c9c88967add63a31121a29bea26003f9c99784f,e29c0a6e31f205ab78a2f07b3c9e9a9bc45f6a69,true,Self Remade\Finalized\Dont demaster,false,false,0,none,false,4,true

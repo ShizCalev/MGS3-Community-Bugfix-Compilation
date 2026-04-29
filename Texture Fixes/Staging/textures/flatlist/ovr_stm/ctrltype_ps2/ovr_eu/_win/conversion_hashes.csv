@@ -1,3 +1,3 @@
-filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,upscaler_version,upscaler_type,ctxr3_converted,non_upscaled_version
-004a230b,8daffcf065cae2c8714a45a353efa807cf610eb0,1163a28ec55fd5e1c5575df93757b6389e9edfd0,false,Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\ovr_eu\_win,false,false,0,none,true,2
-00ddd547,0e260bd095684083d3e99af48e1ff71a0d620eae,b4f5917b21d45bbe2ac299dbecc8e69819997a40,false,Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\ovr_eu\_win,false,false,0,none,true,2
+filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,upscaler_version,upscaler_type,ctxr3_converted,non_upscaled_version,npot_resized
+004a230b,8daffcf065cae2c8714a45a353efa807cf610eb0,1163a28ec55fd5e1c5575df93757b6389e9edfd0,false,Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\ovr_eu\_win,false,false,0,none,true,4,false
+00ddd547,0e260bd095684083d3e99af48e1ff71a0d620eae,b4f5917b21d45bbe2ac299dbecc8e69819997a40,false,Self Remade\Finalized\Dont demaster\UI\ctrltype_ps2\ovr_eu\_win,false,false,0,none,true,4,false
