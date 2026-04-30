@@ -1,6 +1,6 @@
 filename,full_path
-0000021b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\0000021b.png
 0000368b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes\ui\0000368b.png
+00005011.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00005011.img.png
 00005e41,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes\ui\00005e41.png
 0000719c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0000719c.png
 00007c5c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\00007c5c.png
@@ -21,7 +21,6 @@ filename,full_path
 0002f937,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0002f937.png
 000304be,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\000304be.png
 00030da5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00030da5.png
-00031504,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\00031504.png
 0003247e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\0003247e.png
 0003436f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0003436f.png
 00035553,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00035553.png
@@ -71,7 +70,6 @@ filename,full_path
 0003a157.img_fe7cce545d819c784fd506cca4c9d7d8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\0003a157.img_fe7cce545d819c784fd506cca4c9d7d8.png
 0003a514,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0003a514.png
 0003f2e2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0003f2e2.png
-00040da5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\bp_remade\no_mip_fixes\ui\00040da5.png
 00048d5b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\00048d5b.png
 0004e32e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0004e32e.png
 00050da5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00050da5.png
@@ -79,17 +77,21 @@ filename,full_path
 00051911,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00051911.png
 00054383,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00054383.png
 00057eda,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\00057eda.png
+000589dd.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000589dd.img.png
 0005cada,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\no_mip_fixes\ui\0005cada.png
 00060548,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\00060548.png
 00063160,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\00063160.png
 000641cb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000641cb.png
+00064917.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00064917.img.png
 00065d4c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00065d4c.png
 0006afc6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0006afc6.png
+0007080a.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0007080a.img.png
 00070eff,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00070eff.png
 00071198,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00071198.png
 000731a5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes\ui\000731a5.png
 000737d1,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000737d1.png
 00075c08,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00075c08.png
+00078701.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00078701.img.png
 0007925f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\0007925f.png
 00082a90,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00082a90.png
 00082b11,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00082b11.png
@@ -122,6 +124,8 @@ filename,full_path
 000b957a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\000b957a.png
 000b957b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\000b957b.png
 000b957c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\000b957c.png
+000bac79.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000bac79.img.png
+000baecd.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000baecd.img.png
 000baff5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000baff5.png
 000be98b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\000be98b.png
 000bfb12,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000bfb12.png
@@ -144,15 +148,18 @@ filename,full_path
 000e72af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\000e72af.png
 000e72b3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\000e72b3.png
 000eab46,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000eab46.png
+000ecbfd.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000ecbfd.img.png
 000ef413,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000ef413.png
 000efe46,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\000efe46.png
 000f72af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\000f72af.png
 000f72b3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\000f72b3.png
 0010363e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0010363e.png
+00104da1.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00104da1.img.png
 001072af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\001072af.png
 001072b3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\001072b3.png
 0010b399,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0010b399.png
 0010d484,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\0010d484.png
+0010eab5.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0010eab5.img.png
 0010fc7e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0010fc7e.png
 00113632,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00113632.png
 0011366c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0011366c.png
@@ -178,6 +185,7 @@ filename,full_path
 0012d046,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\0012d046.png
 00135a88,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00135a88.png
 0013709b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0013709b.png
+0013def6.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0013def6.img.png
 00141e76,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00141e76.png
 001446c3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\001446c3.png
 0014b46f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0014b46f.png
@@ -189,7 +197,9 @@ filename,full_path
 0015ffa3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0015ffa3.png
 00163d74,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00163d74.png
 00163fb5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00163fb5.png
+0016829d.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0016829d.img.png
 00168752,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00168752.png
+0016ae13.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0016ae13.img.png
 0016df98,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0016df98.png
 001703cb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\001703cb.png
 00171f0a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00171f0a.png
@@ -200,13 +210,32 @@ filename,full_path
 00184159,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00184159.png
 00186029,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00186029.png
 0018c06c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0018c06c.png
+0018c9cf.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018c9cf.img.png
+0018c9d7.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018c9d7.img.png
+0018c9db.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018c9db.img.png
+0018c9df.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018c9df.img.png
+0018c9e3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018c9e3.img.png
+0018c9e7.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018c9e7.img.png
+0018c9eb.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018c9eb.img.png
+0018c9ef.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018c9ef.img.png
+0018c9f3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018c9f3.img.png
+0018ca4f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018ca4f.img.png
+0018ca53.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018ca53.img.png
+0018ca57.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018ca57.img.png
+0018ca63.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018ca63.img.png
+0018ca67.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018ca67.img.png
+0018ca6b.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018ca6b.img.png
+0018ca6f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018ca6f.img.png
+0018ca73.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018ca73.img.png
+0018cacf.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018cacf.img.png
+0018cad3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018cad3.img.png
 0018e2e5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0018e2e5.png
-0019115b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\0019115b.png
 00194261,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00194261.png
 00195db5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00195db5.png
 0019800b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0019800b.png
 001a1821,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001a1821.png
 001a72b5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001a72b5.png
+001a9cc0.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001a9cc0.img.png
 001af8c3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\001af8c3.png
 001b1537,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\001b1537.png
 001b154f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\001b154f.png
@@ -214,6 +243,7 @@ filename,full_path
 001b4bd8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\001b4bd8.png
 001b662b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001b662b.png
 001b72f7,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001b72f7.png
+001ba28f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001ba28f.img.png
 001ba4d8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\001ba4d8.png
 001bb938,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\001bb938.png
 001bd7be,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001bd7be.png
@@ -239,6 +269,7 @@ filename,full_path
 001c4bcb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001c4bcb.png
 001c4bcb_893ec4e5e61202730c82f3c3dc3306f1,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001c4bcb_893ec4e5e61202730c82f3c3dc3306f1.png
 001c886c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001c886c.png
+001c8f27.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001c8f27.img.png
 001cd611,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\001cd611.png
 001cee1b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001cee1b.png
 001d2980,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\001d2980.png
@@ -264,6 +295,7 @@ filename,full_path
 002043af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\002043af.png
 0020a9c7,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0020a9c7.png
 0020c1dc,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0020c1dc.png
+0020e365.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0020e365.img.png
 0020fc38,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0020fc38.png
 0021435e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0021435e.png
 00214362,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00214362.png
@@ -330,6 +362,7 @@ filename,full_path
 002a8862,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\002a8862.png
 002abcc9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002abcc9.png
 002b0983,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\002b0983.png
+002b5ada.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002b5ada.img.png
 002b9eec,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002b9eec.png
 002bb5de,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002bb5de.png
 002bb91a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002bb91a.png
@@ -339,6 +372,7 @@ filename,full_path
 002c4dcc,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002c4dcc.png
 002c9ee8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002c9ee8.png
 002cb5de,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002cb5de.png
+002cb85e.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002cb85e.img.png
 002cbc17,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\002cbc17.png
 002cc4b2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\002cc4b2.png
 002cf5d4,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002cf5d4.png
@@ -370,23 +404,145 @@ filename,full_path
 002f72b3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002f72b3.png
 002fd5df,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002fd5df.png
 002fd5df_93e6fbc8e11d669b422a93b924301636,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\002fd5df_93e6fbc8e11d669b422a93b924301636.png
+00306be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00306be9.png
+00306c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00306c69.png
+00306ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00306ce9.png
+00306d69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00306d69.png
+00306ee9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00306ee9.png
 003072af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003072af.png
 003072b3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003072b3.png
+00308be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00308be9.png
+00308ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00308ce9.png
 0030965f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0030965f.png
+00309be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00309be9.png
+00309c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00309c69.png
+00309ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00309ce9.png
+0030abe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030abe9.png
+0030ac69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030ac69.png
+0030ace9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030ace9.png
+0030ad69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030ad69.png
+0030ade9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030ade9.png
+0030bbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030bbe9.png
+0030bc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030bc69.png
+0030bc6d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030bc6d.png
+0030bde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030bde9.png
+0030be69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030be69.png
+0030cbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030cbe9.png
+0030cc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030cc69.png
+0030cce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030cce9.png
+0030cd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030cd69.png
+0030cde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030cde9.png
+0030ce69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030ce69.png
+0030dbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030dbe9.png
+0030dc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030dc69.png
+0030dce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030dce9.png
+0030dd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030dd69.png
+0030dde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030dde9.png
+0030ebe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030ebe9.png
+0030fbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030fbe9.png
+0030fc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030fc69.png
+0030fce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030fce9.png
+0030fd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0030fd69.png
 003157a0,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003157a0.png
+00316be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00316be9.png
+00316c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00316c69.png
+00316ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00316ce9.png
+00316ee9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00316ee9.png
 003172af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003172af.png
 003172b3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003172b3.png
+00318be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00318be9.png
+00318c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00318c69.png
+00318ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00318ce9.png
 00318ec6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00318ec6.png
+00319be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00319be9.png
+00319c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00319c69.png
+00319ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00319ce9.png
+0031abe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031abe9.png
+0031ac69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031ac69.png
+0031ace9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031ace9.png
+0031ad69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031ad69.png
+0031ade9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031ade9.png
 0031b782,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0031b782.png
+0031bbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031bbe9.png
+0031bc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031bc69.png
+0031bc6d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031bc6d.png
+0031bde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031bde9.png
+0031be69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031be69.png
+0031cbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031cbe9.png
+0031cc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031cc69.png
+0031cce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031cce9.png
+0031cd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031cd69.png
+0031ce69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031ce69.png
+0031dbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031dbe9.png
+0031dc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031dc69.png
+0031dce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031dce9.png
+0031dd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031dd69.png
+0031dde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031dde9.png
 0031e51a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031e51a.png
+0031ebe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031ebe9.png
+0031fbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031fbe9.png
+0031fc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031fc69.png
+0031fce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031fce9.png
+0031fd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0031fd69.png
 00322317,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00322317.png
+00326be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00326be9.png
+00327be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00327be9.png
+00327c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00327c69.png
+00327ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00327ce9.png
+00328be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00328be9.png
+00328c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00328c69.png
+0032bc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032bc69.png
 0032c4c8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032c4c8.png
 0032c663,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0032c663.png
+0032cc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032cc69.png
+0032cce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032cce9.png
+0032dbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032dbe9.png
 0032e340,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032e340.png
+0032ebe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032ebe9.png
+0032ec69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032ec69.png
+0032ece9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032ece9.png
+0032fbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032fbe9.png
+0032fc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0032fc69.png
+00330503.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00330503.img.png
 003326d9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003326d9.png
+00336be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00336be9.png
+00336be9_8ce84330a816de3c9e9cacf4c2390ef2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00336be9_8ce84330a816de3c9e9cacf4c2390ef2.png
+00336c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00336c69.png
+00336ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00336ce9.png
+00336d69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00336d69.png
+00336ee9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00336ee9.png
+00337be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00337be9.png
+00337c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00337c69.png
+00337ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00337ce9.png
 00337d1f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\00337d1f.png
 00337f00,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00337f00.png
-0033b530,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\0033b530.png
+00338be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00338be9.png
+00338be9_40a9962a574ddd022d30a09335d00298,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00338be9_40a9962a574ddd022d30a09335d00298.png
+00338c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00338c69.png
+00338c69_5a6a61d237167595d31852011eea51ed,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00338c69_5a6a61d237167595d31852011eea51ed.png
+00338ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00338ce9.png
+00339be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00339be9.png
+00339c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00339c69.png
+00339ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00339ce9.png
+0033abe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033abe9.png
+0033ac69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033ac69.png
+0033ace9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033ace9.png
+0033ad69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033ad69.png
+0033ade9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033ade9.png
+0033bbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033bbe9.png
+0033bc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033bc69.png
+0033bc69_7884dfdcadec6f2a9cd1b0f042093063,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033bc69_7884dfdcadec6f2a9cd1b0f042093063.png
+0033bc6d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033bc6d.png
+0033bde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033bde9.png
+0033be69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033be69.png
+0033cbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033cbe9.png
+0033cc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033cc69.png
+0033cc69_e0df82ced404d49d1cc10f61f7b78802,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033cc69_e0df82ced404d49d1cc10f61f7b78802.png
+0033cce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033cce9.png
+0033cce9_9b66e5847270bfba9f040cede1820951,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033cce9_9b66e5847270bfba9f040cede1820951.png
+0033cd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033cd69.png
+0033cde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033cde9.png
+0033ce69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033ce69.png
 0033cfc7,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0033cfc7.png
 0033d231,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0033d231.png
 0033d232,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0033d232.png
@@ -456,27 +612,137 @@ filename,full_path
 0033d318,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0033d318.png
 0033d330,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0033d330.png
 0033d331,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0033d331.png
+0033dbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033dbe9.png
+0033dbe9_e2f15027570cf3cdb8ebc2e7446a231a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033dbe9_e2f15027570cf3cdb8ebc2e7446a231a.png
+0033dc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033dc69.png
+0033dce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033dce9.png
+0033dd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033dd69.png
+0033dde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033dde9.png
+0033ebe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033ebe9.png
+0033ebe9_74455759f8c34556343a33b4c26a1fbb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033ebe9_74455759f8c34556343a33b4c26a1fbb.png
+0033ec69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033ec69.png
+0033ece9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033ece9.png
 0033f6ad,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\0033f6ad.png
+0033fbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033fbe9.png
+0033fbe9_e30818ab79e34d6e32dee54983d1463f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033fbe9_e30818ab79e34d6e32dee54983d1463f.png
+0033fc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033fc69.png
+0033fc69_3321c5f2479e09d0a10035b6153ced86,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033fc69_3321c5f2479e09d0a10035b6153ced86.png
+0033fce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033fce9.png
+0033fd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0033fd69.png
 00342f5b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00342f5b.png
+00346be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00346be9.png
+00346c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00346c69.png
+00346ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00346ce9.png
+00346d69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00346d69.png
+00346de9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00346de9.png
+00346e69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00346e69.png
+00346ee9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00346ee9.png
+00347be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00347be9.png
+00347c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00347c69.png
 00348890,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00348890.png
+00348be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00348be9.png
+00348c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00348c69.png
+00348ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00348ce9.png
+00349be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00349be9.png
+00349c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00349c69.png
+00349ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00349ce9.png
+0034abe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034abe9.png
+0034ac69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034ac69.png
+0034ace9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034ace9.png
+0034ad69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034ad69.png
+0034ade9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034ade9.png
+0034bbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034bbe9.png
+0034bc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034bc69.png
+0034bc6d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034bc6d.png
+0034bde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034bde9.png
+0034be69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034be69.png
 0034ca32,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034ca32.png
+0034cbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034cbe9.png
+0034cc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034cc69.png
+0034cce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034cce9.png
+0034cd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034cd69.png
+0034cde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034cde9.png
+0034ce69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034ce69.png
+0034dbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034dbe9.png
+0034dc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034dc69.png
+0034dce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034dce9.png
+0034dd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034dd69.png
+0034dde9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034dde9.png
 0034df8e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0034df8e.png
+0034ebe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034ebe9.png
+0034fbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034fbe9.png
+0034fc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034fc69.png
+0034fce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034fce9.png
+0034fd69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0034fd69.png
 0035095c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035095c.png
 00354e27,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00354e27.png
 00354e2b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00354e2b.png
 00354e2f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00354e2f.png
+00356be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00356be9.png
+00357be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00357be9.png
+00357be9_1409304ce76718d9a5126ad56628869a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00357be9_1409304ce76718d9a5126ad56628869a.png
+00357c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00357c69.png
+00357ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00357ce9.png
+00358be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00358be9.png
+00358c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00358c69.png
+0035bc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035bc69.png
 0035cada,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0035cada.png
+0035cbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035cbe9.png
+0035cc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035cc69.png
+0035cce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035cce9.png
 0035ce0b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035ce0b.png
+0035dbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035dbe9.png
+0035ded2.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035ded2.img.png
+0035ebe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035ebe9.png
+0035ec69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035ec69.png
+0035ece9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035ece9.png
+0035fbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035fbe9.png
+0035fc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0035fc69.png
 0035ffa3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0035ffa3.png
 00360eea,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00360eea.png
+00366be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00366be9.png
+00367be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00367be9.png
+00367c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00367c69.png
+00367ce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00367ce9.png
+00368be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00368be9.png
+00368c69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00368c69.png
 0036a317,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036a317.png
+0036bbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036bbe9.png
+0036bc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036bc69.png
 0036bd68,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036bd68.png
+0036cbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036cbe9.png
+0036cc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036cc69.png
+0036cce9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036cce9.png
+0036dbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036dbe9.png
+0036ebe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036ebe9.png
+0036ec69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036ec69.png
+0036ece9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036ece9.png
+0036fbe9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036fbe9.png
+0036fc69,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0036fc69.png
 00370e91,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\00370e91.png
+00377be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00377be9.png
 003797aa,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003797aa.png
 0037aa3e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0037aa3e.png
 0037b2cc,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\0037b2cc.png
 003807d3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003807d3.png
+00386be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00386be9.png
+00387be9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00387be9.png
 003886e9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003886e9.png
+0038c9cf.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038c9cf.img.png
+0038c9d3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038c9d3.img.png
+0038c9d7.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038c9d7.img.png
+0038c9db.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038c9db.img.png
+0038c9df.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038c9df.img.png
+0038c9e3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038c9e3.img.png
+0038c9e7.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038c9e7.img.png
+0038c9eb.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038c9eb.img.png
+0038c9f3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038c9f3.img.png
+0038ca53.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038ca53.img.png
+0038ca57.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038ca57.img.png
+0038ca63.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038ca63.img.png
+0038ca67.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038ca67.img.png
+0038ca6f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038ca6f.img.png
+0038ca73.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038ca73.img.png
 0038f2a7,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038f2a7.png
 0038f2a7_5def0cd149f56d9b37bda645a51e60c5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0038f2a7_5def0cd149f56d9b37bda645a51e60c5.png
 0038f811,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\0038f811.png
@@ -487,7 +753,7 @@ filename,full_path
 0039a697,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0039a697.png
 0039b4db,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0039b4db.png
 0039c5e8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0039c5e8.png
-003a0253,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\003a0253.png
+0039c9e3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0039c9e3.img.png
 003a437d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003a437d.png
 003a52ae,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003a52ae.png
 003a7c61,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003a7c61.png
@@ -507,10 +773,50 @@ filename,full_path
 003cba6b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003cba6b.png
 003d06bf,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d06bf.png
 003d0d74,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003d0d74.png
+003d6be9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d6be9.img.png
+003d6c69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d6c69.img.png
+003d6ce9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d6ce9.img.png
+003d6d69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d6d69.img.png
+003d6de9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d6de9.img.png
+003d6e69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d6e69.img.png
+003d6ee9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d6ee9.img.png
 003d7020,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003d7020.png
+003d7c69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d7c69.img.png
+003d8be9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d8be9.img.png
+003d8c69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d8c69.img.png
+003d8ce9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d8ce9.img.png
 003d9a2e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003d9a2e.png
 003d9a34,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003d9a34.png
+003d9be9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d9be9.img.png
+003d9c69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d9c69.img.png
+003d9ce9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003d9ce9.img.png
+003dabe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dabe9.img.png
+003dac69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dac69.img.png
+003dace9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dace9.img.png
+003dad69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dad69.img.png
+003dade9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dade9.img.png
+003dbbe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dbbe9.img.png
+003dbc69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dbc69.img.png
+003dbc6d.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dbc6d.img.png
+003dbde9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dbde9.img.png
+003dbe69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dbe69.img.png
+003dcbe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dcbe9.img.png
+003dcc69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dcc69.img.png
+003dcce9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dcce9.img.png
+003dcd69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dcd69.img.png
+003dcde9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dcde9.img.png
+003dce69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dce69.img.png
+003ddbe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003ddbe9.img.png
+003ddc69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003ddc69.img.png
+003ddce9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003ddce9.img.png
+003ddd69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003ddd69.img.png
+003ddde9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003ddde9.img.png
+003debe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003debe9.img.png
+003dfbe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dfbe9.img.png
+003dfc69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dfc69.img.png
+003dfce9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dfce9.img.png
 003dfd1e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\003dfd1e.png
+003dfd69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003dfd69.img.png
 003e0206,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\003e0206.png
 003e02fe,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\003e02fe.png
 003e1f7a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003e1f7a.png
@@ -520,12 +826,28 @@ filename,full_path
 003e5e9f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003e5e9f.png
 003e68e6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\003e68e6.png
 003e965a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003e965a.png
-003f1510,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\003f1510.png
 003f5002,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003f5002.png
+003f6be9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003f6be9.img.png
 003f6cf0,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\003f6cf0.png
 003f6fad,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003f6fad.png
+003f7be9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003f7be9.img.png
+003f7c69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003f7c69.img.png
+003f7ce9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003f7ce9.img.png
+003f8be9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003f8be9.img.png
+003f8c69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003f8c69.img.png
 003fa520,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003fa520.png
 003fb5c0,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\003fb5c0.png
+003fbbe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003fbbe9.img.png
+003fbc69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003fbc69.img.png
+003fcbe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003fcbe9.img.png
+003fcc69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003fcc69.img.png
+003fcce9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003fcce9.img.png
+003fdbe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003fdbe9.img.png
+003febe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003febe9.img.png
+003fec69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003fec69.img.png
+003fece9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003fece9.img.png
+003ffbe9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003ffbe9.img.png
+003ffc69.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\003ffc69.img.png
 00401158,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00401158.png
 004043a9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004043a9.png
 0040482e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0040482e.png
@@ -540,6 +862,8 @@ filename,full_path
 00414365,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00414365.png
 00414366,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00414366.png
 00414369,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00414369.png
+00416be9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00416be9.img.png
+00417be9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00417be9.img.png
 0042367f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0042367f.png
 004244b2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004244b2.png
 0042527a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0042527a.png
@@ -570,10 +894,17 @@ filename,full_path
 0045d91e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\0045d91e.png
 0045e6cb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0045e6cb.png
 0045ffa1,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0045ffa1.png
+00461c15.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00461c15.img.png
+00466f52,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00466f52.png
+00466f56,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00466f56.png
 004695e3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\004695e3.png
 00469a02,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00469a02.png
 0047048a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0047048a.png
+004733d7.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004733d7.img.png
 00475e90,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00475e90.png
+00476f52,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00476f52.png
+00476f56,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00476f56.png
+0047de97.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0047de97.img.png
 00487b73,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00487b73.png
 00488d27,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00488d27.png
 0048c0c3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0048c0c3.png
@@ -582,6 +913,8 @@ filename,full_path
 0049437a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0049437a.png
 00496387,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\00496387.png
 00496b29,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\00496b29.png
+00496f52,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00496f52.png
+00496f56,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00496f56.png
 00499957,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes\ui\00499957.png
 0049b9cb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0049b9cb.png
 0049fbf2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0049fbf2.png
@@ -600,6 +933,8 @@ filename,full_path
 004a2c8c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004a2c8c.png
 004a2c8d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004a2c8d.png
 004a5fe3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004a5fe3.png
+004a6f52,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004a6f52.png
+004a6f56,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004a6f56.png
 004a86e8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004a86e8.png
 004aaff4,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004aaff4.png
 004ab5f7,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004ab5f7.png
@@ -613,7 +948,7 @@ filename,full_path
 004c7484,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004c7484.png
 004c8a2b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004c8a2b.png
 004c8a31,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004c8a31.png
-004ca501,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\004ca501.png
+004cec39.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004cec39.img.png
 004cee8c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004cee8c.png
 004ceea8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004ceea8.png
 004d66f6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004d66f6.png
@@ -624,14 +959,15 @@ filename,full_path
 004e0fb2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004e0fb2.png
 004e591a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004e591a.png
 004e72af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004e72af.png
+004ecb45.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004ecb45.img.png
 004eeb8d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004eeb8d.png
-004f0fb2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\bp_remade\no_mip_fixes\ui\004f0fb2.png
 004f11be,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004f11be.png
 004f22a5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004f22a5.png
 004f72af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004f72af.png
 004f81a4,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\004f81a4.png
 004f81ad,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004f81ad.png
 004fa1ad,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004fa1ad.png
+004faaab.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\004faaab.img.png
 004fd156,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004fd156.png
 004fd15c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\004fd15c.png
 00500fb2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00500fb2.png
@@ -658,6 +994,8 @@ filename,full_path
 005330ae,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\005330ae.png
 005342b9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005342b9.png
 00535c20,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00535c20.png
+00536f52.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00536f52.img.png
+00536f56.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00536f56.img.png
 00539bcb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00539bcb.png
 00539c02,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00539c02.png
 0053a47f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0053a47f.png
@@ -693,9 +1031,20 @@ filename,full_path
 00579fa7,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00579fa7.png
 00581d5d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00581d5d.png
 00582d5d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00582d5d.png
+00583c39.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00583c39.img.png
 00583d5d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00583d5d.png
 00585db8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00585db8.png
 00588888,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00588888.png
+0058c9cf.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0058c9cf.img.png
+0058c9d7.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0058c9d7.img.png
+0058c9db.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0058c9db.img.png
+0058c9df.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0058c9df.img.png
+0058c9e7.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0058c9e7.img.png
+0058c9eb.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0058c9eb.img.png
+0058c9f3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0058c9f3.img.png
+0058ca53.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0058ca53.img.png
+0058ca67.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0058ca67.img.png
+0058ca6f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0058ca6f.img.png
 0058d68f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0058d68f.png
 0058db82,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0058db82.png
 0059277f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0059277f.png
@@ -725,6 +1074,7 @@ filename,full_path
 005cf186,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005cf186.png
 005d0186,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005d0186.png
 005d7862,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\005d7862.png
+005d7993.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005d7993.img.png
 005d965e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\005d965e.png
 005df444,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005df444.png
 005e094b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\005e094b.png
@@ -733,16 +1083,22 @@ filename,full_path
 005e668e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005e668e.png
 005e768e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005e768e.png
 005eb9cb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005eb9cb.png
+005ed1e5.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005ed1e5.img.png
+005ee3c5.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005ee3c5.img.png
 005f3365,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\005f3365.png
 005f366f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\005f366f.png
+005f73b4.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005f73b4.img.png
 005fcd31,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\005fcd31.png
 005fcebb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005fcebb.png
+005fe3c5.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005fe3c5.img.png
 005feda9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\005feda9.png
 0060327e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0060327e.png
 00606825,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00606825.png
 006092c2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\006092c2.png
 0060a8e0,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0060a8e0.png
 0060bac8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\0060bac8.png
+0060def0.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0060def0.img.png
+0060e3c5.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0060e3c5.img.png
 0061435d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0061435d.png
 0061435e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0061435e.png
 00614361,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00614361.png
@@ -757,8 +1113,10 @@ filename,full_path
 00625e97,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00625e97.png
 00626458,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00626458.png
 0062a258,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0062a258.png
+0062ded9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0062ded9.img.png
 0062fb7d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0062fb7d.png
 0063051d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0063051d.png
+006377aa.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\006377aa.img.png
 006385b8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\006385b8.png
 0063a8f6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0063a8f6.png
 0063b8f6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0063b8f6.png
@@ -777,6 +1135,7 @@ filename,full_path
 0065a5e5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0065a5e5.png
 0065a602,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0065a602.png
 0065c249,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0065c249.png
+0065fadb.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0065fadb.img.png
 0065ffa1,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0065ffa1.png
 00660dfc,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\00660dfc.png
 006676d0,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\006676d0.png
@@ -891,7 +1250,6 @@ filename,full_path
 006fe448,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\006fe448.png
 006fed27,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\006fed27.png
 006ff448,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\006ff448.png
-00701506,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\00701506.png
 00702777,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00702777.png
 00703c5d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\00703c5d.png
 007044e6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007044e6.png
@@ -982,6 +1340,7 @@ filename,full_path
 0076d289,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0076d289.png
 0076d489,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0076d489.png
 0076d589,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0076d589.png
+0076ded2.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0076ded2.img.png
 0076e089,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0076e089.png
 0076e189,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0076e189.png
 0076f4d8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0076f4d8.png
@@ -993,6 +1352,11 @@ filename,full_path
 0077fd76,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0077fd76.png
 00783f17,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00783f17.png
 00787504,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00787504.png
+0078c9cf.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0078c9cf.img.png
+0078c9df.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0078c9df.img.png
+0078c9e7.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0078c9e7.img.png
+0078c9eb.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0078c9eb.img.png
+0078c9f3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0078c9f3.img.png
 0078c9fe,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0078c9fe.png
 0078f880,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0078f880.png
 00793f17,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00793f17.png
@@ -1029,7 +1393,6 @@ filename,full_path
 007db4a7,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007db4a7.png
 007dd821,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007dd821.png
 007de57a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007de57a.png
-007e021f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\007e021f.png
 007e07c2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007e07c2.png
 007e44be,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007e44be.png
 007e6d5e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\007e6d5e.png
@@ -1037,6 +1400,7 @@ filename,full_path
 007ebdd7,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007ebdd7.png
 007f2d9b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007f2d9b.png
 007f4fc0,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\007f4fc0.png
+007f59aa.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007f59aa.img.png
 007fdca5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007fdca5.png
 007fdca5_bc59118cc4ca795763c430049771b11e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\007fdca5_bc59118cc4ca795763c430049771b11e.png
 0080364d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0080364d.png
@@ -1052,6 +1416,7 @@ filename,full_path
 00814369,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00814369.png
 00814743,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00814743.png
 00822d1b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00822d1b.png
+008287b5.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\008287b5.img.png
 00829893,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\00829893.png
 00829969,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00829969.png
 00830496,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00830496.png
@@ -1066,7 +1431,6 @@ filename,full_path
 00848312,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\00848312.png
 00848d33,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00848d33.png
 0084cf43,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0084cf43.png
-008514ff,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\008514ff.png
 0085a50f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0085a50f.png
 0085c31b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\0085c31b.png
 0085c59b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0085c59b.png
@@ -1099,6 +1463,7 @@ filename,full_path
 008b3660,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes\ui\008b3660.png
 008b4fc1,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\008b4fc1.png
 008bcd10,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\008bcd10.png
+008c59bd.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\008c59bd.img.png
 008c9895,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\008c9895.png
 008ca0d1,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\008ca0d1.png
 008caa88,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\008caa88.png
@@ -1110,7 +1475,9 @@ filename,full_path
 008dfe98,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\008dfe98.png
 008e01a0,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\008e01a0.png
 008e0298,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\008e0298.png
+008e5121.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\008e5121.img.png
 008e72af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\008e72af.png
+008e9d03.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\008e9d03.img.png
 008ed488,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\008ed488.png
 008f6f6a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\008f6f6a.png
 008f72af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\008f72af.png
@@ -1139,6 +1506,7 @@ filename,full_path
 0093adbb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0093adbb.png
 00941ed9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\00941ed9.png
 00943b29,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_mismatch\no_mip_fixes\ui\00943b29.png
+00944f72.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00944f72.img.png
 0094530d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0094530d.png
 00945eda,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00945eda.png
 00946302,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\00946302.png
@@ -1161,12 +1529,18 @@ filename,full_path
 00978e55,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00978e55.png
 0098108f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\0098108f.png
 0098a2dd,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0098a2dd.png
+0098c9cf.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0098c9cf.img.png
+0098c9df.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0098c9df.img.png
+0098c9e3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0098c9e3.img.png
+0098c9e7.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0098c9e7.img.png
+0098c9eb.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0098c9eb.img.png
 0098d8bf,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\0098d8bf.png
 009927c1,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\009927c1.png
 00993439,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00993439.png
 0099388d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0099388d.png
 00993afd,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00993afd.png
 00994666,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00994666.png
+00999367.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00999367.img.png
 0099b5be,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0099b5be.png
 0099d09b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\0099d09b.png
 009a703f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\009a703f.png
@@ -1186,6 +1560,7 @@ filename,full_path
 009b15ca,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\009b15ca.png
 009b15da,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\009b15da.png
 009b1eaf,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\009b1eaf.png
+009b2164.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\009b2164.img.png
 009b787e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\009b787e.png
 009b7f32,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\009b7f32.png
 009b8c64,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\009b8c64.png
@@ -1250,12 +1625,15 @@ filename,full_path
 00a26458,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00a26458.png
 00a28358,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00a28358.png
 00a2a258,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00a2a258.png
+00a2aa3e.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00a2aa3e.img.png
 00a2be98,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00a2be98.png
 00a2c2b6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00a2c2b6.png
 00a3363b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00a3363b.png
 00a3966f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00a3966f.png
+00a3a885.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00a3a885.img.png
 00a3be99,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00a3be99.png
 00a434c6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00a434c6.png
+00a4aedb.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00a4aedb.img.png
 00a54397,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00a54397.png
 00a56fe2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00a56fe2.png
 00a5c857,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00a5c857.png
@@ -1315,6 +1693,7 @@ filename,full_path
 00accd75,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00accd75.png
 00accd76,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00accd76.png
 00accd77,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00accd77.png
+00acdea9.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00acdea9.img.png
 00ace892,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00ace892.png
 00acf5d4,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00acf5d4.png
 00acf604,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00acf604.png
@@ -1405,6 +1784,7 @@ filename,full_path
 00b71656,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\00b71656.png
 00b72ecd,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\00b72ecd.png
 00b72ecd_d1749c8ccf566f0fb26619f642d10fef,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b72ecd_d1749c8ccf566f0fb26619f642d10fef.png
+00b74807.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b74807.img.png
 00b76895,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00b76895.png
 00b784ee,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b784ee.png
 00b79656,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\00b79656.png
@@ -1413,15 +1793,16 @@ filename,full_path
 00b807fa,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b807fa.png
 00b84391,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00b84391.png
 00b857f4,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00b857f4.png
+00b8c9cf.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b8c9cf.img.png
+00b8c9e3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b8c9e3.img.png
+00b8c9e7.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b8c9e7.img.png
 00b90aa0,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00b90aa0.png
-00b98532,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\00b98532.png
 00b98b8c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00b98b8c.png
 00b9b4b3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b9b4b3.png
 00b9d01b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b9d01b.png
 00b9e027,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b9e027.png
 00b9e02b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00b9e02b.png
 00b9ed1b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\00b9ed1b.png
-00ba022b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\00ba022b.png
 00ba094a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00ba094a.png
 00ba6db6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00ba6db6.png
 00ba7d6e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00ba7d6e.png
@@ -1439,10 +1820,12 @@ filename,full_path
 00bb4121,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00bb4121.png
 00bb4124,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00bb4124.png
 00bba783,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00bba783.png
+00bbb0ad.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00bbb0ad.img.png
 00bc98fb,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00bc98fb.png
 00bcb491,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00bcb491.png
 00bcf5a9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00bcf5a9.png
 00bcffc8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00bcffc8.png
+00bd49ca.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00bd49ca.img.png
 00bd8f40,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00bd8f40.png
 00bd963d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00bd963d.png
 00bde245,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00bde245.png
@@ -1450,11 +1833,13 @@ filename,full_path
 00bea9dd,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00bea9dd.png
 00beb3a8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00beb3a8.png
 00bf14b2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00bf14b2.png
-00bf1537,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\00bf1537.png
 00bf308b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00bf308b.png
 00bf3677,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00bf3677.png
 00bfa547,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00bfa547.png
+00bfa83f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00bfa83f.img.png
 00c06d6f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\00c06d6f.png
+00c0a83f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c0a83f.img.png
+00c0be86.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c0be86.img.png
 00c0e220,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00c0e220.png
 00c0f873,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00c0f873.png
 00c0fece,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00c0fece.png
@@ -1464,6 +1849,7 @@ filename,full_path
 00c14369,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c14369.png
 00c16220,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00c16220.png
 00c19672,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00c19672.png
+00c1a83f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c1a83f.img.png
 00c1e104,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_mismatch\no_mip_fixes\ui\00c1e104.png
 00c23269,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00c23269.png
 00c265ba,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c265ba.png
@@ -1473,6 +1859,7 @@ filename,full_path
 00c29e1d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c29e1d.png
 00c29e25,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c29e25.png
 00c29e29,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c29e29.png
+00c2a83f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c2a83f.img.png
 00c310e8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00c310e8.png
 00c36f59,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c36f59.png
 00c37d79,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c37d79.png
@@ -1492,7 +1879,6 @@ filename,full_path
 00c67c23,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c67c23.png
 00c7f919,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c7f919.png
 00c85887,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c85887.png
-00c8c0af,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\bp_remade\no_mip_fixes\ui\00c8c0af.png
 00c8d783,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00c8d783.png
 00c90485,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c90485.png
 00c92bba,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00c92bba.png
@@ -1524,6 +1910,7 @@ filename,full_path
 00ca156d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00ca156d.png
 00ca156e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00ca156e.png
 00ca156f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00ca156f.png
+00ca1ad1.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00ca1ad1.img.png
 00ca4367,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00ca4367.png
 00ca773d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00ca773d.png
 00ca8477,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00ca8477.png
@@ -1569,10 +1956,13 @@ filename,full_path
 00d172b2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d172b2.png
 00d23e6d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes\ui\00d23e6d.png
 00d29fa7,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00d29fa7.png
+00d2ded2.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d2ded2.img.png
 00d2e245,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d2e245.png
 00d30dfe,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\00d30dfe.png
+00d31745.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d31745.img.png
 00d44f16,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d44f16.png
 00d46476,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d46476.png
+00d476d8.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d476d8.img.png
 00d54e27,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d54e27.png
 00d54e2b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d54e2b.png
 00d54e2e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d54e2e.png
@@ -1580,8 +1970,11 @@ filename,full_path
 00d54e32,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d54e32.png
 00d54f16,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d54f16.png
 00d5cad9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00d5cad9.png
+00d5cd7d.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d5cd7d.img.png
+00d5def0.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d5def0.img.png
 00d64f16,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d64f16.png
 00d6e19b,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d6e19b.png
+00d6eac6.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d6eac6.img.png
 00d74f16,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d74f16.png
 00d79f7f,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d79f7f.png
 00d7a7ce,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00d7a7ce.png
@@ -1592,11 +1985,14 @@ filename,full_path
 00d81b4d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\00d81b4d.png
 00d843ae,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00d843ae.png
 00d84f16,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d84f16.png
+00d89049.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d89049.img.png
 00d8a8b0,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d8a8b0.png
+00d8c9cf.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d8c9cf.img.png
 00d93721,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00d93721.png
 00d94f16,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00d94f16.png
 00d9fd74,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00d9fd74.png
 00da2773,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00da2773.png
+00da3e27.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00da3e27.img.png
 00da439d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00da439d.png
 00da4f16,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00da4f16.png
 00da570c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00da570c.png
@@ -1610,7 +2006,6 @@ filename,full_path
 00db154e,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00db154e.png
 00db463c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00db463c.png
 00db4f16,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00db4f16.png
-00dbc0b4,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\00dbc0b4.png
 00dbf8ec,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00dbf8ec.png
 00dbf91c,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00dbf91c.png
 00dc4f16,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00dc4f16.png
@@ -1628,6 +2023,7 @@ filename,full_path
 00df3647,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00df3647.png
 00df4146,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\no_mip_fixes\ui\00df4146.png
 00df6a31,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00df6a31.png
+00df7f97.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00df7f97.img.png
 00df8108,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00df8108.png
 00df8109,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00df8109.png
 00df810a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00df810a.png
@@ -1642,7 +2038,9 @@ filename,full_path
 00e14369,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e14369.png
 00e1eda4,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e1eda4.png
 00e26458,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e26458.png
+00e338a3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e338a3.img.png
 00e357db,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e357db.png
+00e3e4ba.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e3e4ba.img.png
 00e48ebe,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e48ebe.png
 00e4ae3a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00e4ae3a.png
 00e4c0f5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00e4c0f5.png
@@ -1653,6 +2051,7 @@ filename,full_path
 00e60935,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00e60935.png
 00e643ae,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00e643ae.png
 00e6766a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e6766a.png
+00e69824.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e69824.img.png
 00e6b834,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e6b834.png
 00e6be73,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00e6be73.png
 00e6c056,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e6c056.png
@@ -1660,7 +2059,9 @@ filename,full_path
 00e70eb8,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e70eb8.png
 00e718ff,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e718ff.png
 00e76032,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e76032.png
+00e786c5.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e786c5.img.png
 00e79133,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00e79133.png
+00e84efe.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e84efe.img.png
 00e874d5,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00e874d5.png
 00e87795,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00e87795.png
 00e88014,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00e88014.png
@@ -1673,7 +2074,6 @@ filename,full_path
 00ea64f4,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00ea64f4.png
 00eab4a9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00eab4a9.png
 00eac0fa,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00eac0fa.png
-00eb0221,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui\00eb0221.png
 00eb1ec3,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00eb1ec3.png
 00eb3f19,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00eb3f19.png
 00eb7ff2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00eb7ff2.png
@@ -1719,6 +2119,7 @@ filename,full_path
 00ef72ae,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00ef72ae.png
 00ef72b2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes\ui\00ef72b2.png
 00efa302,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00efa302.png
+00efa8aa.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00efa8aa.img.png
 00f03f19,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f03f19.png
 00f072ae,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f072ae.png
 00f072b2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f072b2.png
@@ -1734,17 +2135,19 @@ filename,full_path
 00f172ae,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f172ae.png
 00f172b2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f172b2.png
 00f1b2dc,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\no_mip_fixes\ui\00f1b2dc.png
-00f1c0b1,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\bp_remade\no_mip_fixes\ui\00f1c0b1.png
 00f1e626,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f1e626.png
 00f25afc,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00f25afc.png
 00f28845,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00f28845.png
+00f30f4f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f30f4f.img.png
 00f3777d,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f3777d.png
 00f396f6,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f396f6.png
 00f39b44,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f39b44.png
+00f40f4f.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f40f4f.img.png
 00f43b63,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f43b63.png
 00f54e26,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f54e26.png
 00f54e2a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f54e2a.png
 00f54e32,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f54e32.png
+00f5bdc3.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f5bdc3.img.png
 00f5cad9,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\no_mip_fixes\ui\00f5cad9.png
 00f5d027,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f5d027.png
 00f5d860,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f5d860.png
@@ -1764,6 +2167,7 @@ filename,full_path
 00f98f14,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f98f14.png
 00f9cdfe,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f9cdfe.png
 00f9d9e2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00f9d9e2.png
+00fa2962.img,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00fa2962.img.png
 00fa7bc2,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00fa7bc2.png
 00fa7d0a,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\no_mip_fixes\ui\00fa7d0a.png
 00fa7dea,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\00fa7dea.png

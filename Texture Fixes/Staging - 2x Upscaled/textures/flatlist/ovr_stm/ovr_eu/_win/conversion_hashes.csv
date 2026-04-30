@@ -16,9 +16,9 @@ e04_3.bmp_6e40581365c7129ba9808c175223db1c,b00946456739446d0ef94f77aa58319474811
 e04_4.bmp_8c6cd8cff37073ad12c3337cfc6743c9,bd08e0eb4811259d0579d3577d3384ba2d2849cc,02781b6f13d3d41d45727d1fd735cc293765d9a1,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
 eve_def_face_fix_new.bmp,072e80b0b641ea40ea5589011b318ac0de2db38f,c0b81dd13708a546a89ba343d24399928a5ec18b,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
 eve_naked_face_fix.bmp,803830b8bec3f2f9c768fe4017859448ed584dc5,e3f479da7e2618a4c9da2f593efea488f784b32e,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
-eve_tac_face_fix.bmp,374dece810a31c6136715362afa889c3d7960ef2,83501f50dc09b56bb75898bab41ba588d1824c2b,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
-eve_tac_face_fix_new.bmp,57ad4bc90071d6e232b380b305106622902ddc1c,8bdf6bbcce3b2853102e76a4ad85057b6e8301a3,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
-eve_tac_face_new.bmp,bbb89412b6eee5d4ca187b0fb2dac900d14ba12f,6ffe851cfeda9410876c7367894608ff288f9c85,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
+eve_tac_face_fix.bmp,9a35c0f658e1eb29f3f4c24714901ec2f7e1c260,bf033e513aaaac908b8573f8cde038d5a7ef8f37,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
+eve_tac_face_fix_new.bmp,2c72c403f05fe3edb5625bfd193a7c127f4a93f8,10b23e85e994b8c3145163b8d41884d4b6f68ea5,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
+eve_tac_face_new.bmp,0a863fc4a4cd4a8b2b7191a80753fba40ad022c8,7201ba64d6073c78a8ef33bce8bb15a5a7fd6923,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
 h_bottle_ovl_alp.bmp,9450c9c30e8fd3d39f5ed0d5217e4fc8cee1c578,bdd6387eb9bd226ad9fa7a7ba4401f2284fa3f7e,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
 j04_1.bmp,d68fa4843aedf903cb039242c65977cc747d0b57,0f7f68b1ff3b3196e7110309352b60af136d0906,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
 j04_2.bmp,ed44836a0d688f560c12c71172f81d6306906474,c1e1c6d178c83f868bd292ed1e29c6a43baabda2,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
@@ -40,8 +40,8 @@ j10_1.bmp,ab59ec46f490c321b01d679df1b15c86b55e6ac9,4590091aab5bfcd01e4022256864b
 j10_2.bmp,1088db90c9247b7860209b8e1ad11888b188eb57,6132901dc448d9bca50782003ffbd7def19e5cc4,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
 j10_3.bmp,bc638d2662a42a3189f799bc01a070631aa2099b,6dd6286c49a1f9c860007d77c505a12024ee7102,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
 j10_4.bmp,b68a1efa9eb10e20b139973a9cb891aca63030a7,2ab24adfdb457b6d86004b205f2b0bc1baef179e,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-oum_allbody_col00.bmp,f92a34ed6af35a63743d3f6b561b6d3522eb25fb,c4209149922c34ab55e9d884d4ffedcb8689d28d,true,Self Remade\Finalized,true,true,4,remarci_4x,false,0,false
-par_def_body.bmp,b01aa3065615116f2e36ee22d1fd6d84ef58cf67,ace51ff68fc2424b27471f38175e73bbb02cae9a,true,Self Remade\Finalized,true,true,4,remarci_4x,false,0,false
+oum_allbody_col00.bmp,f92a34ed6af35a63743d3f6b561b6d3522eb25fb,c4209149922c34ab55e9d884d4ffedcb8689d28d,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x,false,0,false
+par_def_body.bmp,5fd1f75e46db83675b3b1db2ed4e441a31eb4d5b,ace51ff68fc2424b27471f38175e73bbb02cae9a,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x,false,0,false
 s112a_cell_floor_01_alp_ovl.bmp,542b302e6e51d3e3d326fdcaa068accc971355e0,91b5ddea2e9e5b3a028c713f70fd885cc758a65f,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
 s112a_hibi_01_alp_ovl.bmp,3451f5d2345a9f71ba74b8d128ba97bc715fe9f4,b64d7832d4dbdc364ac60d74ffa461f72a02f4a9,true,Self Remade\Finalized\Dont demaster,false,true,4,remarci_4x,false,0,false
 s122a_fence_alp_ovl_01.bmp,6c0ff5d78be43e11a11fedba0b9d4ac3cfffd4b3,cf339b81bd56f45a18f4824ab6eab58eb805035e,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false

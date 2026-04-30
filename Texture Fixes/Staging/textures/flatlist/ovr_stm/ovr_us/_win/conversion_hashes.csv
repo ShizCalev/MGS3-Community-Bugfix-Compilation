@@ -43,7 +43,7 @@ filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,u
 008a85bb,a015e5ddf9a23b9aa34a640c5cd62cff5c327290,153d12c71c032d4eeef1c700ec5394ecc25ab9e3,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
 008aa5bb,4dc6e9869982587d319a8873b455e75556869ce3,b8b11352c9984af2f84e930317155841b7f937dd,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
 0091ab39,11e6d44261fc41255570820f175dbcd935b56637,a77828f44eed23e2ebecb94a066d9a3f4812b8ca,false,Self Remade\Finalized\Not Demaster Fixed\UI\ovr_US\1080p,false,false,0,none,true,4,false
-00bd89a1.img,dc3612697ed3c5e39681d887069957d1216a4001,6883bfed07925c1f57f42e1bab2be80571340bab,false,Self Remade\Finalized\Dont demaster\UI\Shared,false,false,0,none,true,4,false
+00bd89a1.img,e3e7d158b1fcdced39a56288e77905d5e7a3a0aa,4b250871dd81e4d49beaa4740698531e98e50478,false,Self Remade\Finalized\Dont demaster\UI\Shared,false,false,0,none,true,4,false
 00c8c0af,779ab38fc37dca84e81866d5f5125c805cd86e92,b76ea09b5903b2ca23666a0e783aedec3566d218,false,Self Remade\Finalized\Dont demaster\UI\Shared,true,false,0,none,true,4,false
 00e11a3e,1c0cb80e263942d0676e9f8e2c0e3a2f4cba7ef6,7813c27116e8b055ad544bee38efb87233e74584,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,4,false
 00ede1ab,9abccfbc50ab082ef4c9980ed712aeb4e5b231f7,d4a8204dd177eb2428bbb1709a30c7d7e9592b7b,false,Self Remade\Finalized\Hires Backports\UI,false,false,0,none,true,4,false
@@ -56,12 +56,12 @@ filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,u
 00fc60e2,0b0095770b4457e2b03422cfc49f026a276f9b0e,d4b81f2973fe49cb5bb3ba6fd37b7fcb28ae1b06,false,Self Remade\Finalized\Not Demaster Fixed\UI\Shared\1080p,false,false,0,none,true,4,false
 eve_def_face_fix_new.bmp,072e80b0b641ea40ea5589011b318ac0de2db38f,2d394acba65a4c6ebce253cf5a28e419713e71c9,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
 eve_naked_face_fix.bmp,803830b8bec3f2f9c768fe4017859448ed584dc5,9a0a415d050fd9aa02c867d6b5a0d87666bb1859,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
-eve_tac_face_fix.bmp,374dece810a31c6136715362afa889c3d7960ef2,6e113f26f7debbd6d61ec030467357347fff462b,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
-eve_tac_face_fix_new.bmp,57ad4bc90071d6e232b380b305106622902ddc1c,1604f94ff81e0bf1df601c157d8ee17b46ef06a4,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
-eve_tac_face_new.bmp,bbb89412b6eee5d4ca187b0fb2dac900d14ba12f,f1f3770db32cb81333f6b6040af198f28251175c,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
+eve_tac_face_fix.bmp,9a35c0f658e1eb29f3f4c24714901ec2f7e1c260,8b8847b0afa500369c89806b7bb8fa3c718ecfdc,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
+eve_tac_face_fix_new.bmp,2c72c403f05fe3edb5625bfd193a7c127f4a93f8,498c84618883dd9a31564bc852b83213a23041cf,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
+eve_tac_face_new.bmp,0a863fc4a4cd4a8b2b7191a80753fba40ad022c8,8f772fb55d62ff810b144e28378646e2e90edf47,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
 h_bottle_ovl_alp.bmp,9450c9c30e8fd3d39f5ed0d5217e4fc8cee1c578,18843fb7f6e9f651f0c83a310d1a927fcaa0990c,true,Self Remade\Finalized,false,false,0,none,false,4,false
-oum_allbody_col00.bmp,f92a34ed6af35a63743d3f6b561b6d3522eb25fb,54ce35fbf58ab9924a9d9f38f053da5903c794f7,true,Self Remade\Finalized,true,false,0,none,false,4,true
-par_def_body.bmp,b01aa3065615116f2e36ee22d1fd6d84ef58cf67,f9b87f1833f7045afea047f5c1d4fcbdb76ffc69,true,Self Remade\Finalized,true,false,0,none,false,4,true
+oum_allbody_col00.bmp,f92a34ed6af35a63743d3f6b561b6d3522eb25fb,54ce35fbf58ab9924a9d9f38f053da5903c794f7,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
+par_def_body.bmp,5fd1f75e46db83675b3b1db2ed4e441a31eb4d5b,f9b87f1833f7045afea047f5c1d4fcbdb76ffc69,true,Self Remade\Finalized\Dont demaster,true,false,0,none,false,4,true
 s112a_cell_floor_01_alp_ovl.bmp,542b302e6e51d3e3d326fdcaa068accc971355e0,d44bb70844590019324e7018da8a4e203b6fe2be,true,Self Remade\Finalized,false,false,0,none,false,4,false
 s112a_hibi_01_alp_ovl.bmp,3451f5d2345a9f71ba74b8d128ba97bc715fe9f4,bea210b5936c628de9fbecb9a7e29e148aa18ddd,true,Self Remade\Finalized\Dont demaster,false,false,0,none,false,4,true
 s122a_fence_alp_ovl_01.bmp,6c0ff5d78be43e11a11fedba0b9d4ac3cfffd4b3,d724bce3acfff163890cb136e23e00a2c73e22df,true,Self Remade\Finalized,false,false,0,none,false,4,false
