@@ -2694,7 +2694,7 @@ gunmap_ovl_mod1120_alp_emap.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilatio
 guns_blue.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\guns_blue.bmp.png
 guns_red.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\guns_red.bmp.png
 guns_roter02_alp.trans.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\bp_remade\guns_roter02_alp.trans.bmp.png
-gunship_body.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\manual\bp_remade\gunship_body.bmp.png
+gunship_body.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\gunship_body.bmp.png
 gunship_engin.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\gunship_engin.bmp.png
 gunship_glass.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\gunship_glass.bmp.png
 gunship_wing.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\gunship_wing.bmp.png
@@ -8759,7 +8759,6 @@ vva_break_jet_mount.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Textur
 vva_cock_meter.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vva_cock_meter.bmp.png
 vva_d.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vva_d.bmp.png
 vva_e.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\vva_e.bmp.png
-vva_first_aid_kit_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\vva_first_aid_kit_alp_ovl.bmp.png
 vva_lamp_red_on.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vva_lamp_red_on.bmp.png
 vva_light_glass_off.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\vva_light_glass_off.bmp.png
 vva_nozzle_a_ovl_x2_alp.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\vva_nozzle_a_ovl_x2_alp.bmp.png

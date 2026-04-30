@@ -750,6 +750,7 @@ mog_deco_alp_ovl_01.bmp
 s081a_mogi_deco_alp_ovl_01.bmp
 00cd4028
 0071b304
+vva_first_aid_kit_alp_ovl.bmp
 00896943
 
 
