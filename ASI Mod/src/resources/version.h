@@ -7,8 +7,8 @@
 #define FALLBACK_REPO_URL "https://gitlab.com/ShizCalev/MGS3-Community-Bugfix-Compilation"
 
 #define VERSION_MAJOR 1
-#define VERSION_MINOR 0
-#define VERSION_PATCH 1
+#define VERSION_MINOR 1
+#define VERSION_PATCH 0
 
 #define STRINGIFY_HELPER(x) #x
 #define STRINGIFY(x) STRINGIFY_HELPER(x)
