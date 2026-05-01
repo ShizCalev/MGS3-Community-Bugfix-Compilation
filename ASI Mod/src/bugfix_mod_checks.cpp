@@ -55,12 +55,15 @@ namespace
     constexpr const char* CBFC_2x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "d18c2a14278675e5fadef4161254887e5630ab65";
     constexpr const char* CBFC_4x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "ad0b69b2b2177a8eb21d07be350ac2d3e55d5c46";
 
-    constexpr const char* CBFC_BASE_HQTEX_FLATLIST_WIN_j01_1_JPN_ONLY_CTXR_SHA1 = "a554251ca743945da71f5ded4c120c4aee74a6b1";
-    constexpr const char* CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_SHA1 = "0a52d651f95299470a9a99462c288a7d99824ce4";
+    constexpr const char* CBFC_BASE_HQTEX_FLATLIST_WIN_j01_1_JPN_ONLY_CTXR_SHA1 = "235e31107d6b0f02e3b8a017510feb67650e7aff";
+    constexpr const char* CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_SHA1 = "05e4896286a3b2ab6e29fc07571a2f99f82e3714";
 
-    constexpr const char* CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1 = "9150a00497c35aa6b1df85491d9493361b566f04";
-    constexpr const char* CBFC_2x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1 = "b912a3b6cf4ebd45d4c5d289e1b8e4b641c837aa"; 
-    constexpr const char* CBFC_4x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1 = "6c59ff02e6158672604410ca11fc81a017415809";
+    constexpr const char* CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1 = "e29c0a6e31f205ab78a2f07b3c9e9a9bc45f6a69";
+
+
+    constexpr const char* CBFC_BASE_OVR_US_oum_allbody_col00_CTXR_SHA1 = "54ce35fbf58ab9924a9d9f38f053da5903c794f7";
+    constexpr const char* CBFC_2x_OVR_US_oum_allbody_col00_CTXR_SHA1 = "c4209149922c34ab55e9d884d4ffedcb8689d28d"; 
+    constexpr const char* CBFC_4x_OVR_US_oum_allbody_col00_CTXR_SHA1 = "69847ba9e9cb23256cd5b5c0e4502298f6e3be22";
 
 
 
@@ -83,9 +86,14 @@ namespace
     static_assert(IsValidSHA1(CBFC_4x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1));
     static_assert(IsValidSHA1(CBFC_BASE_HQTEX_FLATLIST_WIN_j01_1_JPN_ONLY_CTXR_SHA1));
     static_assert(IsValidSHA1(CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_SHA1));
+
     static_assert(IsValidSHA1(CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1));
-    static_assert(IsValidSHA1(CBFC_2x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1));
-    static_assert(IsValidSHA1(CBFC_4x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1));
+    
+    static_assert(IsValidSHA1(CBFC_BASE_OVR_US_oum_allbody_col00_CTXR_SHA1));
+    static_assert(IsValidSHA1(CBFC_2x_OVR_US_oum_allbody_col00_CTXR_SHA1));
+    static_assert(IsValidSHA1(CBFC_4x_OVR_US_oum_allbody_col00_CTXR_SHA1));
+
+
     static_assert(IsValidSHA1(LIQMIX_SLOP_4X_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1));
     static_assert(IsValidSHA1(LIQMIX_SLOP_2X_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1));
     static_assert(IsValidSHA1(LIQMIX_SLOP_2X_s053a_sky_load_n_CTXR_SHA1));
@@ -161,6 +169,10 @@ void VerifyInstallation::Check()
 
     const std::filesystem::path LIQMIX_SLOP_s053a_sky_load_n_CTXR_PATH =                                    sExePath / "textures" / "flatlist" / "ovr_stm" / "_win" / "s053a_sky_load_n.bmp.ctxr";
 
+    const std::filesystem::path CBFC_BASE_OVR_STM_OVR_US_oum_allbody_col00_CTXR_PATH =              sExePath / "textures" / "flatlist" / "ovr_stm" / "ovr_us" / "_win" / "oum_allbody_col00.bmp.ctxr";
+    const std::filesystem::path CBFC_BASE_OVR_STM_oum_allbody_col00_CTXR_PATH =                     sExePath / "textures" / "flatlist" / "ovr_stm" / "_win" / "oum_allbody_col00.bmp.ctxr";
+    const std::filesystem::path CBFC_BASE_FLATLIST_oum_allbody_col00_CTXR_PATH =                    sExePath / "textures" / "flatlist" / "_win" / "oum_allbody_col00.bmp.ctxr";
+
 
 
 
@@ -175,9 +187,16 @@ void VerifyInstallation::Check()
     auto CBFC_UPSCALED_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_FUTURE = startHashTask(CBFC_UPSCALED_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_PATH);
     auto CBFC_BASE_HQTEX_FLATLIST_WIN_j01_1_JPN_ONLY_CTXR_FUTURE = startHashTask(CBFC_BASE_HQTEX_FLATLIST_WIN_j01_1_JPN_ONLY_CTXR_PATH);
     auto CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_FUTURE = startHashTask(CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_PATH);
+    
+
     auto CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_FUTURE = startHashTask(CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_PATH);
     auto CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_FUTURE = startHashTask(CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_PATH);
     auto CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_FUTURE = startHashTask(CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_PATH);
+
+    
+    auto CBFC_BASE_OVR_STM_oum_allbody_col00_CTXR_FUTURE = startHashTask(CBFC_BASE_OVR_STM_oum_allbody_col00_CTXR_PATH);
+    auto CBFC_BASE_OVR_STM_OVR_US_oum_allbody_col00_CTXR_FUTURE = startHashTask(CBFC_BASE_OVR_STM_OVR_US_oum_allbody_col00_CTXR_PATH);
+    auto CBFC_BASE_FLATLIST_oum_allbody_col00_CTXR_FUTURE = startHashTask(CBFC_BASE_FLATLIST_oum_allbody_col00_CTXR_PATH);
     auto LIQMIX_SLOP_s053a_sky_load_n_CTXR_FUTURE = startHashTask(LIQMIX_SLOP_s053a_sky_load_n_CTXR_PATH);
 
     const FileHashResult CBFC_BASE_HQTEX_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_Result = CBFC_BASE_HQTEX_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_FUTURE.get();   ///hqtex/flatlist/_win/eve_item_sunglasses_sub_ovl_alp.bmp
@@ -185,9 +204,14 @@ void VerifyInstallation::Check()
     const FileHashResult CBFC_UPSCALED_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_Result = CBFC_UPSCALED_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_FUTURE.get();           ///textures/flatlist/ovr_stm/_win/eve_item_sunglasses_sub_ovl_alp.bmp
     const FileHashResult CBFC_BASE_HQTEX_FLATLIST_WIN_j01_1_JPN_ONLY_CTXR_Result = CBFC_BASE_HQTEX_FLATLIST_WIN_j01_1_JPN_ONLY_CTXR_FUTURE.get();                                     ///hqtex/flatlist/_win/j01_1.bmp
     const FileHashResult CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_Result = CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_FUTURE.get();                         ///textures/flatlist/_win/n033a_irona_under.bmp
+
     const FileHashResult CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_Result = CBFC_BASE_OVR_STM_vva_first_aid_kit_alp_ovl_CTXR_FUTURE.get();                                     ///textures/flatlist/ovr_stm/_win/vva_first_aid_kit_alp_ovl.bmp
     const FileHashResult CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result = CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_FUTURE.get();                       ///textures/flatlist/ovr_stm/ovr_us/_win/vva_first_aid_kit_alp_ovl.bmp
     const FileHashResult CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_Result = CBFC_BASE_FLATLIST_vva_first_aid_kit_alp_ovl_CTXR_FUTURE.get();                                   ///textures/flatlist/_win/vva_first_aid_kit_alp_ovl.bmp
+
+    const FileHashResult CBFC_BASE_OVR_STM_oum_allbody_col00_CTXR_Result = CBFC_BASE_OVR_STM_oum_allbody_col00_CTXR_FUTURE.get();                                     ///textures/flatlist/ovr_stm/_win/oum_allbody_col00.bmp
+    const FileHashResult CBFC_BASE_OVR_STM_OVR_US_oum_allbody_col00_CTXR_Result = CBFC_BASE_OVR_STM_OVR_US_oum_allbody_col00_CTXR_FUTURE.get();                       ///textures/flatlist/ovr_stm/ovr_us/_win/oum_allbody_col00.bmp
+    const FileHashResult CBFC_BASE_FLATLIST_oum_allbody_col00_CTXR_Result = CBFC_BASE_FLATLIST_oum_allbody_col00_CTXR_FUTURE.get();                                   ///textures/flatlist/_win/oum_allbody_col00.bmp
     const FileHashResult LIQMIX_SLOP_s053a_sky_load_n_CTXR_Result = LIQMIX_SLOP_s053a_sky_load_n_CTXR_FUTURE.get();                                                             ///textures/flatlist/ovr_stm/_win/s053a_sky_load_n.bmp
 
     spdlog::info("File hash calculations completed, starting verification...");
@@ -482,11 +506,11 @@ void VerifyInstallation::Check()
     spdlog::info("No incompatible mods detected, now checking for potential addon pack installation issues...");
 
 
-    if (CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result.exists)
+    if (CBFC_BASE_OVR_STM_OVR_US_oum_allbody_col00_CTXR_Result.exists)
     {
         if (is_2x_pack || is_4x_pack)
         {
-            if (hashEquals(CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result, CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1))
+            if (hashEquals(CBFC_BASE_OVR_STM_OVR_US_oum_allbody_col00_CTXR_Result, CBFC_BASE_OVR_US_oum_allbody_col00_CTXR_SHA1))
             {
                 const char* pack = is_2x_pack ? "2x" : "4x";
 
@@ -525,12 +549,12 @@ void VerifyInstallation::Check()
                 return;
             }
 
-            bool vaa_matches_4x = hashEquals(CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result, CBFC_4x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1);
-            bool vaa_matches_2x = hashEquals(CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result, CBFC_2x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1);
+            bool vaa_matches_4x = hashEquals(CBFC_BASE_OVR_STM_OVR_US_oum_allbody_col00_CTXR_Result, CBFC_4x_OVR_US_oum_allbody_col00_CTXR_SHA1);
+            bool vaa_matches_2x = hashEquals(CBFC_BASE_OVR_STM_OVR_US_oum_allbody_col00_CTXR_Result, CBFC_2x_OVR_US_oum_allbody_col00_CTXR_SHA1);
 
             if (!vaa_matches_4x && !vaa_matches_2x)
             {
-                spdlog::warn("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr unknown hash, but upscaled texture pack is installed. This may be caused by a conflicting mod that replaced the texture with an unknown version. Please check your installed mods for conflicts if you are experiencing issues.");
+                spdlog::warn("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/oum_allbody_col00.bmp.ctxr unknown hash, but upscaled texture pack is installed. This may be caused by a conflicting mod that replaced the texture with an unknown version. Please check your installed mods for conflicts if you are experiencing issues.");
             }
             else if ((vaa_matches_2x && is_4x_pack) || (vaa_matches_4x && is_2x_pack))
             {
@@ -558,24 +582,24 @@ void VerifyInstallation::Check()
             }
             else
             {
-                spdlog::info("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr MATCHES expected hash for {} upscaled texture pack.", is_4x_pack ? "4x" : "2x");
+                spdlog::info("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/oum_allbody_col00.bmp.ctxr MATCHES expected hash for {} upscaled texture pack.", is_4x_pack ? "4x" : "2x");
             }
 
         }
-        else if (!hashEquals(CBFC_BASE_OVR_STM_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_Result, CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1))
+        else if (!hashEquals(CBFC_BASE_OVR_STM_OVR_US_oum_allbody_col00_CTXR_Result, CBFC_BASE_OVR_US_oum_allbody_col00_CTXR_SHA1))
         {
-            spdlog::warn("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr unknown hash. This may be caused by a conflicting mod that replaced the texture with an unknown version. Please check your installed mods for conflicts if you are experiencing issues.");
+            spdlog::warn("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/oum_allbody_col00.bmp.ctxr unknown hash. This may be caused by a conflicting mod that replaced the texture with an unknown version. Please check your installed mods for conflicts if you are experiencing issues.");
         }
         else
         {
-            spdlog::info("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr MATCHES expected base package hash.");
+            spdlog::info("Community Bugfix Compilation - flatlist/ovr_stm/ovr_us/oum_allbody_col00.bmp.ctxr MATCHES expected base package hash.");
         }
 
 
     }
     else
     {
-        spdlog::warn("ovr_stm/ovr_us/vva_first_aid_kit_alp_ovl.bmp.ctxr not found, unable to perform installation verification check for CBFC fixes.");
+        spdlog::warn("ovr_stm/ovr_us/oum_allbody_col00.bmp.ctxr not found, unable to perform installation verification check for CBFC fixes.");
     }
 
 

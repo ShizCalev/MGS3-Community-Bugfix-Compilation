@@ -37,12 +37,16 @@ TARGETS = [
         "CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
     ),
     (
-        Path(r"Texture Fixes\Staging - 2x Upscaled\textures\flatlist\ovr_stm\ovr_us\_win\vva_first_aid_kit_alp_ovl.bmp.ctxr"),
-        "CBFC_2x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+        Path(r"Texture Fixes\Staging\textures\flatlist\ovr_stm\ovr_us\_win\oum_allbody_col00.bmp.ctxr"),
+        "CBFC_BASE_OVR_US_oum_allbody_col00_CTXR_SHA1",
     ),
     (
-        Path(r"Texture Fixes\Staging - 4x Upscaled\textures\flatlist\ovr_stm\ovr_us\_win\vva_first_aid_kit_alp_ovl.bmp.ctxr"),
-        "CBFC_4x_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1",
+        Path(r"Texture Fixes\Staging - 2x Upscaled\textures\flatlist\ovr_stm\ovr_us\_win\oum_allbody_col00.bmp.ctxr"),
+        "CBFC_2x_OVR_US_oum_allbody_col00_CTXR_SHA1",
+    ),
+    (
+        Path(r"Texture Fixes\Staging - 4x Upscaled\textures\flatlist\ovr_stm\ovr_us\_win\oum_allbody_col00.bmp.ctxr"),
+        "CBFC_4x_OVR_US_oum_allbody_col00_CTXR_SHA1",
     ),
  
     (
