@@ -175,6 +175,7 @@ Partial Coverage:
 - Fixed black seams (dilation padding) on Eva's neck in multiple cutscenes. [2004 SE]
 - Fixed broken wall damage decals in torture chamber. [2011 HDC]
 - Fixed First Person View Button indicator not lighting up when held during cutscenes. [2011 HDC]
+- Fixed visible black UV seams on the chests of all parrots. [2004 SE]
 
 <br>
 
