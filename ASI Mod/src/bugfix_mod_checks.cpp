@@ -50,20 +50,20 @@ namespace
 
 
     //Community Bugfix hashes
-    constexpr const char* CBFC_BASE_HQTEX_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "3083ec9241d5b3baf39a67402b5a472ae2f0f5f5";
-    constexpr const char* CBFC_BASE_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "3083ec9241d5b3baf39a67402b5a472ae2f0f5f5";
-    constexpr const char* CBFC_2x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "d18c2a14278675e5fadef4161254887e5630ab65";
-    constexpr const char* CBFC_4x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "ad0b69b2b2177a8eb21d07be350ac2d3e55d5c46";
+    constexpr const char* CBFC_BASE_HQTEX_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "f6402f8550b38bec5a7f87c1cd1b47215ee68a44";
+    constexpr const char* CBFC_BASE_FLATLIST_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "f6402f8550b38bec5a7f87c1cd1b47215ee68a44";
+    constexpr const char* CBFC_2x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "1d946a723f63406bba766ee920cad26d78456c1f";
+    constexpr const char* CBFC_4x_OVRSTM_WIN_eve_item_sunglasses_sub_ovl_alp_CTXR_SHA1 = "9e261951483a5e65e7e5e2ce25c44b06fe91c7c1";
 
-    constexpr const char* CBFC_BASE_HQTEX_FLATLIST_WIN_j01_1_JPN_ONLY_CTXR_SHA1 = "235e31107d6b0f02e3b8a017510feb67650e7aff";
-    constexpr const char* CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_SHA1 = "05e4896286a3b2ab6e29fc07571a2f99f82e3714";
+    constexpr const char* CBFC_BASE_HQTEX_FLATLIST_WIN_j01_1_JPN_ONLY_CTXR_SHA1 = "794b85ace976f091704847280578dbe2bc907012";
+    constexpr const char* CBFC_BASE_FLATLIST_WIN_n033a_irona_under_JPN_ONLY_CTXR_SHA1 = "74bddbddbe4b0cba10b4434edfc326b53809cce6";
 
-    constexpr const char* CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1 = "e29c0a6e31f205ab78a2f07b3c9e9a9bc45f6a69";
+    constexpr const char* CBFC_BASE_OVR_US_vva_first_aid_kit_alp_ovl_CTXR_SHA1 = "88135145c077132fb9828d5812619fa62b35bb28";
 
 
-    constexpr const char* CBFC_BASE_OVR_US_oum_allbody_col00_CTXR_SHA1 = "54ce35fbf58ab9924a9d9f38f053da5903c794f7";
-    constexpr const char* CBFC_2x_OVR_US_oum_allbody_col00_CTXR_SHA1 = "c4209149922c34ab55e9d884d4ffedcb8689d28d"; 
-    constexpr const char* CBFC_4x_OVR_US_oum_allbody_col00_CTXR_SHA1 = "69847ba9e9cb23256cd5b5c0e4502298f6e3be22";
+    constexpr const char* CBFC_BASE_OVR_US_oum_allbody_col00_CTXR_SHA1 = "dab605338d0b7f4d01fb64c92fa1b1e039e1ae57";
+    constexpr const char* CBFC_2x_OVR_US_oum_allbody_col00_CTXR_SHA1 = "487b19686e70d086b2c0111a5008bb08ba5078bb"; 
+    constexpr const char* CBFC_4x_OVR_US_oum_allbody_col00_CTXR_SHA1 = "a532b11ee1c019f3576b5e78bf474ec6004538d4";
 
 
 
