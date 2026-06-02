@@ -1,67 +1,67 @@
 filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,upscaler_version,upscaler_type,ctxr3_converted,non_upscaled_version,npot_resized
-armory_kan01.bmp,129320326f869c4edae4398e6c2205d1f92629b0,9309862a61c77ac79951263df68de1ffdc0e7190,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,4,false
-armory_kan01.bmp_1926b58465933136b8b8e9a28ffb67c1,e71bddcb8e8636a504f191087ace47c155ac0a3b,2767285ddfe0decd8f10ce0c58583f9b9483eb0c,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,4,false
-armory_kan02.bmp,6c79800fe963b6e7c95a5e8f47caad48d9cce6ed,c915b8a9e3c816fc2bd6a38e0461c3e7f7909d87,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,4,false
-armory_kan02.bmp_f2036919f3c1c4eaeaee951679a30cc9,b45d18001a6de4757f0fac463dc1bae99b9ac102,0dcf4efc31ba88eabf542ee3d3ff2b0f97ff778c,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,4,false
-armory_kan03.bmp,4236287c9bfa5625e0f07db899025d6f99ac3e6b,0921b04d43e89bc412dfa8f9fe6f06603e8265d5,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,4,false
-armory_nosmk_alp_ovl.bmp,2550387bec28df82e1aa32900eaad5a33140cf20,6c0da65f1fee3d1aa22438a139ce6a9f4c2b864d,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,4,false
-armory_nosmk_alp_ovl.bmp_424696b4a9db087afd9d2be2112e6de5,3c24fec3434a0fb899925b51c939e50dc56521cf,6b6b48d00d0a31e044ccf74a0ff6866563bbb115,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,4,false
-e02_1.bmp,968d83b4d3a006f1eee46b3046d7fca5c99cf25f,403f36f10484a47552e927632f38fcb150b5c1ec,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-e02_2.bmp_75c18656e1070488b65f4ef3c5459c6a,96be59ca4f962314e732f33fa9573dd664ae26b2,744597d2d303005e664ae97fe6d5a7a835b3b4c6,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-e02_3.bmp_9f9413fdf4806383d89d42846a722a3f,acf3bccef14666fa2b4c3d3d0c52a21893c78827,0fef2d99036f90157419a6bc38f1826e1ddd0923,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-e02_4.bmp_e98df2b1939851f47c8a6c28ea1d4cda,0dae4a9862ecb04b50f4afa1cafe62616356d743,2c1be5ed467a7f9559ac1f4c2ded0b25d5caead6,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-e04_1.bmp,55128b0b2a800c9ae94e7670da6255e903fd4198,9a21060f11759e859713d0b8c024144ee7d31951,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-e04_2.bmp_04dda450a93965ec055c9b3e101e099b,d7befd1e778e3203207e706c134f81a7226118c2,61b4c88f297f85bcd073b66046ed1b76473a5721,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-e04_3.bmp_6e40581365c7129ba9808c175223db1c,b00946456739446d0ef94f77aa583194748114ef,52edca7dd2581ec6b5f9231d631e03527e611971,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-e04_4.bmp_8c6cd8cff37073ad12c3337cfc6743c9,bd08e0eb4811259d0579d3577d3384ba2d2849cc,02781b6f13d3d41d45727d1fd735cc293765d9a1,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-eve_def_face_fix_new.bmp,072e80b0b641ea40ea5589011b318ac0de2db38f,c0b81dd13708a546a89ba343d24399928a5ec18b,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
-eve_naked_face_fix.bmp,803830b8bec3f2f9c768fe4017859448ed584dc5,e3f479da7e2618a4c9da2f593efea488f784b32e,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
-eve_tac_face_fix.bmp,9a35c0f658e1eb29f3f4c24714901ec2f7e1c260,bf033e513aaaac908b8573f8cde038d5a7ef8f37,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
-eve_tac_face_fix_new.bmp,2c72c403f05fe3edb5625bfd193a7c127f4a93f8,10b23e85e994b8c3145163b8d41884d4b6f68ea5,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
-eve_tac_face_new.bmp,0a863fc4a4cd4a8b2b7191a80753fba40ad022c8,7201ba64d6073c78a8ef33bce8bb15a5a7fd6923,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x_extra_smooth,false,0,false
-h_bottle_ovl_alp.bmp,9450c9c30e8fd3d39f5ed0d5217e4fc8cee1c578,bdd6387eb9bd226ad9fa7a7ba4401f2284fa3f7e,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
-j04_1.bmp,d68fa4843aedf903cb039242c65977cc747d0b57,0f7f68b1ff3b3196e7110309352b60af136d0906,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j04_2.bmp,ed44836a0d688f560c12c71172f81d6306906474,c1e1c6d178c83f868bd292ed1e29c6a43baabda2,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j04_3.bmp,3e13127689de31babd9f9f2132804583be1c5117,afa82cd0a07a9371053d86cd68b3c14f00389ff0,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j04_4.bmp,e3eb3facb02ccfacd76b7a7e0122b577b5d48fb3,2cce5ca046f45ea70308aa8c26e6e208e4943fc9,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j06_1.bmp,78d4151fd6b0b05a92891d434d5e6d64080d708d,cf4f108dc3f62ad6f1e4c0a9889ff95c44f709be,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j06_2.bmp,fe852a8127c4e9cfe86271d7416861d81af97a84,8cf96275ecdd4c69814114b0c6d27d697c02aff7,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j06_3.bmp,72c4fba4f2e2ee9d42a6b6ddf38b25f44dfb9d55,0c41c5b73b33535d0023ba881f599d44046202ad,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j06_4.bmp,f3a21431d15deb01b522b7a452bb8bf0b4acd57b,662d9052fa4722ec6d8091b0d487f486c8543ef7,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j07_1.bmp,e88dac8885906c0e807c07c5dbc48ee61627a9c4,53283975c04a0786ab498d8dd499d7b651bfe37f,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j07_2.bmp,8fdcd29186d46fcbce57d1331b8d9ef0e5e8554c,c07a943b307bcfac22fff32231c47f806f00dbaa,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j07_3.bmp,86246ac4aa33eb116c77805c77fe511f02ff1600,5456ca538bd3837d16220ee6da73361bca70f665,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j07_4.bmp,f8c919cec4c3546bda59d3b22b9186b95abc1518,ed2a4f7263d8150fe6056fcde14224daf1ca847a,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j09_1.bmp,78d4151fd6b0b05a92891d434d5e6d64080d708d,cd59607e9b24d88a56eaa96490a7bb567430d361,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j09_2.bmp,fe852a8127c4e9cfe86271d7416861d81af97a84,f47c17e9e5be1263aab759b22a72b908f68f50fa,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j09_3.bmp,72c4fba4f2e2ee9d42a6b6ddf38b25f44dfb9d55,1228bdd4e36ce52670851e76378fa94f2a22bbe1,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j09_4.bmp,f3a21431d15deb01b522b7a452bb8bf0b4acd57b,edf0ad368ea4a187320e7fb8b72404b0e53ab41c,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j10_1.bmp,ab59ec46f490c321b01d679df1b15c86b55e6ac9,4590091aab5bfcd01e4022256864b51a045aa7ca,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j10_2.bmp,1088db90c9247b7860209b8e1ad11888b188eb57,6132901dc448d9bca50782003ffbd7def19e5cc4,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j10_3.bmp,bc638d2662a42a3189f799bc01a070631aa2099b,6dd6286c49a1f9c860007d77c505a12024ee7102,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-j10_4.bmp,b68a1efa9eb10e20b139973a9cb891aca63030a7,2ab24adfdb457b6d86004b205f2b0bc1baef179e,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,4,remarci_4x,false,0,false
-oum_allbody_col00.bmp,f92a34ed6af35a63743d3f6b561b6d3522eb25fb,c4209149922c34ab55e9d884d4ffedcb8689d28d,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x,false,0,false
-par_def_body.bmp,5fd1f75e46db83675b3b1db2ed4e441a31eb4d5b,ace51ff68fc2424b27471f38175e73bbb02cae9a,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x,false,0,false
-s112a_cell_floor_01_alp_ovl.bmp,542b302e6e51d3e3d326fdcaa068accc971355e0,91b5ddea2e9e5b3a028c713f70fd885cc758a65f,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
-s112a_hibi_01_alp_ovl.bmp,3451f5d2345a9f71ba74b8d128ba97bc715fe9f4,b64d7832d4dbdc364ac60d74ffa461f72a02f4a9,true,Self Remade\Finalized\Dont demaster,false,true,4,remarci_4x,false,0,false
-s122a_fence_alp_ovl_01.bmp,6c0ff5d78be43e11a11fedba0b9d4ac3cfffd4b3,cf339b81bd56f45a18f4824ab6eab58eb805035e,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
-s171a_mo_fence_alp_ovl_rep_01.bmp,a0c501b97e8241b000209da05d94a892177cb443,5815891154c9be73519cdd7fab06d3d913d70f28,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
-s171a_mogi_fence_alp_ovl_rep_01.bmp,1b5aa35dca27b0fb0e89545e9f18a71d69871b69,67e43118a9bd4c401b5b4bab6f6b786e0f84aff0,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
-s222a_america_01.bmp,951c1636bbe6475685834a75dc36f570efcbd417,538fba53c50956d56832b0775e70d73ef2850e71,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,4,false
-sga_cigar01_brake.bmp,0aa6eb324390eb9ef0760b8c068de5c724ab122e,b00e1cfd5887889990d132ce83b1567651fdd624,true,Self Remade\Finalized\Self Remastered,true,true,4,remarci_4x,false,0,false
-sga_cigar_origin.bmp,912c8fd8d69cdf9f0338fa18f8ea4a27e54904ef,f040723be584e18edcb5702953f3347dea0d0550,true,Self Remade\Finalized\Self Remastered,true,true,4,remarci_4x,false,0,false
-sna_def_hair_front_ovl_alp.bmp,78ff011a0b9505630ef0258b7316e99121a415f6,6da493439c3cace12b63abe3d04fad7b32ba62c4,true,Self Remade\Finalized\Dont demaster,false,true,4,remarci_4x,false,0,false
-sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310,2b1103fe94457be569cbb561277a30d0729b0fee,052cadd637d8379fad5fade4667ff1f5108847ed,true,Self Remade\Finalized\Dont demaster,true,true,4,remarci_4x,false,0,false
-sna_face_cell_hi.bmp,7530ef8ce7c9df3f07f3a6d0bedbd210a411161c,f4578672421a25f65a3f99b460f84a58700f13b9,true,Self Remade\Finalized,true,true,4,remarci_4x,false,0,false
-sna_face_dam_eye_ovl_alp.bmp,5f92318ff5553e2461499b67c9f132b49301bb8d,6a31e785e0076e63bc86d164a577ce0a1d1006ae,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
-sna_face_ed_def.bmp,5c1643b300362f2207ecbb39624971083074d818,a2723e16eb702b20a9b02a3e78c38b05cac0b2af,true,Self Remade\Finalized,true,true,4,remarci_4x,false,0,false
-sna_face_vr_sta_ovl_alp.bmp,33c9ff540bcae94ab64fc0c79882490bd80b709d,9e41a789b8685dc86df592985d99fe2c2c3233a2,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
-sna_flirt_tiger.bmp,26bce004256f1b7f8fe42443763a4c5bacd941ca,c5e373e70a6d0bcb0815844f12878d8134000249,true,Self Remade\Finalized,true,true,4,remarci_4x,false,0,false
-sna_foot_naked_flirt.bmp,f0cf58c6443f52b0efaade154a3b742081461af2,05bac037bc1116ec69469bb405989122486d9a32,true,Self Remade\Finalized,true,true,4,remarci_4x,false,0,false
-sna_foot_naked_tor.bmp,bcf9840ced61604419e4ba409135e3442a927ede,5bf5a0d0fdd1caa7a9489dc8860965ab125468ff,true,Self Remade\Finalized,true,true,4,remarci_4x,false,0,false
-sna_foot_naked_tor.bmp_73f755c5eb2ba5efb9fbd155062db075,9639e3d0920a54b77927102fac23859f9eb116ba,f63ecba1e3689257e0a82b0e5a6637b6be97515b,true,Self Remade\Finalized,true,true,4,remarci_4x,false,0,false
-sna_hair_back_ovl_alp.bmp,1466a9c24224b59ad4158b8b71ced69b76babfc1,618f9743e9e032d638ecf8eded25f22f9fbf6e79,true,Self Remade\Finalized\Not Demaster Fixed,false,true,4,remarci_4x,false,0,false
-sna_mgs3_bandana_def_ovl_alp.bmp,d436f19807724732842012b23241c314f2c278b5,001ee8c62fd0a7d6933064dba4ad3d134b5a4786,true,Self Remade\Finalized\Dont demaster,false,true,4,remarci_4x,false,0,false
-sna_suit_tears.bmp,ed2e96ef7bb9c1bf8cc7a7d4838107d102d3512f,6a2798aa45dc7078d35ad747da8dcd907d62ee51,true,Self Remade\Finalized,true,true,4,remarci_4x,false,0,false
-sna_suit_tears_sub_ovl_alp.bmp,7c4112ddc408d4bd52b03f23f5199b5d9811182b,3739ccb0f0fd7264e0d8709f38d3bbed26093cea,false,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
-sna_tears_ovl_alp.bmp,7b6909e8e494f7c507f87c1031081bb96b2eeb10,db9fe77cc616ba3a80af97d14c22212217be674f,true,Self Remade\Finalized,false,true,4,remarci_4x,false,0,false
+armory_kan01.bmp,129320326f869c4edae4398e6c2205d1f92629b0,3fcacb2118f9178a46a9e8e10994fa5311c4d1f4,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,5,false
+armory_kan01.bmp_1926b58465933136b8b8e9a28ffb67c1,e71bddcb8e8636a504f191087ace47c155ac0a3b,5a6c0ff1572c13d0b661b690a981dc79704c3cca,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,5,false
+armory_kan02.bmp,6c79800fe963b6e7c95a5e8f47caad48d9cce6ed,9622e927f29668f6814ae4edc857b659a61ae138,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,5,false
+armory_kan02.bmp_f2036919f3c1c4eaeaee951679a30cc9,b45d18001a6de4757f0fac463dc1bae99b9ac102,321b6f7dc96d6aa30c29f937e8270fcc3cbe9c5c,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,5,false
+armory_kan03.bmp,4236287c9bfa5625e0f07db899025d6f99ac3e6b,6acc9cccd8a79e7f958aa92dafa1edb275f3b242,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,5,false
+armory_nosmk_alp_ovl.bmp,2550387bec28df82e1aa32900eaad5a33140cf20,b10edc336af2758296fe56efda4a6d13a8c332bc,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,5,false
+armory_nosmk_alp_ovl.bmp_424696b4a9db087afd9d2be2112e6de5,3c24fec3434a0fb899925b51c939e50dc56521cf,3ade713bf013c5f9e1cf8becd08912183a8daba9,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,5,false
+e02_1.bmp,968d83b4d3a006f1eee46b3046d7fca5c99cf25f,1797fac91111785a74350e3ec65b30206742cc9b,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+e02_2.bmp_75c18656e1070488b65f4ef3c5459c6a,96be59ca4f962314e732f33fa9573dd664ae26b2,682d75ec9aaf6cab4fa0ca6d7a2f88ab863d60a5,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+e02_3.bmp_9f9413fdf4806383d89d42846a722a3f,acf3bccef14666fa2b4c3d3d0c52a21893c78827,eadfe321b6f018d284393d4997366e7157701e7c,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+e02_4.bmp_e98df2b1939851f47c8a6c28ea1d4cda,0dae4a9862ecb04b50f4afa1cafe62616356d743,56b63e3597b23f0a1d5584ec61292fb424e9bbd8,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+e04_1.bmp,55128b0b2a800c9ae94e7670da6255e903fd4198,db3a8de9dd0f306984aec843f1b73019c93c470a,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+e04_2.bmp_04dda450a93965ec055c9b3e101e099b,d7befd1e778e3203207e706c134f81a7226118c2,b5ba6adaa3ad613d188ada039b91a4d89a0ba19d,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+e04_3.bmp_6e40581365c7129ba9808c175223db1c,b00946456739446d0ef94f77aa583194748114ef,7b14f872db3e9ee6dc24c6598bef84a261617e53,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+e04_4.bmp_8c6cd8cff37073ad12c3337cfc6743c9,bd08e0eb4811259d0579d3577d3384ba2d2849cc,a1925886a2b97419c6ab4392a1fb2b7352860ce6,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+eve_def_face_fix_new.bmp,072e80b0b641ea40ea5589011b318ac0de2db38f,a55edad8db4de79ebbdca2fda57230bbf9530b76,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x_extra_smooth,false,0,false
+eve_naked_face_fix.bmp,803830b8bec3f2f9c768fe4017859448ed584dc5,f1fb63f432eea58ebc40bf9e65da0f93fa9e3e0b,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x_extra_smooth,false,0,false
+eve_tac_face_fix.bmp,9a35c0f658e1eb29f3f4c24714901ec2f7e1c260,e6ecf92bfc594c7a074cb0c44b24a55321ac0e00,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x_extra_smooth,false,0,false
+eve_tac_face_fix_new.bmp,2c72c403f05fe3edb5625bfd193a7c127f4a93f8,2b261c55bb7f688564c4768d167aba7213fead14,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x_extra_smooth,false,0,false
+eve_tac_face_new.bmp,0a863fc4a4cd4a8b2b7191a80753fba40ad022c8,a853169fb8bdccfe51299983acf9db916298d789,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x_extra_smooth,false,0,false
+h_bottle_ovl_alp.bmp,9450c9c30e8fd3d39f5ed0d5217e4fc8cee1c578,abc246a00fee3806aea45f75659f266c68308227,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false
+j04_1.bmp,d68fa4843aedf903cb039242c65977cc747d0b57,359067213ae9e153db220382f385da59177b9973,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j04_2.bmp,ed44836a0d688f560c12c71172f81d6306906474,ebb6d79ede200e5b81cf8297477c56105467ee1d,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j04_3.bmp,3e13127689de31babd9f9f2132804583be1c5117,f0dccc489d898210b898d95054098d1af162c031,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j04_4.bmp,e3eb3facb02ccfacd76b7a7e0122b577b5d48fb3,47bf4cb90cd67a813bc2e39f3f8d4d9bed2e15b6,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j06_1.bmp,78d4151fd6b0b05a92891d434d5e6d64080d708d,be7c7263345fd897edfc7f7082f4c1c6f3afc4bf,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j06_2.bmp,fe852a8127c4e9cfe86271d7416861d81af97a84,ac15343c3dc0591c2c8ffe438ca4eb286a39da85,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j06_3.bmp,72c4fba4f2e2ee9d42a6b6ddf38b25f44dfb9d55,f3b6078537f872fe1b5965ebd71960d53688610b,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j06_4.bmp,f3a21431d15deb01b522b7a452bb8bf0b4acd57b,53cc81b700d7b1ba8e58ba8ff3ede8f48e12411a,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j07_1.bmp,e88dac8885906c0e807c07c5dbc48ee61627a9c4,6630af51ee8c43fa32c1c61c1904432f7d1f9e04,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j07_2.bmp,8fdcd29186d46fcbce57d1331b8d9ef0e5e8554c,d5d8af473421435f36f1eaf6ddaf39659006831d,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j07_3.bmp,86246ac4aa33eb116c77805c77fe511f02ff1600,9ed06ffbb1778f368a149dbda163cc90f55b04bf,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j07_4.bmp,f8c919cec4c3546bda59d3b22b9186b95abc1518,5e08b1370d3e0aefd66284acf3c48e3e08680b76,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j09_1.bmp,78d4151fd6b0b05a92891d434d5e6d64080d708d,be7c7263345fd897edfc7f7082f4c1c6f3afc4bf,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j09_2.bmp,fe852a8127c4e9cfe86271d7416861d81af97a84,ac15343c3dc0591c2c8ffe438ca4eb286a39da85,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j09_3.bmp,72c4fba4f2e2ee9d42a6b6ddf38b25f44dfb9d55,f3b6078537f872fe1b5965ebd71960d53688610b,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j09_4.bmp,f3a21431d15deb01b522b7a452bb8bf0b4acd57b,53cc81b700d7b1ba8e58ba8ff3ede8f48e12411a,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j10_1.bmp,ab59ec46f490c321b01d679df1b15c86b55e6ac9,9786cddfaf341a24ed1b69b78c939bbe71c7c20c,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j10_2.bmp,1088db90c9247b7860209b8e1ad11888b188eb57,4da549d3fbb2320f917911c94662d01d5c55335c,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j10_3.bmp,bc638d2662a42a3189f799bc01a070631aa2099b,1e8e9c29fdaab10342f783130f94fc0fe9e27aa9,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+j10_4.bmp,b68a1efa9eb10e20b139973a9cb891aca63030a7,ab0339a1115ec41bc5681730dfc5d3635e997fc6,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_eu,true,true,5,remarci_4x,false,0,false
+oum_allbody_col00.bmp,f92a34ed6af35a63743d3f6b561b6d3522eb25fb,487b19686e70d086b2c0111a5008bb08ba5078bb,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x,false,0,false
+par_def_body.bmp,5fd1f75e46db83675b3b1db2ed4e441a31eb4d5b,a9383c0def114871c5cbfcbec1a63ca018e9cc2c,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x,false,0,false
+s112a_cell_floor_01_alp_ovl.bmp,542b302e6e51d3e3d326fdcaa068accc971355e0,82c2e06f5b61389f994eb97ebc8b01b10b087442,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false
+s112a_hibi_01_alp_ovl.bmp,3451f5d2345a9f71ba74b8d128ba97bc715fe9f4,ad7114e6e68396a09d773036e671ccdc9394a742,true,Self Remade\Finalized\Dont demaster,false,true,5,remarci_4x,false,0,false
+s122a_fence_alp_ovl_01.bmp,6c0ff5d78be43e11a11fedba0b9d4ac3cfffd4b3,a7e110869de6fb26860c80cd35bfee2b506ab256,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false
+s171a_mo_fence_alp_ovl_rep_01.bmp,a0c501b97e8241b000209da05d94a892177cb443,3b4db529b97844abf60ea538ae8948385aef619b,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false
+s171a_mogi_fence_alp_ovl_rep_01.bmp,1b5aa35dca27b0fb0e89545e9f18a71d69871b69,657408d9dd2eb88e8f9a94c623821292f311cec7,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false
+s222a_america_01.bmp,951c1636bbe6475685834a75dc36f570efcbd417,f4a0bccbc9cc0276470361fb04d68f593bc14e7c,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,5,false
+sga_cigar01_brake.bmp,0aa6eb324390eb9ef0760b8c068de5c724ab122e,ae366bffb39eae6dfb00a8229b98094d4b61724b,true,Self Remade\Finalized\Self Remastered,true,true,5,remarci_4x,false,0,false
+sga_cigar_origin.bmp,912c8fd8d69cdf9f0338fa18f8ea4a27e54904ef,dcd5bba6a884ca7da749d3463cd4b0655f13640c,true,Self Remade\Finalized\Self Remastered,true,true,5,remarci_4x,false,0,false
+sna_def_hair_front_ovl_alp.bmp,78ff011a0b9505630ef0258b7316e99121a415f6,718a5bacaf78513b1f4b6dce6d17f0c2fe424311,true,Self Remade\Finalized\Dont demaster,false,true,5,remarci_4x,false,0,false
+sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310,2b1103fe94457be569cbb561277a30d0729b0fee,cbbc9880020945b82cf4e8e7b1fe253edbc577af,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x,false,0,false
+sna_face_cell_hi.bmp,7530ef8ce7c9df3f07f3a6d0bedbd210a411161c,e7ac57b7b51dd0831e3d36a94d4c2df7c4c2aff8,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false
+sna_face_dam_eye_ovl_alp.bmp,5f92318ff5553e2461499b67c9f132b49301bb8d,f0070c3a9e20aedc4e413f11b7361a492b331659,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false
+sna_face_ed_def.bmp,5c1643b300362f2207ecbb39624971083074d818,47d9a050ec472758a43164f7c658b8eee0858777,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false
+sna_face_vr_sta_ovl_alp.bmp,33c9ff540bcae94ab64fc0c79882490bd80b709d,3e4e8909dafc72f57d67c3fcb99995c730837cb0,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false
+sna_flirt_tiger.bmp,26bce004256f1b7f8fe42443763a4c5bacd941ca,523cae081f21dd11d1bd8f9b3eef7143fc6e082e,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false
+sna_foot_naked_flirt.bmp,f0cf58c6443f52b0efaade154a3b742081461af2,17a71b8d7a4b2e9a3c461e3dfacc2585d23f89e6,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false
+sna_foot_naked_tor.bmp,bcf9840ced61604419e4ba409135e3442a927ede,66c10e9bf6eb22f2109c53377218ee010bf04973,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false
+sna_foot_naked_tor.bmp_73f755c5eb2ba5efb9fbd155062db075,9639e3d0920a54b77927102fac23859f9eb116ba,21618b268ecd1f1241c93a6d3ce890011c6ffb85,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false
+sna_hair_back_ovl_alp.bmp,1466a9c24224b59ad4158b8b71ced69b76babfc1,519f1c67f91237d7b0ba800a23879c0da8d38857,true,Self Remade\Finalized\Not Demaster Fixed,false,true,5,remarci_4x,false,0,false
+sna_mgs3_bandana_def_ovl_alp.bmp,d436f19807724732842012b23241c314f2c278b5,78de37bc358037968e3fc26ac27841a1533454a0,true,Self Remade\Finalized\Dont demaster,false,true,5,remarci_4x,false,0,false
+sna_suit_tears.bmp,ed2e96ef7bb9c1bf8cc7a7d4838107d102d3512f,dc12cc0fdace72443cea516c5bc31c6442fa327d,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false
+sna_suit_tears_sub_ovl_alp.bmp,7c4112ddc408d4bd52b03f23f5199b5d9811182b,b1f15d59620430bd6286921104eadffd1085c813,false,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false
+sna_tears_ovl_alp.bmp,7b6909e8e494f7c507f87c1031081bb96b2eeb10,66d7d3a2a5d7250248c168538efe424ef63295a3,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false
