@@ -2291,20 +2291,6 @@ HAS ALPHA
 	00dbc0b4
 	00eb0221
 
----------- HAS ALPHA\mismatched sha1 ----------
-	drone_light_a_alpx2_add_ovl.bmp
-	gave_cus_marker_ovl_alpx2.trans.bmp
-	poster_omake02_alp_mod0001_alpx2_ovl.bmp
-	s001a_komorebi3_alpx2_ovl_rep_mod1001.bmp
-	s001a_tree_komorebi_alpx2_mod1001_ovl_rep.bmp
-	s002a_komorebi2_alpx2_ovl_rep_mod1001.bmp
-	s002a_tree_komorebi3_alpx2_ovl_rep_mod1001.bmp
-	s061a_komorebi2_alpx2_ovl_rep_mod1001.bmp
-	s061a_tree_lit2_alpx2_ovl_rep_mod1001.bmp
-	s063a_komorebi3_alpx2_ovl_rep_mod1001.bmp
-	yf_nozzle_a_ovl_alpx2.bmp
-	yf_nozzle_b_ovl_alpx2.bmp
-
 ---------- HAS ALPHA\no_mip_fixes ----------
 	a_craft_struc_sub_alp_ovl.bmp
 	a_micr_top_sub_ovl_alp.bmp
