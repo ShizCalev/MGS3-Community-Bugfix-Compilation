@@ -5620,6 +5620,7 @@ s000a_enkei_a02_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Textur
 s000a_riverhikari_a01_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s000a_riverhikari_a01_rep.bmp.png
 s000a_star1_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s000a_star1_alp_ovl_rep.bmp.png
 s001a_eld_eda_shd_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s001a_eld_eda_shd_alp_ovl.bmp.png
+s001a_enkei1_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\dxt5\mismatched sha1\s001a_enkei1_rep.bmp.png
 s001a_flr_moss02_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s001a_flr_moss02_alp_ovl.bmp.png
 s001a_fog_add_alp_ovl_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s001a_fog_add_alp_ovl_rep.bmp.png
 s001a_happa05_alp_ovl_mip8000.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\dxt5\mismatched sha1\s001a_happa05_alp_ovl_mip8000.bmp.png
@@ -7668,7 +7669,7 @@ s101a_table_entrance00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Tex
 s101a_tableb00_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\s101a_tableb00_alp_ovl.bmp.png
 s101a_tablec00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\s101a_tablec00.bmp.png
 s101a_tablec_cast00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s101a_tablec_cast00.bmp.png
-s101a_tablekit00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\mismatched sha1\s101a_tablekit00.bmp.png
+s101a_tablekit00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\s101a_tablekit00.bmp.png
 s101a_tesuri00.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\s101a_tesuri00.bmp.png
 s101a_text00_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\s101a_text00_alp_ovl.bmp.png
 s101a_text01_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\s101a_text01_alp_ovl.bmp.png
@@ -9796,7 +9797,7 @@ storehouse_shelf01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture
 storehouse_wall02.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\storehouse_wall02.bmp.png
 storehouse_wall_ray_alp_ovl01.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\storehouse_wall_ray_alp_ovl01.bmp.png
 storehouse_wallray_alp_ovl.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\same sha1\storehouse_wallray_alp_ovl.bmp.png
-stove_stand.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\mismatched sha1\stove_stand.bmp.png
+stove_stand.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\bp_remade\stove_stand.bmp.png
 stove_stand1.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\stove_stand1.bmp.png
 stove_stand2.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\stove_stand2.bmp.png
 straw10_rep.bmp,C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\same sha1\straw10_rep.bmp.png

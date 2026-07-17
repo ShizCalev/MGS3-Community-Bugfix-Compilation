@@ -21,13 +21,13 @@ C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPA
 
 
 
-
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\HAS ALPHA\bp_remade\no_mip_fixes
 
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\bp_remade
 C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\bp_remade\no_mip_fixes
 
 
-C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\DXT5\PS2 Source\mismatched sha1
-C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\DXT5\BP Remade fixes\standard
-C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\Self Remade\Finalized\DXT5\PS2 Source
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\mc textures\opaque\dxt5\bp_remade
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\OPAQUE\dxt5\mismatched sha1
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\dxt5
+C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\ps2 textures\HAS ALPHA\dxt5\mismatched sha1
