@@ -197,6 +197,7 @@ MANUAL_LIST = {
     "00d2be51",
     "00c615d8",
     "008d3d20",
+    "gunship_body.bmp",
     "00bd89a1.img",
     "options_save_volume_01",
     "options_save_volume_00",

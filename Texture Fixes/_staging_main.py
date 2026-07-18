@@ -30,7 +30,6 @@ PARAM_FOLDER = Path(r"C:\Development\Git\CTXR-Converter")
 NVTT_EXPORT_EXE = Path(r"C:\Program Files\NVIDIA Corporation\NVIDIA Texture Tools\nvtt_export.exe")
 
 DPF_DEFAULT = Path(r"J:\Mega\Games\MG Master Collection\Self made mods\Tooling\CTXR File Conversion\mgs_kaiser.dpf")
-DPF_DXT5 = Path(r"J:\Mega\Games\MG Master Collection\Self made mods\Tooling\CTXR File Conversion\mgs_dxt5.dpf")
 DPF_NOMIPS = Path(r"J:\Mega\Games\MG Master Collection\Self made mods\Tooling\CTXR File Conversion\mgs_nomips.dpf")
 
 CTXR_TOOL_PY = Path(r"C:\Development\Git\CTXR-Converter\ctxr3.py")
@@ -42,7 +41,6 @@ MANUAL_OPAQUE_TEXTURES_PATH = Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compi
 NEVER_UPSCALE_PATH = Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\never_upscale.txt")
 SHADOW_MAP_STEMS_PATH = Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\shadow_map_stems.txt")
 FORCE_EXTRA_SMOOTH_PATH = Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\force_extra_upscale_smoothing.txt")
-DXT5_STEMS_PATH = Path(r"C:\Development\Git\MGS3-PS2-Textures\Tri-Dumped\Master Collection\Metadata\mgs3_mc_dxt5_stems.txt")
 
 UPSCALE_STAGING_DIR = Path(r"C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Texture Fixes\_upscaling")
 UPSCALE_STAGING_DIR_STRIPPED_OPACITY = Path(
@@ -673,7 +671,7 @@ def sync_premade_dxt5_ctxr_to_staging_or_die(
 
 def upsert_premade_dxt5_rows(
     conversion_rows: list[dict[str, str]],
-    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool, bool]],
+    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool]],
     conversion_header: list[str],
     premade_ctxr_hash_by_name: dict[str, str],
     premade_origin_by_name: dict[str, str],
@@ -710,7 +708,6 @@ def upsert_premade_dxt5_rows(
         row["non_upscaled_version"] = NON_UPSCALED_PROCESS_VERSION
         row["ctxr3_converted"] = "false"
         row["npot_resized"] = "false"
-        row["dxt5"] = "false"
 
         conversion_map[stem] = (
             ctxr_hash,
@@ -723,7 +720,6 @@ def upsert_premade_dxt5_rows(
             "none",
             NON_UPSCALED_PROCESS_VERSION,
             True,
-            False,
             False,
             False,
             False,
@@ -776,45 +772,6 @@ def load_simple_stem_list_or_die(path: Path) -> set[str]:
         out.add(line.lower())
 
     return out
-
-
-def normalize_dxt5_filename_key(raw_name: str) -> str:
-    name = (raw_name or "").strip().strip('"').strip("'")
-
-    # Allow accidental CSV-ish/list output while still treating the first token
-    # as the filename. Do not strip .bmp; in this pipeline .bmp is part of the
-    # filename key for .bmp.png inputs.
-    if "," in name:
-        name = name.split(",", 1)[0].strip()
-
-    name = Path(name.replace("\\", "/")).name.strip().lower()
-
-    # dxt5_stems.txt is keyed by the same value used everywhere else in this
-    # script: image_path.stem.lower(). For files named like foo.bmp.png, that
-    # key is foo.bmp, so strip only the outer/container extension here.
-    for suffix in (".png", ".tga", ".ctxr", ".dds"):
-        if name.endswith(suffix):
-            return name[:-len(suffix)]
-
-    return name
-
-
-def is_dxt5_filename_key(filename_key: str, dxt5_filename_keys: set[str]) -> bool:
-    return normalize_dxt5_filename_key(filename_key) in dxt5_filename_keys
-
-
-def load_dxt5_filename_keys_from_path_or_die(path: Path) -> set[str]:
-    return {
-        key
-        for key in (normalize_dxt5_filename_key(name) for name in load_simple_stem_list_or_die(path))
-        if key
-    }
-
-
-def load_dxt5_filename_keys_or_die(path: Path) -> set[str]:
-    keys = load_dxt5_filename_keys_from_path_or_die(path)
-    log(f"[INFO] Loaded {len(keys)} DXT5 filename key(s) from {path}")
-    return keys
 
 def load_never_upscale_split_or_die(path: Path) -> tuple[set[str], set[str]]:
     if not path.is_file():
@@ -1236,14 +1193,14 @@ def origin_relative_to_required_subpath_or_die(image_path: Path) -> str:
 # mapping entry:
 # (before_hash, ctxr_hash, used_nomips_bool, origin_folder_string, opacity_stripped_bool, upscaled_bool,
 #  upscaler_version_str, upscaler_type_str, non_upscaled_version_str, upscaler_meta_present_bool,
-#  ctxr3_converted_bool, npot_resized_bool, filename_has_uppercase_bool, dxt5_bool)
+#  ctxr3_converted_bool, npot_resized_bool, filename_has_uppercase_bool)
 #
 # NOTE: CSV mipmaps column means "has mipmaps". Internally we track "used_nomips".
 # ==========================================================
 def load_conversion_csv_unique_or_die(
     csv_path: Path,
 ) -> tuple[
-    dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool, bool]],
+    dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool]],
     list[dict[str, str]],
     list[str],
     bool,
@@ -1266,7 +1223,7 @@ def load_conversion_csv_unique_or_die(
         header_has_upscaler_cols = ("upscaler_version" in header_lower) and ("upscaler_type" in header_lower)
 
         rows: list[dict[str, str]] = []
-        mapping: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool, bool]] = {}
+        mapping: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool]] = {}
         duplicates: list[str] = []
 
         for row in rdr:
@@ -1294,7 +1251,6 @@ def load_conversion_csv_unique_or_die(
 
             ctxr3_converted_raw = (row.get("ctxr3_converted") or row.get("Ctxr3_converted") or row.get("CTXR3_CONVERTED") or "").strip()
             npot_resized_raw = (row.get("npot_resized") or row.get("Npot_resized") or row.get("NPOT_RESIZED") or "").strip()
-            dxt5_raw = (row.get("dxt5") or row.get("Dxt5") or row.get("DXT5") or "").strip()
 
             if not filename:
                 continue
@@ -1313,7 +1269,6 @@ def load_conversion_csv_unique_or_die(
             # If the column is missing or blank, treat as false.
             ctxr3_converted = bool_from_csv(ctxr3_converted_raw) if ctxr3_converted_raw else False
             npot_resized = bool_from_csv(npot_resized_raw) if npot_resized_raw else False
-            dxt5 = bool_from_csv(dxt5_raw) if dxt5_raw else False
 
             name = filename.lower()
             if name in mapping:
@@ -1333,7 +1288,6 @@ def load_conversion_csv_unique_or_die(
                     ctxr3_converted,
                     npot_resized,
                     filename_has_upper,
-                    dxt5,
                 )
 
             rows.append(row)
@@ -1493,7 +1447,7 @@ def hash_images_unique_or_die(
 # ==========================================================
 def _needs_ctxr3_conversion_nonupscaled(
     stem_lower: str,
-    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool, bool]],
+    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool]],
 ) -> bool:
     entry = conversion_map.get(stem_lower)
     if entry is None:
@@ -1728,7 +1682,7 @@ def refresh_not_yet_converted_after_ctxr3(
 def launch_ctxr3_for_pending_or_die(
     image_files: list[Path],
     ctxr3_required_stems: set[str],
-    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool, bool]],
+    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool]],
     staging_folder: Path,
 ) -> None:
     # Used for:
@@ -2464,7 +2418,7 @@ def _dims_within_factor_wiggle(before: tuple[int, int], after: tuple[int, int], 
 
 def run_nvtt_exports_or_die(
     image_files: list[Path],
-    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool, bool]],
+    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool]],
     image_hash_by_name: dict[str, str],
     image_origin_by_name: dict[str, str],
     image_used_nomips_by_name: dict[str, bool],
@@ -2479,14 +2433,11 @@ def run_nvtt_exports_or_die(
     ctxr3_required_stems: set[str],
     nonupscaled_override_stems: set[str],
     extra_smooth_stems: set[str],
-    dxt5_stems: set[str],
 ) -> None:
     if not NVTT_EXPORT_EXE.is_file():
         raise RuntimeError(f"nvtt_export.exe not found: {NVTT_EXPORT_EXE}")
     if not DPF_DEFAULT.is_file():
         raise RuntimeError(f"Default DPF not found: {DPF_DEFAULT}")
-    if not DPF_DXT5.is_file():
-        raise RuntimeError(f"DXT5 DPF not found: {DPF_DXT5}")
     if not DPF_NOMIPS.is_file():
         raise RuntimeError(f"No-mips DPF not found: {DPF_NOMIPS}")
     if not PARAM_FOLDER.is_dir():
@@ -2515,6 +2466,7 @@ def run_nvtt_exports_or_die(
             nonupscaled_override_stems,
             image_origin_by_name,
         )
+
         if (not effective_upscaled) and (name in ctxr3_required_stems):
             skipped_ctxr3_managed_nonupscaled.append(img)
             continue
@@ -2554,6 +2506,7 @@ def run_nvtt_exports_or_die(
             nonupscaled_override_stems,
             image_origin_by_name,
         )
+
         if not effective_upscaled:
             nonupscaled_direct.append(img)
             continue
@@ -2846,7 +2799,6 @@ def run_nvtt_exports_or_die(
         "non_upscaled_version",
         "ctxr3_converted",
         "npot_resized",
-        "dxt5",
     ]
     conversion_header = ensure_csv_header_has_columns(list(conversion_header), needed_cols)
 
@@ -2863,7 +2815,6 @@ def run_nvtt_exports_or_die(
         out_ctxr = PARAM_FOLDER / f"{stem_lower}.ctxr"
 
         tmp_paths: list[Path] = []
-        is_dxt5 = is_dxt5_filename_key(stem_lower, dxt5_stems)
         effective_upscaled = get_effective_upscaled_flag_for_stem(
             stem_lower,
             staging_is_upscaled,
@@ -2883,6 +2834,7 @@ def run_nvtt_exports_or_die(
             nonupscaled_override_stems,
             image_origin_by_name,
         )
+
         def cleanup_param_ctxr():
             try:
                 if out_ctxr.is_file():
@@ -2908,10 +2860,7 @@ def run_nvtt_exports_or_die(
             manual_ui_textures,
         )
 
-        if is_dxt5:
-            used_nomips = False
-
-        dpf_to_use = DPF_DXT5 if is_dxt5 else (DPF_NOMIPS if used_nomips else DPF_DEFAULT)
+        dpf_to_use = DPF_NOMIPS if used_nomips else DPF_DEFAULT
         npot_resized = get_effective_npot_resized_for_stem(
             stem_lower,
             staging_is_upscaled,
@@ -3448,7 +3397,6 @@ def run_nvtt_exports_or_die(
             meta_present = bool(uv and ut)
             ctxr3_converted_val = bool_from_csv((r.get("ctxr3_converted") or "").strip()) if (r.get("ctxr3_converted") or "").strip() else False
             npot_resized_val = bool_from_csv((r.get("npot_resized") or "").strip()) if (r.get("npot_resized") or "").strip() else False
-            dxt5_val = bool_from_csv((r.get("dxt5") or "").strip()) if (r.get("dxt5") or "").strip() else False
 
             conversion_map[name] = (
                 (r.get("before_hash") or "").lower(),
@@ -3464,7 +3412,6 @@ def run_nvtt_exports_or_die(
                 ctxr3_converted_val,
                 npot_resized_val,
                 False,
-                dxt5_val,
             )
 
         log(f"[CSV] Appended {len(pending_rows)} row(s)")
@@ -3511,7 +3458,6 @@ def run_nvtt_exports_or_die(
                         "non_upscaled_version": non_upscaled_version,
                         "ctxr3_converted": "false",
                         "npot_resized": bool_to_csv(npot_resized),
-                        "dxt5": bool_to_csv(is_dxt5_filename_key(filename, dxt5_stems)),
                     }
                 )
             else:
@@ -3550,7 +3496,7 @@ def prune_csv_entries_missing_staged_ctxr(
     conversion_csv_path: Path,
     conversion_header: list[str],
     conversion_rows: list[dict[str, str]],
-    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool, bool]],
+    conversion_map: dict[str, tuple[str, str, bool, str, bool, bool, str, str, str, bool, bool, bool, bool]],
 ) -> int:
     staged_ctxr_stems: set[str] = set()
     for p in STAGING_FOLDER.iterdir():
@@ -3623,8 +3569,6 @@ def main() -> int:
         manual_ui_textures = load_manual_ui_textures_or_die(MANUAL_UI_TEXTURES_PATH)
         manual_opaque_textures = load_simple_stem_list_or_die(MANUAL_OPAQUE_TEXTURES_PATH)
         force_extra_smooth_stems = load_simple_stem_list_or_die(FORCE_EXTRA_SMOOTH_PATH)
-        dxt5_stems = load_dxt5_filename_keys_or_die(DXT5_STEMS_PATH)
-        log(f"[INFO] DXT5 filename list: {len(dxt5_stems)}")
 
         never_upscale_stems: set[str] = set()
         demastered_nonupscaled_override_stems: set[str] = set()
@@ -3771,9 +3715,6 @@ def main() -> int:
                     f"{len(ctxr3_required_stems)}"
                 )
 
-        if dxt5_stems:
-            ctxr3_required_stems.difference_update(dxt5_stems)
-
         mc_tri_dumped_dims_by_name = load_mc_tri_dumped_dimensions_or_die(MC_TRI_DUMPED_METADATA_CSV_PATH)
         extra_smooth_stems = build_extra_smooth_stems(
             staging_is_upscaled=is_upscaled_run,
@@ -3798,10 +3739,6 @@ def main() -> int:
                     manual_ui_textures,
                 )
                 image_used_nomips_by_name[stem_lower] = used_nomips
-
-        for stem in dxt5_stems:
-            if stem in image_used_nomips_by_name:
-                image_used_nomips_by_name[stem] = False
 
         for stem in premade_ctxr_hash_by_name.keys():
             image_used_nomips_by_name[stem] = False
@@ -3865,7 +3802,6 @@ def main() -> int:
                 "non_upscaled_version",
                 "ctxr3_converted",
                 "npot_resized",
-                "dxt5",
             ]
 
         needed_cols = [
@@ -3881,7 +3817,6 @@ def main() -> int:
             "non_upscaled_version",
             "ctxr3_converted",
             "npot_resized",
-            "dxt5",
         ]
         conversion_header = ensure_csv_header_has_columns(list(conversion_header), needed_cols)
 
@@ -3934,9 +3869,6 @@ def main() -> int:
                         row["non_upscaled_version"] = "0"
                     else:
                         row["non_upscaled_version"] = ""
-
-                if "dxt5" not in row or not (row.get("dxt5") or "").strip():
-                    row["dxt5"] = "false"
 
                 if "ctxr3_converted" not in row or not (row.get("ctxr3_converted") or "").strip():
                     row["ctxr3_converted"] = "false"
@@ -4089,7 +4021,6 @@ def main() -> int:
             csv_ctxr3_converted,
             csv_npot_resized,
             csv_filename_has_upper,
-            csv_dxt5,
         ) in conversion_map.items():
             img_before = image_hash_by_name.get(name)
             img_origin = image_origin_by_name.get(name)
@@ -4122,6 +4053,7 @@ def main() -> int:
                 demastered_nonupscaled_override_stems,
                 image_origin_by_name,
             )
+
             origin_ok = (str(csv_origin).strip().lower() == str(img_origin).strip().lower())
             mip_ok = (csv_used_nomips == img_used_nomips)
             before_ok = (csv_before == (img_before or "").lower())
@@ -4138,7 +4070,6 @@ def main() -> int:
                 img_used_nomips,
             )
             npot_resized_ok = (csv_npot_resized == current_npot_resized)
-            dxt5_ok = (csv_dxt5 == (is_dxt5_filename_key(name, dxt5_stems)))
 
             if current_upscaled:
                 upscaler_ok = bool(
@@ -4155,7 +4086,7 @@ def main() -> int:
             if (not current_upscaled) and (name in ctxr3_required_stems):
                 ctxr3_ok = (csv_ctxr3_converted is True)
 
-            if not (origin_ok and mip_ok and before_ok and opacity_ok and upscaled_ok and upscaler_ok and non_upscaled_ok and ctxr3_ok and npot_resized_ok and dxt5_ok):
+            if not (origin_ok and mip_ok and before_ok and opacity_ok and upscaled_ok and upscaler_ok and non_upscaled_ok and ctxr3_ok and npot_resized_ok):
                 early_mismatch_names.add(name)
 
         delete_failures = 0
@@ -4259,7 +4190,6 @@ def main() -> int:
                 ctxr3_required_stems=ctxr3_required_stems,
                 nonupscaled_override_stems=demastered_nonupscaled_override_stems,
                 extra_smooth_stems=extra_smooth_stems,
-                dxt5_stems=dxt5_stems,
             )
 
             if ctxr3_required_stems:
@@ -4312,7 +4242,6 @@ def main() -> int:
                 expected_ctxr3_converted,
                 expected_npot_resized,
                 expected_filename_has_upper,
-                expected_dxt5,
             ) = conversion_map[name]
 
             if expected_filename_has_upper:
@@ -4342,6 +4271,7 @@ def main() -> int:
                 demastered_nonupscaled_override_stems,
                 image_origin_by_name,
             )
+
             before_ok = (expected_before == (img_digest or "").lower())
             ctxr_ok = (expected_ctxr == (ctxr_digest or "").lower())
             mip_ok = (expected_used_nomips == current_used_nomips)
@@ -4359,7 +4289,6 @@ def main() -> int:
                 current_used_nomips,
             )
             npot_resized_ok = (expected_npot_resized == current_npot_resized)
-            dxt5_ok = (expected_dxt5 == (is_dxt5_filename_key(name, dxt5_stems)))
 
             if current_upscaled:
                 upscaler_ok = bool(
@@ -4376,7 +4305,7 @@ def main() -> int:
             if (not current_upscaled) and (name in ctxr3_required_stems):
                 ctxr3_ok = (expected_ctxr3_converted is True)
 
-            if before_ok and ctxr_ok and mip_ok and origin_ok and opacity_ok and upscaled_ok and upscaler_ok and non_upscaled_ok and ctxr3_ok and npot_resized_ok and dxt5_ok:
+            if before_ok and ctxr_ok and mip_ok and origin_ok and opacity_ok and upscaled_ok and upscaler_ok and non_upscaled_ok and ctxr3_ok and npot_resized_ok:
                 keeps.append(ctxr)
             else:
                 mismatches.append(ctxr)
@@ -4453,7 +4382,6 @@ def main() -> int:
             expected_ctxr3_converted = False
             expected_npot_resized = current_npot_resized
             expected_filename_has_upper = False
-            expected_dxt5 = is_dxt5_filename_key(name, dxt5_stems)
 
             if name in conversion_map:
                 (
@@ -4470,7 +4398,6 @@ def main() -> int:
                     expected_ctxr3_converted,
                     expected_npot_resized,
                     expected_filename_has_upper,
-                    expected_dxt5,
                 ) = conversion_map[name]
 
             try:
@@ -4491,7 +4418,6 @@ def main() -> int:
                         f"actual_non_upscaled_version={current_non_upscaled_version}"
                     )
                     log(f"  expected_npot_resized={bool_to_csv(expected_npot_resized)} actual_npot_resized={bool_to_csv(current_npot_resized)}")
-                    log(f"  expected_dxt5={bool_to_csv(expected_dxt5)} actual_dxt5={bool_to_csv(is_dxt5_filename_key(name, dxt5_stems))}")
 
                     if current_upscaled:
                         log(f"  expected_upscaler_version={(expected_upscaler_version or '').strip() or '<missing>'} actual_upscaler_version={current_upscaler_version}")
@@ -4579,7 +4505,6 @@ def main() -> int:
             ctxr3_required_stems=ctxr3_required_stems,
             nonupscaled_override_stems=demastered_nonupscaled_override_stems,
             extra_smooth_stems=extra_smooth_stems,
-            dxt5_stems=dxt5_stems,
         )
 
         if ctxr3_required_stems:
