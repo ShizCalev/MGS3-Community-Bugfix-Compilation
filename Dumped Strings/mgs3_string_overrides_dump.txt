@@ -1,0 +1,2908 @@
+===== Table 0 (41 entries) =====
+0x033ef41a : Switch between walking and running,
+0x057b8220 : but you'll make noise and give yourself
+away to nearby enemies.
+0x0abe80fc : and use stalking with 
+depending on the situation.
+0x157411ae : If you don't use the ,
+0x1b907c6b : You can use  to move without
+making a sound, but at the expense of
+speed.
+0x254790c4 : To interrogate an enemy, grab him from
+behind using CQC and press the  to put
+your knife to his throat.
+0x262891da : In most areas outdoors, your footsteps
+will create some noise even if you walk
+using .
+0x2ca3dd4a : When you are crawling, you can use
+ to crawl silently at the expense of
+speed.
+0x337071d6 : を押してストーキングで進めば、
+罠を踏む前に発見出来るはずだ。怪しそうな
+場所はストーキングで進むのもいいだろう。
+0x4103b767 : M63:
+American light machine gun.
+Press  to wield, and 
+press the  to fire.
+0x438cbfe3 : Use left and right on the  to
+shift left and right.
+0x43e931bc : Use the  to head in the direction you
+want to move. There are two movement
+speeds depending on how the  is used:
+walking or running.
+0x460e455e : If, after aiming, you wish to withdraw
+your aim without firing, press the .
+0x56c89cd3 : さらにでは移動速度は遅いが、
+ストーキング(無音移動)することが可能。
+0x585216c2 : Press the  to aim, then press the 
+to fire.
+0x6676fc9a : To open a door without creating any
+noise, use  to walk.
+0x6d6117a2 : You can use the  to move faster, but
+you'll create sound. Nearby enemies
+might notice you.
+0x6ef2cb29 : By using the  along with the , you
+can knock him to the ground.
+0x74982130 : 具体的には、進みたい方向へを
+押せばいいわ。
+0x79780978 : Use the  and press the  to throw the
+enemy to the ground.
+0x7e0c6aa4 : Fork:
+Used for eating. Press 
+to slash, press the  to
+stab. Animals and plants
+captured with this can be
+eaten on the spot.
+0x830b769a : When enemies are nearby, use 
+to move slowly.
+0x866f6ee4 : the  again while aiming.
+0x8eaa1023 : Survival knife:
+A large-bladed knife for
+close combat. Press  to
+slash, press the  to
+stab. Press  repeatedly
+to make a combo attack.
+0x8f58abc5 : The assault rifle works a little 
+differently from the handgun.
+0x92e5c036 : You can use the  to move faster,
+0xa4e08b00 : That way you can proceed with minimal
+disturbance.
+0xb66fd2c8 : You can use  to move in silence.
+0xbc382c42 : Scorpion:
+.32 caliber submachine
+gun. Press  to wield,
+and press the  to fire.
+Toggle semi/full-auto w/
+ in window.
+0xc27e9e6a : If you want to lower the weapon without
+firing, such as during a holdup, press
+0xc5f11ad3 : Patriot:
+The Boss' assault pistol.
+Press  to wield, and
+press the  to fire.
+Feeding mechanism in drum
+mag is ∞-shaped.
+0xc8c08bfa : Use  to walk.
+0xd2c005a4 : But all you need to do is press the
+ in the direction
+you wish to move.
+0xdce40fcc : If you use the  to move around
+stalking, you should be able to spot
+the traps before you step on them.
+0xe2fd9fa7 : your walking speed, but changes
+your speed when crawling and for
+intrusion movement.
+0xee4b8ba8 : Also, use the   to perform stalking that
+is slow, but noiseless.
+0xf81262c8 : Use the  while crouching or lying down
+to crawl. There are two types of
+movement, normal (making noise) and
+stalking (not making any noise),
+0xfc51e47b : If you need to sneak up behind an enemy,
+use the  to utilize stalking.
+0xfdd7fc99 : If you use the  and run towards a door,
+you will burst through it.
+0xfde1ce23 : How you use  not only changes
+0xffcc66e8 : depending on how the  is used.
+===== Table 1 (1041 entries) =====
+0x000e66b2 : or quickly press the  to unequip your
+weapon when you're about to get zapped.
+0x0037ab3b : Magazine:
+Empty magazine. Press 
+to hold, release to throw.
+How long  is pressed
+varies distance.
+0x00751d0d : To hide inside a locker, first open the
+locker by standing in front of it and
+pressing the .
+0x00cf2f38 : Ungenügend Speicherplatz auf dem Speichergerät. Zum Speichern sind mind. %d KB
+ freier Speicherplatz nötig. Spiel fortsetzen?
+0x00f4348d : Comprobando dispositivo de almacenamiento.
+0x01783889 : Um das Spiel zu speichern, benötigen Sie ein
+Speichergerät.
+0x022ab11c : 銃座から離れるにはもう一度#{、アクション}#を
+押せばいい。うまく使ってくれ。
+0x0271f8f2 : 夕バコ型麻酔ガス銃
+夕バコに偽装した麻酔ガス銃。
+敵を眠らせることが出来る。
+#{、武器}#で構え、離すと麻酔ガスを発射。
+0x033ef41a : Switch between walking and running with
+the ,
+0x03889dcf : No se encuentran los datos cargados. ¿Quieres sobreescribir los datos
+presentes en el dispositivo de almacenamiento?
+0x03a89a80 : To plant a C3 charge on a tank, equip the
+C3 and press the  when you're next to
+the tank.
+0x03ab9585 : The distance that you throw grenades and
+other throwable weapons is determined by
+how long you press the .
+0x04753681 : Line up the weapon icon with the lower
+right and press the  to put that weapon
+into your backpack.
+0x048691fe : ※これにあたるメッセージは今回表示しない
+0x0489c3ff : Use the  to fire. Press the  to
+focus in on a target. Just remember that
+they've got limited ammo.
+0x04e5119b : King Cobra meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x04efcd1d : Select "MAP" in the Survival Viewer to
+view a map of the area you're currently
+in.
+0x05281da4 : Try pressing the  near the oil drum.
+
+0x05347fa8 : Move the  to the left to see what's
+nearby on screen left,
+0x0535bf54 : UNLOCKED DOWNLOAD CAMO
+0x0549e69e : You can fire it as soon as you're in
+position,
+0x056e74ce : Use the  to control the trigger. You
+can also zoom in on a target by pressing
+the .
+0x057b8220 : but you'll make noise and give yourself
+away to nearby enemies.
+0x059276f1 : Aucun périphérique de stockage
+n'a été détecté.
+0x05b00ca9 : To use the scope, press the . You can
+also use the  to change the level of
+magnification.
+0x063ecbec : Press the  to fire. You can use
+ to zoom in on a target.
+0x0647a0e5 : Stand next to a gun emplacement and
+press the  to operate it.
+0x067bb05b : attach or detach the suppressor.
+0x06888978 : To give her some food to eat, select a
+food item from "FOOD" and press the , 
+then select "EVA".
+0x070355db : No hay datos en el dispositivo de almacenamiento.
+0x072012d7 : Press  once to throw a punch.
+0x074f9a6b : If you distract an enemy, you can
+occasionally make your way around them
+and infiltrate while avoiding combat.
+0x07dcdfd8 : When you're holding an enemy from behind,
+he'll be almost completely helpless.
+0x0867050d : If you get caught in a snare trap, press
+the . That will allow you to cut the
+rope.
+0x08a1b370 : Caricamento fallito! Controllare la
+periferica di memorizzazione e riprovare.
+0x08a7f808 : Press the  in front of any tree with
+vines attached to start climbing it.
+
+0x090f59de : Kein Speichergerät gefunden.
+Mindestens %d KB freier Speicherplatz nötig,
+um Daten zu speichern. Spiel fortsetzen?
+0x09c88f58 : Caricamento fallito! Inserire la
+periferica di memorizzazione usata
+per caricare i dati salvati.
+0x09e6e4ff : An unlocked camo uniform.
+0x09ffa353 : Camouflage
+Change clothes and blend in
+with the surroundings. Open
+the window and press the  
+to change camouflage.
+
+0x0a8e7cb5 : Fly Agaric:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x0a97eac8 : #{、アクション}#でロープを切って脱出するんだ。
+早く逃げろ！
+0x0abe80fc : and stalking with the  depending on
+the situation.
+0x0ac36d1a : ※これにあたるメッセージは今回表示しない
+0x0afd6477 : Speichergerät prüfen.
+0x0b836c18 : Use the  in overhead view to shift the
+camera view. Hold down the  in any
+direction and press the  to lock the
+view in place.
+0x0bf6beea : 枝の上や、手すりの前などで#{、アクション}#を押せば、
+そこへぶら下がることが出来る。
+0x0c4ff066 : But you can jump into the water with a
+roll or press the  to go underwater
+and swim your way through.
+0x0c782700 : 同時にを入力していれば、
+敵を地面に叩きつけることが出来るだろう。
+0x0c7a2568 : TNT:
+Explosive w/ remote 
+detonator. Press  to set. 
+Press  w/ TNT equipped to 
+detonate in the order set.
+0x0c8381e4 : ¿Guardar estos datos de
+camuflaje en el dispositivo de almacenamiento?
+0x0cdcc9ab : キーディスクを認識できませんでした。
+キーディスクを挿入しなおしてください。
+中止する場合はを押してください。
+0x0d10deb5 : From there, there are a number of things
+you can do.
+0x0d1ae747 : While you're disguised as Raikov, you
+can press the  to perform a salute.
+0x0d77df6f : #{、CQC}#を離さず押しっぱなしにすれば、
+右手で敵を掴まえる。
+0x0da471aa : Periferica di memorizzazione non trovata.
+Servono almeno %dKB per salvare
+i dati. Continuare con il gioco?
+0x0db8750c : Do this action in front of a door to open
+the door slightly and peek through the
+opening.
+0x0dbe10dd : Checking storage device.
+0x0e1b05eb : Then select CAMOUFLAGE and press the .
+0x0e54a114 : この時、カメラは自動的にイントルードカメラになる。立ち上がりたくなったらもう一度
+#{、ホフク}#を長く押し込めばいい。
+0x0eca8c20 : Live Arowana:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x0ee7701c : Un uniforme camouflé débloqué.
+0x0f29bcae : ※これにあたるメッセージは今回表示しない
+0x0f7cac4c : Speichere auf das Speichergerät. Speichergerät
+nicht entfernen und die Konsole
+nicht zurücksetzen oder ausschalten.
+0x0fb422b5 : Live Sunda Whistling-thrush:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x0fc563c4 : Nessun dato caricato trovato.
+Inserire la periferica di memorizzazione
+usata per caricare i dati salvati.
+0x0fe8ef8d : 水から上がるには、上がりたい場所の近くまで
+行き、立ち泳ぎの状態で#{、アクション}#を押せばいい。
+0x0ff12a2b : The machine gun...
+0x0ff8ae84 : Checking storage device.
+0x10612a65 : périphérique de stockage non trouvé.
+Connectez un périphérique de stockage.
+Sauvegarder de nouveau ?
+0x10b4134a : For the assault rifle and certain other weapons,
+pressing  will first ready
+the gun for shooting from the hip.
+0x10ce5188 : Coral Snake meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x10f0f82f : This way you use your body to push the
+door open.
+0x10f39024 : No se han encontrado datos cargados.
+Conecta el dispositivo de almacenamiento desde
+el que cargaste los datos guardados.
+0x1105fa20 : EZGUN
+特殊消音麻酔銃。#{、武器}#を押す
+と構え、離すと発砲。装備すると
+カムフラージュ率が高く保たれ、
+ス夕ミナも回復する効果がある。
+0x1113faff : Move the  on the radio
+screen...
+0x11a14372 : ※これにあたるメッセージは今回表示しない
+0x11f0f9f1 : Zum Speichern der Tarndaten wird mind.
+%d KB Speicherplatz auf dem Speicherplatz
+benötigt. Fortfahren?
+0x1272381e : Press the  while above the surface of
+water to dive under. It is possible to
+stay under as long as the O2 Gauge is not
+empty. Use the  to determine the
+0x127febe5 : ※これにあたるメッセージは今回表示しない
+0x12b260f1 : Select the weapon you wish to put on
+your person with the 
+0x12c10d87 : ロードしたデータが見つかりません。
+セーブデータをロードした際に使用した
+ストレージをセットしてください。
+0x12ef9304 : Espace libre insuff. sur le périphérique de stockage
+ Un minimum de %dKB est néc.
+pour sauv. les données Camouflage.
+0x1320d0ff : No Camouflage data present
+on storage device.
+0x13382818 : Live Giant Anaconda:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x13e4becb : M63。アメリカ製システムウェポンのベルト給弾
+軽機関銃バージョン。
+使用弾薬は5.56mm×45弾。装弾数は100発。
+0x13fbadab : Fork:
+Useful for removing bullets
+and arrows. Press the  
+to pull out the object.
+
+0x1404210a : ※これにあたるメッセージは今回表示しない
+0x140fccd1 : 武器ウィンドウを開いて#{、決定}#を押せば
+サプレッサーの付け外しが出来るはずだ。
+0x14eb1961 : Waving your torch around with the 
+should also work.
+0x151fc749 : ストレージにデータが見つかりません。
+このままゲームを開始しますか？
+0x155d1d61 : Press the  while crouching to stand up,
+and move the  to crawl in a direction.
+
+0x157411ae : If you don't press ,
+0x15ce2152 : ※これにあたるメッセージは今回表示しない
+0x15ef1c3b : Error occurred checking storage device.
+0x16128de3 : 対空機関砲の近くで#{、アクション}#を押せば
+砲座を奪うことが出来るわ。
+0x1614c64e : LIFE medicine:
+Developed by the USSR for
+soldiers. Restores LIFE.
+Press  in window to use.
+
+0x1672fbfd : RPG-7:
+Portable, anti-tank rocket
+launcher. Use scope w/ .
+Press  to hold, release
+to fire. Can't equip in
+prone position.
+0x16da888d : Single Action Army:
+.45 revolver. Press  to
+hold, release to fire. Aim
+one-handed w/ , do tricks
+w/  in 1st person view.
+0x16f40215 : Press the  or  to peek out right or
+left respectively.
+0x16fc8592 : Zurück zum Titelbildschirm.
+0x172d1854 : El dispositivo de almacenamiento no está formateado.
+¿Formatear dispositivo de almacenamiento y guardar
+datos de camuflaje?
+0x1765d126 : It is possible to hang down from cliffs,
+branches and other high places.
+0x17ac48ef : Bandage:
+Effective for treating
+burns, cuts, gunshot wounds
+and broken bones. Press
+the  to wrap around the
+wound.
+0x18502c68 : Nessuna periferica di memorizzazione trovata.
+0x1910a9f8 : A torch made from white birch soaked in
+turpentine. Press the  to swing it around
+as a weapon. Press the  to light/extinguish
+the torch.
+0x19666c0d : Vous avez tous les camouflages MGS3 téléchargeables.|
+Allez voir la liste des cam. DEBLOQUE.
+0x1978c87c : 装備して#{、武器}#押せば麻酔ガスを射出する。
+射程は短いが、ガスを吹き付けられた敵は
+その場で意識を失うはずだ。
+0x1993ef51 : Live Bigeye Trevally:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x19d3dd9b : Active Sonar:
+Sensor that detects life
+forms w/ sound waves. Press
+ to emit waves. Consumes
+battery power while used.
+
+0x1a1f45a1 : Veuillez connecter un périphérique de stockage.
+0x1a24429e : Speichergerät enthält bereits
+diese Tarndaten.
+Daten überschreiben?
+0x1a83d52c : Formatage en cours. Ne pas retirer le périphérique de stockage ou la manette, ni
+redémarrer ou éteindre la console.
+0x1ae4cd7f : ※これにあたるメッセージは今回表示しない
+0x1ae50052 : No storage device found.
+Continue with the game?
+0x1afd6ea0 : The RPG-7. A state-of-the-art Soviet portable
+anti-tank rocket launcher. The rocket-propelled
+grenade warheads utilize HEAT. Press the 
+to use the scope.
+
+0x1b032c4b : Russian False Mango:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x1b217452 : Tap  rapidly to choke the enemy.
+0x1b335911 : メモリーの中から会話したい相手を選んで
+#{、決定}#を押せば、毎回周波数を調整する
+必要なく交信することが出来るぞ。
+0x1b907c6b : With slight movements of the , you can
+move without making a sound, but at the
+expense of speed.
+0x1bcd3678 : The  controls the trigger. Beware,
+though - the ammo supply is limited.
+0x1bdcc0bf : Climbing Objects/Ladders
+0x1cb047ba : but if you use the  to look through
+the scope, you should be able to get a
+pretty accurate shot.
+0x1cc0445c : Ajuste le format d'image des cinématiques temps réel.
+0x1ceaaa40 : Snake, es ist kein Speichergerät angeschlossen.
+0x1d47d987 : and surgical treatment using the .
+0x1d9bd3dd : Move the  on the radio
+screen...
+0x1ddc20f7 : Press the  to switch between standing,
+crouching and lying down. Press the 
+twice rapidly or hold it down to instantly
+switch from standing to lying down
+0x1dfa9a53 : Live Taiwanese Cobra:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x1e595d4b : 同じ画面でを押しながらを動かせば、現在身につけている武器のアイコンを動かせる。
+0x1e670678 : le périphérique de stockage a été retirée lors
+de la sauvegarde. Ré-insérez le périphérique de stockage. Annuler l'écrasement?
+0x1e68e903 : By pressing , you can slit his
+throat using your knife.
+0x1eb5f1b6 : Disinfectant:
+Effective for treating
+cuts and gunshot wounds.
+Press the  to apply and
+prevent infection.
+0x1eea7e35 : Live Solidus:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x1effe970 : Live Liquid:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x1f0bb047 : Seleziona i dati Mimetica da 
+salvare
+sulla periferica di memorizzazione.
+0x20028b92 : ストレージの空き容量が足りません。
+セーブデー夕の保存には、%dキロバイト以上の
+空き容量が必要です。
+0x201fcbf1 : #{、攻撃}#を押して離せば投げることが出来る。
+この時、ボ夕ンを押した時間の長さで投擲距離
+が変わるってことを覚えておいてくれ。
+0x2030d048 : To camouflage yourself, first press the
+ to check out the Survival Viewer.
+0x205868a2 : 1943年に開発された7.62mm×39弾と、
+別の#{突撃銃、アサルトライフル}#用に完成していた30発入り
+箱型弾倉を使用する。
+0x207da9a2 : Suture Kit:
+Effective for treating
+cuts. Press the  to sew
+up the wound.
+0x2084a5e4 : Tienes camuflaje DPM.|
+Tienes camuflaje del desierto AUSCAM.
+0x20fe8b9b : Press the  or  on the
+radio screen...
+0x2166543b : 夕ンクにC3を設置するには、C3を装備して
+夕ンクの近くで#{、武器}#を押せばいい。
+うまくやってくれよ。
+0x219d3053 : ビハインドカメラの時に、銃を装備していれば
+#{、武器}#を押すことで飛び出し撃ちが可能だ。
+0x220e846d : Créer une nouvelle sauvegarde pour les
+données Camouflages sur le périphérique
+de stockage ?
+0x2242d8b8 : Aucune périphérique de stockage n'a été
+détecté. Insérez le périphérique de stockage
+utilisé pour charger les données.
+0x225552ad : #{、武器}#で地面に設置しておけば、
+獲物を捕らえることが出来るわ。
+0x2291f132 : Press the  to swing the knife. Press
+it repeatedly to perform a combo attack.
+0x22a2e8ae : Volver a pantalla de título
+0x2331a700 : ¡Error al cargar! Por favor
+comprueba el dispositivo de almacenamiento
+e inténtalo de nuevo.
+0x23637620 : With their comrade acting as a human
+shield, the enemy will be reluctant to
+attack you.
+0x23723b2d : Map
+Arrows are allies,  marks
+are items. The red and
+blue  marks are each
+team's goal.
+0x2384f614 : 松明
+シラカバに松やにを染み込ませた
+松明。#{、CQC}#を押すと振り、
+連打すると振り回す。#{、武器}#で
+着火／非着火の切替。
+0x23893e8d : Creare nuovi dati salvati sulla
+periferica di memorizzazione?
+Sì o No
+0x23e21de4 : Go into the Survival Viewer and press
+the  to enter Viewer Mode.
+0x242b821e : In the Memory Window, select a person to
+contact and press the .
+0x244ea6a7 : 機関銃は…|で…
+0x249664bc : Live Vampire Bat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x24b87fca : Freigeschaltet
+Freigeschaltete Tarnuniform.
+0x24c30b73 : Une erreur est survenue lors de la
+sauvegarde sur le périphérique de stockage.
+Sauvegarder de nouveau ?
+0x24ff5247 : Camouflage data on storage device
+is broken.
+0x254790c4 : To interrogate an enemy, grab him from
+behind using CQC and press the  to put
+your knife to his throat.
+0x254a919f : ※これにあたるメッセージは今回表示しない
+0x2565eb17 : To get information from an enemy, grab
+him from behind using CQC and press
+the .
+0x256b8d05 : La periferica di memorizzazione
+contiene già questi dati Mimetica.
+Vuoi sovrascrivere i dati?
+0x2571a9b0 : Vérification du périphérique de stockage.
+0x258854c3 : Saving data.
+Do not remove storage device,
+controller, or reset/switch off the console.
+0x25d23029 : When you press the  with the handgun,
+you aim, and when you release it, you
+fire.
+0x25e7ba2e : If you open the Item Window and press
+the ,
+0x26010038 : ビハインドの状態でを動かすと、その方向を伺うことが出来る。
+0x261b7b60 : Open the window and press the  to
+instantly replenish your LIFE. Useful,
+huh?
+0x262891da : In most areas outdoors, your footsteps
+will create some noise even if you walk
+slowly by using small movements of the .
+0x264305aa : you can use the  to look in a different
+direction without changing the direction
+you're going.
+0x273717e9 : Vérification du périphérique de stockage.
+0x274aa5d0 : Le périphérique de stockage n'est pas
+formaté. Formater le périphérique de stockage et sauvegarder?
+0x277602cb : バルトスズメバチの巣
+蜂蜜の詰まった蜂の巣。
+#{、武器}#を押すと構え、離すと
+投擲。#{、武器}#を押す長さで投擲
+距離が変わる。
+0x287567d5 : Echec de la vérification du périphérique de stockage ! Un minimum de %dKB est
+nécessaire pour sauvegarder. Continuer?
+0x28c3eb49 : No loaded data found. storage device 
+that was used
+to load the saved data.
+0x28e07404 : allowing you to observe things in the
+direction of movement.
+0x28f1d64c : Go into First Person View and use the .
+0x290c11f6 : Formatting storage device. Do not
+remove storage device, reset, or
+switch off the console.
+0x291bd4ea : Dragging Enemies
+0x292bedef : So connect your storage device.
+0x2931e354 : The enemy will be hesitant to attack
+as long as you're using one of their
+comrades as a human shield.
+0x29491326 : #{、アクション}#を押せば緊急浮上することも出来る。
+0x2985941c : 重傷は負いたくないだろう。#{握力、GRIP}#ゲージに
+気をつけろ。間違っても#{、ホフク}#を押して
+自分で飛び降りたりするなよ。
+0x29dafff8 : When you do, the camera automatically
+switches to Intrusion View.
+0x2a22a67e : Data on storage device is broken.
+0x2b0a9d26 : Un uniforme de camuflaje desbloqueado.
+0x2b509b2d : 俯瞰カメラの時にを動かせば、
+その方向に意識を向けることが出来るぞ。
+0x2b955315 : No Camouflage data present on 
+storage device.
+0x2ba89bb5 : Selecciona un dispositivo de almacenamiento para
+guardar
+ los datos de camuflaje.
+0x2bcca897 : Survival Knife:
+Useful for removing bullets,
+arrows or anesthetic
+needles. Press the  to
+pull out the object.
+
+0x2c50b1b2 : ※これにあたるメッセージは今回表示しない
+0x2c8c35b6 : Live Poison Dart Frog:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x2ca3dd4a : When you are crawling, use small movements
+of the  to crawl silently at the expense
+of speed.
+0x2ca7d835 : ストレージにデータをセーブしていま
+す。本体の
+電源OFFやリセットは
+行わないでください。
+0x2cae1444 : To plant a C3 charge, all you gotta do is
+equip the C3 and press the  while
+standing in front of a tank.
+0x2cc0b86e : Good. Then all you have to do is press the
+ to place the TNT and then press the
+ to set it off.
+0x2cf89044 : SVD:
+Dragunov sniper rifle. Use
+scope w/ . Press  
+to hold, release to fire.
+Adjust scope w/ .
+
+0x2d491bc3 : You can operate an anti-aircraft gun
+emplacement by standing next to it and
+pressing the .
+0x2dbfbd69 : Grenade:
+Blast fragmentation
+grenade. Press  to hold,
+release to throw. How
+long  is pressed varies
+distance.
+0x2de6450c : C3を設置するにはC3を装備して、
+夕ンクの前で#{、武器}#を押せばいい。
+0x2e57ceff : 主観を押して主観カメラを使え。
+主観でまわりをよく確認しながら進むんだ。
+0x2f0bb658 : Ration:
+Made in the USSR. Press 
+ to hold, release to 
+throw. How long  is 
+pressed varies distance.
+0x2f3e4034 : Beim Speichern der Tarndaten
+auf das Speichergerät ist ein Fehler
+aufgetreten. Noch einmal versuchen?
+0x2f5f65a9 : but it is safer since it will keep you
+from exposing your body too much.
+0x2ff45f4a : By pressing the  at the very moment
+The Boss launches a CQC strike, you can
+parry the attack.
+0x2ffcc17b : direction you are facing and repeatedly
+press the  to swim in that direction.
+Let go of the  to stop. Press the 
+up to swim up and down to
+0x30116801 : If you become unable to move,
+0x30a31c53 : When you're using the assault rifle, pressing
+ will hold it at waist level.
+0x30b6ebec : Un min. de %dKB d'espace libre est néc.
+sur le périphérique de stockage pour sauv.
+les données Camouflage. Continuer?
+0x30fba7d9 : This is an opportunity to gain
+intelligence.
+0x31050144 : セーブデータが壊れています。
+セーブデータをロードした際に使用した
+ストレージをセットしてください。
+0x313a91fc : Open the Weapon Window and press the 
+to switch between semi-auto, full-auto,
+and 3-shot burst modes.
+0x3170997f : を入力していなければ、
+そのまま敵の体をコントロールしながら
+背後に回り込み、喉元にナイフを突きつける。
+0x319a6751 : #{、CQC}#を1回押すとパンチを放つわ。
+そのまま連打すれば#{連携技、コンボ}#を繰り出す
+ことが出来る。
+0x31b42ecb : Tsuchinoko meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x31da8881 : Live Maroon Shark:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x32966414 : 使用する弾丸は7.62mm×39弾。
+装弾数は30発。
+0x32981872 : Speichergerät ist nicht formatiert.
+Speichergerät formatieren und
+speichern?
+0x32ad9409 : Markhor meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x32cc893f : Si è verificato un errore nel salvataggio 
+dei
+dati Mimetica sulla periferica di memorizzazione.
+Vuoi provare nuovamente a salvare?
+0x32f53e43 : Move the  in a direction during
+overhead view to look in that direction.
+0x32f65f03 : Collega una periferica di memorizzazione
+per salvare i dati Mimetica.
+0x330828e2 : From there, you can use  to knock
+your opponent off balance and throw him
+to the ground.
+0x337071d6 : を押してストーキングで進めば、
+罠を踏む前に発見出来るはずだ。怪しそうな
+場所はストーキングで進むのもいいだろう。
+0x33ed0d8c : Tarnung mit DPM-Muster erhalten.|
+Tarnung mit AUSCAM-Desert-Muster erhalten.
+0x345f29c1 : リアルタイムカットシーンの縦横比を調整します
+0x346331a0 : you'll be able to keep the nasty critters
+like hornets and leeches at bay for a
+brief period of time. Use it well!
+0x346dab9e : Salvataggio in corso sulla periferica di memorizzazione. 
+Non rimuovere la periferica di memorizzazione,
+non resettare o spegnere la console.
+0x349e907b : Caricamento dati Mimetica da
+periferica di memorizzazione.
+0x34c5d5c1 : Live Magpie:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x3515104f : Retour à l'Écran de titre.
+0x3524367e : You can still throw punches by pressing
+the  and launch combos by pressing it
+several times in a row.
+0x3534c2d1 : Swinging a torch around using the 
+should also work.
+0x35873a69 : 蘇生薬
+CIAが開発した諜報用内服薬。
+仮死薬による仮死状態から蘇生
+することが出来る。ウィンドウを
+開いて#{、決定}#で服用。
+0x36f8443a : Pas de données Camouflage présentes
+sur le périphérique de stockage.
+0x37136c29 : ※これにあたるメッセージは今回表示しない
+0x388833f7 : Use the  to choose the food you want
+to consume and press the  to eat it.
+0x388b55f4 : Smoke Grenade:
+Blinds enemies w/ smoke
+screen. Press  to aim,
+release to throw. How
+long  is pressed varies
+distance.
+0x38c9e198 : 主観で構えて#{、エイム}#を押せば、
+肩付けで狙いをつけることが出来る。
+0x39000b19 : By pressing , you can aim 
+your currently equipped weapon at
+another enemy.
+0x392ff78d : If you press the  while the  is
+pointed in a direction, you can lock the
+camera on that position.
+0x393cb443 : Hold down the  while near an enemy soldier
+and while equipping a CQC-ready weapon
+to put the enemy in a chokehold.
+
+0x39a08ea3 : ザ・ボスがCQCを仕掛けてきたら、
+その瞬間に#{、CQC}#を押して受け流すんだ。
+0x39b17bb3 : If you have a gun equipped during the
+Corner View, press the  to jump out
+and take a jumpout shot.
+0x39ba15be : Vuoi salvare questi dati Mimetica
+sulla periferica di memorizzazione?
+0x3a049c77 : DPM + AUSCAM%CAMOUFLAGE DPM ET DESERT AUSTRALIEN
+0x3a4dbe9b : Loading Camouflage data from
+storage device.
+0x3a57b92e : #{、CQC}#で松明を振り回すのも効果的ね。
+0x3a60392a : Solid meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x3a9a56c4 : Has conseguido el camuflaje de descarga MGS3. Consulta|
+la sección DESBLOQUEADO de las listas de camuflaje.
+0x3aa62129 : Conecta un dispositivo de almacenamiento.
+0x3abb2d4d : ※これにあたるメッセージは今回表示しない
+0x3ba8c107 : Press  once to throw a punch.
+Press it repeatedly to launch a combo
+attack.
+0x3c92a9a4 : RETOURNER AU MENU PRINCIPAL
+0x3cb62608 : Caricamento dati Mimetica da
+periferica di memorizzazione completato.
+0x3cb8da91 : Cold Medicine:
+Effective for treating
+colds. Press the  to use
+and alleviate symptoms.
+0x3ccc6f04 : #{、アクション}#を押せばEVAを呼ぶことも出来る。
+0x3d0903e4 : ※これにあたるメッセージは今回表示しない
+0x3d518472 : ストレージが抜き差しされました。
+元のストレージを接続してください。
+上書きセーブを中止しますか？
+0x3da31c46 : Speichern fehlgeschlagen! Bitte überprüfen
+Sie das Speichergerät und
+versuchen Sie es noch einmal.
+0x3db1b465 : No hay ningún dispositivo de almacenamiento conectado.
+¿Quieres continuar jugando?
+0x3debbc3f : When standing, press the  briefly to
+crouch, and press and hold to take a
+crawling position.
+
+0x3eb52dfc : ※これにあたるメッセージは今回表示しない
+0x3eed22af : 双眼鏡
+軍用の高性能双眼鏡。遠距離から
+偵察を行う事が出来る。装備する
+と使用。#{、アクション}#でズームイン、
+#{、武器}#でズームアウト。
+0x3f18010a : HAI SBLOCCATO SCARICA MIMETICA^CAMUFLAJE DE DESCARGA DESBLOQUEADO
+0x3f47002d : Errore nel rilevamento della
+periferica di memorizzazione.
+0x4103b767 : M63:
+American light machine gun.
+Press  to wield, and 
+press the  to fire.
+0x410acf10 : SVD。高い精度を誇るソ連製の最新鋭自動狙撃銃。
+7.62mm×54リムドカートリッジを使用。
+装弾数は10発。#{、エイム}#でスコープの使用。
+#{、アクション}#でスコープの倍率を切り替えることが出来る。
+0x41230e48 : ※これにあたるメッセージは今回表示しない
+0x4148d1e4 : This will gradually open the door and
+allow you to glimpse inside.
+0x41755299 : grapple with your enemy until you're
+behind them and can get your knife to
+their throat.
+0x4195da36 : Fehler beim Erkennen des Speichergeräts.
+0x41b48956 : Ocurrió un error al guardar los datos de
+camuflaje en el dispositivo de almacenamiento.
+¿Quieres intentarlo de nuevo?
+0x41e97066 : Les données sauvegardées sont
+corrompues. Insérez le périphérique de stockage utilisé pour charger les données.
+0x41f53b25 : Desbloqueado
+Uniforme de camuflaje desbloqueado.
+0x421238bf : Either fight without a gun equipped,
+0x4239cfa8 : Nessun dato presente sulla
+periferica di memorizzazione.
+0x42419ed5 : Live King Cobra:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x4253897b : Green Tree Python meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x4255c8fd : Seleziona la periferica di memorizzazione
+dove vuoi salvare i dati
+ Mimetica.
+0x42bb786a : The enemy will be knocked unconscious
+after being tossed.
+0x42d477c9 : El dispositivo de almacenamiento ya contiene estos
+datos de camuflaje. ¿Quieres
+sobrescribir los datos?
+0x43008941 : Choose the weapon you want to carry from
+the list and press the  to take it out
+of your backpack.
+0x43705e91 : Also, there are a variety of actions
+possible while hiding,
+0x438cbfe3 : Use left and right on the  to shift
+left and right.
+0x43aceef7 : Live Red Avadavat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x43e931bc : Tilt the  in the direction you want to
+move to start heading in that direction.
+There are two movement speeds depending
+on how far the  is tilted.
+
+
+0x4400f238 : Microfilm
+The target item in Sneaking
+Missions. Open the window
+and press the  to drop.
+
+0x441b7708 : ストレージに空き容量が足りません。
+セーブデー夕の保存には、%dキロバイト以上の
+空き容量が必要です。このままゲームを開始しますか？
+0x441c00ab : Hold the  and move to drag the body.
+Release the  to put the body down.
+0x4450ee27 : 立った状態からホフクをするには、
+#{、ホフク}#を長く押し込めばいい。
+0x4452501c : Keine geladenen Daten gefunden.
+Schließen Sie ein Speichergerät an, das zum
+Laden der Speicherdaten verwendet wurde.
+0x44a1c06f : Press  while the enemy is in a
+chokehold to slit their throat.
+0x44cb72c3 : で立ち/しゃがみ/ホフクを切り替える。
+0x44eb7e15 : Once an animal is on your person, equip
+it and press the  to throw it.
+0x44f01b91 : No storage device found. At least %dKB
+of free space is required to save data.
+Continue with the game?
+0x45561de2 : タイトル画面に戻る
+0x45c30b5c : ウィンドウを開いて#{、決定}#で使えば、
+その場でLIFEを回復することが出来るわよ。
+うまく使ってね。
+0x45c4f9bd : Maroon Shark meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x45cbfdd3 : The XM16E1. A state-of-the-art assault rifle
+currently being field-tested by the U.S. Army.
+Uses small caliber, high muzzle velocity 5.56
+x 45 ammunition. Magazine size is 20 rounds.
+Features several modifications geared toward
+jungle combat. Open the window and press the
+ to attach/detach a suppressor; press the 
+to switch between semi-auto, full-auto, and
+3-shot burst fire.
+
+0x460e455e : If, after aiming, you wish to withdraw
+your aim without firing, push the .
+0x469518a5 : You might be surprised at the things you
+can learn.
+0x46bbecd2 : あと砲座についている間は当然移動出来ない
+からな。敵が迫ってきたら#{、アクション}#を押して
+すぐに砲座から離れてくれ。
+0x46bf7861 : ※これにあたるメッセージは今回表示しない
+0x46d0742d : Emperor Scorpion meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x46e87584 : Snake, press the  down on the Radio
+Screen to open the Memory Window.
+0x4707182a : Formattazione fallita! Controllare
+la periferica di memorizzazione e riprovare.
+0x47399be1 : Grabbing an enemy from behind and
+holding your knife against his throat
+will render him virtually powerless.
+0x474fa529 : Saving to storage device. Do not
+remove storage device, reset, or
+switch off the console.
+0x47f0a2a4 : ※これにあたるメッセージは今回表示しない
+0x483178c7 : KEHREN SIE ZUM HAUPTMENÜ ZURÜCK
+0x4843a395 : シングルアクションアーミー
+45口径のリボルバー式拳銃。#{、武器}#
+を押すと構え離すと発砲。
+主観で構えて#{、エイム}#で
+片手で照準。
+0x490bcdab : Rat meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x49ae85f4 : Espace libre insuffisant sur le périphérique de stockage. Un minimum de %dKB est
+nécessaire pour sauvegarder les données.
+0x49c20d85 : Désolée, Snake. Il n'y a pas assez d'espace
+libre sur ce périphérique de stockage.
+0x4a54cbfa : 武器の一覧から、既に身につけている武器を
+選択して#{、決定}#を押せば、その武器を
+バックパックへ移すことが出来るわ。
+0x4ac6129d : Of course not. So when you require
+pinpoint targeting, like when firing from
+afar or sniping, hold  to aim.
+0x4ae7bbd9 : Kein Speichergerät gefunden.
+Spiel fortsetzen?
+0x4b55152b : If you want to stand up again, press and
+hold the  once more.
+
+0x4b62e683 : 扉を開けるには、基本的に扉へ向かって
+を入力して進んでいけばいい。
+そうすれば体で扉を押し開けることが出来る。
+0x4ba31553 : 状況が変わったんだ|まだ我々が生き残るチャンスはある
+0x4c93398b : Aucune périphérique de stockage
+n'a été détecté.
+Continuer sans sauvegarder?
+0x4cbb2f30 : You can take over an anti-aircraft gun
+the same way you take over a gun
+emplacement -- stand next to it and press
+the .
+0x4cc73cb6 : Vérification du périphérique de stockage.
+0x4d69248d : DPM- UND AUSCAM-DESERT-TARNUNG
+0x4d7f771b : Reticulated Python meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x4d9a659f : 戻したい武器のアイコンを右下に合わせて
+#{、決定}#を押すって方法もあるぜ。
+0x4db85b94 : Error occurred loading Camouflage data from
+storage device.
+0x4e0a9cf5 : #{、武器}#を押せばナイフを振るわ。
+ボ夕ンを連打すれば#{連携技、コンボ}#も繰り出せる。
+0x4e85255d : Errore durante controllo periferica di memorizzazione.
+0x4e894d3e : 動きを封じられてしまったら狙い撃ちにされる
+前にを回しボ夕ンを連打して蜂を
+振りほどけ。いいな！
+0x4ea5f6d8 : ストレージからデー夕をロードしています。
+0x4eca796f : Alternatively, you could try equipping a
+torch and waving it around with the .
+0x4f25638d : I dati salvati sono danneggiati.
+Inserire la periferica di memorizzazione
+usata per caricare i dati salvati.
+0x4f26fa2c : 枝の上で#{、アクション}#を押すとエルードで
+木にぶら下がることが出来る。
+0x4f474903 : In First Person View, use the  to take
+one step right, and the  to take a step
+left.
+0x4f782dfb : To attach a suppressor, open the Weapon
+Window and press the .
+0x4f907ca2 : move the  while pressing the  to move
+the icon for weapons that are already
+on your person.
+0x4f9f25c4 : In the Corner View,
+0x4fecc712 : Sorry, Snake. There doesn't seem to be any
+free space.
+0x506e4279 : EVAがうろの中に入った時は木に張り付いて
+#{、CQC}#でノックすれば出てくるはずだ。
+0x507d5056 : Live Tsuchinoko:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x5090617a : Cig gas-spray:
+Gas-spray gun disguised
+as a cigarette. Puts
+enemies to sleep.
+Press  to hold, release
+to emit gas.
+0x50954fff : The SVD. A Soviet-made automatic sniper rifle
+known for its high precision. Uses 7.62mm x 54
+rimmed cartridges. Magazine size is 10 rounds.
+Press the  to use the scope. Press the  to
+change the magnification ratio on the scope.
+0x50ab62ce : Storage device not found.
+Please connect hard disk drive.
+Try saving again?
+0x50b91aae : マーコール
+生け捕りにしたマーコール。
+#{、武器}#を押すと構え、離すと
+投擲。#{、武器}#を押す長さで投擲
+距離が変わる。
+0x510c1ecd : ツ夕の絡まった木は、ツ夕の前に立って
+#{、アクション}#を押せばよじ登ることが出来る。
+0x512d91a9 : RPG-7。ソ連の最新鋭携行用対戦車ロケット
+ランチャー。
+ロケット推進擲弾の弾頭には成形炸薬のHEATを
+使用している。
+#{、エイム}#でスコープの使用が可能。
+0x51ac3ae6 : Controllo periferica di memorizzazione.
+0x51b1c634 : "MAP" will serve you well.
+0x51d4da4f : Actions on Trees
+0x51daa56e : M37:
+12 gauge shotgun. Press
+ to hold, release to
+fire. Can blow away
+enemies.
+0x51ffa6a3 : If you don't move it, you can get behind
+the enemy and hold him prisoner.
+0x52211bda : Spazio libero insufficiente sulla periferica
+di memorizzazione. Sono richiesti almeno 
+%dKB di spazio libero per salvare i dati.
+0x524e2a88 : Live Emperor Scorpion:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x527058d2 : Aucune périphérique de stockage
+n'a été détecté.
+Continuer la partie ?
+0x528858af : ビハインドの状態で、#{、左ステップ}#または
+#{、右ステップ}#を押すと遮蔽物から身を
+乗り出して後方を確認することが出来る。
+0x5360fe03 : You need to connect the storage device
+ to save
+ the game.
+0x53848132 : hold down the  to...
+0x539b8500 : Russian Oyster Mushroom:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x53dd71db : You'll be surprised at how much you can
+learn this way.
+0x53e31119 : Sauvegarde des données. Ne pas retirer le périphérique de stockage ou la manette, ni
+redémarrer ou éteindre la console.
+0x53fb7db2 : If you want to drop down, press the .
+0x541acdf2 : You can either render him unconscious or
+kill him outright - it's up to you.
+0x54566f5e : Mk22:
+Tranquilizer gun. Puts
+enemies to sleep. Press
+ to aim, and release to
+fire. Attach/detach
+suppressor w/ .
+0x546a935d : No data present on storage device.
+Continue without saving?
+0x54730485 : Be aware, though, that the gun's ammo
+supply is limited.
+0x550728c5 : You can climb up onto waist-high objects
+by pressing the .
+
+0x55510a9c : マガジン。使用済みの空弾倉。
+#{、武器}#で投げることが出来る。
+0x5568ab95 : Inserta un dispositivo de almacenamiento
+para guardar los
+datos de camuflaje.
+0x55a6e434 : Per salvare i dati Mimetica servono
+almeno %dKB di spazio libero sulla
+periferica di memorizzazione. Continuare?
+0x55e5d5d6 : ストレージをチェックしています。
+0x565a2a8c : Parrot meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x567020a5 : In First Person View, you can press the
+ and  simultaneously to prop yourself
+up.
+0x56892e4e : により、この状態で縁を移動。
+十で懸垂、上を覗き込める。
+この状態で減少する握力ゲージが尽きるか、
+を押せば落下する。
+0x56c89cd3 : さらにでは移動速度は遅いが、
+ストーキング(無音移動)することが可能。
+0x57086cec : If you press the  and place the
+mousetrap on the ground, you might be
+able to catch something with it.
+0x5741d829 : The Grip Gauge will continue to decrease
+while hanging, and you will fall if it
+runs out. Press the  to let go and drop
+down while hanging.
+
+0x577b3ca9 : ※これにあたるメッセージは今回表示しない
+0x57a49f7b : Hold down the  while holding an enemy
+soldier in a chokehold to threaten them
+with a knife and get some information
+out of them.
+0x57daa698 : Espace insuf. sur le périphérique de stockage.
+Un minimum de %dKB est nécessaire pour
+sauvegarder les données. Continuer?
+0x57ef3c8b : Book:
+Publication w/
+adult-oriented material.
+Full of girly photos and
+interesting columns. Press
+ to set.
+0x580e7187 : Daten auf dem Speichergerät
+sind defekt.
+0x585216c2 : Press the  to aim, then press the 
+to fire.
+0x58cf3742 : マイクロフィルム
+ス二ーキングミッションの夕ーゲットアイテム。
+ウィンドウを開いて#{、キャンセル}#
+で捨てる。
+0x59135e07 : ロードされたセーブデータが見つかりません。
+ストレージ上に現在のセーブデータを
+上書きしてよろしいですか？
+0x59874ee2 : No se ha encontrado ningún dispositivo de almacenamiento.
+Conecta el dispositivo de almacenamiento desde el que
+cargaste los datos guardados.
+0x59b9612f : で…|ズームが…
+0x59e22308 : Los datos del dispositivo de almacenamiento están dañados.
+0x59fb6582 : Liquid meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x5a0c520e : Regola il formato video per le sequenze filmate in tempo reale.
+0x5a11fdf1 : Flying Squirrel meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x5a4351bb : Select a weapon on your person from the
+weapon list and press the  to put that
+weapon into your backpack.
+0x5a500337 : Quickly press the  after grabbing the
+enemy in a chokehold to use them as a
+human shield, leaving you free to fire.
+
+0x5af49d1c : を押すと…
+0x5b020784 : You should be able to grab your backpack
+if you hang from the branch by pressing
+the .
+0x5b1a2a5f : ストレージが見つかりません。
+セーブデー夕をロードした際に使用した
+ストレージをセットしてください。
+0x5b2e5faa : を押せば…
+0x5c0796c4 : Knock-out handkerchief:
+Handkerchief with knockout
+medicine. Puts restrained
+enemies to sleep in CQC.
+Can also disperse medicine
+with .
+
+0x5c7298b5 : with the ...
+0x5ccc9d9f : It is also possible to lock the direction
+you are facing by pressing the  in
+overhead view.
+
+0x5d02e80d : To put a weapon on your person back into
+your backpack,
+0x5d77b7b1 : Sauvegarde du périphérique de stockage
+en cours. Ne pas déconnecter le disque
+dur, réinitialiser ou éteindre la console.
+0x5d889205 : El dispositivo de almacenamiento no está
+formateado. ¿Quieres formatear
+el dispositivo de almacenamiento y guardar?
+0x5d9ebf88 : First, open the Survival Viewer with the
+.
+0x5f88d871 : Snake, there's no storage device connected!
+0x60362f97 : Use  at the same time and you can
+knock the enemy to the ground.
+0x606e4b9b : Red Avadavat meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x608bfaa4 : You can move the  while on your stomach
+to crawl in a particular direction.
+
+0x609132ad : You can change the magnification on the
+scope by pressing the .
+0x60b1aae4 : If you find a suppressor, open the Weapon
+Window and press the  to attach or
+detach it.
+0x61187e6d : Live Rat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x614c89f8 : Press the  while running to roll in the
+direction of movement. With rolling, it is
+possible to clear some small obstacles.
+
+0x619c01fb : Ajustar el tamaño de las escenas en tiempo real.
+0x62437c9a : Disarming Enemies
+0x62bd93de : Survival Knife:
+Useful for removing bullets
+and arrows. Press the  
+to pull out the object.
+
+0x630d8080 : Press the  or the  to move forward.
+0x6364596c : Otton Frog meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x639a459c : The Scorpion. A Czechoslovakian-made submachine
+gun. Uses 32ACP ammunition. Magazine size is
+20 rounds. Equipped with a laser pointer. Open
+the window and press the  to switch between
+semi-auto and full-auto fire.
+0x63ce74c1 : Fehler beim Prüfen des Speichergeräts.
+0x63e7dd8a : I dati sulla periferica di memorizzazione
+sono danneggiati.
+0x645f86d3 : ストレージにデータが見つかりません。
+0x647b1185 : Open the Weapon Window and press the 
+to attach or remove the suppressor.
+0x6494ca07 : White Phosphorous Grenade:
+Incendiary grenade. Lights
+enemies on fire. Press 
+to hold, release to throw.
+How long  is pressed
+varies distance.
+0x64cb2d69 : ※これにあたるメッセージは今回表示しない
+0x6545dbd9 : ¿Quieres crear un nuevo archivo
+para guardar información en el
+el dispositivo de almacenamiento? Sí o No
+0x65ca960c : This allows you to observe things without
+blowing your cover.
+
+0x65fa0e9b : Select storage device to save
+camouflage data.
+0x6639b81d : Keine Daten auf dem Speichergerät vorhanden.
+Spiel fortsetzen?
+0x6676fc9a : To open a door without creating any
+noise, move the  slightly.
+
+0x667c99a4 : Holdups
+0x667d9cee : Use the  to climb ladders... 
+0x66b6906b : Press the  to initiate the active
+sonar and emit a special sonic wave.
+
+0x66d3ebcd : Pas de données présentes sur
+le périphérique de stockage.
+0x66e991dd : Stand in front of a door in First Person
+View and use the  or  against the
+door.
+0x67222e03 : Wählen Sie die Tarndaten aus,
+um sie auf das Speichergerät
+zu speichern.
+0x675ef8b5 : Milk Snake meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x67aad628 : Storage device is not formatted.
+Format storage device and save?
+0x67ddd6f4 : Hai ottenuto il motivo mimetico DPM.|
+Hai ottenuto il motivo mimetico AUSCAM DESERTO.
+0x687a67cd : If the enemy gets too close for comfort,
+press the  and get out of the seat
+immediately. Is that clear?
+0x68aceebf : モ二夕ー
+予め設置された監視カメラからの
+映像を受信できる。と
+で映像を切り替える。
+0x68b6bcc5 : Press the  when you are on top of a
+branch or in front of a railing to hang
+down from that spot.
+0x68e42148 : TORNA AL MENU PRINCIPALE
+0x68f2bf13 : を|押しっぱなしにすると…
+0x692b7a29 : Giant Anaconda meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x6930bf21 : Press the  when you're swimming on the
+surface to dive underwater.
+0x6a14e75b : ¡Error en el dispositivo de almacenamiento! Comprube el
+dispositivo de almacenamiento e inténtalo de nuevo.
+0x6a4db079 : ¡Error al comprobar el dispositivo de almacenamiento!
+Para guardar datos hacen falta
+al menos %dKB libres. ¿Quieres jugar?
+0x6a8f0fdd : Bitte das Speichergerät anschließen,
+um die
+ Tarndaten zu speichern.
+0x6b22b805 : Retrieving downloaded Camouflage list
+from storage device.
+0x6bc442b9 : Calorie Mate:
+A balanced nutrition food.
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x6bce6ea2 : Live Milk Snake:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x6bde7f44 : Insufficient free space on storage device.
+At least %dKB of free space is required to
+save data. Contiune with the game?
+0x6c99e588 : Errore durante caricamento dati Mimetica
+da periferica di memorizzazione.
+0x6d3c2d1f : If you're attacked by hornets, wiggle
+the  around and wave your survival
+knife to shoo them away.
+0x6d45f37c : Antidote:
+Effective against food
+poisoning. Press the  to
+use and neutralize toxins.
+0x6d6117a2 : With large movements of the , you move
+faster, but create sound. Nearby enemies
+might notice you.
+0x6d684b99 : Speichergerät wurde während des
+Speicherns entfernt. Speichergerät
+ wieder anschließen. Überschreiben abbrechen?
+0x6d731d06 : Once you're in position, press the  to
+look through the scope. The trigger is
+the , as usual.
+0x6d8628b9 : To move forward underwater, press either
+the  or the .
+0x6e2afb97 : That'll have to do for now.
+0x6e39894f : You can also use the  to change the
+point of view and get a clearer picture
+of your surroundings.
+0x6e3ac750 : No se encontró ningún disco
+duro. Debes conectar uno.
+¿Quieres intentarlo de nuevo?
+0x6e77582e : La periferica di memorizzazione non è formattata.
+Vuoi formattare la periferica di memorizzazione
+e salvare i dati Mimetica?
+0x6e90ee21 : 対空機関砲の近くで#{、アクション}#を押せば、
+砲座を奪うことが出来る。
+0x6eebef2e : 無線画面でか|を押すと…
+0x6ef2cb29 : By moving  along with , you can
+knock him to the ground.
+0x6f1f514d : ハシゴはで|登れる…
+0x6f258f85 : Press the  to climb the tree and
+retrieve your backpack. Is that clear?
+0x6f47fb0e : Snake, non c'è alcuna periferica
+di memorizzazione collegata!
+0x6f4bdf2c : ストレージのフォーマット中に
+エラーが発生しました。
+0x6f71fbd7 : Press the  in front of a
+drum barrel...
+0x6f7d7a1b : Live European Rabbit:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x6fd74a7f : ホフクのままを入力すれば、
+その方向へホフクで移動していくことが可能だ。
+0x6ff18cdc : ストレージが見つかりません。
+セーブデータの保存には、%dキロバイト以上の
+空き容量が必要です。このままゲームを開始しますか？
+0x7060f60d : Splint:
+Effective for helping
+broken bones to heal. 
+Press the  to set the
+break and fix it in place.
+0x726c74af : Single Action Army:
+.45 caliber revolver.
+Press  to hold, release
+to fire. Aim one-handed w/
+ in 1st person view.
+0x731e356a : Ointment:
+Effective for burn
+treatment. Press the  to
+apply. Protects wounds 
+and aids tissue repair
+and regeneration.
+0x73b3f601 : Equip food as a weapon and press the 
+to throw the food.
+0x73ddb676 : あとは#{、武器}#で引き金を引けば発射薬で
+ランチャーから擲弾が撃ち出される。
+0x7409df25 : In Amerika wird sie als widerliche
+Verräterin ohne Sinn für Ehre gelten ...
+0x741341ba : Then use the  to spin your body around.
+Do that long enough and you'll start to
+get dizzy.
+0x745234c6 : ※これにあたるメッセージは今回表示しない
+0x746d6ccd : Sbloccato
+Mimetica sbloccata.
+0x74982130 : 具体的には、進みたい方向へを
+押せばいいわ。
+0x74cd54dc : Use the  to climb ladders...
+0x74d2f9cd : Laden gescheitert. Bitte überprüfen Sie
+das Speichergerät und versuchen
+Sie es noch einmal.
+0x74eed7ac : ※これにあたるメッセージは今回表示しない
+0x74fef3ab : You can climb any ivy-covered tree by
+standing in front of the ivy and pressing
+the .
+
+0x75118526 : To eat food, press the  to enter the
+Survival Viewer, then select FOOD.
+0x7537a8a7 : To get out of the water, move next to the
+place from which you want to emerge.
+0x757bb5bc : Live Kenyan Mangrove Crab:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x75a00047 : Carga satisfactoria de los datos de camuflaje
+del dispositivo de almacenamiento.
+0x7675cbb2 : Saved data that was loaded is not found.
+Overwrite the present saved data on
+the storage device?
+0x76a0dc78 : Flamethrower
+Lightly press the  to
+hold, and press strongly
+to attack with a stream
+of flame.
+0x76ade753 : Formatting storage device.
+Do not remove storage device,
+controller, or reset/switch off the console.
+0x772572c8 : Live Indian Gavial:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x778257db : Live Thai Cobra:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x77a7b7b7 : Make sure you don't slip up and
+accidentally press the  and let
+yourself go.
+0x77cbc3b6 : Press the  to switch to the First
+Person View.
+0x789b27c2 : Press and hold down  to grab your
+opponent with your right hand.
+0x78d93d5b : Kein Speichergerät gefunden.
+0x7917dd99 : Adjust aspect ratio for Real-Time Cutscenes.
+0x7928dfca : ケロ夕ン
+キャプチャーミッションの夕ーゲットアイテム。
+ウィンドウを開いて#{、キャンセル}#
+で捨てる。
+0x7948265c : Press the  to place it on the ground.
+0x79619525 : In a pinch, you can press the  to
+quickly rise to the surface.
+0x79780978 : Move  and press  to throw the enemy
+to the ground.
+0x79d1f334 : Come back a little bit later, and there
+might be a frog or a snake caught in
+there.
+0x79f5cd4c : は方向転換だ。
+上下左右でそれぞれの方向へ体を向ける。
+0x7a562ee4 : To move away from a gun emplacement,
+just press the  again. Use it when you
+need the upper hand.
+0x7a8a7e03 : Gespeicherte Daten sind defekt. Schließen Sie ein Speichergerät an, das zum Laden der
+gespeicherten Daten verwendet wurde.
+0x7b1bb76a : If you get a chance, try interrogating a
+scientist. He might have some valuable
+information for you.
+0x7b80db4d : Vampire Bat meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x7c0fd1ee : When there is a railing, face the edge
+and press the  to jump over it and
+hang down.
+
+0x7c26f4b2 : Para guardar la partida, necesitas un
+dispositivo de almacenamiento.
+0x7cd12acb : Storage device already 
+contains this
+ camouflage data. 
+Overwrite data?
+0x7ce85b7f : At least %dKB of free space is needed
+on storage device to save camouflage
+data. Continue?
+0x7db82f36 : While hanging, press the  with certain
+weapons like a handgun to fire it
+one-handed.
+0x7e0c6aa4 : Fork:
+Used for eating. Press 
+to slash, press the  to
+stab. Animals and plants
+captured with this can be
+eaten on the spot.
+0x7e2546c6 : を入力していなければ、
+そのまま敵の背後に回り込み、
+拘束することが可能だ。
+0x7e289a71 : Then rotate the  to spin your body
+around and eventually you'll start
+feeling queasy.
+0x7e423cc5 : Formattazione periferica di memorizzazione. Non
+rimuovere periferica di memorizzazione e controller.
+Non resettare/spegnere la console.
+0x7e4bbbc4 : A mousetrap. A trap equipped with bait to lure
+small animals and capture them alive. Press the
+ to set the trap. It will automatically
+capture small animals alive.
+Crawl over a trap to pick it up.
+0x7e637134 : Tu as besoin d'un périphérique de
+stockage pour sauvegarder ta partie.
+0x7e8a0c80 : Live White-rumped Vulture:
+Press  to hold, release
+to throw. How hard  is
+pressed varies distance.
+0x7e8e1553 : Solidus meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x7ecaf75a : No storage device found. Connect the 
+storage device that was used
+to load the saved data.
+0x7f5c6c6c : Save this camouflage data to 
+storage device?
+0x7f66dba5 : 別のストレージをセットしてください。
+0x7f9b0b57 : press the First Person  to...
+0x7f9f3321 : ストレージが見つかりません。
+セーブせずに終了してよろしいですか？
+0x7fd9f0d6 : Loading Camouflage data from storage device successfully completed.
+0x800118f8 : A used ammo magazine. Press the  to throw it.
+
+0x80b8a120 : Pentazemin:
+Benzodiazepine anti-anxiety
+medication. Serves as a
+muscle relaxant, treats
+autonomic imbalance. Use
+w/  in window.
+0x812fb9c5 : Enemy Heavy Weapons
+0x8148e4d9 : Thai Cobra meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x814e01d2 : No hay datos en el dispositivo de almacenamiento.
+¿Quieres continuar sin guardar?
+0x81a483a0 : Neue Datei auf dem Speichergerät
+erstellen?
+Ja oder Nein
+0x81b5268e : Golova:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x821656f9 : Overhead View
+0x824b4863 : Revival Pill:
+Espionage pill developed
+by the CIA. Can wake up
+from fake death. Use w/
+ in window.
+
+0x824bbe4a : It's got a short range, but any enemy
+that gets hit by the gas will be knocked
+out cold.
+0x825e5ea2 : 武器ウィンドウを開いて#{、アクション}#を押せば
+セミオート、フルオート、3点バーストの
+切り替えが出来るはずだ。
+0x830b769a : When enemies are nearby, move with slight
+movements of the .
+0x8341785b : ストレージをフォーマットしています。
+ストレージの抜き差し、本体の電源OFFや
+リセットは行わないでください。
+0x835b914d : この時を入力していると、
+その場で敵のバランスを崩し地面に叩きつける。
+敵を一撃で気絶させることが出来るわ。
+0x83625f73 : Sauvegarder les données Camouflage
+sur le périphérique de stockage ?
+0x83886fe2 : Monitor
+Displays video from
+previously installed
+security cameras. Press
+the  and  to switch
+channels.
+
+0x83a56edb : Nessuna periferica di memorizzazione trovata.
+Collega la periferica di memorizzazione usata
+per caricare i dati salvati.
+0x83ba9b2d : Load failed! Connect storage device
+that was used to load the saved
+data.
+0x83eb168b : You can also press the  and  at the
+same time to stand on your tiptoes and
+check the surrounding area.
+0x845ecda3 : C3:
+Plastic explosive. Press
+ to set near warehouse
+liquid fuel tanks. Can be
+set on liquid fuel tanks
+only.
+0x845f636b : Débloqué
+Uniforme camouflé débloqué.
+0x84a5fc5b : Select camouflage data to save to
+storage device.
+0x84cd77df : ※これにあたるメッセージは今回表示しない
+0x84e92cc6 : ドアをでノック…
+0x84ffffab : Salvataggio... Non rimuovere la
+periferica di memorizzazione né il controller
+e non resettare/spegnere la console.
+0x8527d634 : Tarndaten auf dem Speichergerät
+sind defekt.
+0x85ee03a9 : Use the  to control your direction.
+0x85efed80 : Equip the weapon in First Person View
+and press  to aim the gun
+from the shoulder.
+0x862679e0 : From the chokehold, several further
+options are available.
+0x8657f566 : No storage device was found.
+0x866f6ee4 : the  again while aiming.
+0x86c9d171 : zoom...with the ...
+0x873459d7 : Sélectionner les données Camouflage
+à sauvegarder sur le périphérique de stockage.
+0x876c5636 : On the same screen,
+0x879ef741 : またビハインドからはで覗き込み、#{、武器}#で飛び出し撃ちなど、
+さまざまなアクションを行うことも出来る。
+0x87b30b4f : With the , you can light and extinguish
+the torch, so make sure that thing is out
+if an enemy is closing in. Get used to it.
+0x87e85d33 : You can also press the  to surface in
+an emergency.
+0x87f28d3d : Press the  and  at the same time to
+do a pull-up and peek over the edge.
+
+0x8820bfd3 : No data present on storage device.
+0x8836af51 : Magpie meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x886e873c : Arowana meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x8875ee3d : Sélectionner le périphérique de stockage
+pour sauvegarder les données
+Camouflage.
+0x889bab5e : AK-47:
+Soviet assault rifle.
+Hold in 1st person view &
+shoulder-aim w/ .
+Toggle semi/full-auto w/
+ in window.
+0x88b90563 : グレネードを装備してビハインドの状態から
+#{、武器}#を押せば、遮蔽物に隠れながら
+グレネードを投げることが出来る。
+0x88beaf2d : Cigar:
+Useful for removing leeches
+attached to the body. Press
+the  to press the cigar
+against the leech.
+
+0x891d1f5d : Remove your disguise temporarily and use
+CQC to grab a scientist, then press .
+0x89a37194 : 水中での前進は#{、CQC}#か#{、ホフク}#だ。
+は方向転換だぞ。
+0x89f70f57 : Hold down  to change to First Person
+View. While in First Person View, the 
+controls the viewing direction. It is also
+possible to attack in
+0x8a81578e : Wähle das Speichergerät,
+um die Tarndaten zu speichern.
+0x8aeb0012 : Comprobando dispositivo de almacenamiento.
+0x8b17cf4d : No data present on storage device.
+Continue with the game?
+0x8b5418b7 : Mk22
+麻酔銃。敵を眠らせることが
+出来る。#{、武器}#を押すと構え
+離すと発砲。ウィンドウを開いて
+#{、決定}#でサプレッサーの脱着。
+0x8bd3893b : DPM迷彩(UNIFORM)を入手しました。|
+AUSCAMデザート迷彩(UNIFORM)を入手しました。
+0x8c20f566 : Comprobando dispositivo de almacenamiento.
+0x8c234160 : Press the  during a run to commence
+a roll.
+0x8c57ac84 : Press the  or |on the radio screen...
+0x8c6f9a1f : ドラム缶の近くで#{、アクション}#を押してみろ。
+0x8cfc497e : VUELVE AL MENÚ PRINCIPAL
+0x8d2864d5 : Formatiert Speichergerät. Speicher-
+gerät u. Controller nicht entfernen u.
+Konsole nicht zurückstellen o. abschalten.
+0x8d49396b : Survival Knife:
+Effective for treating
+gunshot wounds, arrow
+wounds and bullet bees.
+Press the  to pull out
+the object.
+
+0x8db31603 : Aucune périphérique de stockage détecté. Un
+minimum de %dKB est nécessaire pour
+sauvegarder les données. Continuer?
+0x8dbc7ae0 : Seitenverhältnis für Echtzeit-Zwischensequenzen einstellen.
+0x8de1d082 : Return to title screen.
+0x8e3e7539 : 解除済み
+解除済みのカムフラージュ
+0x8e43883b : Create new save data on
+storage device?
+Yes or No
+0x8e664b3f : Comprobando dispositivo de almacenamiento.
+0x8eaa1023 : Survival knife:
+A large-bladed knife for
+close combat. Press  to
+slash, press the  to
+stab. Press  repeatedly
+to make a combo attack.
+0x8f0858b6 : Erreur de périphérique de stockage !
+Veuillez vérifier le disque
+dur et ré-essayer.
+0x8f58abc5 : The assault rifle works a little
+differently from the handgun.
+0x8fc36ff3 : The Mk22. A modified special ops tranquilizer
+version of the Mk22, a suppressor-equipped gun
+being developed by the Navy. Because it uses
+a slide lock mechanism for added suppression
+capability, it can only be fired once before
+reloading.
+Open the window and press the 
+to attach/detach a suppressor.
+
+0x8fd73da6 : Diese Tarndaten auf das
+Speichergerät speichern?
+0x8fee38f4 : Press the  in First Person View with
+certain weapons to improve the accuracy
+over regular aiming.
+
+0x904da7f0 : Formateando el dispositivo de almacenamiento.
+No extraigas el dispositivo de almacenamiento o el
+mando ni resetees o apagues la consola.
+0x90c06cbb : For example, if you're heading north,
+move the  up and press the  to lock
+the camera,
+0x910524c8 : Bigeye Trevally meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x91767ceb : ストレージからのデー夕のロードが
+正常に終了しました。
+0x9188213d : Yeah. I can use it with the  the same
+way I use the survival knife.
+0x91e1da4f : ネヴァダの語源はスペイン語の形容詞で…
+0x91f9d323 : Continue to hold the  in the direction
+of hallway corners or tree trunks to
+press up against them and enter into a
+reverse facing corner view.
+0x9248c2d8 : 火炎放射器
+#{、武器}#を軽く押すと構え、
+強く押し込むと炎を噴射して
+攻撃する。
+0x92bad8b9 : #{、アクション}#を押せば緊急浮上することも可能だ。
+0x92e5c036 : With large movements of the ,
+you can move faster, 
+0x9395d371 : By continuing to hold down , you
+can move around while keeping your grip
+on the enemy.
+0x94674e81 : ※これにあたるメッセージは今回表示しない
+0x94b12292 : Healing is divided into treatment using
+medicine with the 
+0x94c9a4b8 : or from lying down to standing.
+0x94cc7ea0 : 装備して#{、CQC}#を押せば、
+敵を殴りつけることも出来る。
+0x9514a7a3 : Error detecting the storage device.
+0x9527dfe3 : Kein Speichergerät gefunden.
+Bitte Speichergerät anschließen.
+Noch einmal versuchen?
+0x9550977c : press the  above branches...
+0x9555d395 : 解毒剤
+食中毒を治すことが出来る。
+#{、決定}#で服用することで、
+解毒剤中の抗体が毒性食物に
+含まれている毒を中和する。
+0x9567d41b : 形は似ているけれど、内部メカは独自のものよ。
+弾薬もAKより強力で精度の高い7.62mm×54
+リムドカートリッジを使用するわ。
+0x95685399 : ストレージの検出でエラーが発生しました。
+セーブデータの保存には、%dキロバイト以上の
+空き容量が必要です。このままゲームを開始しますか？
+0x95897a6f : Storage device was removed during
+saving. Re-connect storage device.
+Cancel overwriting?
+0x958e4d52 : 使用弾薬はモシン・ナガンと同じ7.62mm×
+54リムドカートリッジだが、集弾性能を
+高めた新しい弾丸もセットで開発されている。
+0x9594d6ec : 発砲は#{、武器}#だ。#{、エイム}#を押せば
+標的に集中することも出来る。
+ただし弾切れには注意してくれよ。
+0x95ecfd3c : ストレージへのデータのセーブ中に
+エラーが発生しました。
+0x95f77b9c : Echec du chargement! Veuillez vérifier
+le périphérique de stockage et ré-essayer.
+0x963c51a9 : In a battle situation, you'll only have
+a split second to decide how to attack.
+0x96922469 : This can be used to knock an opponent
+out in a single blow.
+0x9699fdcb : サバイバルビュアーに入るには
+を押せばいいわ。
+0x96a96229 : Eine freigeschaltete Tarnuniform.
+0x96c8439d : To come out of the locker, just press
+the  again.
+0x96ed8724 : It is also possible to hang down from
+nearby branches by getting close to one
+and pressing the .
+
+0x97150983 : Some of your enemies have valuable
+information, so give the technique a try,
+and see what you can learn.
+0x9786c774 : Pas de données présentes sur le périphérique de stockage. Continuer avec la partie?
+0x9787a258 : Vuoi creare un nuovo file di
+salvataggio per i dati Mimetica
+sulla periferica di memorizzazione?
+0x978a1bf3 : Hornet nest:
+Hive full of honey. Press
+ button to hold, release
+to throw. How long  is
+pressed varies distance.
+0x979008c1 : #{、アクション}#を押せば敬礼出来るでしょう。
+それが合図よ。
+0x9832f239 : Save failed! Check storage devicee
+and please try again.
+0x98a41069 : If it is not a long drop, then you will
+only hang down if you approach the edge
+walking or stalking. Use the  to move
+along the edge while hanging.
+0x98a43acd : You can aim it from the shoulder by
+equipping it in First Person View and
+holding down the .
+0x98c1573d : Baikal Scalytooth:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x99330d4a : Nessuna periferica di memorizzazione trovata.
+Continuare senza salvare?
+0x99612dd8 : Binoculars:
+High-tech military
+binoculars allowing long-
+distance reconnaissance.
+Equip to use. Zoom in
+with , zoom out with .
+
+0x999ae9e6 : Errore nella periferica di memorizzazione.
+Controlla la periferica di memorizzazione
+e riprova.
+0x9a170dc9 : An error occurred while saving camouflage
+data to storage device.
+Try saving again?
+0x9a229bd6 : Press and hold  to grab the enemy.
+0x9a235b09 : If you move while holding the body, you
+can drag it along with you. There are
+occasions when items will fall from the
+enemy soldier if the body is dropped.
+0x9b4c5ceb : ロッカーへ隠れるには、まずロッカーの前で
+#{、アクション}#を押して、扉を開けるんだ。
+0x9b6f21fa : Then just use the  to pull the trigger
+and the propellant will shoot the grenade
+out of the launcher.
+0x9bb5f429 : ※これにあたるメッセージは今回表示しない
+0x9bbdc7af : Insufficient free space on storage device. At least %dKB of free space is
+required to save data.
+0x9bbe4a11 : スコーピオン。チェコスロバキア製サブマシンガン。
+使用弾薬は32ACP。装弾数は20発。
+レーザーポイン夕ー装備。ウィンドウを開いて
+#{、アクション}#でセミオート／フルオートの切替が可能。
+0x9c050968 : Spatsa:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x9c1d308d : Russian Glowcap:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0x9d3c610a : Kerotan
+The target item in Capture
+Missions. Open the window
+and press the  to drop.
+
+0x9d5d6471 : Also, don't forget, you can't move around
+while you're using an emplacement.
+0x9dd763fb : ※これにあたるメッセージは今回表示しない
+0x9dfb315c : Press the  while hanging to drop
+straight down.
+0x9e24def9 : The Single Action Army. A .45 caliber, six-shot
+revolver. Equip in First Person View and press
+the  to aim one-handed. Can also use the 
+to do tricks.
+0x9e42826b : ストレージが見つかりません。
+0x9e7cb6f2 : A suppressor can be unequipped by pressing
+the  while the Weapon Window is open.
+0x9eb911c3 : Veuillez connecter un périphérique de stockage
+pour sauvegarder les données
+Camouflage.
+0x9ec0dcb3 : You can call out to EVA by pressing the .
+0x9ef5fd5d : Laden fehlgeschlagen! Schließen Sie ein
+Speichergerät an, das zum Laden
+ der
+gespeicherten Daten verwendet wurde.
+0x9fc11b38 : Don't forget that pressing the  will
+only set off TNT that's planted in the
+same area.
+0x9ffd7986 : Tarndaten vom Speichergerät laden.
+0xa01441b9 : ストレージからのデー夕のロード中に
+エラーが発生しました。
+0xa03ad401 : Alors , connecte un périphérique de stockage
+0xa06f13a7 : With an equipped weapon in overhead
+view, press and hold the  to lock your
+line of fire while moving in any given
+direction.
+0xa0b2d05b : Press the  from on top a branch to
+hang down from the tree.
+0xa0d28384 : 松明。シラカバに松やにを染み込ませた松明。
+#{、CQC}#で武器として振り回すことが出来る。
+#{、武器}#で着火／非着火の切替も可能。
+0xa11346dd : 解除済みのカムフラージュです。
+0xa15f2dec : Chaff Grenade:
+Electronics jamming
+grenade. Causes radio wave
+disturbance. Press  to
+aim, release to throw.
+How long  is pressed
+varies distance.
+0xa18c08f6 : エルード中に#{、ホフク}#を押すと、
+真下へ飛び降りる。
+0xa20853fe : Tree Frog meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xa263ed0e : To treat an injury, first press the 
+to open the Survival Viewer. Then select
+"CURE" to start the treatment.
+0xa2ea8f03 : Fehler beim Erkennen des Speichergeräts.
+0xa36c95d5 : Quindi collega la tua periferica di memorizzazione.
+0xa3fccd36 : Les données sauvegardées chargées n'ont
+pas été trouvées. Ecraser sur le périphérique de stockage les données sauv. présentes?
+0xa41207cd : TARNUNGS-DOWNLOAD FREIGESCHALTET
+0xa4280469 : Formatiere Speichergerät. Speichergerät
+nicht entfernen und die Konsole
+nicht zurücksetzen oder ausschalten.
+0xa43c291e : No hay datos en el dispositivo de almacenamiento.
+¿Quieres continuar jugando?
+0xa4e08b00 : That way you can proceed with minimal
+disturbance.
+0xa5384bb2 : Tarndaten erfolgreich vom Speichergerät
+geladen.
+0xa57cf310 : From this point, there are several
+things you can do.
+0xa5a6096f : When you want to stand back up, press
+and hold the  again.
+0xa5f06c67 : ベンガルハゲワシ
+生け捕りにしたベンガルハゲ
+ワシ。#{、武器}#を押すと構え、
+離すと投擲。#{、武器}#を押す強さ
+で投擲距離が変わる。
+0xa664470b : Or, you can just line up the icon for the
+weapon you want to put away with the lower
+right and press the .
+0xa6e497b9 : After you have grabbed an enemy from
+behind with CQC, you can interrogate him
+by pressing the .
+0xa7fb4451 : Use the  to cut the rope and escape
+from the trap. Hurry before he finds you!
+0xa80c23bf : Snake, il n'y a pas de périphérique
+de stockage connecté.
+0xa8371fe7 : Keine Daten auf dem Speichergerät vorhanden.
+Spiel fortsetzen ohne zu speichern?
+0xa88ad6d4 : This is only useful for probing your
+surroundings when there is some cover to
+press against.
+0xa8c20691 : Press the  and use the First Person
+View to constantly check your surroundings
+as you proceed.
+0xa92190f6 : Stand near a fallen enemy and press the 
+with no weapon equipped to grab the body.
+0xa94a36c6 : Para guardar datos de camuflaje
+se necesitan al menos %dKB espacio libre
+en el dispositivo de almacenamiento. ¿Quieres continuar?
+0xa971a6d0 : Formatage de le périphérique de stockage
+en cours. Ne pas retirer la Memory Card
+(PS2), réinitialiser ou éteindre la console.
+0xa9a7b9bb : Mousetrap:
+Trap to capture small
+animals. Press  to set.
+Can be retrieved if
+crawled over.
+0xa9be3f28 : Error al comprobar el dispositivo de almacenamiento.
+0xaa3d653e : the  can be used to knock...
+0xaa554fff : With certain weapons like a handgun, in
+corner view it is possible to make a
+jumpout shot to the left or right with
+the .
+0xaa890002 : ストレージにデータを新規セーブします。
+よろしいですか？
+0xaa91c7ab : Errore nel rilevamento della
+periferica di memorizzazione.
+0xaafbc954 : Press  to press your knife against
+the enemy and demand information.
+0xab304a54 : Use the  and hold down the  while near
+an enemy soldier and while equipping a
+CQC-ready weapon to throw the enemy.
+0xabb4d853 : View additional options
+0xabc43255 : Live Green Tree Python:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xacd4f3b5 : ¡Error al cargar! Conecta el disco
+duro desde ell que cargaste
+los datos guardados.
+0xacefe0e5 : Keine Tarndaten auf dem Speichergerät
+vorhanden.
+0xad5a079b : This won't give you the same wide angle
+as peeking with the  or ,
+0xad89ffc4 : Live Parrot:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xad8ac2cd : Please connect storage device to save
+camouflage data.
+0xafe3361d : 近くに落としたい時は短く、遠くに投げたい
+時は長く押し続けるようにするんだ。
+0xb01aa1f3 : Controllo periferica di memorizzazione fallito!
+Servono almeno %dKB per salvare
+i dati. Continuare con il gioco?
+0xb01c0d4c : Mk22。海軍で開発中の消音器付き拳銃Mk22を
+改造した特殊作戦用消音麻酔銃。
+消音性能を高めるためスライドロック機構を採用して
+いるので一発撃つごとにリロードが必要。
+ウィンドウを開いて#{、決定}#でサプレッサーの脱着が
+可能。
+0xb022a83b : 止血材
+切創、銃創の治療に効果がある。
+#{、決定}#で創部にあてがうことで
+創部を保護し止血する。
+0xb0be797c : You got MGS3 download pattern camo.|
+Check the camo list's UNLOCKED section.
+0xb0c19cca : This is very useful for keeping track of
+what is up ahead in the direction of
+movement. Move the  or press the 
+again to free the view lock.
+0xb0ca5c39 : In addition, if you acquire information
+from enemies, the map may also display
+enemy unit positions and the location
+of items.
+0xb108e3d2 : Use that moment of hesitation to attack
+in First Person View.
+0xb130c978 : Los datos de camuflaje del
+dispositivo de almacenamiento están dañados.
+0xb1414023 : dive down. The Stamina Gauge will affect
+the length of the O2 Gauge. Rapidly press
+the  to head for the surface.
+0xb1645c15 : Periferica di memorizzazione rimossa durante
+il salvataggio. Ricollegare la periferica
+di memorizzazione. Annullare la sovrascrittura?
+0xb186a351 : press the  or the  to stick yourself
+out from a protected area and look over
+your shoulder.
+0xb18962de : Active sonar sends out a special type of
+sound wave whenever you press the .
+
+0xb18e3ef2 : Kein Speichergerät gefunden.
+Fortfahren ohne zu speichern?
+0xb1a6c95a : Torna alla schermata del titolo.
+0xb2731b1f : Les données sur le périphérique de stockage
+sont corrompues.
+0xb34b381f : Dati Mimetica su periferica di
+ memorizzazione danneggiati.
+0xb3707b2b : A weapon will automatically reload if it
+is unequipped, so use this technique to
+reload in the heat of battle.
+
+0xb374b97a : Veuillez connecter un périphérique de stockage.
+0xb3b2d65c : 胃腸薬
+腹痛を治すことが出来る。
+#{、決定}#で服用することで胃腸の
+調子を整え、腐った食べ物を
+食べて起きる腹痛を治療する。
+0xb3b611b0 : To climb a tree, stand in front of a tree
+that's covered in ivy and press the .
+0xb3f2bb15 : But don't get too complacent.
+0xb42f1179 : 倒れた敵の近くで、武器を装備せずに
+#{、武器}#を押せば、敵の体を抱える。
+0xb4578c6f : 銃座の近くで#{、アクション}#を押せば、
+銃座を奪うことが出来る。
+0xb473b88a : Camera:
+High-tech military camera.
+Equip to look through
+viewfinder. Press  to
+take photos. Zoom in with
+, zoom out with .
+
+0xb4bad781 : Active Sonar:
+Sensor that detects animals
+w/ sound waves. Press  
+to emit waves.
+
+0xb4d23074 : サプレッサーを手に入れたら武器ウィンドウを
+開いて#{、決定}#を押しなさい。
+サプレッサーのつけ外しが出来るわ。
+0xb52aa83f : When you want to climb back up from your
+hanging position, press the  once more.
+0xb57ed637 : Error detecting the storage device.
+0xb58f5bec : M1911A1:
+.45 caliber automatic
+pistol. Press  to aim,
+release to fire.
+Attach/detach suppressor
+w/ .
+0xb5f4f132 : Instant Noodles:
+Made in Japan. Press 
+to hold, release to throw.
+How long  is pressed
+varies distance.
+0xb633a02a : Guardando en el dispositivo de almacenamiento.
+No extraigas el dispositivo de almacenamiento, ni
+reinicies o apagues la consola.
+0xb66fd2c8 : With slight movements of the , you can
+move in silence.
+0xb71676ca : 雑誌
+成人男性向けグラビア雑誌。
+若い女性モデルの魅力的な写真
+が満載。企画記事も見逃せない。
+#{、武器}#で設置。
+0xb7435bb2 : Give it a try. Stand near a drum and press
+the .
+
+0xb74ae288 : Sunda Whistling-thrush meat:
+Press  to hold, release
+to throw. How long 
+is pressed varies distance.
+0xb76b7068 : 白燐手榴弾
+焼夷手榴弾。敵を燃やすことが
+出来る。#{、武器}#を押すと構え、
+離すと投擲。#{、武器}#を押す
+長さで投擲距離が変わる。
+0xb7aeb3a0 : スネーク、ごめんなさい。空き領域がないみたい。
+0xb83d05dc : Ural Luminescent Mushroom:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xb8e8337e : 食糧を食べるには、まずで
+サバイバルビュアーに入って、『FOOD』を
+選んで。
+0xb8ee08a0 : アロワナ
+生け捕りにしたアロワナ。
+#{、武器}#を押すと構え、離すと
+投擲。#{、武器}#を押す長さで投擲
+距離が変わる。
+0xba210832 : You can attach and detach the suppressor
+by opening the Weapon Window and pressing
+the .
+0xba2f14f8 : ストレージが見つかりません。
+このままゲームを開始しますか？
+0xba50e82e : Storage device is not formatted.
+Format storage device and save
+camouflage data?
+0xbb6ef73b : ストレージにデータを上書きセーブ
+します。よろしいですか？
+0xbb90cab5 : ライコフに変装している間は#{、アクション}#で
+敬礼することが出来るぞ。
+0xbbf22be5 : EZ GUN:
+Special silent tranquilizer
+gun. Press  to aim,
+release to fire. Keeps Camo
+Index high & recovers
+stamina when equipped.
+0xbc30de94 : Chargement réussi des données
+Camouflage sur le périphérique de stockage.
+0xbc382c42 : Scorpion:
+.32 caliber submachine
+gun. Press  to wield,
+and press the  to fire.
+Toggle semi/full-auto w/
+ in window.
+0xbc3b16a1 : 木に登るにはツ夕の絡まった木の前で
+#{、アクション}#を押せばいい。
+0xbc9a0b27 : Storage device error! Please check
+storage device and try again.
+0xbcc77e96 : Don't forget - if you want to stand up
+quickly from a crawling position, press
+and hold the .
+
+0xbd2bace9 : Überprüfen des Speichergeräts fehlgeschlagen. Mind. %d KB freier Speicherplatz nötig,
+um Daten zu speichern. Spiel fortsetzen?
+0xbd3a952f : トリガーは#{、武器}#だ。#{、エイム}#を押せば、
+より標的に集中することも出来るだろう。
+0xbd43c385 : Move the  with the Corner View on to
+shift the camera in that direction.
+0xbd8b7bbb : Nessun dato presente sulla periferica
+di memorizzazione. Continuare con il gioco?
+0xbe724226 : When EVA is hiding in the hollow tree,
+0xc01acd97 : Insufficient free space on storage device. 
+At least %dKB of free space
+is required to save Camouflage data.
+0xc047afc2 : トリガーは#{、武器}#だ。
+ただし弾切れには注意してくれよ。
+0xc1158c61 : ああ。とで装備出来るのは、
+その時に身につけているアイテムだけだ。
+0xc1506b60 : To eat food, press the  to enter the
+Survival Viewer, then select FOOD.
+0xc1513328 : The  controls the direction you're
+facing. Press up, down, left, or right
+to turn in that direction.
+0xc1aed69e : No storage device detected.
+0xc1c4639d : Attach a suppressor and you won't have to
+worry about all that.
+0xc1e9e6a7 : wiggle the  and press the buttons
+rapidly to shake them off before you get
+shot. Understood?
+0xc1f76008 : Checking storage device.
+0xc2154e8e : アクティブソナー
+特殊な音波で生物の位置を探知
+するセンサー。で
+探針音を発する。
+0xc22be7a5 : Indian Gavial meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xc26ab112 : DPM AND AUSCAM DESERT CAMO
+0xc27e9e6a : If you want to lower the weapon without
+firing, such as during a holdup, press
+0xc2df77ed : Snake, no hay ningún dispositivo de almacenamiento
+conectado.
+0xc2f90e23 : Then, while you're treading water, press
+the .
+0xc327a0bc : To lie down and crawl from a standing
+position, press and hold the .
+0xc3bc423f : To open doors, generally you can just
+use the  to move towards the door.
+0xc439c80c : Poison Dart Frog meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xc46a9de1 : You can press the  to perform a salute.
+That's the signal.
+0xc4ac5e96 : You can't use the  to aim from the
+shoulder, but with the laser sight
+accuracy it shouldn't be that big of a
+problem.
+0xc4c54f5c : セーブデー夕のロード中にエラーが発生しま
+した。セーブデー夕をロードした際に使用した
+ストレージをセットしてください。
+0xc4fa9ed6 : RETURN TO THE MAIN MENU
+0xc5ebbe25 : le périphérique de stockage contient déjà
+ces données Camouflage.
+Sauvegarder par-dessus ?
+0xc5f11ad3 : Patriot:
+The Boss' assault pistol.
+Press  to wield, and
+press the  to fire.
+Feeding mechanism in drum
+mag is ∞-shaped.
+0xc5f9fc6e : This saves you the time of adjusting the
+frequency.
+0xc6089e54 : ¡Error al formatear! Por favor
+comprueba el dispositivo de almacenamiento
+e inténtalo de nuevo.
+0xc619206e : This is a gun with history. You can do
+all sorts of tricks with it. Why don't
+you practice with it for a while?
+0xc6a0aa24 : Formatieren fehlgeschlagen! Bitte überprüfen
+Sie das Speichergerät und
+versuchen Sie es noch einmal.
+0xc6b6f053 : Press and hold the  while in crawl
+position to stand up. Press the 
+briefly to switch to crouch position.
+
+0xc77dfab2 : The AK-47. A Soviet-made assault rifle.
+Reliable, durable, and highly precise. Uses
+7.62 x 39 ammunition. Magazine size is 30
+rounds. Equip in First Person View and press
+the  to aim from the shoulder. Open the
+window and press the  to switch between
+semi-auto and full-auto fire.
+0xc78b5f0b : Echec du formatage! Veuillez vérifier
+le périphérique de stockage et ré-essayer.
+0xc7937573 : Adjust the length of the button press as
+appropriate.
+0xc7c71a0e : サプレッサーを装着すればその心配はいらない。
+武器ウィンドウを開いて#{、決定}#を押して
+サプレッサーを装着するんだ。
+0xc7e1080e : Kein Speichergerät gefunden.
+ Schließen Sie
+ein Speichergerät an, das zum
+Laden der Speicherdaten verwendet wurde.
+0xc7fd9776 : Stun Grenade:
+Flash-bang type grenade.
+Stuns enemies temporarily.
+Press  to aim, release
+to throw. How long  is
+pressed varies distance.
+0xc866a6f0 : But stay alert. While the enemy is nearly
+helpless in your grasp, if you give him
+a chance, he'll turn the tables on you.
+0xc8806bb0 : AK-47。ソ連製の突撃銃。高い信頼性と耐久力、
+精度を兼ね備えている。使用弾薬は7.62mm×39弾。
+装弾数は30発。
+主観で構えて#{、エイム}#を押すことで肩付け照準、
+ウィンドウを開いて#{、アクション}#でフルオート／セミオー
+トの切替が可能。
+0xc8c08bfa : Move the  slightly to walk.
+
+0xc91869ed : Espacio insuficiente en el dispositivo de almacenamiento. Necesitas %dKB para poder
+guardar datos de camuflaje.
+0xc93da4aa : Speichergerät ist nicht formatiert.
+Speichergerät formatieren und
+die Tarndaten speichern?
+0xc992c5f6 : Geladene Daten nicht gefunden.
+Derzeit gespeicherte Daten auf derm
+Speichergerät überschreiben?
+0xc99e7d39 : If you bring your gun up to the enemy
+soldier after throwing them, you can hold
+them up.
+0xc9a93ec8 : ストレージのデータが壊れています。
+0xc9c40027 : Le périphérique de stockage n'est pas formaté.
+Formater le périphérique de stockage puis
+sauvegarder les données Camouflage ?
+0xc9ec73ec : Les données Camouflage sur le
+périphérique de stockage sont corrompues.
+0xc9f5c968 : Scusa, Snake. A quanto pare, non c'è
+abbastanza spazio sulla periferica di
+memorizzazione.
+0xca2fdecd : If you equip it and press the , you
+can use it to smack the enemy.
+0xca4d98a3 : To succeed in any mission, knowing how
+to put information about the zone of
+operation to effective use will be
+essential.
+0xcab28d4a : Press the  in front of objects of a 
+certain height to climb up on them. 
+Also, press the  in front of a ladder 
+to climb or descend it.
+
+0xcab54ec7 : Torch:
+A torch made from white
+birch soaked in turpentine.
+Wave w/ , press repeatedly 
+to swing around. Light or
+put out fire w/ .
+0xcae01fc2 : Speichert Daten. Speichergerät und
+Controller nicht entfernen und die Konsole
+nicht zurückstellen oder abschalten.
+0xcaef1efe : そのまま#{、武器}#を押しっぱなしにすれば、
+敵を引きずりながら移動することが出来る。
+体を下ろすには#{、武器}#を離せばいい。
+0xcb2a31cb : Keine Daten auf dem Speichergerät vorhanden.
+0xcb31d97e : To dive underwater, press the  while
+you're swimming on the surface.
+0xcb576d90 : This corner technique is useful when you
+are in a shootout with enemy soldiers.
+0xcb5e5f23 : Retrouver les données Camouflage
+sur le périphérique de stockage.
+0xcb7f51fa : You got DPM pattern camo.|
+You got AUSCAM desert pattern camo.
+0xcb868c7d : サプレッサーは武器ウィンドウを開いている
+時に#{、決定}#を押せば脱着出来る。
+0xcbd65ca4 : Vous avez obtenu un Camouflage au motif DPM.|
+Vous avez obtenu un Camouflage au motif Désert australien.
+0xcbd68c88 : Ga-ko
+The target item in Rescue
+Missions. Open the window
+and press the  to drop.
+
+0xcbdd56bb : Live Flying Squirrel:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xcbf4f995 : パトリオット。ザ・ボスのために開発された突撃拳銃。
+使用弾薬は5.56mm×45弾。
+ドラムマガジン内の給弾機構が∞の形をしている。
+0xcc5ad4e8 : Use  to attack using a weapon, and
+ to attack using CQC.
+0xcc72fe55 : 風邪薬
+風邪を治すことが出来る。
+#{、決定}#で服用することで
+風邪の諸症状を和らげる。
+0xcc7f7869 : Live Coral Snake:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xcc9cf0eb : Espacio insuficiente en el dispositivo de almacenamiento.
+Para guardar datos hacen falta
+al menos %dKB libres. ¿Quieres jugar?
+0xcd02a5f2 : Ungenügend freier Speicherplatz auf dem Speichergerät. Zum Speichern werden
+mind. %d KB freier Speicherplatz benötigt.
+0xcd720d25 : バックパックへ戻したい武器のアイコンを
+右下に合わせて#{、決定}#を押せば、その武器を
+バックパックへ移すことが出来るわ。
+0xcd876161 : XM16E1: 
+Assault rifle. Hold in 1st
+person view & shoulder-aim
+w/ . Toggle firing mode
+w/ , attach/detach
+suppressor w/  in window.
+0xcd950c2f : Guardando datos. No extraigas
+el dispositivo de almacenamiento o el mando
+ni resetees o apagues la consola.
+0xcdf3fed1 : ス夕ミナ量でO2ゲージの長さが変わる。
+連打で水面に向けて浮上する。
+0xce0725a0 : Error al detectar el dispositivo de almacenamiento.
+0xce23895d : Error al cargar datos de camuflaje del
+dispositivo de almacenamiento.
+0xce2d4a66 : choose a weapon that's already on you
+from the weapon list and press the .
+0xce4f5858 : Live Reticulated Python:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xce5c62ef : The M1911A1. A .45 caliber automatic
+pistol that boasts high reliability and
+massive stopping power. Magazine size
+is 7 rounds.
+Open the window and press the 
+to attach/detach a suppressor.
+0xce8a8988 : If there is no railing and the edge faces
+a long drop that might result in injury,
+you will automatically hang down when
+you walk over the edge.
+
+0xce94ddea : 固定具
+骨折の治療に効果がある。
+#{、決定}#で使用することで
+骨折部を整復し固定する。
+0xcee54c88 : I dati salvati e caricati non sono stati
+trovati. Sovrascrivere i dati salvati
+attuali sulla periferica di memorizzazione?
+0xcf45c00a : No hay ningún dispositivo de almacenamiento conectado.
+¿Quieres continuar sin guardar?
+0xcfd38fa8 : Each button press will move you one
+stroke forward. Press the button
+repeatedly to swim faster.
+0xd0032ffa : You can also choke the enemy by tapping
+ rapidly.
+0xd006d078 : It shows your present location and the
+places you've been to.
+0xd006f3df : ※これにあたるメッセージは今回表示しない
+0xd0b9876f : Erreur lors de la vérification
+du périphérique de stockage.
+0xd0d9960e : Ungenüg. Speicherplatz auf dem Speichergerät
+.
+Z. Speichern der Tarndaten werden
+mind. %d KB freier Speicherplatz benötigt.
+0xd1907f85 : #{、武器}#を押せば地面に設置出来る。
+しばらくして戻ってみれば、蛇やカエルが
+かかっているかもしれないぜ。
+0xd236702d : By equipping grenades and pressing the
+ in corner view mode, you can throw a
+grenade while hiding behind a barrier.
+0xd24b9f0e : Live Cobalt Blue Tarantula:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xd285727a : Move the healing cursor with the  to
+the affected part of your body.
+0xd2c005a4 : But all you need to do is press the 
+in the direction you wish to move.
+0xd34ee69b : If there's something to grab onto during
+a fall, press the  when you pass in
+front of it.
+0xd39c4069 : Hold down the  and press the  while
+the enemy is in a chokehold to throw them.
+0xd3b0b85e : Equip it and press the  to fire
+sleeping gas.
+0xd3c1566c : European Rabbit meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xd47e69c7 : Pas de données présentes sur le périphérique de stockage. Continuer sans sauvegarder?
+0xd4937700 : ロッカーから出るにはもう一度#{、アクション}#を
+押せばいい。
+0xd546d0dd : Los datos guardados están dañados.
+Conecta el dispositivo de almacenamiento desde
+el que cargaste los datos guardados.
+0xd55294de : Use stalking to move safely through
+suspicious-looking areas.
+0xd5b5cc7b : ※これにあたるメッセージは今回表示しない
+0xd62aa5f4 : Press the  while up against a wall to
+knock on it and attract the enemy's
+attention.
+
+0xd6403809 : White-rumped vulture meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xd6eaaf90 : While you're swimming,
+0xd6f41e2c : Echec du chargement! Insérez le périphérique de stockage utilisé pour charger les
+données.
+0xd6fbf466 : 無線画面で|を動かすと…
+0xd77f71e3 : まずでサバイバルビュアーを
+開くのよ。
+0xd7b57220 : Format failed! Please check storage device and try again.
+0xd7e95d95 : Error accessing storage device!
+0xd87271d2 : 身につけた動物を装備すれば、#{、武器}#で
+投げることが出来るわよ。
+0xd885d6a4 : La periferica di memorizzazione
+non contiene dati Mimetica.
+0xd8964383 : エルード状態で、ハンドガンなど特定武器を
+所持していれば、で射撃が可能。
+0xd904a049 : Storage device failed! At least
+%dKB of free space is required to save data.
+Continue with the game?
+0xd9f36c67 : No storage device found.
+Continue without saving?
+0xda05d36a : Load failed! Check storage device
+and please try again.
+0xda5ca872 : including using the  or  to peek, and
+the  to take jumpout shots.
+0xdaa39dcc : Select the weapon that the suppressor is
+on with the , and press the  to
+0xdadc1bd7 : Pressing it multiple times in succession
+will allow you to deliver a combo attack.
+0xdaff7dbb : Yeah. The only things that can be equipped
+with the  or  are items on my person.
+0xdb36c0f7 : 消毒薬
+切創、銃創の治療に効果が
+ある。#{、決定}#で塗布することで
+創部の化膿を防ぐ。
+0xdb54b4d6 : To move away from a gun emplacement,
+press the  once again.
+0xdb5e63ed : You can take over an anti-aircraft gun
+by pressing the  when you're near it.
+0xdbfc09dd : By pressing , you can interrogate
+the enemy.
+0xdc1ba6be : Salvataggio fallito! Controllare
+la periferica di memorizzazione e riprovare.
+0xdc938906 : Error al detectar el dispositivo de almacenamiento.
+0xdce40fcc : If you use the  to move around stalking,
+you should be able to spot the traps
+before you step on them.
+0xdd40e6c5 : Claymore:
+Anti-personnel landmine w/
+front sensor. Explodes when
+range is entered. Press 
+to set. Can be retrieved
+if crawled over.
+0xdd790465 : MGS3ダウンロード迷彩を入手しました。|
+迷彩(UNIFORM)の「UNLOCKED」一覧で確認出来ます。
+0xdd7f88e0 : You can use this to knock him out, or
+even kill him if you do it long enough.
+0xddbc49d2 : M1911A1。高い信頼性と強大なストッピング
+パワーを誇る45口径の自動拳銃。装弾数は7発。
+ウィンドウを開いて#{、決定}#でサプレッサーの脱着が
+可能。
+0xde77e352 : Live Otton Frog:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xde85627d : Trinitrotoluene (TNT). A military-grade
+explosive equipped with a remote-controlled
+detonator. Press the  to plant the bomb,
+then press the  while equipping TNT to
+detonate the planted bomb.
+0xde8bc349 : In the Survival Viewer, press the 
+to enter Viewer Mode.
+
+0xde99f993 : You don't want to have to deal with an
+injury, so keep an eye on your Grip Gauge.
+0xdfb88ca3 : No hay ningún dispositivo de almacenamiento conectado.
+0xdfc8b7f1 : 壁に張り付いた状態で#{、CQC}#を押すと、
+壁を叩いて音を立てることが出来るぞ。
+0xdfccfab2 : Press the  to switch between semi-auto,
+full auto, and three-shot burst modes.
+0xdffba2be : インドガビアル
+生け捕りにしたインドガビアル。
+#{、武器}#を押すと構え、離すと
+投擲。#{、武器}#を押す長さで投擲
+距離が変わる。
+0xe09b2daf : Siberian Inkcap:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xe1f888d6 : 身につけている武器をバックパックへ戻すには、
+武器の一覧から既に身につけている武器を
+選んで#{、決定}#を押せばいい。
+0xe23220b1 : Spazio insufficiente sulla periferica di memorizzazione.
+Servono almeno %dKB per salvare i dati.
+Continuare con il gioco?
+0xe23a13f7 : Select the food you want to eat, and
+press the .
+
+0xe24a846b : Devi collegare una periferica di
+memorizzazione per salvare il gioco.
+0xe26df5fb : モシン・ナガン。ジ・エンド愛用の麻酔狙撃銃。
+第ニ次大戦中に使用されたソ連のボルトアクション式
+狙撃銃M1891／30をジ・エンドが改造したもの。
+7.62mm×54Rの専用麻酔弾を使用。装弾数は5発。
+0xe2fd9fa7 : not only changes your walking speed, but
+changes your speed when crawling and for
+intrusion movement.
+0xe3d73d75 : Saved data is broken. Connect 
+storage device that was used
+to load the saved data.
+0xe43eb340 : Echec de la sauvegarde! Veuillez vérifier
+le périphérique de stockage et ré-essayer.
+0xe46caecf : Selecciona los datos de
+camuflaje para guardar
+en el dispositivo de almacenamiento.
+0xe514014a : Press the  or  in First Person View
+to sidestep left or right.
+
+0xe5422126 : 主観を押すと、主観カメラになるわ。
+主観にすれば、あなたの視点からまわりを
+見渡すことが出来る。
+0xe553d7d8 : Live Solid:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xe5ed75ec : Press the  when you are up against a
+wall to knock on the wall and make a
+sound.
+0xe6460515 : ガーコ
+レスキューミッションの夕ーゲットアイテム。
+ウィンドウを開いて#{、キャンセル}#
+で捨てる。
+0xe6c44634 : Fehler beim Laden der Tarndaten vom
+Speichergerät.
+0xe775aa9c : Hive of Pain hornets:
+Hive w/ Pain hornets &
+honey. Press  to hold,
+release to throw. How
+long  is pressed varies
+distance.
+0xe777821b : 構えたらそのままでも発射出来るんだが、
+#{、エイム}#を押してスコープを使えば
+より正確に照準出来るはずだ。
+0xe795e5b3 : Formateando dispositivo de almacenamiento.
+No extraigas el dispositivo de almacenamiento, ni
+reinicies o apagues la consola.
+0xe7a45f38 : Vine Melon:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xe7e143d5 : Storage device being used has been changed.
+0xe83b9069 : ストレージにデータが見つかりません。
+セーブせずに終了してよろしいですか？
+0xe84dbea5 : 銃座から離れる時はもう一度#{、アクション}#を
+押せばいい。
+0xe89612e4 : ハンドガンは#{、武器}#を押すと構え、
+離すと発砲する。
+0xe90fcbc4 : Lo siento, Snake. Parece que no queda espacio
+libre en el dispositivo de almacenamiento.
+0xe94126cd : Yabloko Moloko:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xe9820b16 : If you need to take more accurate shots;
+like taggin' enemies in vital spots from a
+distance; use  instead.
+0xe989c8e5 : Use up on the  to advance, down to go
+backwards, and left and right to rotate.
+0xe9ba8855 : Make sure they're well placed.
+0xe9dcd504 : 落下中に掴まることが出来るものがあった
+なら、その前で#{、アクション}#を押してみるといい。
+0xe9ff26f3 : A short tap will drop it close to you,
+and a long press will lob it away.
+0xea03d798 : Unlocked
+Unlocked camo uniform.
+0xea0ff320 : ¡Error al guardar! Por favor
+comprueba el dispositivo de almacenamiento
+e inténtalo de nuevo.
+0xea1e6278 : If you manage to get close to a gun
+emplacement, you can take it over by
+pressing the .
+0xea2f1ea4 : Quickly press the  or  to unequip and
+re-equip the current weapon or item.
+
+0xea58eaa6 : Aucun périphérique de stockage n'a été détecté.
+0xea65c3e1 : I recommend pressing the  quickly to
+carry out a quick reload.
+0xea763b61 : Periferica di memorizzazione non trovata. 
+Collega una periferica di memorizzazione.
+Vuoi provare nuovamente a salvare?
+0xea7a567d : Tarnung mit MGS3-Download-Muster erhalten. Sehen Sie|
+im Bereich FREIGESCHALTET der Tarnungsliste nach.
+0xeabae06e : Espacio insuficiente en el dispositivo de almacenamiento.
+Para guardar datos hacen falta
+al menos %dKB libres. ¿Quieres jugar?
+0xeae1eb86 : #{、CQC}#を1回押せばパンチが出せる。
+そのままボ夕ンを連打すれば#{連携技、コンボ}#を
+繰り出すことも出来るぞ。
+0xeaf7ec1d : DEBLOQUE LES CAMOUFLAGES TELECHARGEABLES
+0xeb0d5788 : A short tap of the  will toss the
+weapon nearby, while a long press of the
+button will hurl it farther.
+0xeb4bb5c5 : Fehler beim Überprüfen des Speichergeräts!
+Bitte überprüfen Sie das Speichergerät
+und versuchen Sie es nochmal.
+0xebb3f3e9 : ホフクからすぐに立ち上がるには#{、ホフク}#を
+長く押し込むということを忘れないでくれ。
+0xec44f2e8 : Tut mir leid, Snake. Auf dem Speichergerät
+scheint kein freier Speicherplatz zu sein.
+0xec9a00fb : ※これにあたるメッセージは今回表示しない
+0xecb49083 : Se ha extraído el dispositivo de almacenamiento mientras
+se guardaba la partida. Conéctalo de
+nuevo. ¿Cancelar sobrescritura?
+0xed2e9b3e : ストレージのチェック中にエラーが
+発生しました。
+0xed711b60 : Hai ottenuto la modalità scarica mimetica di MGS3.|
+Controlla l'elenco delle mimetiche in SBLOCCATO.
+0xede3430d : Erreur lors du chargement des données
+Camouflage du périphérique de stockage.
+0xedf4ad58 : スコープの使用は#{、エイム}#よ。
+#{、アクション}#で倍率の切替えも出来るわ。
+0xee4b8ba8 : Tilt it lightly to walk or harder to run. 
+Also, use the  to perform stalking 
+that is slow, but noiseless.
+
+
+0xee8c379a : While your enemy may be powerless in
+your grip, he'll use any opportunity he
+can to counterattack.
+0xeed7e83f : Mosin Nagant:
+Tranquilizer sniper rifle.
+Use scope w/  . Press 
+to hold, release to fire.
+Adjust scope w/ .
+
+0xefc44732 : Live Tree Frog:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xeff7ea7a : Monkey Shaker:
+Special gun that knocks
+out monkeys. Press  to
+aim, release to fire.
+Equipping it puts you in
+a monkey-catching mood.
+0xf07dab0c : Nessun dato presente sulla periferica
+di memorizzazione. Continuare senza salvare?
+0xf085a11a : Styptic:
+Effective for treating cuts
+and gunshot wounds. Press
+the  to apply and stop
+the bleeding.
+0xf0e53e1a : Retrieve Camouflage list from storage device.
+0xf10a3d7d : No hay datos de camuflaje
+en el dispositivo de almacenamiento.
+0xf141bf37 : ストレージがフォーマットされていま
+せん。ストレージをフォーマット
+してセーブします。よろしいですか？
+0xf17244d0 : ※これにあたるメッセージは今回表示しない
+0xf19dc507 : ストレージへのデータのセーブが
+正常に終了しました。
+0xf1b4f9c9 : Press the  in front of a
+drum barrel...
+0xf1dc3cfa : You could also press the  to wave the
+hanky around and spread the knockout
+drug that way.
+0xf1f76c4c : Speichergerät prüfen.
+0xf209bb7a : hold the  and use the  to select the
+medical item and then press the .
+0xf210692e : Reading Camouflage data from storage device.
+0xf2b8ad15 : If you keep  pressed, you can move
+around with the enemy in your grip.
+0xf2df729f : #{、エイム}#を使った肩付け照準は出来ないが、
+そいつがあれば充分正確な射撃が出来るはずだ。
+0xf35628d4 : No se ha encontrado
+ ningún
+dispositivo de almacenamiento.
+0xf3698f77 : Create new camouflage data save file on
+storage device?
+0xf38c1eec : If the enemy's getting too close for
+comfort, press the  to ditch it, pronto.
+0xf39f09ae : Blood Serum:
+Effective for treating
+venom poisoning. Press
+the  to inject the serum
+and neutralize venom in
+the body.
+0xf3b1d215 : Speichergerät prüfen.
+0xf3ca5fec : If you press the  briefly, you'll
+crouch in that spot.
+
+0xf3cd3629 : Bug Juice:
+A bug repellent. Keeps away
+hornets & leeches while
+it lasts. Apply w/  in
+window.
+0xf3fdbd1a : From that list, choose the weapon you
+want to equip and press the .
+0xf43cdcf2 : During First Person View, press the  and
+ at the same time to stretch up slightly
+from that position.
+0xf4f5c61a : Créer de nouvelles données de
+sauvegarde sur le périphérique de stockage?
+Oui ou Non
+0xf515dbc7 : Digestive Medicine:
+Effective for treating
+stomach aches. Press the
+ to use and treat stomach
+pain from spoiled food.
+0xf5163921 : you can get her to come out by pressing
+yourself against the tree and pushing the
+ to knock.
+0xf5d7230a : While hanging, use the , , and  to
+move left and right.
+0xf5efc328 : Nessuna periferica di memorizzazione trovata.
+Continuare con il gioco?
+0xf6292f3e : Once you've selected the affected area,
+0xf6d886ef : Aucune donnée de chargement n'a été
+détectée. Insérez le périphérique de stockage
+utilisée pour charger les données.
+0xf720d8d7 : ドラム缶の前で|を押すと…
+0xf7623de5 : Waving a torch around with the  should
+do the trick, too.
+0xf7927887 : ※これにあたるメッセージは今回表示しない
+0xf79c34d2 : No hay suficiente espacio en el disco
+duro. Para guardar datos
+necesitas, al menos, %dKB libres.
+0xf7c052fe : フォーク
+銃創、矢創の治療に効果がある。
+#{、決定}#でフォークを使い、
+異物を摘出する。
+0xf7ed318f : Press  to slit the enemy's throat with
+your knife.
+0xf81262c8 : Tilt the  while crouching or lying down 
+to crawl. There are two types of movement, 
+normal (making noise) and stalking 
+(not making any noise),
+0xf81afb07 : ストレージをセットしてください。
+0xf8c66c33 : Live Markhor:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xf8e9608e : SARU-GUN-SHAKE
+特殊サル気絶銃。#{、武器}#を押す
+と構え、離すと発砲。装備すると
+気分が楽しくなりサルをゲッチュ
+したくなる等の効果がある。
+0xf8ecdf67 : The reflected sound from the sonic wave
+reveals the positions of targeted objects.
+0xfa150093 : Hold down the  near a downed enemy while
+you are unarmed to pick their body up.
+0xfa3fc73f : ¿Crear un nuevo archivo
+de datos de camuflaje en
+el dispositivo de almacenamiento?
+0xfa49f799 : Spazio libero insufficiente sulla
+periferica di memorizzazione. 
+Servono almeno %dKB di spazio
+libero per salvare i dati Mimetica.
+0xfa4a4047 : その中から身につけたい武器を選んで、
+#{、決定}#を押せばそいつをバックパックから
+取り出して身につけることが出来る。
+0xfa7ecb60 : Formattazione in corso per la periferica di memorizzazione
+.
+Non rimuovere la periferica di memorizzazione,
+non resettare o spegnere la console.
+0xfaf56656 : Cobalt Blue Tarantula meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xfb06cc65 : Kenyan Mangrove Crab meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xfb68d75e : Cargando datos de camuflaje del
+dispositivo de almacenamiento.
+0xfb7f81ba : Press the  near any gun emplacements
+or anti-aircraft cannons to hop in and
+start using them.
+0xfba5619c : To use camouflage, first press the  to
+go to the Survival Viewer.
+0xfbd9a1a6 : and press the  to remove the weapon
+from your backpack and equip it to your
+person.
+0xfbe1941c : Fake Death Pill:
+Espionage pill developed
+by the CIA. Can fake
+death temporarily. Use w/
+ in window.
+
+0xfbf1e929 : カモフラージュ
+服を変更して周囲に溶け込む。
+ウィンドウを開いて#{、決定}#
+を押すごとに迷彩変更。
+0xfc51e47b : If you need to sneak up behind an enemy,
+use the  to utilize stalking.
+0xfcbb2b56 : Schließen Sie also ein Speichergerät.
+0xfcf2670b : Controllo periferica di memorizzazione.
+0xfd7240a5 : To throw a grenade, press and release the
+. Remember that how far you throw it
+depends on how long the button's pressed.
+0xfd8b056d : First Person View with the .
+
+0xfdb5ff5d : La periferica di memorizzazione non è 
+formattata. Formattare la periferica di 
+memorizzazione e salvare?
+0xfdd7fc99 : If you use large motions of the  and run
+towards a door, you will burst through it.
+
+0xfddbfac0 : Taiwanese Cobra meat:
+Press  to hold, release
+to throw. How long  is
+pressed varies distance.
+0xfde1ce23 : The degree to which you move the  
+0xfe09f075 : Disinfectant:
+Effective for treating
+cuts, gunshot wounds and
+bullet bees. Press the 
+to apply and prevent
+infection.
+
+0xfe1e7914 : You can also press  to use the weapon
+you have equipped.
+0xfe90c0f3 : Una mimetica sbloccata.
+0xfeb4d952 : Controllo periferica di memorizzazione.
+0xfef33d34 : Retrieve Camouflage list from 
+storage device. Press .
+0xffa8a482 : Neue Speicherdatei für Tarndaten
+zum Speichern auf dem Speichergerät
+erstellen?
+0xffcc66e8 : depending on how far the  is tilted.
