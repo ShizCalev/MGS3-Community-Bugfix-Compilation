@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "type": "mgs2-stringdb-dif",
+  "sourceFile": "StringDB.xml",
+  "generatedAt": "2026-07-21T07:37:17.493Z",
+  "changes": [
+    {
+      "crc": "0xf8271dfa",
+      "lang": "1",
+      "before": "Not as a solider,",
+      "after": "Not as a soldier,"
+    },
+    {
+      "crc": "0x3ce2c9cf",
+      "lang": "1",
+      "before": "Cardboard Box B:\nEquip to wear.\nSays \"To the Weapons Lab:\nHanger\" on the side.\n",
+      "after": "Cardboard Box B:\nEquip to wear.\nSays \"To the Weapons Lab:\nHangar\" on the side.\n"
+    }
+  ]
+}
