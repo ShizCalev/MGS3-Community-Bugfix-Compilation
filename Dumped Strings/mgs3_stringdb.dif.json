@@ -2,8 +2,38 @@
   "version": 1,
   "type": "mgs2-stringdb-dif",
   "sourceFile": "StringDB.xml",
-  "generatedAt": "2026-07-21T07:37:17.493Z",
+  "generatedAt": "2026-07-22T03:43:58.716661300Z",
   "changes": [
+    {
+      "crc": "0xd38ec246",
+      "lang": "5",
+      "before": "Estoy bien. Solo con estes dos  doble\npapeles,",
+      "after": "Estoy bien. Solo con estes dos doble\npapeles,"
+    },
+    {
+      "crc": "0x0591814c",
+      "lang": "1",
+      "before": "OK,  let's go.",
+      "after": "OK, let's go."
+    },
+    {
+      "crc": "0x91dd8cd9",
+      "lang": "5",
+      "before": "¡Es es mío!",
+      "after": "¡Es mío!"
+    },
+    {
+      "crc": "0x40e3dd35",
+      "lang": "3",
+      "before": "Mein  Kriegsglück scheint sich endlich\ngewendet zu haben.",
+      "after": "Mein Kriegsglück scheint sich endlich\ngewendet zu haben."
+    },
+    {
+      "crc": "0xfa36c122",
+      "lang": "3",
+      "before": "Ihr  Leben lag in deinen Händen ...",
+      "after": "Ihr Leben lag in deinen Händen ..."
+    },
     {
       "crc": "0xf8271dfa",
       "lang": "1",
@@ -11,10 +41,70 @@
       "after": "Not as a soldier,"
     },
     {
+      "crc": "0x1284b292",
+      "lang": "3",
+      "before": "Eine  echte Patriotin.",
+      "after": "Eine echte Patriotin."
+    },
+    {
+      "crc": "0x3cc3812d",
+      "lang": "3",
+      "before": "der großen Festung in  Groznyj Grad, trifft,",
+      "after": "der großen Festung in Groznyj Grad, trifft,"
+    },
+    {
+      "crc": "0x2efbd9f7",
+      "lang": "5",
+      "before": "Los viajes espaciales son sólo otra forma\nde participar  en la carrera por el poder",
+      "after": "Los viajes espaciales son sólo otra forma\nde participar en la carrera por el poder"
+    },
+    {
+      "crc": "0x062690cd",
+      "lang": "5",
+      "before": "¿¡Qué  ha sido ese\nruido!?",
+      "after": "¿¡Qué ha sido ese\nruido!?"
+    },
+    {
+      "crc": "0xc67314f3",
+      "lang": "5",
+      "before": "Enviando una unidad de\napoyo. Extremad  la cautela.",
+      "after": "Enviando una unidad de\napoyo. Extremad la cautela."
+    },
+    {
+      "crc": "0x108508f7",
+      "lang": "5",
+      "before": "...  hay uno entre nosotros...",
+      "after": "... hay uno entre nosotros..."
+    },
+    {
+      "crc": "0xf2b1d7e7",
+      "lang": "3",
+      "before": "Hmm ...  Nur ein Frosch.",
+      "after": "Hmm ... Nur ein Frosch."
+    },
+    {
+      "crc": "0x0db65894",
+      "lang": "3",
+      "before": "Hör auf, auf  mich zu\nschießen!",
+      "after": "Hör auf, auf mich zu\nschießen!"
+    },
+    {
+      "crc": "0x9c8e98fc",
+      "lang": "3",
+      "before": "Shagohod  bedeutet ...",
+      "after": "Shagohod bedeutet ..."
+    },
+    {
       "crc": "0x3ce2c9cf",
       "lang": "1",
       "before": "Cardboard Box B:\nEquip to wear.\nSays \"To the Weapons Lab:\nHanger\" on the side.\n",
       "after": "Cardboard Box B:\nEquip to wear.\nSays \"To the Weapons Lab:\nHangar\" on the side.\n"
+    },
+    {
+      "crc": "0x26f99527",
+      "lang": "3",
+      "before": "Ja. Aus irgendeinem Grund fühlt sich sich\nso ... nostalgisch an.\n",
+      "after": "Ja. Aus irgendeinem Grund fühlt sich\nso ... nostalgisch an.\n"
     }
   ]
 }
