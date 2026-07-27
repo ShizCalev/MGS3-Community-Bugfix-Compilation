@@ -15,34 +15,25 @@ void CleanupOutdatedModfiles::Check()
         return;
     }
 
-    /*
-    {   // v2.0.2 -> v2.1.2 | sentinel = sna_shadow.bmp
-        static_assert(std::size(kRemoved_Fixes_4x_v2_0_2_to_v2_1_2) == 2648, "kRemoved_Fixes_4x_v2_1_1_to_v2_1_2 count changed");
-        static_assert(std::size(kRemoved_Fixes_2x_v2_0_2_to_v2_1_2) == 2648, "kRemoved_Fixes_2x_v2_1_1_to_v2_1_2 count changed");
 
-        const std::filesystem::path baseDir = sExePath / "textures" / "flatlist" / "ovr_stm" / "_win";
 
-        Util::RemoveMatchedCtxrFilesWithSentinelLast(baseDir, std::span<const CtxrHashEntry>(kRemoved_Fixes_4x_v2_0_2_to_v2_1_2), "leftover 4x upscaled textures from v2.0.2 -> v2.1.2 update");
-        Util::RemoveMatchedCtxrFilesWithSentinelLast(baseDir, std::span<const CtxrHashEntry>(kRemoved_Fixes_2x_v2_0_2_to_v2_1_2), "leftover 2x upscaled textures from v2.0.2 -> v2.1.2 update");
-    }
+    constexpr const char* TEXTURES_FLATLIST_OVR_STM_WIN_CAVE_GREI_WATERTEX_ALP_OVL_REP_BMP_CTXR_SHA1S[] =
+    {
+        "9874109223ee6e9ff355816c9c03a44d9bc0b7e0", // MGS3-Community-Bugfix-Compilation 2x Upscaled Addon v1.0.0, MGS3-Community-Bugfix-Compilation 2x Upscaled Addon v1.0.1, MGS3-Community-Bugfix-Compilation 2x Upscaled Addon v1.1.0
+        "85f387ed978f8634679e84494c6ac5b8fcca8d94", // MGS3-Community-Bugfix-Compilation 2x Upscaled Addon v2.0.0
+        "b6d10ec7fbcf7d34b805497e5e3885d8c64f477a", // MGS3-Community-Bugfix-Compilation 4x Upscaled Addon v1.1.0, MGS3-Community-Bugfix-Compilation 4x Upscaled Addon v1.0.0, MGS3-Community-Bugfix-Compilation 4x Upscaled Addon v1.0.1
+        "f5f81968f4a582d838c4a1ca67cf0d3bdc53c20b", // MGS3-Community-Bugfix-Compilation 4x Upscaled Addon v2.0.0
+        "ad4c90c621915df1cf64e0c3f90c9e60e57ba9c4", // Big Slop (4x)-54-1-0-0-1702854725
+        "d170bde99969ff62262dd31631880329202190b1" // Naked Slop (2x)-54-1-0-0-1702855834
+    };
 
-    {   // v2.1.0 -> v2.1.1 | sentinel = w10a_fogsky_01.bmp
-        static_assert(std::size(kRemoved_Fixes_4x_v2_1_0_to_v2_1_1) == 45, "kRemoved_Fixes_4x_v2_1_1_to_v2_1_2 count changed");
-        static_assert(std::size(kRemoved_Fixes_2x_v2_1_0_to_v2_1_1) == 45, "kRemoved_Fixes_2x_v2_1_1_to_v2_1_2 count changed");
+    const Util::RemoveFileEntry outdatedFiles[] =
+    {
+        {sExePath / "textures" / "flatlist" / "ovr_stm" / "_win" / "cave_grei_watertex_alp_ovl_rep.bmp.ctxr", TEXTURES_FLATLIST_OVR_STM_WIN_CAVE_GREI_WATERTEX_ALP_OVL_REP_BMP_CTXR_SHA1S }
+    };
 
-        const std::filesystem::path baseDir = sExePath / "textures" / "flatlist" / "ovr_stm" / "_win";
 
-        Util::RemoveMatchedCtxrFilesWithSentinelLast(baseDir, std::span<const CtxrHashEntry>(kRemoved_Fixes_4x_v2_1_0_to_v2_1_1), "leftover 4x upscaled textures from v2.1.0 -> v2.1.1 update");
-        Util::RemoveMatchedCtxrFilesWithSentinelLast(baseDir, std::span<const CtxrHashEntry>(kRemoved_Fixes_2x_v2_1_0_to_v2_1_1), "leftover 2x upscaled textures from v2.1.0 -> v2.1.1 update");
-    }
+    Util::RemoveMatchingFiles(outdatedFiles, "outdated mod files");
 
-    {   // v2.1.1 -> v2.1.2 | sentinel = sna_shadow.bmp
-        static_assert(std::size(kRemoved_Fixes_4x_v2_1_1_to_v2_1_2) == 2602, "kRemoved_Fixes_4x_v2_1_1_to_v2_1_2 count changed");
-        static_assert(std::size(kRemoved_Fixes_2x_v2_1_1_to_v2_1_2) == 2602, "kRemoved_Fixes_2x_v2_1_1_to_v2_1_2 count changed");
-
-        const std::filesystem::path baseDir = sExePath / "textures" / "flatlist" / "ovr_stm" / "_win";
-
-        Util::RemoveMatchedCtxrFilesWithSentinelLast(baseDir, std::span<const CtxrHashEntry>(kRemoved_Fixes_4x_v2_1_1_to_v2_1_2), "leftover 4x upscaled textures from v2.1.1 -> v2.1.2 update");
-        Util::RemoveMatchedCtxrFilesWithSentinelLast(baseDir, std::span<const CtxrHashEntry>(kRemoved_Fixes_2x_v2_1_1_to_v2_1_2), "leftover 2x upscaled textures from v2.1.1 -> v2.1.2 update");
-    }*/
 }
+

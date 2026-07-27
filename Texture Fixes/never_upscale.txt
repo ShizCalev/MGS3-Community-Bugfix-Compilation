@@ -1376,3 +1376,7 @@ vs007a_p1_cloud5_alp_ovl_rep.bmp
 
 
 #end skyboxes
+
+
+#pain cave water - resolution sensitive, hqtex also skipped it
+cave_grei_watertex_alp_ovl_rep.bmp

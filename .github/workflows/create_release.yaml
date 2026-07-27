@@ -142,7 +142,7 @@ jobs:
       with:
         api_key: ${{ secrets.NEXUSMODS_API_KEY }}
         file_id: 7339103
-        display_name: "MGS3-Community-Bugfix-Compilation - Base"
+        display_name: "MGS3 Community Bugfix Compilation - Base"
         filename: ${{ github.event.repository.name }}_Base_v${{ steps.extract_version.outputs.version }}.zip
         version: "${{ steps.extract_version.outputs.version }}"
         category: main
