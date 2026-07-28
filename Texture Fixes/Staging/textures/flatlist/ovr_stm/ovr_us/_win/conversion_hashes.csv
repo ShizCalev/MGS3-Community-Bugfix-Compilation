@@ -62,7 +62,6 @@ eve_tac_face_new.bmp,0a863fc4a4cd4a8b2b7191a80753fba40ad022c8,64892df078a87ffb21
 h_bottle_ovl_alp.bmp,9450c9c30e8fd3d39f5ed0d5217e4fc8cee1c578,1e6ae2d4219796a25cb0b6abc5827ceea87a81b6,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
 oum_allbody_col00.bmp,f92a34ed6af35a63743d3f6b561b6d3522eb25fb,dab605338d0b7f4d01fb64c92fa1b1e039e1ae57,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
 par_def_body.bmp,5fd1f75e46db83675b3b1db2ed4e441a31eb4d5b,744c89ffec8002a81bc397a58ef774148e4b3cc6,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
-rend_bandana.bmp,2449a991d7775d51bcdac8d37150bc60a3f1cb0f,ebb878f67750abce5bccf311753e9cb26a034a17,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
 s112a_cell_floor_01_alp_ovl.bmp,542b302e6e51d3e3d326fdcaa068accc971355e0,5751c518781cfb46c7a534111638b149b02fb2a7,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
 s112a_hibi_01_alp_ovl.bmp,3451f5d2345a9f71ba74b8d128ba97bc715fe9f4,fa95ce0c4ebd492ee75f6f3e6107aea80f52216b,true,Self Remade\Finalized\Dont demaster,false,false,0,none,5,false,false,false
 s122a_fence_alp_ovl_01.bmp,6c0ff5d78be43e11a11fedba0b9d4ac3cfffd4b3,e6ac07f651d13ffec2e6f794523c6195605955de,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
@@ -70,22 +69,19 @@ s171a_mo_fence_alp_ovl_rep_01.bmp,a0c501b97e8241b000209da05d94a892177cb443,a95c0
 s171a_mogi_fence_alp_ovl_rep_01.bmp,1b5aa35dca27b0fb0e89545e9f18a71d69871b69,e05c389ecb03b9333d636c9b37608711d3946307,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
 sga_cigar01_brake.bmp,0aa6eb324390eb9ef0760b8c068de5c724ab122e,ed5dd88a61eed9cbbe47c61840527a24fbc4d469,true,Self Remade\Finalized\Self Remastered,true,false,0,none,5,false,false,false
 sga_cigar_origin.bmp,912c8fd8d69cdf9f0338fa18f8ea4a27e54904ef,94b4bba0f075720ffa5c0265b899537c8733ce0b,true,Self Remade\Finalized\Self Remastered,true,false,0,none,5,false,false,false
-sna_bandana_def.bmp,6ff5488659291b3e6cf85f69450e6802c1f738e2,6bc4ca957b8e53439bd0bafee41980e568b2001b,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
 sna_def_hair_front_ovl_alp.bmp,78ff011a0b9505630ef0258b7316e99121a415f6,44463832ec600e61f8f322e78453a4af65f08ea4,true,Self Remade\Finalized\Dont demaster,false,false,0,none,5,false,false,false
 sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310,2b1103fe94457be569cbb561277a30d0729b0fee,5b9c6e4be3c667762530c3728d11d92349777b17,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
 sna_face_cell_hi.bmp,7530ef8ce7c9df3f07f3a6d0bedbd210a411161c,9639dabc6c7f582de7fee12d1d223889fd2b405f,true,Self Remade\Finalized,true,false,0,none,5,false,false,false
 sna_face_dam_eye_ovl_alp.bmp,5f92318ff5553e2461499b67c9f132b49301bb8d,5b240c28b3b00c2439bd465d851d71cd7ccf56e5,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
-sna_face_ed_def.bmp,5c1643b300362f2207ecbb39624971083074d818,4bb8a1b8982fe94b4d32d0a909f9c8363d0f77f3,true,Self Remade\Finalized,true,false,0,none,5,false,false,false
+sna_face_ed_def.bmp,1310a39f05ee3438be658c9834f8cf3717387071,b8c0a6b90fccd8b848605148ed4095a0ed169162,true,Self Remade\Finalized,true,false,0,none,5,false,false,
 sna_face_vr_sta_ovl_alp.bmp,33c9ff540bcae94ab64fc0c79882490bd80b709d,152d7e4ffb24f7278f5f85caa5e9b205ac5d33ff,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
 sna_flirt_tiger.bmp,26bce004256f1b7f8fe42443763a4c5bacd941ca,bc23e836d838ad3948d4078510a54e6c5b00056a,true,Self Remade\Finalized,true,false,0,none,5,false,false,false
 sna_foot_naked_flirt.bmp,f0cf58c6443f52b0efaade154a3b742081461af2,a0a8b9e139e802751b9581090fd3f85970ab1130,true,Self Remade\Finalized,true,false,0,none,5,false,false,false
 sna_foot_naked_tor.bmp,bcf9840ced61604419e4ba409135e3442a927ede,016d924dc708c37554980c91e80f444565424d41,true,Self Remade\Finalized,true,false,0,none,5,false,false,false
 sna_foot_naked_tor.bmp_73f755c5eb2ba5efb9fbd155062db075,9639e3d0920a54b77927102fac23859f9eb116ba,4d7f4a9534f7c29cf8f4ffab03aa40eb08943e74,true,Self Remade\Finalized,true,false,0,none,5,false,false,false
 sna_hair_back_ovl_alp.bmp,1466a9c24224b59ad4158b8b71ced69b76babfc1,c8c71c52b09fa39daa0a04e37b245a8e6967cfb8,true,Self Remade\Finalized\Not Demaster Fixed,false,false,0,none,5,false,false,false
-sna_item_bandanna.bmp,b52134cb4bc6acca6f480e4f22bcc720a9950630,0ed8ac9949ae521c5a07bb7e838885de6ba13d56,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
-sna_mgs3_bandage_shl.bmp,ecf37a29fa903edccbac9bfec5872c14ffd46d15,2c44f2308a4cd14d8bfaf9267ec75025012abd15,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
-sna_mgs3_bandana_def_ovl_alp.bmp,47bcdcf2c024ed6c2c7bbf4fb5d20e2c163a2fb6,b3723941a6d965110398d04ea6d3745d316d7251,true,Self Remade\Finalized\Dont demaster,false,false,0,none,5,false,false,false
-sna_suit_tears.bmp,ed2e96ef7bb9c1bf8cc7a7d4838107d102d3512f,3fb1fbfc3e6ca0fb16316d4ecfbfd30e6780762f,true,Self Remade\Finalized,true,false,0,none,5,false,false,false
+sna_mgs3_bandana_def_ovl_alp.bmp,47bcdcf2c024ed6c2c7bbf4fb5d20e2c163a2fb6,b3723941a6d965110398d04ea6d3745d316d7251,true,Self Remade\Finalized\Dont demaster,false,false,0,none,5,false,false,
+sna_suit_tears.bmp,6b5b6a92f643bab6ef3ca9106b8deb05fc511e6b,cdb8879005a67d6c84148d8229096091d0419bfd,true,Self Remade\Finalized,true,false,0,none,5,false,false,
 sna_suit_tears_sub_ovl_alp.bmp,7c4112ddc408d4bd52b03f23f5199b5d9811182b,c8c348249085b70ab864b2f37756ad3bf01fb8ed,false,Self Remade\Finalized,false,false,0,none,5,true,false,false
 sna_tears_ovl_alp.bmp,7b6909e8e494f7c507f87c1031081bb96b2eeb10,d618fd10624834b7d2d5eb3a4116af6f67cfd69e,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
 vva_first_aid_kit_alp_ovl.bmp,2c9c88967add63a31121a29bea26003f9c99784f,88135145c077132fb9828d5812619fa62b35bb28,true,Self Remade\Finalized\Dont demaster,false,false,0,none,5,false,false,false

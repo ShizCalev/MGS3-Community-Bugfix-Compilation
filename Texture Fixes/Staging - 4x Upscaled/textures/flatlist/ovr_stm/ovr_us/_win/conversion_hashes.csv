@@ -36,7 +36,6 @@ k08_3.bmp,ce60da9ce996e9475def67dbc712414f9ade30bb,8c3cb4daaf3e107985d88234b2a5d
 k08_4.bmp,044a50aa1b04988ff5ac2cda2c4b069a60ba7217,61679398f127822c58db635a1fec47193e726171,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_us,true,true,5,remarci_4x,false,0,false,false
 oum_allbody_col00.bmp,f92a34ed6af35a63743d3f6b561b6d3522eb25fb,a532b11ee1c019f3576b5e78bf474ec6004538d4,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x,false,0,false,false
 par_def_body.bmp,5fd1f75e46db83675b3b1db2ed4e441a31eb4d5b,709a0adf9cc69ddaa541059c094e01170d2c4f72,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x,false,0,false,false
-rend_bandana.bmp,2449a991d7775d51bcdac8d37150bc60a3f1cb0f,bd4e04557462257977251e0b40ca0465b0dde7cf,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x,false,0,false,false
 s112a_cell_floor_01_alp_ovl.bmp,542b302e6e51d3e3d326fdcaa068accc971355e0,ec9702dfce9b896aeb1b7cb9abab4ab63d0af57a,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false,false
 s112a_hibi_01_alp_ovl.bmp,3451f5d2345a9f71ba74b8d128ba97bc715fe9f4,34e79bd2742e8e0734285f19981c3aa1f3ba54d5,true,Self Remade\Finalized\Dont demaster,false,true,5,remarci_4x,false,0,false,false
 s122a_fence_alp_ovl_01.bmp,6c0ff5d78be43e11a11fedba0b9d4ac3cfffd4b3,4c29718da66782a31ee2cae2939a7bdddbff9397,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false,false
@@ -45,22 +44,19 @@ s171a_mogi_fence_alp_ovl_rep_01.bmp,1b5aa35dca27b0fb0e89545e9f18a71d69871b69,bf0
 s222a_america_01.bmp,951c1636bbe6475685834a75dc36f570efcbd417,f4a0bccbc9cc0276470361fb04d68f593bc14e7c,true,Self Remade\Finalized\Hires Backports,false,false,0,none,false,5,false,false
 sga_cigar01_brake.bmp,0aa6eb324390eb9ef0760b8c068de5c724ab122e,81ec991a86c9cc9dfef55b3441f164c929269fab,true,Self Remade\Finalized\Self Remastered,true,true,5,remarci_4x,false,0,false,false
 sga_cigar_origin.bmp,912c8fd8d69cdf9f0338fa18f8ea4a27e54904ef,b986d73b55d5092f9fb7d5ad4b8a71c40a7ad8d2,true,Self Remade\Finalized\Self Remastered,true,true,5,remarci_4x,false,0,false,false
-sna_bandana_def.bmp,6ff5488659291b3e6cf85f69450e6802c1f738e2,49baa2231691aaa370723b69015d1fa9cdf89598,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x,false,0,false,false
 sna_def_hair_front_ovl_alp.bmp,78ff011a0b9505630ef0258b7316e99121a415f6,cc04def0b347a47569a52d1c511a98aaf5efab4a,true,Self Remade\Finalized\Dont demaster,false,true,5,remarci_4x,false,0,false,false
 sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310,2b1103fe94457be569cbb561277a30d0729b0fee,5ec381d32ab137d10e1da941ae08db835247da18,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x,false,0,false,false
 sna_face_cell_hi.bmp,7530ef8ce7c9df3f07f3a6d0bedbd210a411161c,95f4ec6733fdb2f707bbaf5302d32adae643e3b0,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false,false
 sna_face_dam_eye_ovl_alp.bmp,5f92318ff5553e2461499b67c9f132b49301bb8d,65b858f2898c7ee848c571188d93ac1ad87a79c4,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false,false
-sna_face_ed_def.bmp,5c1643b300362f2207ecbb39624971083074d818,5f7118984505a26f3b84fde2de00839b1f9bbdf0,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false,false
+sna_face_ed_def.bmp,1310a39f05ee3438be658c9834f8cf3717387071,ac5e5d71bd61c75fe9f95af21a65824d2b5d2612,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false,
 sna_face_vr_sta_ovl_alp.bmp,33c9ff540bcae94ab64fc0c79882490bd80b709d,73aadb077ef927a5af65684ad60e65f20b366758,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false,false
 sna_flirt_tiger.bmp,26bce004256f1b7f8fe42443763a4c5bacd941ca,5079341e9ebbab0f24442532e7443d2c666ea306,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false,false
 sna_foot_naked_flirt.bmp,f0cf58c6443f52b0efaade154a3b742081461af2,5179412b9140aa35eed87e2e27ccd5f467e4c945,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false,false
 sna_foot_naked_tor.bmp,bcf9840ced61604419e4ba409135e3442a927ede,5a91f53d744b991282f8c58ee8b12d99646ba9e9,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false,false
 sna_foot_naked_tor.bmp_73f755c5eb2ba5efb9fbd155062db075,9639e3d0920a54b77927102fac23859f9eb116ba,22f703a00849f5f4ba636a86d66d1a09922afa5c,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false,false
 sna_hair_back_ovl_alp.bmp,1466a9c24224b59ad4158b8b71ced69b76babfc1,c2f591e0fabe3fc8cd5e2e4b70f928572f240fff,true,Self Remade\Finalized\Not Demaster Fixed,false,true,5,remarci_4x,false,0,false,false
-sna_item_bandanna.bmp,b52134cb4bc6acca6f480e4f22bcc720a9950630,63ef2ae75a10ec4d6b9c3d002e0efde7c886eb02,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x,false,0,false,false
-sna_mgs3_bandage_shl.bmp,ecf37a29fa903edccbac9bfec5872c14ffd46d15,ed0416a130708928464af833cc60aa5cf466d275,true,Self Remade\Finalized\Dont demaster,true,true,5,remarci_4x,false,0,false,false
-sna_mgs3_bandana_def_ovl_alp.bmp,47bcdcf2c024ed6c2c7bbf4fb5d20e2c163a2fb6,3a72ca87ca3cd5f8b1225b518f26f932118f1f6e,true,Self Remade\Finalized\Dont demaster,false,true,5,remarci_4x,false,0,false,false
-sna_suit_tears.bmp,ed2e96ef7bb9c1bf8cc7a7d4838107d102d3512f,d2cacdf1a222afe68e39a98e1ba5c840bf29ee41,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false,false
+sna_mgs3_bandana_def_ovl_alp.bmp,47bcdcf2c024ed6c2c7bbf4fb5d20e2c163a2fb6,3a72ca87ca3cd5f8b1225b518f26f932118f1f6e,true,Self Remade\Finalized\Dont demaster,false,true,5,remarci_4x,false,0,false,
+sna_suit_tears.bmp,6b5b6a92f643bab6ef3ca9106b8deb05fc511e6b,ab63baecbb33754d12fcbdbb53c1117986d30ca9,true,Self Remade\Finalized,true,true,5,remarci_4x,false,0,false,
 sna_suit_tears_sub_ovl_alp.bmp,7c4112ddc408d4bd52b03f23f5199b5d9811182b,f63466d3803e027c55b07af758a7420314389713,false,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false,false
 sna_tears_ovl_alp.bmp,7b6909e8e494f7c507f87c1031081bb96b2eeb10,96e4850efebe8052a45862a641e51c6ee11a473c,true,Self Remade\Finalized,false,true,5,remarci_4x,false,0,false,false
 u06_3.bmp,e008fdb3df69b001fb3a600cf642342ac41a4da5,384be632d0889a3150e32d4362990a4853467521,true,Self Remade\Finalized\Posters\MC - Vanilla\ovr_us,true,true,5,remarci_4x,false,0,false,false
