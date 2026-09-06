@@ -60,6 +60,7 @@ eve_tac_face_fix.bmp,9a35c0f658e1eb29f3f4c24714901ec2f7e1c260,b2e092c6ebe0840ae5
 eve_tac_face_fix_new.bmp,2c72c403f05fe3edb5625bfd193a7c127f4a93f8,83d722a7c5679ebb5fe7beb09dc86f3ae2d38b0b,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
 eve_tac_face_new.bmp,0a863fc4a4cd4a8b2b7191a80753fba40ad022c8,64892df078a87ffb21bc660110a66f5464efc74c,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
 h_bottle_ovl_alp.bmp,9450c9c30e8fd3d39f5ed0d5217e4fc8cee1c578,1e6ae2d4219796a25cb0b6abc5827ceea87a81b6,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
+k08_1.bmp,0340b94eb7000b7a9cf12dfccde5e812158a57eb,69bbcc1200bb50327dd18439efef1af4fa35e36f,true,Self Remade\Finalized\Self Remastered,true,false,0,none,5,false,false,
 oum_allbody_col00.bmp,f92a34ed6af35a63743d3f6b561b6d3522eb25fb,dab605338d0b7f4d01fb64c92fa1b1e039e1ae57,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
 par_def_body.bmp,5fd1f75e46db83675b3b1db2ed4e441a31eb4d5b,744c89ffec8002a81bc397a58ef774148e4b3cc6,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
 s112a_cell_floor_01_alp_ovl.bmp,542b302e6e51d3e3d326fdcaa068accc971355e0,5751c518781cfb46c7a534111638b149b02fb2a7,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
@@ -73,7 +74,7 @@ sna_def_hair_front_ovl_alp.bmp,78ff011a0b9505630ef0258b7316e99121a415f6,44463832
 sna_def_olive.bmp_250c64d61d6d43eebe785ba570084310,2b1103fe94457be569cbb561277a30d0729b0fee,5b9c6e4be3c667762530c3728d11d92349777b17,true,Self Remade\Finalized\Dont demaster,true,false,0,none,5,false,false,false
 sna_face_cell_hi.bmp,7530ef8ce7c9df3f07f3a6d0bedbd210a411161c,9639dabc6c7f582de7fee12d1d223889fd2b405f,true,Self Remade\Finalized,true,false,0,none,5,false,false,false
 sna_face_dam_eye_ovl_alp.bmp,5f92318ff5553e2461499b67c9f132b49301bb8d,5b240c28b3b00c2439bd465d851d71cd7ccf56e5,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
-sna_face_ed_def.bmp,1310a39f05ee3438be658c9834f8cf3717387071,b8c0a6b90fccd8b848605148ed4095a0ed169162,true,Self Remade\Finalized,true,false,0,none,5,false,false,
+sna_face_ed_def.bmp,a007c99a4e9573a1efa351153489b783c897cbec,ae058edc75a70a75fe3be8e7367ae5f19734bd84,true,Self Remade\Finalized,true,false,0,none,5,false,false,
 sna_face_vr_sta_ovl_alp.bmp,33c9ff540bcae94ab64fc0c79882490bd80b709d,152d7e4ffb24f7278f5f85caa5e9b205ac5d33ff,true,Self Remade\Finalized,false,false,0,none,5,false,false,false
 sna_flirt_tiger.bmp,26bce004256f1b7f8fe42443763a4c5bacd941ca,bc23e836d838ad3948d4078510a54e6c5b00056a,true,Self Remade\Finalized,true,false,0,none,5,false,false,false
 sna_foot_naked_flirt.bmp,f0cf58c6443f52b0efaade154a3b742081461af2,a0a8b9e139e802751b9581090fd3f85970ab1130,true,Self Remade\Finalized,true,false,0,none,5,false,false,false
