@@ -1,0 +1,1684 @@
+{
+  "version": 1,
+  "type": "mgs2-string-overrides-dif",
+  "sourceFile": "mgs3_string_overrides_dump.txt",
+  "generatedAt": "2026-07-22T07:06:27.031357600Z",
+  "changes": [],
+  "disabled": [
+    {
+      "hash": "0xa03ad401",
+      "table": 1,
+      "text": "Alors , connecte un périphérique de stockage"
+    },
+    {
+      "hash": "0x9a170dc9",
+      "table": 1,
+      "text": "An error occurred while saving camouflage\ndata to storage device.\nTry saving again?"
+    },
+    {
+      "hash": "0x7ce85b7f",
+      "table": 1,
+      "text": "At least %dKB of free space is needed\non storage device to save camouflage\ndata. Continue?"
+    },
+    {
+      "hash": "0x059276f1",
+      "table": 1,
+      "text": "Aucun périphérique de stockage\nn'a été détecté."
+    },
+    {
+      "hash": "0xea58eaa6",
+      "table": 1,
+      "text": "Aucun périphérique de stockage n'a été détecté."
+    },
+    {
+      "hash": "0xf6d886ef",
+      "table": 1,
+      "text": "Aucune donnée de chargement n'a été\ndétectée. Insérez le périphérique de stockage\nutilisée pour charger les données."
+    },
+    {
+      "hash": "0x527058d2",
+      "table": 1,
+      "text": "Aucune périphérique de stockage\nn'a été détecté.\nContinuer la partie ?"
+    },
+    {
+      "hash": "0x4c93398b",
+      "table": 1,
+      "text": "Aucune périphérique de stockage\nn'a été détecté.\nContinuer sans sauvegarder?"
+    },
+    {
+      "hash": "0x8db31603",
+      "table": 1,
+      "text": "Aucune périphérique de stockage détecté. Un\nminimum de %dKB est nécessaire pour\nsauvegarder les données. Continuer?"
+    },
+    {
+      "hash": "0x2242d8b8",
+      "table": 1,
+      "text": "Aucune périphérique de stockage n'a été\ndétecté. Insérez le périphérique de stockage\nutilisé pour charger les données."
+    },
+    {
+      "hash": "0x2f3e4034",
+      "table": 1,
+      "text": "Beim Speichern der Tarndaten\nauf das Speichergerät ist ein Fehler\naufgetreten. Noch einmal versuchen?"
+    },
+    {
+      "hash": "0x6a8f0fdd",
+      "table": 1,
+      "text": "Bitte das Speichergerät anschließen,\num die\n Tarndaten zu speichern."
+    },
+    {
+      "hash": "0x24ff5247",
+      "table": 1,
+      "text": "Camouflage data on storage device\nis broken."
+    },
+    {
+      "hash": "0x75a00047",
+      "table": 1,
+      "text": "Carga satisfactoria de los datos de camuflaje\ndel dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0xfb68d75e",
+      "table": 1,
+      "text": "Cargando datos de camuflaje del\ndispositivo de almacenamiento."
+    },
+    {
+      "hash": "0x3cb62608",
+      "table": 1,
+      "text": "Caricamento dati Mimetica da\nperiferica di memorizzazione completato."
+    },
+    {
+      "hash": "0x349e907b",
+      "table": 1,
+      "text": "Caricamento dati Mimetica da\nperiferica di memorizzazione."
+    },
+    {
+      "hash": "0x08a1b370",
+      "table": 1,
+      "text": "Caricamento fallito! Controllare la\nperiferica di memorizzazione e riprovare."
+    },
+    {
+      "hash": "0x09c88f58",
+      "table": 1,
+      "text": "Caricamento fallito! Inserire la\nperiferica di memorizzazione usata\nper caricare i dati salvati."
+    },
+    {
+      "hash": "0xbc30de94",
+      "table": 1,
+      "text": "Chargement réussi des données\nCamouflage sur le périphérique de stockage."
+    },
+    {
+      "hash": "0x0dbe10dd",
+      "table": 1,
+      "text": "Checking storage device."
+    },
+    {
+      "hash": "0x0ff8ae84",
+      "table": 1,
+      "text": "Checking storage device."
+    },
+    {
+      "hash": "0xc1f76008",
+      "table": 1,
+      "text": "Checking storage device."
+    },
+    {
+      "hash": "0x32f65f03",
+      "table": 1,
+      "text": "Collega una periferica di memorizzazione\nper salvare i dati Mimetica."
+    },
+    {
+      "hash": "0x00f4348d",
+      "table": 1,
+      "text": "Comprobando dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0x8aeb0012",
+      "table": 1,
+      "text": "Comprobando dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0x8c20f566",
+      "table": 1,
+      "text": "Comprobando dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0x8e664b3f",
+      "table": 1,
+      "text": "Comprobando dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0x3aa62129",
+      "table": 1,
+      "text": "Conecta un dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0xb01aa1f3",
+      "table": 1,
+      "text": "Controllo periferica di memorizzazione fallito!\nServono almeno %dKB per salvare\ni dati. Continuare con il gioco?"
+    },
+    {
+      "hash": "0x51ac3ae6",
+      "table": 1,
+      "text": "Controllo periferica di memorizzazione."
+    },
+    {
+      "hash": "0xfcf2670b",
+      "table": 1,
+      "text": "Controllo periferica di memorizzazione."
+    },
+    {
+      "hash": "0xfeb4d952",
+      "table": 1,
+      "text": "Controllo periferica di memorizzazione."
+    },
+    {
+      "hash": "0x23893e8d",
+      "table": 1,
+      "text": "Creare nuovi dati salvati sulla\nperiferica di memorizzazione?\nSì o No"
+    },
+    {
+      "hash": "0xf3698f77",
+      "table": 1,
+      "text": "Create new camouflage data save file on\nstorage device?"
+    },
+    {
+      "hash": "0x8e43883b",
+      "table": 1,
+      "text": "Create new save data on\nstorage device?\nYes or No"
+    },
+    {
+      "hash": "0xf4f5c61a",
+      "table": 1,
+      "text": "Créer de nouvelles données de\nsauvegarde sur le périphérique de stockage?\nOui ou Non"
+    },
+    {
+      "hash": "0x220e846d",
+      "table": 1,
+      "text": "Créer une nouvelle sauvegarde pour les\ndonnées Camouflages sur le périphérique\nde stockage ?"
+    },
+    {
+      "hash": "0x2a22a67e",
+      "table": 1,
+      "text": "Data on storage device is broken."
+    },
+    {
+      "hash": "0x580e7187",
+      "table": 1,
+      "text": "Daten auf dem Speichergerät\nsind defekt."
+    },
+    {
+      "hash": "0xb34b381f",
+      "table": 1,
+      "text": "Dati Mimetica su periferica di\n memorizzazione danneggiati."
+    },
+    {
+      "hash": "0xe24a846b",
+      "table": 1,
+      "text": "Devi collegare una periferica di\nmemorizzazione per salvare il gioco."
+    },
+    {
+      "hash": "0x8fd73da6",
+      "table": 1,
+      "text": "Diese Tarndaten auf das\nSpeichergerät speichern?"
+    },
+    {
+      "hash": "0x49c20d85",
+      "table": 1,
+      "text": "Désolée, Snake. Il n'y a pas assez d'espace\nlibre sur ce périphérique de stockage."
+    },
+    {
+      "hash": "0xe43eb340",
+      "table": 1,
+      "text": "Echec de la sauvegarde! Veuillez vérifier\nle périphérique de stockage et ré-essayer."
+    },
+    {
+      "hash": "0x287567d5",
+      "table": 1,
+      "text": "Echec de la vérification du périphérique de stockage ! Un minimum de %dKB est\nnécessaire pour sauvegarder. Continuer?"
+    },
+    {
+      "hash": "0xd6f41e2c",
+      "table": 1,
+      "text": "Echec du chargement! Insérez le périphérique de stockage utilisé pour charger les\ndonnées."
+    },
+    {
+      "hash": "0x95f77b9c",
+      "table": 1,
+      "text": "Echec du chargement! Veuillez vérifier\nle périphérique de stockage et ré-essayer."
+    },
+    {
+      "hash": "0xc78b5f0b",
+      "table": 1,
+      "text": "Echec du formatage! Veuillez vérifier\nle périphérique de stockage et ré-essayer."
+    },
+    {
+      "hash": "0x5d889205",
+      "table": 1,
+      "text": "El dispositivo de almacenamiento no está\nformateado. ¿Quieres formatear\nel dispositivo de almacenamiento y guardar?"
+    },
+    {
+      "hash": "0x172d1854",
+      "table": 1,
+      "text": "El dispositivo de almacenamiento no está formateado.\n¿Formatear dispositivo de almacenamiento y guardar\ndatos de camuflaje?"
+    },
+    {
+      "hash": "0x42d477c9",
+      "table": 1,
+      "text": "El dispositivo de almacenamiento ya contiene estos\ndatos de camuflaje. ¿Quieres\nsobrescribir los datos?"
+    },
+    {
+      "hash": "0x8f0858b6",
+      "table": 1,
+      "text": "Erreur de périphérique de stockage !\nVeuillez vérifier le disque\ndur et ré-essayer."
+    },
+    {
+      "hash": "0xd0b9876f",
+      "table": 1,
+      "text": "Erreur lors de la vérification\ndu périphérique de stockage."
+    },
+    {
+      "hash": "0xede3430d",
+      "table": 1,
+      "text": "Erreur lors du chargement des données\nCamouflage du périphérique de stockage."
+    },
+    {
+      "hash": "0xd7e95d95",
+      "table": 1,
+      "text": "Error accessing storage device!"
+    },
+    {
+      "hash": "0xce23895d",
+      "table": 1,
+      "text": "Error al cargar datos de camuflaje del\ndispositivo de almacenamiento."
+    },
+    {
+      "hash": "0xa9be3f28",
+      "table": 1,
+      "text": "Error al comprobar el dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0xce0725a0",
+      "table": 1,
+      "text": "Error al detectar el dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0xdc938906",
+      "table": 1,
+      "text": "Error al detectar el dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0x9514a7a3",
+      "table": 1,
+      "text": "Error detecting the storage device."
+    },
+    {
+      "hash": "0xb57ed637",
+      "table": 1,
+      "text": "Error detecting the storage device."
+    },
+    {
+      "hash": "0x15ef1c3b",
+      "table": 1,
+      "text": "Error occurred checking storage device."
+    },
+    {
+      "hash": "0x4db85b94",
+      "table": 1,
+      "text": "Error occurred loading Camouflage data from\nstorage device."
+    },
+    {
+      "hash": "0x6c99e588",
+      "table": 1,
+      "text": "Errore durante caricamento dati Mimetica\nda periferica di memorizzazione."
+    },
+    {
+      "hash": "0x4e85255d",
+      "table": 1,
+      "text": "Errore durante controllo periferica di memorizzazione."
+    },
+    {
+      "hash": "0x3f47002d",
+      "table": 1,
+      "text": "Errore nel rilevamento della\nperiferica di memorizzazione."
+    },
+    {
+      "hash": "0xaa91c7ab",
+      "table": 1,
+      "text": "Errore nel rilevamento della\nperiferica di memorizzazione."
+    },
+    {
+      "hash": "0x999ae9e6",
+      "table": 1,
+      "text": "Errore nella periferica di memorizzazione.\nControlla la periferica di memorizzazione\ne riprova."
+    },
+    {
+      "hash": "0x57daa698",
+      "table": 1,
+      "text": "Espace insuf. sur le périphérique de stockage.\nUn minimum de %dKB est nécessaire pour\nsauvegarder les données. Continuer?"
+    },
+    {
+      "hash": "0x12ef9304",
+      "table": 1,
+      "text": "Espace libre insuff. sur le périphérique de stockage\n Un minimum de %dKB est néc.\npour sauv. les données Camouflage."
+    },
+    {
+      "hash": "0x49ae85f4",
+      "table": 1,
+      "text": "Espace libre insuffisant sur le périphérique de stockage. Un minimum de %dKB est\nnécessaire pour sauvegarder les données."
+    },
+    {
+      "hash": "0xcc9cf0eb",
+      "table": 1,
+      "text": "Espacio insuficiente en el dispositivo de almacenamiento.\nPara guardar datos hacen falta\nal menos %dKB libres. ¿Quieres jugar?"
+    },
+    {
+      "hash": "0xeabae06e",
+      "table": 1,
+      "text": "Espacio insuficiente en el dispositivo de almacenamiento.\nPara guardar datos hacen falta\nal menos %dKB libres. ¿Quieres jugar?"
+    },
+    {
+      "hash": "0xc91869ed",
+      "table": 1,
+      "text": "Espacio insuficiente en el dispositivo de almacenamiento. Necesitas %dKB para poder\nguardar datos de camuflaje."
+    },
+    {
+      "hash": "0x4195da36",
+      "table": 1,
+      "text": "Fehler beim Erkennen des Speichergeräts."
+    },
+    {
+      "hash": "0xa2ea8f03",
+      "table": 1,
+      "text": "Fehler beim Erkennen des Speichergeräts."
+    },
+    {
+      "hash": "0xe6c44634",
+      "table": 1,
+      "text": "Fehler beim Laden der Tarndaten vom\nSpeichergerät."
+    },
+    {
+      "hash": "0x63ce74c1",
+      "table": 1,
+      "text": "Fehler beim Prüfen des Speichergeräts."
+    },
+    {
+      "hash": "0xeb4bb5c5",
+      "table": 1,
+      "text": "Fehler beim Überprüfen des Speichergeräts!\nBitte überprüfen Sie das Speichergerät\nund versuchen Sie es nochmal."
+    },
+    {
+      "hash": "0xd7b57220",
+      "table": 1,
+      "text": "Format failed! Please check storage device and try again."
+    },
+    {
+      "hash": "0xa971a6d0",
+      "table": 1,
+      "text": "Formatage de le périphérique de stockage\nen cours. Ne pas retirer la Memory Card\n(PS2), réinitialiser ou éteindre la console."
+    },
+    {
+      "hash": "0x1a83d52c",
+      "table": 1,
+      "text": "Formatage en cours. Ne pas retirer le périphérique de stockage ou la manette, ni\nredémarrer ou éteindre la console."
+    },
+    {
+      "hash": "0xe795e5b3",
+      "table": 1,
+      "text": "Formateando dispositivo de almacenamiento.\nNo extraigas el dispositivo de almacenamiento, ni\nreinicies o apagues la consola."
+    },
+    {
+      "hash": "0x904da7f0",
+      "table": 1,
+      "text": "Formateando el dispositivo de almacenamiento.\nNo extraigas el dispositivo de almacenamiento o el\nmando ni resetees o apagues la consola."
+    },
+    {
+      "hash": "0xa4280469",
+      "table": 1,
+      "text": "Formatiere Speichergerät. Speichergerät\nnicht entfernen und die Konsole\nnicht zurücksetzen oder ausschalten."
+    },
+    {
+      "hash": "0xc6a0aa24",
+      "table": 1,
+      "text": "Formatieren fehlgeschlagen! Bitte überprüfen\nSie das Speichergerät und\nversuchen Sie es noch einmal."
+    },
+    {
+      "hash": "0x8d2864d5",
+      "table": 1,
+      "text": "Formatiert Speichergerät. Speicher-\ngerät u. Controller nicht entfernen u.\nKonsole nicht zurückstellen o. abschalten."
+    },
+    {
+      "hash": "0x4707182a",
+      "table": 1,
+      "text": "Formattazione fallita! Controllare\nla periferica di memorizzazione e riprovare."
+    },
+    {
+      "hash": "0xfa7ecb60",
+      "table": 1,
+      "text": "Formattazione in corso per la periferica di memorizzazione\n.\nNon rimuovere la periferica di memorizzazione,\nnon resettare o spegnere la console."
+    },
+    {
+      "hash": "0x7e423cc5",
+      "table": 1,
+      "text": "Formattazione periferica di memorizzazione. Non\nrimuovere periferica di memorizzazione e controller.\nNon resettare/spegnere la console."
+    },
+    {
+      "hash": "0x76ade753",
+      "table": 1,
+      "text": "Formatting storage device.\nDo not remove storage device,\ncontroller, or reset/switch off the console."
+    },
+    {
+      "hash": "0x290c11f6",
+      "table": 1,
+      "text": "Formatting storage device. Do not\nremove storage device, reset, or\nswitch off the console."
+    },
+    {
+      "hash": "0xc992c5f6",
+      "table": 1,
+      "text": "Geladene Daten nicht gefunden.\nDerzeit gespeicherte Daten auf derm\nSpeichergerät überschreiben?"
+    },
+    {
+      "hash": "0x7a8a7e03",
+      "table": 1,
+      "text": "Gespeicherte Daten sind defekt. Schließen Sie ein Speichergerät an, das zum Laden der\ngespeicherten Daten verwendet wurde."
+    },
+    {
+      "hash": "0xcd950c2f",
+      "table": 1,
+      "text": "Guardando datos. No extraigas\nel dispositivo de almacenamiento o el mando\nni resetees o apagues la consola."
+    },
+    {
+      "hash": "0xb633a02a",
+      "table": 1,
+      "text": "Guardando en el dispositivo de almacenamiento.\nNo extraigas el dispositivo de almacenamiento, ni\nreinicies o apagues la consola."
+    },
+    {
+      "hash": "0xcee54c88",
+      "table": 1,
+      "text": "I dati salvati e caricati non sono stati\ntrovati. Sovrascrivere i dati salvati\nattuali sulla periferica di memorizzazione?"
+    },
+    {
+      "hash": "0x4f25638d",
+      "table": 1,
+      "text": "I dati salvati sono danneggiati.\nInserire la periferica di memorizzazione\nusata per caricare i dati salvati."
+    },
+    {
+      "hash": "0x63e7dd8a",
+      "table": 1,
+      "text": "I dati sulla periferica di memorizzazione\nsono danneggiati."
+    },
+    {
+      "hash": "0x5568ab95",
+      "table": 1,
+      "text": "Inserta un dispositivo de almacenamiento\npara guardar los\ndatos de camuflaje."
+    },
+    {
+      "hash": "0x6bde7f44",
+      "table": 1,
+      "text": "Insufficient free space on storage device.\nAt least %dKB of free space is required to\nsave data. Contiune with the game?"
+    },
+    {
+      "hash": "0xc01acd97",
+      "table": 1,
+      "text": "Insufficient free space on storage device. \nAt least %dKB of free space\nis required to save Camouflage data."
+    },
+    {
+      "hash": "0x9bbdc7af",
+      "table": 1,
+      "text": "Insufficient free space on storage device. At least %dKB of free space is\nrequired to save data."
+    },
+    {
+      "hash": "0x78d93d5b",
+      "table": 1,
+      "text": "Kein Speichergerät gefunden."
+    },
+    {
+      "hash": "0xc7e1080e",
+      "table": 1,
+      "text": "Kein Speichergerät gefunden.\n Schließen Sie\nein Speichergerät an, das zum\nLaden der Speicherdaten verwendet wurde."
+    },
+    {
+      "hash": "0x9527dfe3",
+      "table": 1,
+      "text": "Kein Speichergerät gefunden.\nBitte Speichergerät anschließen.\nNoch einmal versuchen?"
+    },
+    {
+      "hash": "0xb18e3ef2",
+      "table": 1,
+      "text": "Kein Speichergerät gefunden.\nFortfahren ohne zu speichern?"
+    },
+    {
+      "hash": "0x090f59de",
+      "table": 1,
+      "text": "Kein Speichergerät gefunden.\nMindestens %d KB freier Speicherplatz nötig,\num Daten zu speichern. Spiel fortsetzen?"
+    },
+    {
+      "hash": "0x4ae7bbd9",
+      "table": 1,
+      "text": "Kein Speichergerät gefunden.\nSpiel fortsetzen?"
+    },
+    {
+      "hash": "0xcb2a31cb",
+      "table": 1,
+      "text": "Keine Daten auf dem Speichergerät vorhanden."
+    },
+    {
+      "hash": "0xa8371fe7",
+      "table": 1,
+      "text": "Keine Daten auf dem Speichergerät vorhanden.\nSpiel fortsetzen ohne zu speichern?"
+    },
+    {
+      "hash": "0x6639b81d",
+      "table": 1,
+      "text": "Keine Daten auf dem Speichergerät vorhanden.\nSpiel fortsetzen?"
+    },
+    {
+      "hash": "0x4452501c",
+      "table": 1,
+      "text": "Keine geladenen Daten gefunden.\nSchließen Sie ein Speichergerät an, das zum\nLaden der Speicherdaten verwendet wurde."
+    },
+    {
+      "hash": "0xacefe0e5",
+      "table": 1,
+      "text": "Keine Tarndaten auf dem Speichergerät\nvorhanden."
+    },
+    {
+      "hash": "0x256b8d05",
+      "table": 1,
+      "text": "La periferica di memorizzazione\ncontiene già questi dati Mimetica.\nVuoi sovrascrivere i dati?"
+    },
+    {
+      "hash": "0xd885d6a4",
+      "table": 1,
+      "text": "La periferica di memorizzazione\nnon contiene dati Mimetica."
+    },
+    {
+      "hash": "0xfdb5ff5d",
+      "table": 1,
+      "text": "La periferica di memorizzazione non è \nformattata. Formattare la periferica di \nmemorizzazione e salvare?"
+    },
+    {
+      "hash": "0x6e77582e",
+      "table": 1,
+      "text": "La periferica di memorizzazione non è formattata.\nVuoi formattare la periferica di memorizzazione\ne salvare i dati Mimetica?"
+    },
+    {
+      "hash": "0x9ef5fd5d",
+      "table": 1,
+      "text": "Laden fehlgeschlagen! Schließen Sie ein\nSpeichergerät an, das zum Laden\n der\ngespeicherten Daten verwendet wurde."
+    },
+    {
+      "hash": "0x74d2f9cd",
+      "table": 1,
+      "text": "Laden gescheitert. Bitte überprüfen Sie\ndas Speichergerät und versuchen\nSie es noch einmal."
+    },
+    {
+      "hash": "0x1e670678",
+      "table": 1,
+      "text": "le périphérique de stockage a été retirée lors\nde la sauvegarde. Ré-insérez le périphérique de stockage. Annuler l'écrasement?"
+    },
+    {
+      "hash": "0xc5ebbe25",
+      "table": 1,
+      "text": "le périphérique de stockage contient déjà\nces données Camouflage.\nSauvegarder par-dessus ?"
+    },
+    {
+      "hash": "0x274aa5d0",
+      "table": 1,
+      "text": "Le périphérique de stockage n'est pas\nformaté. Formater le périphérique de stockage et sauvegarder?"
+    },
+    {
+      "hash": "0xc9c40027",
+      "table": 1,
+      "text": "Le périphérique de stockage n'est pas formaté.\nFormater le périphérique de stockage puis\nsauvegarder les données Camouflage ?"
+    },
+    {
+      "hash": "0xc9ec73ec",
+      "table": 1,
+      "text": "Les données Camouflage sur le\npériphérique de stockage sont corrompues."
+    },
+    {
+      "hash": "0xa3fccd36",
+      "table": 1,
+      "text": "Les données sauvegardées chargées n'ont\npas été trouvées. Ecraser sur le périphérique de stockage les données sauv. présentes?"
+    },
+    {
+      "hash": "0x41e97066",
+      "table": 1,
+      "text": "Les données sauvegardées sont\ncorrompues. Insérez le périphérique de stockage utilisé pour charger les données."
+    },
+    {
+      "hash": "0xb2731b1f",
+      "table": 1,
+      "text": "Les données sur le périphérique de stockage\nsont corrompues."
+    },
+    {
+      "hash": "0xe90fcbc4",
+      "table": 1,
+      "text": "Lo siento, Snake. Parece que no queda espacio\nlibre en el dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0xda05d36a",
+      "table": 1,
+      "text": "Load failed! Check storage device\nand please try again."
+    },
+    {
+      "hash": "0x83ba9b2d",
+      "table": 1,
+      "text": "Load failed! Connect storage device\nthat was used to load the saved\ndata."
+    },
+    {
+      "hash": "0x3a4dbe9b",
+      "table": 1,
+      "text": "Loading Camouflage data from\nstorage device."
+    },
+    {
+      "hash": "0x7fd9f0d6",
+      "table": 1,
+      "text": "Loading Camouflage data from storage device successfully completed."
+    },
+    {
+      "hash": "0xb130c978",
+      "table": 1,
+      "text": "Los datos de camuflaje del\ndispositivo de almacenamiento están dañados."
+    },
+    {
+      "hash": "0x59e22308",
+      "table": 1,
+      "text": "Los datos del dispositivo de almacenamiento están dañados."
+    },
+    {
+      "hash": "0xd546d0dd",
+      "table": 1,
+      "text": "Los datos guardados están dañados.\nConecta el dispositivo de almacenamiento desde\nel que cargaste los datos guardados."
+    },
+    {
+      "hash": "0x0fc563c4",
+      "table": 1,
+      "text": "Nessun dato caricato trovato.\nInserire la periferica di memorizzazione\nusata per caricare i dati salvati."
+    },
+    {
+      "hash": "0x4239cfa8",
+      "table": 1,
+      "text": "Nessun dato presente sulla\nperiferica di memorizzazione."
+    },
+    {
+      "hash": "0xbd8b7bbb",
+      "table": 1,
+      "text": "Nessun dato presente sulla periferica\ndi memorizzazione. Continuare con il gioco?"
+    },
+    {
+      "hash": "0xf07dab0c",
+      "table": 1,
+      "text": "Nessun dato presente sulla periferica\ndi memorizzazione. Continuare senza salvare?"
+    },
+    {
+      "hash": "0x18502c68",
+      "table": 1,
+      "text": "Nessuna periferica di memorizzazione trovata."
+    },
+    {
+      "hash": "0x83a56edb",
+      "table": 1,
+      "text": "Nessuna periferica di memorizzazione trovata.\nCollega la periferica di memorizzazione usata\nper caricare i dati salvati."
+    },
+    {
+      "hash": "0xf5efc328",
+      "table": 1,
+      "text": "Nessuna periferica di memorizzazione trovata.\nContinuare con il gioco?"
+    },
+    {
+      "hash": "0x99330d4a",
+      "table": 1,
+      "text": "Nessuna periferica di memorizzazione trovata.\nContinuare senza salvare?"
+    },
+    {
+      "hash": "0x81a483a0",
+      "table": 1,
+      "text": "Neue Datei auf dem Speichergerät\nerstellen?\nJa oder Nein"
+    },
+    {
+      "hash": "0xffa8a482",
+      "table": 1,
+      "text": "Neue Speicherdatei für Tarndaten\nzum Speichern auf dem Speichergerät\nerstellen?"
+    },
+    {
+      "hash": "0x1320d0ff",
+      "table": 1,
+      "text": "No Camouflage data present\non storage device."
+    },
+    {
+      "hash": "0x2b955315",
+      "table": 1,
+      "text": "No Camouflage data present on \nstorage device."
+    },
+    {
+      "hash": "0x8820bfd3",
+      "table": 1,
+      "text": "No data present on storage device."
+    },
+    {
+      "hash": "0x8b17cf4d",
+      "table": 1,
+      "text": "No data present on storage device.\nContinue with the game?"
+    },
+    {
+      "hash": "0x546a935d",
+      "table": 1,
+      "text": "No data present on storage device.\nContinue without saving?"
+    },
+    {
+      "hash": "0xf10a3d7d",
+      "table": 1,
+      "text": "No hay datos de camuflaje\nen el dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0x070355db",
+      "table": 1,
+      "text": "No hay datos en el dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0xa43c291e",
+      "table": 1,
+      "text": "No hay datos en el dispositivo de almacenamiento.\n¿Quieres continuar jugando?"
+    },
+    {
+      "hash": "0x814e01d2",
+      "table": 1,
+      "text": "No hay datos en el dispositivo de almacenamiento.\n¿Quieres continuar sin guardar?"
+    },
+    {
+      "hash": "0xdfb88ca3",
+      "table": 1,
+      "text": "No hay ningún dispositivo de almacenamiento conectado."
+    },
+    {
+      "hash": "0x3db1b465",
+      "table": 1,
+      "text": "No hay ningún dispositivo de almacenamiento conectado.\n¿Quieres continuar jugando?"
+    },
+    {
+      "hash": "0xcf45c00a",
+      "table": 1,
+      "text": "No hay ningún dispositivo de almacenamiento conectado.\n¿Quieres continuar sin guardar?"
+    },
+    {
+      "hash": "0xf79c34d2",
+      "table": 1,
+      "text": "No hay suficiente espacio en el disco\nduro. Para guardar datos\nnecesitas, al menos, %dKB libres."
+    },
+    {
+      "hash": "0x28c3eb49",
+      "table": 1,
+      "text": "No loaded data found. storage device \nthat was used\nto load the saved data."
+    },
+    {
+      "hash": "0x6e3ac750",
+      "table": 1,
+      "text": "No se encontró ningún disco\nduro. Debes conectar uno.\n¿Quieres intentarlo de nuevo?"
+    },
+    {
+      "hash": "0x03889dcf",
+      "table": 1,
+      "text": "No se encuentran los datos cargados. ¿Quieres sobreescribir los datos\npresentes en el dispositivo de almacenamiento?"
+    },
+    {
+      "hash": "0xf35628d4",
+      "table": 1,
+      "text": "No se ha encontrado\n ningún\ndispositivo de almacenamiento."
+    },
+    {
+      "hash": "0x59874ee2",
+      "table": 1,
+      "text": "No se ha encontrado ningún dispositivo de almacenamiento.\nConecta el dispositivo de almacenamiento desde el que\ncargaste los datos guardados."
+    },
+    {
+      "hash": "0x10f39024",
+      "table": 1,
+      "text": "No se han encontrado datos cargados.\nConecta el dispositivo de almacenamiento desde\nel que cargaste los datos guardados."
+    },
+    {
+      "hash": "0xc1aed69e",
+      "table": 1,
+      "text": "No storage device detected."
+    },
+    {
+      "hash": "0x1ae50052",
+      "table": 1,
+      "text": "No storage device found.\nContinue with the game?"
+    },
+    {
+      "hash": "0xd9f36c67",
+      "table": 1,
+      "text": "No storage device found.\nContinue without saving?"
+    },
+    {
+      "hash": "0x44f01b91",
+      "table": 1,
+      "text": "No storage device found. At least %dKB\nof free space is required to save data.\nContinue with the game?"
+    },
+    {
+      "hash": "0x7ecaf75a",
+      "table": 1,
+      "text": "No storage device found. Connect the \nstorage device that was used\nto load the saved data."
+    },
+    {
+      "hash": "0x8657f566",
+      "table": 1,
+      "text": "No storage device was found."
+    },
+    {
+      "hash": "0x41b48956",
+      "table": 1,
+      "text": "Ocurrió un error al guardar los datos de\ncamuflaje en el dispositivo de almacenamiento.\n¿Quieres intentarlo de nuevo?"
+    },
+    {
+      "hash": "0xa94a36c6",
+      "table": 1,
+      "text": "Para guardar datos de camuflaje\nse necesitan al menos %dKB espacio libre\nen el dispositivo de almacenamiento. ¿Quieres continuar?"
+    },
+    {
+      "hash": "0x7c26f4b2",
+      "table": 1,
+      "text": "Para guardar la partida, necesitas un\ndispositivo de almacenamiento."
+    },
+    {
+      "hash": "0x36f8443a",
+      "table": 1,
+      "text": "Pas de données Camouflage présentes\nsur le périphérique de stockage."
+    },
+    {
+      "hash": "0x66d3ebcd",
+      "table": 1,
+      "text": "Pas de données présentes sur\nle périphérique de stockage."
+    },
+    {
+      "hash": "0x9786c774",
+      "table": 1,
+      "text": "Pas de données présentes sur le périphérique de stockage. Continuer avec la partie?"
+    },
+    {
+      "hash": "0xd47e69c7",
+      "table": 1,
+      "text": "Pas de données présentes sur le périphérique de stockage. Continuer sans sauvegarder?"
+    },
+    {
+      "hash": "0x55a6e434",
+      "table": 1,
+      "text": "Per salvare i dati Mimetica servono\nalmeno %dKB di spazio libero sulla\nperiferica di memorizzazione. Continuare?"
+    },
+    {
+      "hash": "0x0da471aa",
+      "table": 1,
+      "text": "Periferica di memorizzazione non trovata.\nServono almeno %dKB per salvare\ni dati. Continuare con il gioco?"
+    },
+    {
+      "hash": "0xea763b61",
+      "table": 1,
+      "text": "Periferica di memorizzazione non trovata. \nCollega una periferica di memorizzazione.\nVuoi provare nuovamente a salvare?"
+    },
+    {
+      "hash": "0xb1645c15",
+      "table": 1,
+      "text": "Periferica di memorizzazione rimossa durante\nil salvataggio. Ricollegare la periferica\ndi memorizzazione. Annullare la sovrascrittura?"
+    },
+    {
+      "hash": "0xad8ac2cd",
+      "table": 1,
+      "text": "Please connect storage device to save\ncamouflage data."
+    },
+    {
+      "hash": "0x10612a65",
+      "table": 1,
+      "text": "périphérique de stockage non trouvé.\nConnectez un périphérique de stockage.\nSauvegarder de nouveau ?"
+    },
+    {
+      "hash": "0xa36c95d5",
+      "table": 1,
+      "text": "Quindi collega la tua periferica di memorizzazione."
+    },
+    {
+      "hash": "0xf210692e",
+      "table": 1,
+      "text": "Reading Camouflage data from storage device."
+    },
+    {
+      "hash": "0xfef33d34",
+      "table": 1,
+      "text": "Retrieve Camouflage list from \nstorage device. Press ."
+    },
+    {
+      "hash": "0xf0e53e1a",
+      "table": 1,
+      "text": "Retrieve Camouflage list from storage device."
+    },
+    {
+      "hash": "0x6b22b805",
+      "table": 1,
+      "text": "Retrieving downloaded Camouflage list\nfrom storage device."
+    },
+    {
+      "hash": "0xcb5e5f23",
+      "table": 1,
+      "text": "Retrouver les données Camouflage\nsur le périphérique de stockage."
+    },
+    {
+      "hash": "0xdc1ba6be",
+      "table": 1,
+      "text": "Salvataggio fallito! Controllare\nla periferica di memorizzazione e riprovare."
+    },
+    {
+      "hash": "0x346dab9e",
+      "table": 1,
+      "text": "Salvataggio in corso sulla periferica di memorizzazione. \nNon rimuovere la periferica di memorizzazione,\nnon resettare o spegnere la console."
+    },
+    {
+      "hash": "0x84ffffab",
+      "table": 1,
+      "text": "Salvataggio... Non rimuovere la\nperiferica di memorizzazione né il controller\ne non resettare/spegnere la console."
+    },
+    {
+      "hash": "0x53e31119",
+      "table": 1,
+      "text": "Sauvegarde des données. Ne pas retirer le périphérique de stockage ou la manette, ni\nredémarrer ou éteindre la console."
+    },
+    {
+      "hash": "0x5d77b7b1",
+      "table": 1,
+      "text": "Sauvegarde du périphérique de stockage\nen cours. Ne pas déconnecter le disque\ndur, réinitialiser ou éteindre la console."
+    },
+    {
+      "hash": "0x83625f73",
+      "table": 1,
+      "text": "Sauvegarder les données Camouflage\nsur le périphérique de stockage ?"
+    },
+    {
+      "hash": "0x9832f239",
+      "table": 1,
+      "text": "Save failed! Check storage devicee\nand please try again."
+    },
+    {
+      "hash": "0x7f5c6c6c",
+      "table": 1,
+      "text": "Save this camouflage data to \nstorage device?"
+    },
+    {
+      "hash": "0xe3d73d75",
+      "table": 1,
+      "text": "Saved data is broken. Connect \nstorage device that was used\nto load the saved data."
+    },
+    {
+      "hash": "0x7675cbb2",
+      "table": 1,
+      "text": "Saved data that was loaded is not found.\nOverwrite the present saved data on\nthe storage device?"
+    },
+    {
+      "hash": "0x258854c3",
+      "table": 1,
+      "text": "Saving data.\nDo not remove storage device,\ncontroller, or reset/switch off the console."
+    },
+    {
+      "hash": "0x474fa529",
+      "table": 1,
+      "text": "Saving to storage device. Do not\nremove storage device, reset, or\nswitch off the console."
+    },
+    {
+      "hash": "0xfcbb2b56",
+      "table": 1,
+      "text": "Schließen Sie also ein Speichergerät."
+    },
+    {
+      "hash": "0xc9f5c968",
+      "table": 1,
+      "text": "Scusa, Snake. A quanto pare, non c'è\nabbastanza spazio sulla periferica di\nmemorizzazione."
+    },
+    {
+      "hash": "0xecb49083",
+      "table": 1,
+      "text": "Se ha extraído el dispositivo de almacenamiento mientras\nse guardaba la partida. Conéctalo de\nnuevo. ¿Cancelar sobrescritura?"
+    },
+    {
+      "hash": "0xe46caecf",
+      "table": 1,
+      "text": "Selecciona los datos de\ncamuflaje para guardar\nen el dispositivo de almacenamiento."
+    },
+    {
+      "hash": "0x2ba89bb5",
+      "table": 1,
+      "text": "Selecciona un dispositivo de almacenamiento para\nguardar\n los datos de camuflaje."
+    },
+    {
+      "hash": "0x84a5fc5b",
+      "table": 1,
+      "text": "Select camouflage data to save to\nstorage device."
+    },
+    {
+      "hash": "0x65fa0e9b",
+      "table": 1,
+      "text": "Select storage device to save\ncamouflage data."
+    },
+    {
+      "hash": "0x1f0bb047",
+      "table": 1,
+      "text": "Seleziona i dati Mimetica da \nsalvare\nsulla periferica di memorizzazione."
+    },
+    {
+      "hash": "0x4255c8fd",
+      "table": 1,
+      "text": "Seleziona la periferica di memorizzazione\ndove vuoi salvare i dati\n Mimetica."
+    },
+    {
+      "hash": "0x32cc893f",
+      "table": 1,
+      "text": "Si è verificato un errore nel salvataggio \ndei\ndati Mimetica sulla periferica di memorizzazione.\nVuoi provare nuovamente a salvare?"
+    },
+    {
+      "hash": "0x1ceaaa40",
+      "table": 1,
+      "text": "Snake, es ist kein Speichergerät angeschlossen."
+    },
+    {
+      "hash": "0xa80c23bf",
+      "table": 1,
+      "text": "Snake, il n'y a pas de périphérique\nde stockage connecté."
+    },
+    {
+      "hash": "0xc2df77ed",
+      "table": 1,
+      "text": "Snake, no hay ningún dispositivo de almacenamiento\nconectado."
+    },
+    {
+      "hash": "0x6f47fb0e",
+      "table": 1,
+      "text": "Snake, non c'è alcuna periferica\ndi memorizzazione collegata!"
+    },
+    {
+      "hash": "0x5f88d871",
+      "table": 1,
+      "text": "Snake, there's no storage device connected!"
+    },
+    {
+      "hash": "0x292bedef",
+      "table": 1,
+      "text": "So connect your storage device."
+    },
+    {
+      "hash": "0x4fecc712",
+      "table": 1,
+      "text": "Sorry, Snake. There doesn't seem to be any\nfree space."
+    },
+    {
+      "hash": "0xe23220b1",
+      "table": 1,
+      "text": "Spazio insufficiente sulla periferica di memorizzazione.\nServono almeno %dKB per salvare i dati.\nContinuare con il gioco?"
+    },
+    {
+      "hash": "0xfa49f799",
+      "table": 1,
+      "text": "Spazio libero insufficiente sulla\nperiferica di memorizzazione. \nServono almeno %dKB di spazio\nlibero per salvare i dati Mimetica."
+    },
+    {
+      "hash": "0x52211bda",
+      "table": 1,
+      "text": "Spazio libero insufficiente sulla periferica\ndi memorizzazione. Sono richiesti almeno \n%dKB di spazio libero per salvare i dati."
+    },
+    {
+      "hash": "0x0f7cac4c",
+      "table": 1,
+      "text": "Speichere auf das Speichergerät. Speichergerät\nnicht entfernen und die Konsole\nnicht zurücksetzen oder ausschalten."
+    },
+    {
+      "hash": "0x1a24429e",
+      "table": 1,
+      "text": "Speichergerät enthält bereits\ndiese Tarndaten.\nDaten überschreiben?"
+    },
+    {
+      "hash": "0xc93da4aa",
+      "table": 1,
+      "text": "Speichergerät ist nicht formatiert.\nSpeichergerät formatieren und\ndie Tarndaten speichern?"
+    },
+    {
+      "hash": "0x32981872",
+      "table": 1,
+      "text": "Speichergerät ist nicht formatiert.\nSpeichergerät formatieren und\nspeichern?"
+    },
+    {
+      "hash": "0x0afd6477",
+      "table": 1,
+      "text": "Speichergerät prüfen."
+    },
+    {
+      "hash": "0xf1f76c4c",
+      "table": 1,
+      "text": "Speichergerät prüfen."
+    },
+    {
+      "hash": "0xf3b1d215",
+      "table": 1,
+      "text": "Speichergerät prüfen."
+    },
+    {
+      "hash": "0x6d684b99",
+      "table": 1,
+      "text": "Speichergerät wurde während des\nSpeicherns entfernt. Speichergerät\n wieder anschließen. Überschreiben abbrechen?"
+    },
+    {
+      "hash": "0x3da31c46",
+      "table": 1,
+      "text": "Speichern fehlgeschlagen! Bitte überprüfen\nSie das Speichergerät und\nversuchen Sie es noch einmal."
+    },
+    {
+      "hash": "0xcae01fc2",
+      "table": 1,
+      "text": "Speichert Daten. Speichergerät und\nController nicht entfernen und die Konsole\nnicht zurückstellen oder abschalten."
+    },
+    {
+      "hash": "0x7cd12acb",
+      "table": 1,
+      "text": "Storage device already \ncontains this\n camouflage data. \nOverwrite data?"
+    },
+    {
+      "hash": "0xe7e143d5",
+      "table": 1,
+      "text": "Storage device being used has been changed."
+    },
+    {
+      "hash": "0xbc9a0b27",
+      "table": 1,
+      "text": "Storage device error! Please check\nstorage device and try again."
+    },
+    {
+      "hash": "0xd904a049",
+      "table": 1,
+      "text": "Storage device failed! At least\n%dKB of free space is required to save data.\nContinue with the game?"
+    },
+    {
+      "hash": "0xba50e82e",
+      "table": 1,
+      "text": "Storage device is not formatted.\nFormat storage device and save\ncamouflage data?"
+    },
+    {
+      "hash": "0x67aad628",
+      "table": 1,
+      "text": "Storage device is not formatted.\nFormat storage device and save?"
+    },
+    {
+      "hash": "0x50ab62ce",
+      "table": 1,
+      "text": "Storage device not found.\nPlease connect hard disk drive.\nTry saving again?"
+    },
+    {
+      "hash": "0x95897a6f",
+      "table": 1,
+      "text": "Storage device was removed during\nsaving. Re-connect storage device.\nCancel overwriting?"
+    },
+    {
+      "hash": "0x8875ee3d",
+      "table": 1,
+      "text": "Sélectionner le périphérique de stockage\npour sauvegarder les données\nCamouflage."
+    },
+    {
+      "hash": "0x873459d7",
+      "table": 1,
+      "text": "Sélectionner les données Camouflage\nà sauvegarder sur le périphérique de stockage."
+    },
+    {
+      "hash": "0x8527d634",
+      "table": 1,
+      "text": "Tarndaten auf dem Speichergerät\nsind defekt."
+    },
+    {
+      "hash": "0xa5384bb2",
+      "table": 1,
+      "text": "Tarndaten erfolgreich vom Speichergerät\ngeladen."
+    },
+    {
+      "hash": "0x9ffd7986",
+      "table": 1,
+      "text": "Tarndaten vom Speichergerät laden."
+    },
+    {
+      "hash": "0x7e637134",
+      "table": 1,
+      "text": "Tu as besoin d'un périphérique de\nstockage pour sauvegarder ta partie."
+    },
+    {
+      "hash": "0xec44f2e8",
+      "table": 1,
+      "text": "Tut mir leid, Snake. Auf dem Speichergerät\nscheint kein freier Speicherplatz zu sein."
+    },
+    {
+      "hash": "0x01783889",
+      "table": 1,
+      "text": "Um das Spiel zu speichern, benötigen Sie ein\nSpeichergerät."
+    },
+    {
+      "hash": "0x30b6ebec",
+      "table": 1,
+      "text": "Un min. de %dKB d'espace libre est néc.\nsur le périphérique de stockage pour sauv.\nles données Camouflage. Continuer?"
+    },
+    {
+      "hash": "0x24c30b73",
+      "table": 1,
+      "text": "Une erreur est survenue lors de la\nsauvegarde sur le périphérique de stockage.\nSauvegarder de nouveau ?"
+    },
+    {
+      "hash": "0xd0d9960e",
+      "table": 1,
+      "text": "Ungenüg. Speicherplatz auf dem Speichergerät\n.\nZ. Speichern der Tarndaten werden\nmind. %d KB freier Speicherplatz benötigt."
+    },
+    {
+      "hash": "0xcd02a5f2",
+      "table": 1,
+      "text": "Ungenügend freier Speicherplatz auf dem Speichergerät. Zum Speichern werden\nmind. %d KB freier Speicherplatz benötigt."
+    },
+    {
+      "hash": "0x00cf2f38",
+      "table": 1,
+      "text": "Ungenügend Speicherplatz auf dem Speichergerät. Zum Speichern sind mind. %d KB\n freier Speicherplatz nötig. Spiel fortsetzen?"
+    },
+    {
+      "hash": "0x9eb911c3",
+      "table": 1,
+      "text": "Veuillez connecter un périphérique de stockage\npour sauvegarder les données\nCamouflage."
+    },
+    {
+      "hash": "0x1a1f45a1",
+      "table": 1,
+      "text": "Veuillez connecter un périphérique de stockage."
+    },
+    {
+      "hash": "0xb374b97a",
+      "table": 1,
+      "text": "Veuillez connecter un périphérique de stockage."
+    },
+    {
+      "hash": "0x9787a258",
+      "table": 1,
+      "text": "Vuoi creare un nuovo file di\nsalvataggio per i dati Mimetica\nsulla periferica di memorizzazione?"
+    },
+    {
+      "hash": "0x39ba15be",
+      "table": 1,
+      "text": "Vuoi salvare questi dati Mimetica\nsulla periferica di memorizzazione?"
+    },
+    {
+      "hash": "0x2571a9b0",
+      "table": 1,
+      "text": "Vérification du périphérique de stockage."
+    },
+    {
+      "hash": "0x273717e9",
+      "table": 1,
+      "text": "Vérification du périphérique de stockage."
+    },
+    {
+      "hash": "0x4cc73cb6",
+      "table": 1,
+      "text": "Vérification du périphérique de stockage."
+    },
+    {
+      "hash": "0x8a81578e",
+      "table": 1,
+      "text": "Wähle das Speichergerät,\num die Tarndaten zu speichern."
+    },
+    {
+      "hash": "0x67222e03",
+      "table": 1,
+      "text": "Wählen Sie die Tarndaten aus,\num sie auf das Speichergerät\nzu speichern."
+    },
+    {
+      "hash": "0x5360fe03",
+      "table": 1,
+      "text": "You need to connect the storage device\n to save\n the game."
+    },
+    {
+      "hash": "0x11f0f9f1",
+      "table": 1,
+      "text": "Zum Speichern der Tarndaten wird mind.\n%d KB Speicherplatz auf dem Speicherplatz\nbenötigt. Fortfahren?"
+    },
+    {
+      "hash": "0xacd4f3b5",
+      "table": 1,
+      "text": "¡Error al cargar! Conecta el disco\nduro desde ell que cargaste\nlos datos guardados."
+    },
+    {
+      "hash": "0x2331a700",
+      "table": 1,
+      "text": "¡Error al cargar! Por favor\ncomprueba el dispositivo de almacenamiento\ne inténtalo de nuevo."
+    },
+    {
+      "hash": "0x6a4db079",
+      "table": 1,
+      "text": "¡Error al comprobar el dispositivo de almacenamiento!\nPara guardar datos hacen falta\nal menos %dKB libres. ¿Quieres jugar?"
+    },
+    {
+      "hash": "0xc6089e54",
+      "table": 1,
+      "text": "¡Error al formatear! Por favor\ncomprueba el dispositivo de almacenamiento\ne inténtalo de nuevo."
+    },
+    {
+      "hash": "0xea0ff320",
+      "table": 1,
+      "text": "¡Error al guardar! Por favor\ncomprueba el dispositivo de almacenamiento\ne inténtalo de nuevo."
+    },
+    {
+      "hash": "0x6a14e75b",
+      "table": 1,
+      "text": "¡Error en el dispositivo de almacenamiento! Comprube el\ndispositivo de almacenamiento e inténtalo de nuevo."
+    },
+    {
+      "hash": "0xfa3fc73f",
+      "table": 1,
+      "text": "¿Crear un nuevo archivo\nde datos de camuflaje en\nel dispositivo de almacenamiento?"
+    },
+    {
+      "hash": "0x0c8381e4",
+      "table": 1,
+      "text": "¿Guardar estos datos de\ncamuflaje en el dispositivo de almacenamiento?"
+    },
+    {
+      "hash": "0x6545dbd9",
+      "table": 1,
+      "text": "¿Quieres crear un nuevo archivo\npara guardar información en el\nel dispositivo de almacenamiento? Sí o No"
+    },
+    {
+      "hash": "0xbd2bace9",
+      "table": 1,
+      "text": "Überprüfen des Speichergeräts fehlgeschlagen. Mind. %d KB freier Speicherplatz nötig,\num Daten zu speichern. Spiel fortsetzen?"
+    },
+    {
+      "hash": "0x048691fe",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x0ac36d1a",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x127febe5",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x1404210a",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x15ce2152",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x1ae4cd7f",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x254a919f",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x2c50b1b2",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x37136c29",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x3abb2d4d",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x3d0903e4",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x3eb52dfc",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x41230e48",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x46bf7861",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x47f0a2a4",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x577b3ca9",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x64cb2d69",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x745234c6",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x84cd77df",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x94674e81",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x9bb5f429",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x9dd763fb",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0xd006f3df",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0xd5b5cc7b",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0xec9a00fb",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0xf17244d0",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0xf7927887",
+      "table": 1,
+      "text": "※これにあたるメッセージは今回表示しない"
+    },
+    {
+      "hash": "0x91767ceb",
+      "table": 1,
+      "text": "ストレージからのデー夕のロードが\n正常に終了しました。"
+    },
+    {
+      "hash": "0xa01441b9",
+      "table": 1,
+      "text": "ストレージからのデー夕のロード中に\nエラーが発生しました。"
+    },
+    {
+      "hash": "0x4ea5f6d8",
+      "table": 1,
+      "text": "ストレージからデー夕をロードしています。"
+    },
+    {
+      "hash": "0xf141bf37",
+      "table": 1,
+      "text": "ストレージがフォーマットされていま\nせん。ストレージをフォーマット\nしてセーブします。よろしいですか？"
+    },
+    {
+      "hash": "0x3d518472",
+      "table": 1,
+      "text": "ストレージが抜き差しされました。\n元のストレージを接続してください。\n上書きセーブを中止しますか？"
+    },
+    {
+      "hash": "0x9e42826b",
+      "table": 1,
+      "text": "ストレージが見つかりません。"
+    },
+    {
+      "hash": "0xba2f14f8",
+      "table": 1,
+      "text": "ストレージが見つかりません。\nこのままゲームを開始しますか？"
+    },
+    {
+      "hash": "0x7f9f3321",
+      "table": 1,
+      "text": "ストレージが見つかりません。\nセーブせずに終了してよろしいですか？"
+    },
+    {
+      "hash": "0x6ff18cdc",
+      "table": 1,
+      "text": "ストレージが見つかりません。\nセーブデータの保存には、%dキロバイト以上の\n空き容量が必要です。このままゲームを開始しますか？"
+    },
+    {
+      "hash": "0x5b1a2a5f",
+      "table": 1,
+      "text": "ストレージが見つかりません。\nセーブデー夕をロードした際に使用した\nストレージをセットしてください。"
+    },
+    {
+      "hash": "0x645f86d3",
+      "table": 1,
+      "text": "ストレージにデータが見つかりません。"
+    },
+    {
+      "hash": "0x151fc749",
+      "table": 1,
+      "text": "ストレージにデータが見つかりません。\nこのままゲームを開始しますか？"
+    },
+    {
+      "hash": "0xe83b9069",
+      "table": 1,
+      "text": "ストレージにデータが見つかりません。\nセーブせずに終了してよろしいですか？"
+    },
+    {
+      "hash": "0x2ca7d835",
+      "table": 1,
+      "text": "ストレージにデータをセーブしていま\nす。本体の\n電源OFFやリセットは\n行わないでください。"
+    },
+    {
+      "hash": "0xbb6ef73b",
+      "table": 1,
+      "text": "ストレージにデータを上書きセーブ\nします。よろしいですか？"
+    },
+    {
+      "hash": "0xaa890002",
+      "table": 1,
+      "text": "ストレージにデータを新規セーブします。\nよろしいですか？"
+    },
+    {
+      "hash": "0x441b7708",
+      "table": 1,
+      "text": "ストレージに空き容量が足りません。\nセーブデー夕の保存には、%dキロバイト以上の\n空き容量が必要です。このままゲームを開始しますか？"
+    },
+    {
+      "hash": "0xed2e9b3e",
+      "table": 1,
+      "text": "ストレージのチェック中にエラーが\n発生しました。"
+    },
+    {
+      "hash": "0xc9a93ec8",
+      "table": 1,
+      "text": "ストレージのデータが壊れています。"
+    },
+    {
+      "hash": "0x6f4bdf2c",
+      "table": 1,
+      "text": "ストレージのフォーマット中に\nエラーが発生しました。"
+    },
+    {
+      "hash": "0x95685399",
+      "table": 1,
+      "text": "ストレージの検出でエラーが発生しました。\nセーブデータの保存には、%dキロバイト以上の\n空き容量が必要です。このままゲームを開始しますか？"
+    },
+    {
+      "hash": "0x20028b92",
+      "table": 1,
+      "text": "ストレージの空き容量が足りません。\nセーブデー夕の保存には、%dキロバイト以上の\n空き容量が必要です。"
+    },
+    {
+      "hash": "0xf19dc507",
+      "table": 1,
+      "text": "ストレージへのデータのセーブが\n正常に終了しました。"
+    },
+    {
+      "hash": "0x95ecfd3c",
+      "table": 1,
+      "text": "ストレージへのデータのセーブ中に\nエラーが発生しました。"
+    },
+    {
+      "hash": "0xf81afb07",
+      "table": 1,
+      "text": "ストレージをセットしてください。"
+    },
+    {
+      "hash": "0x55e5d5d6",
+      "table": 1,
+      "text": "ストレージをチェックしています。"
+    },
+    {
+      "hash": "0x8341785b",
+      "table": 1,
+      "text": "ストレージをフォーマットしています。\nストレージの抜き差し、本体の電源OFFや\nリセットは行わないでください。"
+    },
+    {
+      "hash": "0x31050144",
+      "table": 1,
+      "text": "セーブデータが壊れています。\nセーブデータをロードした際に使用した\nストレージをセットしてください。"
+    },
+    {
+      "hash": "0xc4c54f5c",
+      "table": 1,
+      "text": "セーブデー夕のロード中にエラーが発生しま\nした。セーブデー夕をロードした際に使用した\nストレージをセットしてください。"
+    },
+    {
+      "hash": "0x59135e07",
+      "table": 1,
+      "text": "ロードされたセーブデータが見つかりません。\nストレージ上に現在のセーブデータを\n上書きしてよろしいですか？"
+    },
+    {
+      "hash": "0x12c10d87",
+      "table": 1,
+      "text": "ロードしたデータが見つかりません。\nセーブデータをロードした際に使用した\nストレージをセットしてください。"
+    },
+    {
+      "hash": "0x7f66dba5",
+      "table": 1,
+      "text": "別のストレージをセットしてください。"
+    }
+  ]
+}

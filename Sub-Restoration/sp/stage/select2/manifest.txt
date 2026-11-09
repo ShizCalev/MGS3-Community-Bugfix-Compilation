@@ -1,0 +1,6 @@
+assets/tri/sp/memcard_0_stage_select2.tri,sp/stage/select2/cache/00bae01c.tri,cache/00bae01c.tri
+assets/tri/us/get_new_items_0_stage_select2.tri,us/stage/select2/cache/0033dc9e.tri,cache/0033dc9e.tri
+assets/tri/sp/003522f3_slot_gets-normal.tri,sp/stage/select2/cache/003ec511.tri,cache/003ec511.tri
+assets/la2/us/get_new_items_stage_select2.la2,us/stage/select2/cache/00238cf4.la2,cache/00238cf4.la2
+assets/la2/us/memcard_stage_net.la2,us/stage/select2/cache/00032eb5.la2,cache/00032eb5.la2
+assets/gcx/sp/scenerio_stage_select2.gcx,sp/stage/select2/cache/00180720.gcx,cache/00180720.gcx
