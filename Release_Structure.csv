@@ -14,4 +14,8 @@ Texture Fixes\Staging - 4K Assets\textures,dist_4k_assets\textures,true
 
 SDT Fixes\Fixed Codec\fr,dist\fr,false
 
-C:\Development\Git\Afevis-MGS3-Bugfix-Compilation\Sub-Restoration,dist\,false
+Sub-Restoration,dist\,false
+
+LA2 Fixes\Fixed Scopes,dist\,false
+
+RPD Fixes,dist\assets\rpd,false
