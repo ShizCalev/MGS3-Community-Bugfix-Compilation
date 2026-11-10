@@ -144,6 +144,8 @@ s055a_pos_woman00_alp_ovl.bmp,1e3c98564060d3adcb6af8b994efcdbde20dce39,7c3393a25
 s101a_poster00.bmp,c824e438273b4f56a460265ab6d23857b96c4216,cc65f7b3878e6cc04b61258631ecd7590fbffe1a,true,hires textures\ps2 textures\OPAQUE,true,true,5,remarci_4x,false,0,false,false
 s131a_mog_stain_alp_ovl_01.bmp,1fda143c77ecf7440aec37de9a223519254d6a5e,c13a844218bb5853567368b09a1c70a22b684514,true,ps2 textures\HAS ALPHA\mismatched sha1,false,true,5,remarci_4x,false,0,false,false
 s221a_photo00_alp_ovl.bmp,486a45a054963737fe4f3f53d893036c59be91cc,54d3ae5b331d0c20eaee5bdb644be9f7a8553145,true,hires textures\ps2 textures\HAS ALPHA,false,true,5,remarci_4x,false,0,false,false
+secret_4433a1,25306cc7698dc56c1a3f4581dd30e357a6d09edc,d6d2515f204280444cccc5e605fece917d467045,true,Self Remade\Finalized\Dont demaster\Secret Theater,false,true,5,remarci_4x,false,0,false,
+secret_fd37dc,926437a318b1c4f9702d6d8e70cdf7716c05f310,64b228fde26f8d943c994c44fd2b755b56323bd8,true,Self Remade\Finalized\Dont demaster\Secret Theater,false,true,5,remarci_4x_extra_smooth,false,0,false,
 sna_face_cell_hi_sub_ovl_alp.bmp,aa23650c55d2b5e1a4850f68f71fd2daaea185ec,9d9393967c8044fbf03ec91afe8ed04dbb0e7c6c,false,hires textures\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes,false,true,5,remarci_4x,false,0,false,false
 sna_item_saru.bmp,a6db606f4ffee5f8f4d5f79381978845244ab4a8,9304a1b5a45ac61ac6dc9ec10c51e6736ecec371,true,hires textures\ps2 textures\OPAQUE\manual\mismatched sha1,true,true,5,remarci_4x,false,0,false,false
 sna_item_saru_himo.bmp,7303ea31924722cd03934b8566f7d2ab209560f0,66220d3c96110c10b56c88494de85b271e5bdd9d,true,hires textures\ps2 textures\OPAQUE\manual\mismatched sha1,true,true,5,remarci_4x,false,0,false,false

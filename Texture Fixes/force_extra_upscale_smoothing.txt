@@ -41,7 +41,6 @@
 0003a157.img_1ba470027dacd7c10adf661610dc04e1
 0003a157.img
 
-
 zro_def_face.bmp
 wor_suspend_face.bmp
 wor_pendulum_face.bmp
@@ -325,3 +324,19 @@ misile_picture01.bmp
 misile_picture00.bmp
 homo_picture_01.bmp
 family_picture_ura_musen.bmp
+
+
+secret_fd37dc
+
+duel_load_snake_banner_1
+duel_load_snake_banner_2
+duel_load_ocelot_unit
+duel_load_ocelot
+duel_load_the_pain
+duel_load_the_fear
+duel_load_the_end
+duel_load_the_fury
+duel_load_volgin
+duel_load_the_sorrow
+duel_load_shagohod
+duel_load_the_boss

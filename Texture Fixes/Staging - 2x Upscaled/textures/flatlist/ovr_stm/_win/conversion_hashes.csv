@@ -6738,6 +6738,8 @@ sec_suits_add_ovl_alp.bmp,8ad6ea5188c73fd3be1688db8147536482ba54e9,d44a74865a024
 sec_suits_ovl_mod1102_alp_emap.bmp,adbd9b3cc87bf86b0f909dedcb563462a073ea13,9f67ed4ebe56a8191dcf8f16587c65432e064bde,true,ps2 textures\OPAQUE\same sha1,true,true,5,remarci_4x,0,false,false,false
 sec_tai.bmp,e86982d0fdc031acc73955ecd56b2553aefe6bb8,b0bf87324ef9cc9467a5685c3c6028a9158ded89,true,mc textures\opaque\bp_remade,true,true,5,remarci_4x,0,false,false,false
 sec_teeth.bmp,b1953bf3a375cc2832e1eefeb34fbd1e2e1dbf94,df6479dda3738231a2180b024ff08bc2e2bd90d3,true,mc textures\opaque\bp_remade,true,true,5,remarci_4x,0,false,false,false
+secret_4433a1,25306cc7698dc56c1a3f4581dd30e357a6d09edc,859c9e10521242560d272c2e42d9e3a8fd7bf27b,true,Self Remade\Finalized\Dont demaster\Secret Theater,false,true,5,remarci_4x,0,false,false,
+secret_fd37dc,926437a318b1c4f9702d6d8e70cdf7716c05f310,81b104e6b67ca9ef8263af1d0c9e4fc5f7b475df,true,Self Remade\Finalized\Dont demaster\Secret Theater,false,true,5,remarci_4x_extra_smooth,0,false,false,
 sga_cigar01.bmp,0acd68e3179a20e2c652e1c6ba7483f1445fd33a,fbc1a89154a5078b09be652b5233fac4bc19d5a5,true,mc textures\opaque\bp_remade,true,true,5,remarci_4x,0,false,false,false
 sga_cigar01_brake.bmp,cf2138bc00844ee5563ff03b78cea2c6f349e373,fac460f0c57d69334248235d7a274154fd9e01a9,true,ps2 textures\OPAQUE\same sha1,true,true,5,remarci_4x,0,false,false,false
 sga_cigar02_ovl_alp.bmp,a2aa8c4e33d03f611ba535950f416627f7571fd2,0eaba8e5f8c9cc4e69d4ce5e6ec018350a3c1016,true,ps2 textures\HAS ALPHA\same sha1,false,true,5,remarci_4x,0,false,false,false

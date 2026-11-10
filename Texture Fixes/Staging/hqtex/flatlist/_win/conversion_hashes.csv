@@ -21,7 +21,6 @@ filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,u
 0043fb55,baab6ff999fd9f6fefbb12cf420c78a90322e0d2,cd9ce8d465d36322c8f563a1fe00fd9de67fe562,false,hires textures\ps2 textures\OPAQUE\no_mip_fixes\ui,true,false,0,none,5,true,false,false
 0043fb56,1f5b79006b696f0d6409558f502644fabe17ce52,44f3ad2ec1bb7a5c292cc888c0a497f35bc3abae,false,hires textures\ps2 textures\OPAQUE\no_mip_fixes\ui,true,false,0,none,5,true,false,false
 0043fb58,94eafa5a48236ee5763500ab804250f72a4c5397,2a06f30effbeed623c77e3b814b6d06ebc084ca3,false,hires textures\ps2 textures\OPAQUE\no_mip_fixes\ui,true,false,0,none,5,true,false,false
-004b19de,37eeb2140357bc8f63c8a39eab3fd72217b22672,af52f3f4704636e5411b2601635cf7bfd9a0e27d,true,Self Remade\Finalized\Dont demaster\Duel,false,false,0,none,5,false,false,
 004ca501,583913eda0444097fba8b672c986f27e06fc7706,d4745447d8454093a9771318bf1172c6eadce0d7,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
 004f0fb2,a2708648ed54d73e72a820899c938b1741909033,2c8cc8578e455e64b80e56ff16697181d2810896,false,ps2 textures\OPAQUE\manual\bp_remade\no_mip_fixes\ui,true,false,0,none,5,true,false,false
 0053fb54,e784dbe47ccf244758ecf6b5cc66f2b972b88ba2,3cf9090ae91ead52fed676bef43de354a65607f5,false,hires textures\ps2 textures\OPAQUE\no_mip_fixes\ui,true,false,0,none,5,true,false,false
@@ -29,34 +28,21 @@ filename,before_hash,ctxr_hash,mipmaps,origin_folder,opacity_stripped,upscaled,u
 0053fb56,a6ed7a5d5be72975e97ad264158fc25834c72c6e,c346b71c9a7313ba99b2e6f60216a2d478c0fdc0,false,hires textures\ps2 textures\OPAQUE\no_mip_fixes\ui,true,false,0,none,5,true,false,false
 0053fb57,e72a8b27c60d639e4e3e4c52694d0a50397b7334,c70a28a3ce4b1ed3a7d9450010fff231b224f28a,false,hires textures\ps2 textures\OPAQUE\no_mip_fixes\ui,true,false,0,none,5,true,false,false
 0053fb58,68debaa508c92e6814caebe2641837fd0cb3a1e5,edc38bfc21acf77320d72192f7958bda4c71a3b3,false,hires textures\ps2 textures\OPAQUE\no_mip_fixes\ui,true,false,0,none,5,true,false,false
-0055000c,0d4dc9a2ec0c29f8a2f41a63be821765fa8c8410,2f888b3e9794e4441a450e675c6a134f4893ce60,true,Self Remade\Finalized\Dont demaster\Duel,false,false,0,none,5,false,false,
 0058098b,7b3b107d6bdb2a5e30e86c6e8ff2a29b9eb74413,97df8659b278d8e69745bccabcaaf8457562e1fd,true,Self Remade\Finalized\Dont demaster\Duel\Dont Upscale,true,false,0,none,5,false,false,
 0063fb54,9de0e58e54673890b53b3faa4f4a8eaea585f29c,28b570944157719d0e1a7c4553392a26efa40454,false,hires textures\ps2 textures\OPAQUE\no_mip_fixes\ui,true,false,0,none,5,true,false,false
 00701506,7cab468180723fd1567ebefac521cdacbaa0872d,19e9b8abb5f94e468b6126493d07de58f07af239,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
 007e021f,ad55cf1b19c7d4203f2b5de9931a14227a686377,accf9cc7c46551fd6808004789ae385338b92244,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
 008514ff,8eb9028cbc91a946d423f34d580cf960124ddd84,cda01d35e9ca3fa6c5af3058b642c5728d0bc7de,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
 008d3d20,f4dbc6a5a2e95dd9b2e95a2def228d9388334fd3,003a9821da62f036597588ae40e542450df7f0b0,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
-00aa70ec,856beee7b6ef5fa93cfffeb748c0c8a22871bdb7,9a61ca76b6adb8eb699b878695b2a0a5cee86da8,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
-00ab70ec,8c1964ccbbcaa0ec23f329ad7fe23f88c464e2f9,fc619a09b628fe8608480604c0b7a3ccac6eba48,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
 00ae2938,a69621f59f0f6d465530213590d184a569dc78a1,deb6038551dd8de940c528879b636711b1079aab,false,hires textures\ps2 textures\HAS ALPHA\no_mip_fixes\ui,false,false,0,none,5,true,false,false
 00b114a0,667f53b44d1206fcad6f9eec77572472303804c9,73cc12dd7aaefcdd5b7c71ebb6992cd8889e311e,true,hires textures\ps2 textures\HAS ALPHA,false,false,0,none,5,false,false,false
 00b98532,e67e4a7f48d90e17e1ad22b9d5f2eff1b35160bb,a2fe181e8f383b2c93a9c4250ff30d6d3b7aac40,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
 00ba022b,46ca104adec23bb63b7f8cd2b6a55b4c70a51545,582a40b327356588671a40f19fd1e4040c00dd6e,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
-00bca587,7c7ffdc32358d09d728e9c1d00445783dd923aa7,abf5ad44ed265736c865ad674e10c44c61e6c175,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
 00bd89a1.img,e3e7d158b1fcdced39a56288e77905d5e7a3a0aa,4b250871dd81e4d49beaa4740698531e98e50478,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
-00bda587,5f5346be61bab5f65181ed0a1929b484f76c38db,45fbc44ba42a7047205999b285b7d04d774f9aca,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
-00bea587,ddadc4e58819756e016c75329cff71500a6a9926,5f7856a8c70ff416f99314d818f70ff8841543e3,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
 00bf1537,58851f6943b5d966e59d08b6b2ffb921c145fdde,0e3d39f86483e5dcbdace04497847024b543f7f4,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
-00bfa587,02c8b784bcf789364970de9568d4923423ef0344,ed766dfd973f81c56bf0b931d2c10ca375166ccc,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
-00c0a587,5053626f42d368f1573e30277a13ff7ebed4330e,5c966c8f9c706220e4893403b99cd2c8e6835c85,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
-00c1a587,1b7af1be8f01f14274711fdf31027d41192b1989,784e260a6c5a6f968f9fdc3357b817fd7105e1d5,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
-00c2a587,db83469d36810c969112f8408a115a33050d6d5b,2b0ea00406c7303b3decb499328c9ba4ddd519de,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
-00c3a587,04f0f1ce098f4ef7577f69e6357ac3742ac5b8e1,152a4aa8361c4e06d0e3429c66b5175d7cc8bcaa,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
-00c4a587,5b045e013fd578e432ac2270251049d8929c0b8e,8359698ddd2d68ca81ad6cccc5e7a9f205b02065,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
 00c615d8,7c9d2acb09e85f2becc9690bcb7faaf1cba8a47c,1207a13aa21e683eccd1c0e5935fbea697262827,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
 00c8c0af,c6913a2c1358dac5fa78a05099b176a93250958e,b76ea09b5903b2ca23666a0e783aedec3566d218,false,ps2 textures\OPAQUE\manual\bp_remade\no_mip_fixes\ui,true,false,0,none,5,true,false,false
 00d2be51,479c26b5de11fc8a77e623ba1b3e7b9d69fb33cb,fa801076968844f9f66e96d79ed6daa2228e6325,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
-00dba587,94bd8b309f9ae7573bd3e1379ac8b64b4846de26,883c3189514b375313f66757a26cfb1068aa39ca,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
 00dbc0b4,5b4dd20c00f78990c1d3fb779a4236489e0427bb,7c80c4c82256f1696cc297dcd9ea5871d89afa99,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
 00eb0221,82b5e2ea988a7e934e97f05ef2e134bcd1490e76,642216dc69d80a6b43e41737ef037368d9810c90,false,ps2 textures\HAS ALPHA\manual\bp_remade\no_mip_fixes\ui,false,false,0,none,5,true,false,false
 00f1c0b1,26fd502e6a96293a01c852f90f0935cb8d130273,ee3e55ead406bde00c42e6d1b9112192dc678cbe,false,ps2 textures\OPAQUE\manual\bp_remade\no_mip_fixes\ui,true,false,0,none,5,true,false,false
@@ -64,6 +50,20 @@ book_inside00.bmp,8e2c4ee6887802004c263b30e88a6f85055afc75,bf64dd36dab7f14bd3953
 book_inside01.bmp,256199f9c5a092420c2f4af3e6a9515c7fc6b053,7b403ced4259114fa626ec8693a1e022255b98e5,true,hires textures\ps2 textures\OPAQUE,true,false,0,none,5,false,false,false
 bos_vr_arm_ovl_sub_alp.bmp,6b9c79ec1996f334e44405e78e84d26de6d84c9a,a4ff8703a651f14622fdd7bc382fa2885dd533ed,false,hires textures\mc textures\HAS ALPHA\bp_remade\no_mip_fixes,false,false,0,none,5,false,false,false
 bos_vr_dmo_hand_ovl_sub_alp.bmp,287d22a0d3478024fc4235d53d526d6a2d227026,73d7ffaba7976d3c0379d4d78423a2d29fb69217,false,hires textures\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes,false,false,0,none,5,false,false,false
+duel_load_ocelot,5f5346be61bab5f65181ed0a1929b484f76c38db,45fbc44ba42a7047205999b285b7d04d774f9aca,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_ocelot_unit,7c7ffdc32358d09d728e9c1d00445783dd923aa7,abf5ad44ed265736c865ad674e10c44c61e6c175,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_ready,37eeb2140357bc8f63c8a39eab3fd72217b22672,af52f3f4704636e5411b2601635cf7bfd9a0e27d,true,Self Remade\Finalized\Dont demaster\Duel,false,false,0,none,5,false,false,
+duel_load_shagohod,5b045e013fd578e432ac2270251049d8929c0b8e,8359698ddd2d68ca81ad6cccc5e7a9f205b02065,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_snake_banner_1,856beee7b6ef5fa93cfffeb748c0c8a22871bdb7,9a61ca76b6adb8eb699b878695b2a0a5cee86da8,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_snake_banner_2,8c1964ccbbcaa0ec23f329ad7fe23f88c464e2f9,fc619a09b628fe8608480604c0b7a3ccac6eba48,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_the_boss,94bd8b309f9ae7573bd3e1379ac8b64b4846de26,883c3189514b375313f66757a26cfb1068aa39ca,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_the_end,5053626f42d368f1573e30277a13ff7ebed4330e,5c966c8f9c706220e4893403b99cd2c8e6835c85,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_the_fear,02c8b784bcf789364970de9568d4923423ef0344,ed766dfd973f81c56bf0b931d2c10ca375166ccc,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_the_fury,1b7af1be8f01f14274711fdf31027d41192b1989,784e260a6c5a6f968f9fdc3357b817fd7105e1d5,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_the_pain,ddadc4e58819756e016c75329cff71500a6a9926,5f7856a8c70ff416f99314d818f70ff8841543e3,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_the_sorrow,04f0f1ce098f4ef7577f69e6357ac3742ac5b8e1,152a4aa8361c4e06d0e3429c66b5175d7cc8bcaa,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_load_volgin,db83469d36810c969112f8408a115a33050d6d5b,2b0ea00406c7303b3decb499328c9ba4ddd519de,true,Self Remade\Finalized\Dont demaster\Duel,true,false,0,none,5,false,false,
+duel_menu_emblem,0d4dc9a2ec0c29f8a2f41a63be821765fa8c8410,2f888b3e9794e4441a450e675c6a134f4893ce60,true,Self Remade\Finalized\Dont demaster\Duel,false,false,0,none,5,false,false,
 end_item_case_def_sub_ovl_alp.bmp,4683c6270533046c6de98276edf7579eb9085277,6fed123bebef6393b46d4b3c509eab8eaf25601f,false,hires textures\mc textures\HAS ALPHA\bp_remade\no_mip_fixes,false,false,0,none,5,false,false,false
 end_item_hp_coad_sub_ovl_alp.bmp,7357c171d26e260817d844631badfafff5468953,0568cd04537329742d2d1dc27ca58524e44efaba,false,hires textures\mc textures\HAS ALPHA\bp_remade\no_mip_fixes,false,false,0,none,5,false,false,false
 end_item_hp_def_sub_ovl_alp.bmp,e62e101a3971264fadfe23846f32cfe5d23ce565,ad408c107e57e9a88243b68bdd2800eacfe7d764,false,hires textures\mc textures\HAS ALPHA\bp_remade\no_mip_fixes,false,false,0,none,5,false,false,false
@@ -184,6 +184,9 @@ s055a_pos_woman00_alp_ovl.bmp,1e3c98564060d3adcb6af8b994efcdbde20dce39,d523fd51f
 s101a_poster00.bmp,c824e438273b4f56a460265ab6d23857b96c4216,68fe9b00ad916950420ca27423494e2b19e33195,true,hires textures\ps2 textures\OPAQUE,true,false,0,none,5,false,false,false
 s131a_mog_stain_alp_ovl_01.bmp,1fda143c77ecf7440aec37de9a223519254d6a5e,c85b790e0ac9d1e31b585b485965b05c0c2d5091,true,ps2 textures\HAS ALPHA\mismatched sha1,false,false,0,none,5,false,false,false
 s221a_photo00_alp_ovl.bmp,486a45a054963737fe4f3f53d893036c59be91cc,a946ab323ddbf98032b481ece8ae12b5d79f005f,true,hires textures\ps2 textures\HAS ALPHA,false,false,0,none,5,false,false,false
+secret_4433a1,25306cc7698dc56c1a3f4581dd30e357a6d09edc,0e3c71b08f2327bf557e29d4ecc58d3215f3973c,true,Self Remade\Finalized\Dont demaster\Secret Theater,false,false,0,none,5,false,false,
+secret_fd37dc,926437a318b1c4f9702d6d8e70cdf7716c05f310,84f8712712eb1564a9220f588b46e0bec691b3d6,true,Self Remade\Finalized\Dont demaster\Secret Theater,false,false,0,none,5,false,false,
+secret_subsistence_intro,d8d41ad30b2fba488c3c78ff17cefcea4c631dcd,6a002b95df2bc921a771750a45fe529c93dd63f9,true,Self Remade\Finalized\Dont demaster\Secret Theater\Dont Upscale,true,false,0,none,5,false,false,
 sna_face_cell_hi_sub_ovl_alp.bmp,aa23650c55d2b5e1a4850f68f71fd2daaea185ec,ed554c91ebf1a57b2402ffada00773f1c06bfd00,false,hires textures\ps2 textures\HAS ALPHA\same sha1\no_mip_fixes,false,false,0,none,5,false,false,false
 sna_item_saru.bmp,a6db606f4ffee5f8f4d5f79381978845244ab4a8,c221bcab09d977925b3322ae3b6ebda2bcd41ee3,true,hires textures\ps2 textures\OPAQUE\manual\mismatched sha1,true,false,0,none,5,false,false,false
 sna_item_saru_himo.bmp,7303ea31924722cd03934b8566f7d2ab209560f0,92d12c50bd88f1e6c9a890a595a167b70c831a50,true,hires textures\ps2 textures\OPAQUE\manual\mismatched sha1,true,false,0,none,5,false,false,false
